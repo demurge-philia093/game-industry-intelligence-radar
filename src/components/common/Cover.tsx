@@ -1,0 +1,45 @@
+import type { BaseEnvelope } from '../../types/envelope'
+import { sourceMeta } from '../../registry/meta'
+import { tint } from '../../lib/color'
+
+/**
+ * 封面：有 cover_image 则显示图片，否则用信源强调色生成渐变占位（带信源图标）。
+ * 自包含、离线可用，不依赖远程图片。
+ */
+export function Cover({
+  item,
+  className,
+  iconSize = 40,
+}: {
+  item: Pick<BaseEnvelope, 'cover_image' | 'source_type'>
+  className?: string
+  iconSize?: number
+}) {
+  const meta = sourceMeta(item.source_type)
+  const Icon = meta.icon
+
+  if (item.cover_image) {
+    return (
+      <img
+        src={item.cover_image}
+        alt=""
+        loading="lazy"
+        className={`object-cover ${className ?? ''}`}
+      />
+    )
+  }
+
+  return (
+    <div
+      className={`flex items-center justify-center ${className ?? ''}`}
+      style={{
+        background: `radial-gradient(120% 120% at 20% 10%, ${tint(
+          meta.accent,
+          26,
+        )}, transparent 60%), linear-gradient(135deg, var(--panel-2), var(--bg-1))`,
+      }}
+    >
+      <Icon size={iconSize} style={{ color: meta.accent, opacity: 0.45 }} />
+    </div>
+  )
+}

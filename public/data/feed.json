@@ -1,0 +1,725 @@
+[
+  {
+    "id": "demo-podcast-001",
+    "source_type": "podcast",
+    "source_name": "Demo · 像素望远镜",
+    "title": "[Demo] AI 原生游戏制作：从概念验证到可玩切片",
+    "original_url": "",
+    "published_at": "2026-07-13T09:30:00+08:00",
+    "ingested_at": "2026-07-13T10:15:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "AI 原生", "研发管线"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 本条为完全合成的播客样例，不对应真实节目或人物。\n\n- 观察点：AI 工具先进入概念验证与素材迭代环节。\n- 决策信号：团队用可玩切片而非素材数量衡量阶段成果。",
+    "transcript_status": "done",
+    "matched_keywords": ["AI 原生", "可玩切片"],
+    "payload": {
+      "audio_url": "",
+      "duration_seconds": 0,
+      "background": "这是为公开项目展示编写的 **Demo 播客背景**。节目、机构、人物和观点均为合成内容；公开版不附带音频。",
+      "people": [
+        {
+          "role": "host",
+          "name": "林示例",
+          "avatar": null,
+          "affiliation": "Demo 像素望远镜",
+          "bio": "虚构主持人，用于展示主持人与嘉宾卡片。"
+        },
+        {
+          "role": "guest",
+          "name": "陈演示",
+          "avatar": null,
+          "affiliation": "Demo 星环互动",
+          "bio": "虚构制作人，用于展示人物信息与分说话人文字稿。"
+        }
+      ],
+      "chapters": [
+        { "start": 0, "title": "Demo 章节 · 概念验证" }
+      ],
+      "transcript": [
+        {
+          "start": 0,
+          "end": 0,
+          "speaker": "S1",
+          "speaker_name": "林示例",
+          "text": "这是一段原创合成文字稿，仅用于演示播客详情页的说话人样式。"
+        },
+        {
+          "start": 0,
+          "end": 0,
+          "speaker": "S2",
+          "speaker_name": "陈演示",
+          "text": "我们的虚构团队把最小可玩闭环作为早期评审单位，并记录每轮实验假设。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-podcast-002",
+    "source_type": "podcast",
+    "source_name": "Demo · 出海工作台",
+    "title": "[Demo] 小团队如何设计一次全球同步发行演练",
+    "original_url": "",
+    "published_at": "2026-07-08T18:20:00+08:00",
+    "ingested_at": "2026-07-13T10:18:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "出海", "发行"],
+    "entities": {
+      "works": ["Demo Tiny Odyssey"],
+      "companies": ["Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 本条为原创合成内容。\n\n样例强调以商店页、客服时区与版本回滚三条链路组织全球发行演练，并将结果沉淀为可重复的检查表。",
+    "transcript_status": "done",
+    "matched_keywords": ["出海", "同步发行"],
+    "payload": {
+      "audio_url": "",
+      "duration_seconds": 0,
+      "background": "完全合成的发行主题节目样例。公开版不附带音频，仅展示章节与静态文字稿。",
+      "people": [
+        {
+          "role": "host",
+          "name": "周样本",
+          "avatar": null,
+          "affiliation": "Demo 出海工作台",
+          "bio": "虚构主持人。"
+        },
+        {
+          "role": "guest",
+          "name": "顾原型",
+          "avatar": null,
+          "affiliation": "Demo 远帆游戏",
+          "bio": "虚构发行负责人。"
+        }
+      ],
+      "chapters": [
+        { "start": 0, "title": "Demo 章节 · 发行演练清单" }
+      ],
+      "transcript": [
+        {
+          "start": 0,
+          "end": 0,
+          "speaker": "S1",
+          "speaker_name": "周样本",
+          "text": "本期用一个虚构项目说明同步发行演练如何拆解。"
+        },
+        {
+          "start": 0,
+          "end": 0,
+          "speaker": "S2",
+          "speaker_name": "顾原型",
+          "text": "先跑通商店配置、客服交接和回滚预案，再讨论扩大投放。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-podcast-003",
+    "source_type": "podcast",
+    "source_name": "Demo · 系统设计局",
+    "title": "[Demo] 买断制合作游戏的长线内容节奏",
+    "original_url": "",
+    "published_at": "2026-07-02T12:00:00+08:00",
+    "ingested_at": "2026-07-13T10:20:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "买断制", "合作游戏"],
+    "entities": {
+      "works": ["Demo Lantern Crew"],
+      "companies": ["Demo 北辰工坊"]
+    },
+    "deep_summary": "**Demo 数据说明：** 虚构播客条目。\n\n内容节奏样例将更新拆成玩法、社交目标和回流触点三层，展示系统如何承载结构化总结。",
+    "transcript_status": "done",
+    "matched_keywords": ["买断制"],
+    "payload": {
+      "audio_url": "",
+      "duration_seconds": 0,
+      "background": "公开演示用的原创合成节目简介；不引用任何真实播客内容。",
+      "people": [
+        {
+          "role": "host",
+          "name": "唐占位",
+          "avatar": null,
+          "affiliation": "Demo 系统设计局",
+          "bio": "虚构主持人。"
+        }
+      ],
+      "chapters": [
+        { "start": 0, "title": "Demo 章节 · 三层内容节奏" }
+      ],
+      "transcript": [
+        {
+          "start": 0,
+          "end": 0,
+          "speaker": "S1",
+          "speaker_name": "唐占位",
+          "text": "这段合成文字用于演示单说话人文字稿与章节导航。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-news-001",
+    "source_type": "news",
+    "source_name": "Demo GameWire",
+    "title": "[Demo] 虚构厂商发布面向关卡迭代的智能验证工具",
+    "original_url": "",
+    "published_at": "2026-07-13T08:40:00+08:00",
+    "ingested_at": "2026-07-13T10:25:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "AI 工具", "关卡设计"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 完全合成的行业新闻。样例信号是研发工具从素材生成延伸到关卡规则验证。",
+    "payload": {
+      "excerpt": "纯合成新闻摘要：虚构团队展示一套关卡验证工具，用来检查路径、规则冲突与失败条件。",
+      "body": "## Demo 新闻正文\n\n以下文字为本项目原创合成内容，不对应任何真实报道。\n\n虚构公司 **Demo 星环互动** 展示了一套关卡验证原型。团队称，该工具只在受控测试环境运行，通过预设规则检查路径连通、触发器冲突和失败条件。\n\n这项演示仍处于概念验证阶段，尚未提供商业产品、价格或发布日期。",
+      "extracted_terms": [
+        {
+          "term": "关卡验证代理",
+          "first_seen_here": true,
+          "note": "Demo 术语：指在合成场景中执行规则检查的虚构工具。"
+        },
+        {
+          "term": "失败条件图谱",
+          "first_seen_here": true,
+          "note": "Demo 术语：用于组织关卡失败路径的合成概念。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-news-002",
+    "source_type": "news",
+    "source_name": "Demo Market Lens",
+    "title": "[Demo] 独立游戏节公开一组跨区域愿望单实验结果",
+    "original_url": "",
+    "published_at": "2026-07-10T16:10:00+08:00",
+    "ingested_at": "2026-07-13T10:28:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "Steam", "市场实验"],
+    "entities": {
+      "works": ["Demo Tiny Odyssey"],
+      "companies": ["Demo 远帆游戏", "Demo 云杉研究社"]
+    },
+    "deep_summary": "**Demo 数据说明：** 原创合成新闻。样例展示如何把区域素材测试、愿望单转化与试玩留存放入同一观察框架。",
+    "payload": {
+      "excerpt": "合成样例显示：不同区域的素材偏好并不自动等同于购买意愿，需要结合试玩行为观察。",
+      "body": "## Demo 新闻正文\n\n本文为虚构案例，不含第三方新闻原文或真实平台数据。\n\n在一场合成的独立游戏节中，Demo 远帆游戏测试了三组商店页叙事。样例结果显示，点击率较高的素材不一定带来更高的试玩完成率。团队因此把后续实验重点转向首小时体验与商店承诺的一致性。",
+      "extracted_terms": [
+        {
+          "term": "承诺一致性",
+          "first_seen_here": false,
+          "note": "Demo 分析标签：商店表达与实际体验是否匹配。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-news-003",
+    "source_type": "news",
+    "source_name": "Demo Studio Brief",
+    "title": "[Demo] 虚构工作室调整双项目制并保留共享技术组",
+    "original_url": "",
+    "published_at": "2026-07-05T11:45:00+08:00",
+    "ingested_at": "2026-07-13T10:30:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "组织调整", "研发效率"],
+    "entities": {
+      "works": ["Demo Lantern Crew", "Demo Orbit Tactics"],
+      "companies": ["Demo 北辰工坊"]
+    },
+    "deep_summary": "**Demo 数据说明：** 虚构组织新闻。保留共享技术组可能意味着团队优先复用工具链，同时让玩法团队独立承担验证责任。",
+    "payload": {
+      "excerpt": "Demo 北辰工坊采用双项目小队加共享技术组的虚构组织结构。",
+      "body": "## Demo 新闻正文\n\n这是公开展示用的原创合成文本。\n\n虚构主体 Demo 北辰工坊将两个玩法原型拆为独立小队，同时保留共享构建、性能分析和自动化测试能力。调整后的首个里程碑，是让每个项目都在四周内交付一段可独立评审的体验。",
+      "extracted_terms": [
+        {
+          "term": "共享技术组",
+          "first_seen_here": false,
+          "note": "Demo 组织标签。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-wechat-001",
+    "source_type": "wechat",
+    "source_name": "Demo 公众号 · 游戏变量",
+    "title": "[Demo] 从试玩反馈里识别真正的首小时摩擦点",
+    "original_url": "",
+    "published_at": "2026-07-12T20:15:00+08:00",
+    "ingested_at": "2026-07-13T10:35:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "用户研究", "试玩"],
+    "entities": {
+      "works": ["Demo Tiny Odyssey"],
+      "companies": ["Demo 云杉研究社"]
+    },
+    "deep_summary": "**Demo 数据说明：** 原创合成公众号样例。重点展示从主观反馈回到可观测行为序列的分析方法。",
+    "payload": {
+      "excerpt": "合成文章摘要：将首小时拆成理解目标、执行动作和获得反馈三个阶段。",
+      "body": "## Demo 文章\n\n本文为本项目原创合成内容，不来自真实公众号。\n\n当玩家说“节奏慢”时，研究者不应立刻把它翻译成减少文本。可以先定位玩家在哪一步失去目标、哪次操作没有得到明确反馈，再用一次小规模实验确认原因。\n\n### 一个合成检查表\n\n1. 玩家能否复述当前目标；\n2. 第一次失败后是否知道下一步；\n3. 奖励是否强化了刚学会的行为。",
+      "author": "Demo 编辑部",
+      "extracted_terms": [
+        {
+          "term": "首小时摩擦",
+          "first_seen_here": false,
+          "note": "Demo 分析标签。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-wechat-002",
+    "source_type": "wechat",
+    "source_name": "Demo 公众号 · 发行试验场",
+    "title": "[Demo] 如何为商店页建立一份可复用的假设台账",
+    "original_url": "",
+    "published_at": "2026-07-07T09:00:00+08:00",
+    "ingested_at": "2026-07-13T10:38:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "商店页", "增长实验"],
+    "entities": {
+      "works": ["Demo Orbit Tactics"],
+      "companies": ["Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 合成方法文章。假设台账把创意版本、目标人群、预期变化和停止条件放在同一行，便于复盘。",
+    "payload": {
+      "excerpt": "用统一格式记录每次商店页实验，避免只保留胜出素材而遗失判断过程。",
+      "body": "## Demo 文章\n\n以下内容完全虚构并由项目作者编写。\n\n一份最小假设台账可以只包含四列：改动对象、目标受众、预期指标和停止条件。真正重要的不是表格复杂度，而是每轮测试前明确“什么结果会让我们改变判断”。",
+      "author": "Demo 发行试验场",
+      "extracted_terms": [
+        {
+          "term": "假设台账",
+          "first_seen_here": true,
+          "note": "Demo 术语：记录实验判断链路的合成模板。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-wechat-003",
+    "source_type": "wechat",
+    "source_name": "Demo 公众号 · 制作人便笺",
+    "title": "[Demo] 四周原型期应该留下哪些可比较证据",
+    "original_url": "",
+    "published_at": "2026-07-01T14:30:00+08:00",
+    "ingested_at": "2026-07-13T10:40:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "原型验证", "制作管理"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 合成制作管理文章。样例建议保留目标、构建版本、观察记录与下一步取舍，形成可比较证据。",
+    "payload": {
+      "excerpt": "原型期交付物不只有可执行文件，还包括可回溯的判断依据。",
+      "body": "## Demo 文章\n\n本文为原创合成样例。\n\n四周原型结束时，团队至少应能回答三个问题：我们验证了什么、证据支持哪种判断、下一轮准备删掉什么。把这些答案与对应构建版本放在一起，才能让不同原型之间真正可比较。",
+      "author": "Demo 制作人便笺",
+      "extracted_terms": []
+    }
+  },
+  {
+    "id": "demo-banhao-001",
+    "source_type": "banhao",
+    "source_name": "Demo · 版号批次镜像",
+    "title": "[Demo] 2026 年 7 月虚构国产网络游戏审批样例",
+    "original_url": "",
+    "published_at": "2026-07-11T17:00:00+08:00",
+    "ingested_at": "2026-07-13T10:45:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "版号", "国产游戏"],
+    "entities": {
+      "works": ["Demo 星桥旅人", "Demo 方格远征", "Demo 风铃邮局"],
+      "companies": ["Demo 星环互动", "Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 本批次的名称、单位、文号与 ISBN 全部为显式 Demo 占位，不是审批记录。\n\n三款样例用于展示集团筛选、未识别主体和版号明细表。",
+    "payload": {
+      "approval_type": "国产网络游戏（Demo 合成）",
+      "total": 3,
+      "by_company": [
+        { "group": "Demo 星环集团", "count": 1 },
+        { "group": "Demo 远帆集团", "count": 1 }
+      ],
+      "games": [
+        {
+          "game_name": "Demo 星桥旅人",
+          "category_declared": "移动、客户端",
+          "publisher": "Demo 星桥出版单位",
+          "operator": "Demo 星环互动",
+          "company_group": "Demo 星环集团",
+          "approval_doc": "DEMO-APPROVAL-202607-001",
+          "isbn": "DEMO-ISBN-001",
+          "approval_date": "2026-07-11",
+          "approval_month": "2026-07"
+        },
+        {
+          "game_name": "Demo 方格远征",
+          "category_declared": "移动",
+          "publisher": "Demo 远帆出版单位",
+          "operator": "Demo 远帆游戏",
+          "company_group": "Demo 远帆集团",
+          "approval_doc": "DEMO-APPROVAL-202607-002",
+          "isbn": "DEMO-ISBN-002",
+          "approval_date": "2026-07-11",
+          "approval_month": "2026-07"
+        },
+        {
+          "game_name": "Demo 风铃邮局",
+          "category_declared": "客户端",
+          "publisher": "Demo 风铃出版单位",
+          "operator": "Demo 风铃研发组",
+          "company_group": "",
+          "approval_doc": "DEMO-APPROVAL-202607-003",
+          "isbn": "DEMO-ISBN-003",
+          "approval_date": "2026-07-11",
+          "approval_month": "2026-07"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-banhao-002",
+    "source_type": "banhao",
+    "source_name": "Demo · 版号批次镜像",
+    "title": "[Demo] 虚构网络游戏审批变更信息样例",
+    "original_url": "",
+    "published_at": "2026-07-04T17:00:00+08:00",
+    "ingested_at": "2026-07-13T10:48:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "版号", "审批变更"],
+    "entities": {
+      "works": ["Demo 雾海信标", "Demo 纸上车站"],
+      "companies": ["Demo 北辰工坊"]
+    },
+    "deep_summary": "**Demo 数据说明：** 这是完全虚构的审批变更批次，只用于展示变更列与搜索筛选。",
+    "payload": {
+      "approval_type": "审批变更信息（Demo 合成）",
+      "total": 2,
+      "by_company": [
+        { "group": "Demo 北辰战略体", "count": 1 }
+      ],
+      "games": [
+        {
+          "game_name": "Demo 雾海信标",
+          "category_declared": "移动、客户端",
+          "publisher": "Demo 北辰出版单位",
+          "operator": "Demo 北辰工坊",
+          "company_group": "Demo 北辰战略体",
+          "approval_doc": "DEMO-CHANGE-202607-001",
+          "isbn": "DEMO-ISBN-C01",
+          "approval_date": "2026-07-04",
+          "approval_month": "2026-07",
+          "change_info": "Demo 变更：原申报版本增加客户端占位说明"
+        },
+        {
+          "game_name": "Demo 纸上车站",
+          "category_declared": "移动",
+          "publisher": "Demo 纸上出版单位",
+          "operator": "Demo 纸上研发组",
+          "company_group": "",
+          "approval_doc": "DEMO-CHANGE-202607-002",
+          "isbn": "DEMO-ISBN-C02",
+          "approval_date": "2026-07-04",
+          "approval_month": "2026-07",
+          "change_info": "Demo 变更：虚构运营单位名称更新"
+        }
+      ]
+    }
+  },
+  {
+    "id": "demo-entity-001",
+    "source_type": "entity",
+    "source_name": "Demo · 工商档案镜像",
+    "title": "[Demo] 星环互动（虚构主体）工商档案",
+    "original_url": "",
+    "published_at": "2026-07-13T07:45:00+08:00",
+    "ingested_at": "2026-07-13T10:52:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "工商档案", "研发主体"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 主体、代码、人员、资本和地址均为显式虚构占位。\n\n样例展示股东、对外投资与分支机构关系面板。",
+    "payload": {
+      "legal_name": "Demo 星环互动有限公司（虚构）",
+      "credit_code": "DEMO-CREDIT-0001",
+      "reg_number": "DEMO-REG-0001",
+      "legal_rep": "示例代表甲（虚构）",
+      "reg_capital": "Demo 资本 1000 单位",
+      "paid_capital": "Demo 资本 400 单位",
+      "establish_date": "2026-07-01",
+      "status": "Demo 存续",
+      "company_type": "Demo 有限责任公司",
+      "address": "Demo 虚构园区 A 区（不对应现实地址）",
+      "business_scope": "Demo：游戏原型设计、合成内容研究与演示软件开发。",
+      "jurisdiction": "Demo 登记机关（虚构）",
+      "parent": null,
+      "group_key": "Demo 星环集团",
+      "shareholders": [
+        { "name": "Demo 星环控股（虚构）", "ratio": "70%（Demo）", "amount": "700 Demo 单位" },
+        { "name": "Demo 创作合伙（虚构）", "ratio": "30%（Demo）", "amount": "300 Demo 单位" }
+      ],
+      "investments": [
+        { "name": "Demo 星桥技术（虚构）", "credit_code": "DEMO-CREDIT-0101", "ratio": "60%（Demo）", "status": "Demo 存续" }
+      ],
+      "branches": [
+        { "name": "Demo 星环互动原型分部（虚构）" }
+      ],
+      "overseas_curated": false,
+      "source_fetched_at": "2026-07-13T10:50:00+08:00",
+      "raw_ref": "demo://synthetic/entity/starloop"
+    }
+  },
+  {
+    "id": "demo-entity-002",
+    "source_type": "entity",
+    "source_name": "Demo · 工商档案镜像",
+    "title": "[Demo] 远帆游戏（虚构主体）工商档案",
+    "original_url": "",
+    "published_at": "2026-07-06T13:10:00+08:00",
+    "ingested_at": "2026-07-13T10:55:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "工商档案", "发行主体"],
+    "entities": {
+      "works": ["Demo Tiny Odyssey"],
+      "companies": ["Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 完全虚构的工商主体，用于展示发行类企业的详情字段。",
+    "payload": {
+      "legal_name": "Demo 远帆游戏有限公司（虚构）",
+      "credit_code": "DEMO-CREDIT-0002",
+      "reg_number": "DEMO-REG-0002",
+      "legal_rep": "示例代表乙（虚构）",
+      "reg_capital": "Demo 资本 800 单位",
+      "paid_capital": "Demo 资本 800 单位",
+      "establish_date": "2026-07-02",
+      "status": "Demo 存续",
+      "company_type": "Demo 有限责任公司",
+      "address": "Demo 虚构园区 B 区（不对应现实地址）",
+      "business_scope": "Demo：游戏发行演练、商店页实验与本地化流程研究。",
+      "jurisdiction": "Demo 登记机关（虚构）",
+      "parent": "DEMO-CREDIT-P002",
+      "group_key": "Demo 远帆集团",
+      "shareholders": [
+        { "name": "Demo 远帆控股（虚构）", "ratio": "100%（Demo）", "amount": "800 Demo 单位" }
+      ],
+      "investments": [],
+      "branches": [],
+      "overseas_curated": false,
+      "source_fetched_at": "2026-07-13T10:53:00+08:00",
+      "raw_ref": "demo://synthetic/entity/farsail"
+    }
+  },
+  {
+    "id": "demo-entity-003",
+    "source_type": "entity",
+    "source_name": "Demo · 工商档案镜像",
+    "title": "[Demo] 北辰工坊（虚构海外占位主体）",
+    "original_url": "",
+    "published_at": "2026-07-02T08:30:00+08:00",
+    "ingested_at": "2026-07-13T10:58:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "工商档案", "海外占位"],
+    "entities": {
+      "works": ["Demo Lantern Crew"],
+      "companies": ["Demo 北辰工坊"]
+    },
+    "deep_summary": "**Demo 数据说明：** 本条为海外主体占位演示，不代表任何真实司法辖区或公司。",
+    "payload": {
+      "legal_name": "Demo Northstar Workshop（虚构）",
+      "credit_code": "DEMO-OVERSEAS-0003",
+      "reg_number": "DEMO-REG-0003",
+      "legal_rep": "Demo Representative（虚构）",
+      "reg_capital": "Demo 资本 500 单位",
+      "paid_capital": "",
+      "establish_date": "2026-07-03",
+      "status": "Demo Active",
+      "company_type": "Demo Overseas Placeholder",
+      "address": "Demo 海外占位地址（不对应现实地点）",
+      "business_scope": "Demo：合作玩法原型与技术美术研究。",
+      "jurisdiction": "Demo Overseas Jurisdiction（虚构）",
+      "parent": null,
+      "group_key": "Demo 北辰战略体",
+      "shareholders": [],
+      "investments": [],
+      "branches": [],
+      "overseas_curated": true,
+      "source_fetched_at": "2026-07-13T10:56:00+08:00",
+      "raw_ref": "demo://synthetic/entity/northstar"
+    }
+  },
+  {
+    "id": "demo-entity-change-001",
+    "source_type": "entity_change",
+    "source_name": "Demo · 工商变更雷达",
+    "title": "[Demo] 星环互动虚构经营范围变更",
+    "original_url": "",
+    "published_at": "2026-07-12T15:25:00+08:00",
+    "ingested_at": "2026-07-13T11:02:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "工商变更", "经营范围"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 完全虚构的变更信号。样例用于展示变更前后文本和探测时间。",
+    "payload": {
+      "entity_credit_code": "DEMO-CREDIT-0001",
+      "change_item": "Demo 经营范围变更",
+      "before": "Demo：游戏原型设计。",
+      "after": "Demo：游戏原型设计、合成内容研究与演示软件开发。",
+      "change_date": "2026-07-12",
+      "group_key": "Demo 星环集团",
+      "detected_at": "2026-07-13T10:59:00+08:00",
+      "raw_ref": "demo://synthetic/entity-change/starloop-scope"
+    }
+  },
+  {
+    "id": "demo-entity-change-002",
+    "source_type": "entity_change",
+    "source_name": "Demo · 工商变更雷达",
+    "title": "[Demo] 远帆游戏虚构注册资本变更",
+    "original_url": "",
+    "published_at": "2026-07-03T10:05:00+08:00",
+    "ingested_at": "2026-07-13T11:05:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "工商变更", "注册资本"],
+    "entities": {
+      "works": [],
+      "companies": ["Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 数值、主体与时间均为合成占位，不应作为商业判断依据。",
+    "payload": {
+      "entity_credit_code": "DEMO-CREDIT-0002",
+      "change_item": "Demo 注册资本变更",
+      "before": "Demo 资本 500 单位",
+      "after": "Demo 资本 800 单位",
+      "change_date": "2026-07-03",
+      "group_key": "Demo 远帆集团",
+      "detected_at": "2026-07-13T11:03:00+08:00",
+      "raw_ref": "demo://synthetic/entity-change/farsail-capital"
+    }
+  },
+  {
+    "id": "demo-trademark-001",
+    "source_type": "trademark",
+    "source_name": "Demo · 商标事件镜像",
+    "title": "[Demo] PROJECT AURORA 虚构商标事件",
+    "original_url": "",
+    "published_at": "2026-07-09T14:20:00+08:00",
+    "ingested_at": "2026-07-13T11:08:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "商标", "产品命名"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 商标名称、申请人、注册号和事件均为虚构，专用于详情字段展示。",
+    "payload": {
+      "applicant": "Demo 星环互动有限公司（虚构）",
+      "reg_no": "DEMO-TM-0001",
+      "int_cls": "Demo 第 9 类",
+      "tm_class": "09-DEMO",
+      "status": "Demo 申请中",
+      "app_date": "2026-07-02",
+      "latest_event": "Demo 形式审查占位事件",
+      "latest_event_date": "2026-07-09",
+      "group_key": "Demo 星环集团",
+      "source_fetched_at": "2026-07-13T11:06:00+08:00",
+      "raw_ref": "demo://synthetic/trademark/project-aurora"
+    }
+  },
+  {
+    "id": "demo-trademark-002",
+    "source_type": "trademark",
+    "source_name": "Demo · 商标事件镜像",
+    "title": "[Demo] TINY ODYSSEY 虚构商标事件",
+    "original_url": "",
+    "published_at": "2026-07-01T09:35:00+08:00",
+    "ingested_at": "2026-07-13T11:10:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "商标", "海外发行"],
+    "entities": {
+      "works": ["Demo Tiny Odyssey"],
+      "companies": ["Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 完全合成商标事件，不对应真实申请记录。",
+    "payload": {
+      "applicant": "Demo 远帆游戏有限公司（虚构）",
+      "reg_no": "DEMO-TM-0002",
+      "int_cls": "Demo 第 41 类",
+      "tm_class": "41-DEMO",
+      "status": "Demo 初审占位",
+      "app_date": "2026-07-01",
+      "latest_event": "Demo 初审公告占位事件",
+      "latest_event_date": "2026-07-01",
+      "group_key": "Demo 远帆集团",
+      "source_fetched_at": "2026-07-13T11:09:00+08:00",
+      "raw_ref": "demo://synthetic/trademark/tiny-odyssey"
+    }
+  },
+  {
+    "id": "demo-recruitment-001",
+    "source_type": "recruitment",
+    "source_name": "Demo · 招聘快照镜像",
+    "title": "[Demo] 星环互动招聘虚构 AI 玩法原型工程师",
+    "original_url": "",
+    "published_at": "2026-07-10T10:30:00+08:00",
+    "ingested_at": "2026-07-13T11:13:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "招聘", "AI 原生"],
+    "entities": {
+      "works": ["Demo Project Aurora"],
+      "companies": ["Demo 星环互动"]
+    },
+    "deep_summary": "**Demo 数据说明：** 该职位、主体、薪资与日期均为合成占位，不是有效招聘信息。\n\n样例信号指向玩法原型与 AI 工具链交叉能力。",
+    "payload": {
+      "company": "Demo 星环互动（虚构）",
+      "position_title": "Demo AI 玩法原型工程师",
+      "origin": "Demo 招聘快照",
+      "education": "Demo 学历不限",
+      "experience": "Demo 经验 3–5 年",
+      "salary": "Demo 薪资区间（非真实货币）",
+      "publish_date": "2026-07-10",
+      "url": "",
+      "group_key": "Demo 星环集团",
+      "snapshot_fetched_at": "2026-07-13T11:11:00+08:00",
+      "raw_ref": "demo://synthetic/recruitment/ai-gameplay-prototyper"
+    }
+  },
+  {
+    "id": "demo-recruitment-002",
+    "source_type": "recruitment",
+    "source_name": "Demo · 招聘快照镜像",
+    "title": "[Demo] 远帆游戏招聘虚构全球发行分析师",
+    "original_url": "",
+    "published_at": "2026-07-05T09:15:00+08:00",
+    "ingested_at": "2026-07-13T11:16:00+08:00",
+    "cover_image": null,
+    "tags": ["Demo", "合成数据", "招聘", "出海"],
+    "entities": {
+      "works": ["Demo Tiny Odyssey"],
+      "companies": ["Demo 远帆游戏"]
+    },
+    "deep_summary": "**Demo 数据说明：** 完全合成的招聘快照。样例展示区域实验、数据分析和本地化协作标签。",
+    "payload": {
+      "company": "Demo 远帆游戏（虚构）",
+      "position_title": "Demo 全球发行分析师",
+      "origin": "Demo 招聘快照",
+      "education": "Demo 本科占位",
+      "experience": "Demo 经验 1–3 年",
+      "salary": "Demo 薪资区间（非真实货币）",
+      "publish_date": "2026-07-05",
+      "url": "",
+      "group_key": "Demo 远帆集团",
+      "snapshot_fetched_at": "2026-07-13T11:14:00+08:00",
+      "raw_ref": "demo://synthetic/recruitment/global-publishing-analyst"
+    }
+  }
+]

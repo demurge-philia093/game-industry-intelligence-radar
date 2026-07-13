@@ -1,0 +1,471 @@
+@import 'tailwindcss';
+
+/*
+  设计语言：米哈游视觉语言 —— 白底 + 点阵网格、链接蓝 #3778E5 主强调、标题黑 #16213E、
+  冷中性灰阶、无衬线、克制留白。
+  ⚠ 主强调蓝 #3778E5 取自米哈游官网(_nuxt)源码真值（2026-06-25 由近似值 #2b5bf4 校准）；
+    同源真值参考：正文 #3d424d、未激活灰 #676b73、浅面板 #f8f9fb、边框 #e6e7eb。
+  ⚠ 单一调色板真源在此 :root，但部分组件把蓝硬编码成 `const BLUE = '#3778E5'`（非 var(--signal)）——
+    改主色需「令牌 + 组件常量」一起改（本次已同步）。
+  每信源强调色：播客=蓝、新闻=天蓝、公众号=柔蓝、版号=冷灰蓝。
+*/
+
+@theme {
+  /* 字体完全照米哈游官网源码：其 CSS 即 `HarmonyOS, Arial, Helvetica, sans-serif`，
+     且不打包任何字体文件——HarmonyOS 设备渲染鸿蒙、其余回退 Arial/Helvetica、中文走系统默认无衬线。
+     （是否打包鸿蒙字体让全设备都渲染＝优化项，留 FinalDay 讨论。） */
+  --font-sans: HarmonyOS, Arial, Helvetica, sans-serif;
+  /* 设计全面无衬线：serif 令牌指向同栈 */
+  --font-serif: HarmonyOS, Arial, Helvetica, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+
+  /* 白底 + 冷中性灰阶 */
+  --bg: #ffffff;
+  --bg-1: #ffffff;
+  --panel: #ffffff;
+  --panel-2: #f3f5f9;
+  --border: #eceef3;
+  --border-strong: #d7dbe4;
+
+  --text: #444b59;
+  --text-dim: #6b7280;
+  --text-faint: #aeb4bc;
+  --text-h: #16213e; /* 标题黑 INK */
+
+  /* 主强调色：链接蓝 */
+  --signal: #3778e5;
+  --signal-dim: rgba(55, 120, 229, 0.12);
+
+  /* 每信源强调色（冷系、可区分、克制） */
+  --accent-podcast: #3778e5;
+  --accent-news: #23ade5;
+  --accent-wechat: #5b8def;
+  --accent-banhao: #6e7ba6;
+  --accent-entity: #4f6f9c;
+  --accent-trademark: #2f9e9e;
+  --accent-recruitment: #6a7fc0;
+
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(22, 33, 62, 0.05),
+    0 14px 30px -16px rgba(22, 33, 62, 0.12);
+
+  --sans: var(--font-sans);
+  --serif: var(--font-sans); /* 统一无衬线 */
+  --mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Consolas, monospace;
+
+  font-family: var(--sans);
+  font-optical-sizing: auto;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100vh;
+}
+
+body {
+  background: var(--bg);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* 旧"衬线标题"工具类 → 统一为米哈游无衬线粗标题（旧用法自动随之变样，无需逐文件改） */
+.font-serif {
+  font-family: var(--sans);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* 细滚动条 */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: #c2c9d2;
+  background-clip: padding-box;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* 文章阅读器入场：平滑淡入 + 轻微上移（对应 mihoyo about 页的平滑感） */
+@keyframes readerIn {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.reader-enter {
+  animation: readerIn 0.5s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+/* 信源标签切换：内容平滑淡入 + 轻微上移（对应 mihoyo tab 切换的丝滑感） */
+@keyframes tabIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.tab-enter {
+  animation: tabIn 0.34s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+/* 标签行横向滚动条隐藏（靠 ‹ › 箭头翻） */
+.tab-row::-webkit-scrollbar {
+  display: none;
+}
+.tab-row {
+  scrollbar-width: none;
+}
+
+/* 主舞台移动端：移除装饰列，把有限宽度完整留给情报内容。 */
+@media (max-width: 640px) {
+  .radar-slogan,
+  .radar-portrait {
+    display: none !important;
+  }
+
+  .radar-nav {
+    gap: 10px !important;
+    padding: 10px 16px 2px !important;
+  }
+
+  .radar-nav > span:first-child,
+  .radar-nav > span:last-child {
+    gap: 8px !important;
+  }
+
+  .radar-readonly {
+    display: none;
+  }
+
+  .radar-seg {
+    padding: 6px 16px 0 !important;
+  }
+
+  .radar-main {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 8px !important;
+    padding: 8px 16px 4px !important;
+  }
+
+  .radar-content {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .radar-footer {
+    max-width: 100%;
+    padding: 6px 8px max(8px, env(safe-area-inset-bottom)) !important;
+    overflow: hidden;
+  }
+
+  .radar-icon-dial {
+    width: 100%;
+    max-width: 100%;
+    justify-content: flex-start !important;
+    flex-wrap: nowrap !important;
+    gap: 6px !important;
+    padding: 2px 4px 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .radar-icon-dial::-webkit-scrollbar {
+    display: none;
+  }
+
+  .radar-icon-dial > button {
+    flex: 0 0 auto;
+  }
+}
+
+/* 二级·信源标签：复刻 mihoyo about 页 tab 的「垂直翻滚」反转动效。
+   每个 tab = 1 行高裁剪窗，内含上下两份同名文字（上=纯文字、下=蓝底白字）；
+   激活或悬停时整列 translateY 上滚一行 → 翻出蓝底白字（= 反转动效 + 选中标识）。 */
+.flip-tab {
+  --flip-h: 30px;
+  position: relative;
+  flex: none;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+.flip-clip {
+  display: block;
+  overflow: hidden;
+  height: var(--flip-h);
+  border-radius: 3px; /* mihoyo 实测近直角 */
+}
+.flip-roll {
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.42s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.flip-copy {
+  height: var(--flip-h);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 26px; /* mihoyo 实测 ~29px 横 padding */
+  font-size: 14px;
+  font-weight: 400;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+.flip-plain {
+  color: #676b73; /* mihoyo 未激活灰字 rgb(103,107,115) */
+}
+.flip-hi {
+  color: #fff;
+  font-weight: 400;
+  background: #3778e5;
+}
+.flip-tab:hover .flip-roll,
+.flip-tab.is-active .flip-roll {
+  transform: translateY(calc(-1 * var(--flip-h)));
+}
+@media (prefers-reduced-motion: reduce) {
+  .flip-roll {
+    transition: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tab-enter {
+    animation: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reader-enter {
+    animation: none;
+  }
+}
+
+/* 锁定一屏的内部滚动区（汇总其余命中 / 信源卡片列）：冷灰细条，覆盖旧暖色全局条 */
+.src-scroll::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.src-scroll::-webkit-scrollbar-thumb {
+  background: #d7dbe4;
+  border-radius: 3px;
+  border: none;
+  background-clip: padding-box;
+}
+.src-scroll::-webkit-scrollbar-thumb:hover {
+  background: #c4cad4;
+}
+.src-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ---------- Markdown 排版（.md 容器） ---------- */
+.md {
+  /* 正文排版参照 mihoyo about 页实测：行高 2.0、字色 #3d424d、段落清晰分隔 */
+  color: #3d424d;
+  font-size: 15px;
+  line-height: 2;
+  word-break: break-word;
+}
+.md > :first-child {
+  margin-top: 0;
+}
+.md > :last-child {
+  margin-bottom: 0;
+}
+.md h1,
+.md h2,
+.md h3,
+.md h4 {
+  font-family: var(--serif);
+  color: var(--text-h);
+  font-weight: 560;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  margin: 1.5em 0 0.55em;
+}
+.md h1 {
+  font-size: 1.6em;
+}
+.md h2 {
+  font-size: 1.32em;
+}
+.md h3 {
+  font-size: 1.14em;
+}
+.md h4 {
+  font-size: 1em;
+  font-family: var(--sans);
+  font-weight: 650;
+  color: var(--text-dim);
+}
+.md p {
+  margin: 0 0 1.15em;
+}
+.md img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1em auto;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+.md ul,
+.md ol {
+  margin: 0.7em 0;
+  padding-left: 1.4em;
+}
+.md li {
+  margin: 0.3em 0;
+}
+.md li::marker {
+  color: var(--signal);
+}
+.md strong {
+  color: var(--text-h);
+  font-weight: 680;
+}
+.md em {
+  color: var(--text-h);
+}
+.md a {
+  color: var(--signal);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.md blockquote {
+  margin: 0.9em 0;
+  padding: 0.3em 1.1em;
+  border-left: 3px solid var(--signal);
+  color: var(--text-dim);
+  font-style: italic;
+}
+.md code {
+  font-family: var(--mono);
+  font-size: 0.86em;
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 1px 5px;
+  color: #3778e5;
+}
+.md pre {
+  background: #f8f9fb;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  overflow-x: auto;
+  margin: 0.9em 0;
+}
+.md pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--text);
+}
+.md hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.5em 0;
+}
+.md table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.9em 0;
+  font-size: 0.94em;
+}
+.md th,
+.md td {
+  border: 1px solid var(--border);
+  padding: 7px 10px;
+  text-align: left;
+}
+.md th {
+  background: var(--panel-2);
+  color: var(--text-h);
+}
+
+/* 正文中被高亮的“新词”（用新闻强调色：暗靛蓝） */
+.md mark,
+mark.term {
+  background: rgba(79, 106, 143, 0.16);
+  color: #355072;
+  border-bottom: 1.5px solid rgba(79, 106, 143, 0.55);
+  border-radius: 3px;
+  padding: 0 3px;
+  font-weight: 600;
+}
+
+/* 当前播放段落的高亮脉冲（文字稿同步） */
+@keyframes seg-pulse {
+  from {
+    box-shadow: 0 0 0 0 rgba(55, 120, 229, 0.3);
+  }
+  to {
+    box-shadow: 0 0 0 6px rgba(55, 120, 229, 0);
+  }
+}
+
+/* 播放器进度滑块的拖动手柄 */
+.player-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 2px solid var(--signal);
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(36, 41, 51, 0.25);
+}
+.player-range::-moz-range-thumb {
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 2px solid var(--signal);
+  cursor: pointer;
+}
+
+/* 信源编号卡片 hover 微抬升（图四风格列表） */
+.rd-card {
+  transition: transform 0.14s ease, box-shadow 0.14s ease, border-color 0.14s ease;
+}
+.rd-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(22, 33, 62, 0.08);
+  border-color: rgba(55, 120, 229, 0.35);
+}
