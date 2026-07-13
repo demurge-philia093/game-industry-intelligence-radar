@@ -27,7 +27,7 @@ export function TodayAdded({
   overviewSegments.push(`本批无条目：${emptyText}`)
   const latestText = summary.latestIngestedDate
     ? `数据批次：${summary.latestIngestedDate} · 入库 ${summary.latestIngestedCount} 条`
-    : '暂无有效演示批次'
+    : '暂无有效采集批次'
   const isEmpty = displayTotal === 0
 
   return (
@@ -38,7 +38,7 @@ export function TodayAdded({
 
       {isEmpty ? (
         <div style={emptyState}>
-          <p style={emptyTitle}>暂无可展示的演示数据</p>
+          <p style={emptyTitle}>暂无可展示的采集数据</p>
           <p style={emptyMeta}>{latestText}</p>
         </div>
       ) : (

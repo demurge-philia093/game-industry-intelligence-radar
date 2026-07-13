@@ -21,7 +21,7 @@ export function PodcastPlayer({
         role="status"
       >
         <VolumeX size={18} className="shrink-0 text-[var(--text-faint)]" />
-        演示版未附音频，可继续浏览章节与文字稿。
+        该条目未附音频，可继续浏览章节与文字稿。
       </div>
     )
   }

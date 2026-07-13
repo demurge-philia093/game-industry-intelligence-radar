@@ -1,6 +1,7 @@
 import type { SourceType } from '../types/envelope'
 
-export const TODAY_ADDED_VIEW = '最新演示'
+export const TODAY_ADDED_VIEW = '最新采集'
+const LEGACY_DEMO_VIEW = '最新演示'
 const LEGACY_TODAY_ADDED_VIEW = '今日新增'
 export const LEGACY_SUMMARY_VIEW = '汇总'
 export const HOME_DEFAULT_VIEW = TODAY_ADDED_VIEW
@@ -40,6 +41,8 @@ export const MODULE_GROUPS: Record<string, SourceType[]> = {
 }
 
 export function normalizeHomeView(view: string | null): string {
-  if (!view || view === LEGACY_SUMMARY_VIEW || view === LEGACY_TODAY_ADDED_VIEW) return HOME_DEFAULT_VIEW
+  if (!view || view === LEGACY_SUMMARY_VIEW || view === LEGACY_TODAY_ADDED_VIEW || view === LEGACY_DEMO_VIEW) {
+    return HOME_DEFAULT_VIEW
+  }
   return view
 }

@@ -68,7 +68,7 @@ function isFreshPublishedDate(publishedDateKey: string | null, batchKey: string)
 function warnInvalidIngestedAt(count: number) {
   if (count === 0 || warnedInvalidIngestedAt) return
   warnedInvalidIngestedAt = true
-  console.warn(`[demo-batch] skipped ${count} item(s) with missing or invalid ingested_at`)
+  console.warn(`[snapshot-batch] skipped ${count} item(s) with missing or invalid ingested_at`)
 }
 
 export function summarizeTodayAdded(items: FeedItem[]): TodayAddedSummary {
@@ -100,7 +100,7 @@ export function summarizeTodayAdded(items: FeedItem[]): TodayAddedSummary {
     }
   }
 
-  // 公开演示始终锚定数据集自身的最新有效入库日，不依赖访问者当前日期。
+  // 公开快照始终锚定数据集自身的最新有效入库日，不依赖访问者当前日期。
   for (const { item, ingestedDate } of validIngestions) {
     if (ingestedDate !== latestIngestedDate) continue
 

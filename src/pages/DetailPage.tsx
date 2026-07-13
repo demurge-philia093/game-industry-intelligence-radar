@@ -1,6 +1,6 @@
 import { useEffect, type CSSProperties } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { useFeed } from '../hooks/useFeed'
+import { useFeedItem } from '../hooks/useFeedItem'
 import { EmptyState } from '../components/common/EmptyState'
 import { getRenderer } from '../registry/registry'
 import { HOME_DEFAULT_URL } from '../lib/homeViews'
@@ -11,13 +11,13 @@ const INK = '#16213E'
 /** 战略雷达顶栏：与主舞台同一视觉语言（蓝竖条 + 雷达标）。详情页与主舞台一致。 */
 function RadarBar() {
   return (
-    <nav style={barStyle}>
+    <nav className="radar-detail-nav" style={barStyle}>
       <Link to={HOME_DEFAULT_URL} style={{ display: 'inline-flex', alignItems: 'center', gap: 10, textDecoration: 'none' }}>
         <span style={{ width: 5, height: 22, background: BLUE, borderRadius: 2 }} />
         <span style={{ fontSize: 18, fontWeight: 800, color: INK, letterSpacing: '0.02em' }}>战略雷达</span>
       </Link>
       <span style={{ marginLeft: 'auto', display: 'inline-flex', alignItems: 'center', gap: 14 }}>
-        <span style={{ color: '#8B95A5', fontSize: 11, letterSpacing: '0.08em' }}>PUBLIC DEMO · 只读</span>
+        <span style={{ color: '#8B95A5', fontSize: 11, letterSpacing: '0.08em' }}>PUBLIC SNAPSHOT · 只读</span>
         <span style={{ fontSize: 12, color: '#999', letterSpacing: '0.1em' }}>
           <span style={{ color: INK, fontWeight: 600 }}>CH</span> / EN
         </span>
@@ -28,13 +28,12 @@ function RadarBar() {
 
 export function DetailPage() {
   const { id } = useParams<{ id: string }>()
-  const { items, loading } = useFeed()
+  const { item, loading, error } = useFeedItem(id)
 
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [id])
 
-  const item = items?.find((it) => it.id === id)
   const renderer = item ? getRenderer(item.source_type) : undefined
 
   // news / wechat 走米哈游式「文章阅读器」（自带全屏锁定壳 + 正文内部滚动），不套 DocShell。
@@ -53,7 +52,11 @@ export function DetailPage() {
           <div className="py-20 text-center text-[var(--text-dim)]">加载中…</div>
         )}
 
-        {!loading && !item && (
+        {!loading && error && (
+          <EmptyState title="详情加载失败" hint={error} />
+        )}
+
+        {!loading && !error && !item && (
           <div className="flex flex-col items-center">
             <EmptyState title="找不到这条情报" hint={`id: ${id}`} />
             <Link

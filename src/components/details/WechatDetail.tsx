@@ -5,7 +5,7 @@ import { Markdown } from '../common/Markdown'
 import { ArticleReader } from './ArticleReader'
 import { EmptyBody } from './EmptyBody'
 
-/** 公众号详情：公开站仅展示随演示数据发布的正文，不向本地或远端后端发起抓取。 */
+/** 公众号详情：公开站仅展示随数据快照发布的正文，不向本地或远端后端发起抓取。 */
 export function WechatDetail({ item }: { item: FeedItem }) {
   const p = item.payload as WechatPayload
   const terms = p.extracted_terms?.map((term) => term.term) ?? []

@@ -29,7 +29,7 @@ export function PodcastDetail({ item }: { item: FeedItem }) {
                 {formatDuration(p.duration_seconds)}
               </>
             ) : (
-              '静态演示'
+              '静态快照'
             )}
           </span>
         }
@@ -54,7 +54,7 @@ export function PodcastDetail({ item }: { item: FeedItem }) {
       {/* 深度总结（突出，置于文字稿之前） */}
       <DeepSummary markdown={item.deep_summary} />
 
-      {/* 章节 + 播放器（若演示数据附带）+ 只读文字稿 */}
+      {/* 章节 + 播放器（若快照数据附带）+ 只读文字稿 */}
       <div className="grid gap-6 lg:grid-cols-[1fr_300px]">
         <div className="order-2 flex min-w-0 flex-col gap-4 lg:order-1">
           <div className="sticky top-[68px] z-20">

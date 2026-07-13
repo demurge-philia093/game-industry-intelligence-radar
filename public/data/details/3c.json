@@ -1,0 +1,2369 @@
+{
+  "podcast-xyz-69fb73831b7bd502959d25e5": {
+    "id": "podcast-xyz-69fb73831b7bd502959d25e5",
+    "source_type": "podcast",
+    "source_name": "UV相对论",
+    "title": "S59:真实霸总故事⑫DC、漫威、指环王，和那些差一点拿下的超级IP",
+    "original_url": "https://www.xiaoyuzhoufm.com/episode/69fb73831b7bd502959d25e5",
+    "published_at": "2026-05-07T06:00:00+08:00",
+    "ingested_at": "2026-07-03T15:34:13+08:00",
+    "cover_image": "https://image.xyzcdn.net/FlZZHWG_dsLCmhClSiA0-B9i_c2k.png",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c5cf05ec5a52c4b6e29c3e/69fb73831b7bd502959d25e5/media.xyzcdn.net/67c5cf05ec5a52c4b6e29c3e/ll-XEN45Bi7DznpGf56ff1tcQg1l.m4a",
+      "duration_seconds": 4803,
+      "background": "这一期继续“真实霸总故事”，时间线来到老许加入乐游之后。上一期讲到SOE被Columbus基金接手，改名Daybreak；这一期则接着讲它后来为什么被玩家戏称为“Daybrick”，以及老许为什么一度认为，这家公司虽然被管得一塌糊涂，却仍然是一笔极其值得买的资产。\nDaybreak手里有一批老MMO和大IP：《EverQuest》《PlanetSide》《DC Universe Online》《H1Z1》，后来又牵出《指环王Online》《龙与地下城Online》、EG7、Piranha、Petrol、Big Blue Bubble、《万智牌Online》，甚至还有曾经差点同时握住DC和漫威MMO授权的罕见时刻。表面上这是一串游戏公司并购史，底层其实是在讲一个更残酷的判断：旧资产不一定没价值，真正可怕的是不懂业务的人拿着好资产反复折腾。\n我们这一期也聊到另一个《UV相对论》反复出现的主题：...",
+      "people": [],
+      "chapters": [],
+      "transcript": []
+    }
+  },
+  "banhao-t20250121-883078": {
+    "id": "banhao-t20250121-883078",
+    "source_type": "banhao",
+    "source_name": "国家新闻出版署",
+    "title": "2025年1月 国产网络游戏审批（123 款）",
+    "original_url": "https://www.nppa.gov.cn/bsfw/jggs/yxspjg/gcwlyxspxx/202501/t20250121_883078.html",
+    "published_at": "2025-01-21T09:00:00+08:00",
+    "ingested_at": "2026-06-22T08:00:00+08:00",
+    "cover_image": null,
+    "tags": [
+      "版号",
+      "国产网络游戏"
+    ],
+    "entities": {
+      "works": [],
+      "companies": [
+        "中手游",
+        "禅游科技",
+        "中旭未来·贪玩"
+      ]
+    },
+    "deep_summary": "本期共 **123** 款获批。\n\n**识别到的集团**：中手游 1、禅游科技 1、中旭未来·贪玩 1（署名大厂 3 款，约 2%）。\n\n**出版量 Top 运营单位**：上海星翼网络信息有限公司 1、上海琢面网络科技有限公司 1、武汉元立方数字科技有限公司 1、北京掌门互娱科技有限公司 1、武汉芯丰信息科技有限公司 1。",
+    "payload": {
+      "approval_type": "国产网络游戏",
+      "total": 123,
+      "by_company": [
+        {
+          "group": "中手游",
+          "count": 1
+        },
+        {
+          "group": "禅游科技",
+          "count": 1
+        },
+        {
+          "group": "中旭未来·贪玩",
+          "count": 1
+        }
+      ],
+      "games": [
+        {
+          "game_name": "阿皮大冒险",
+          "category_declared": "移动",
+          "publisher": "上海同济大学电子音像出版社有限公司",
+          "operator": "上海星翼网络信息有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕54号",
+          "isbn": "ISBN 978-7-498-14437-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "爱之城璀璨之星",
+          "category_declared": "移动",
+          "publisher": "上海骏梦网络科技有限公司",
+          "operator": "上海琢面网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕55号",
+          "isbn": "ISBN 978-7-498-14438-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "变色龙童绘历险",
+          "category_declared": "客户端",
+          "publisher": "成都金山数字娱乐科技有限公司",
+          "operator": "武汉元立方数字科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕56号",
+          "isbn": "ISBN 978-7-498-14439-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "不负大道",
+          "category_declared": "移动",
+          "publisher": "北京联合出版有限责任公司",
+          "operator": "北京掌门互娱科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕57号",
+          "isbn": "ISBN 978-7-498-14440-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "层叠达人",
+          "category_declared": "移动-休闲益智",
+          "publisher": "成都电子科大出版社有限责任公司",
+          "operator": "武汉芯丰信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕58号",
+          "isbn": "ISBN 978-7-498-14441-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "插花小屋",
+          "category_declared": "移动-休闲益智",
+          "publisher": "广东音像出版社有限公司",
+          "operator": "武汉同瑞信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕59号",
+          "isbn": "ISBN 978-7-498-14442-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "出击吧！幻兽",
+          "category_declared": "移动",
+          "publisher": "杭州天极峰数字娱乐有限公司",
+          "operator": "上海轻量网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕60号",
+          "isbn": "ISBN 978-7-498-14443-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "创业都市",
+          "category_declared": "移动",
+          "publisher": "广州谷得网络科技有限公司",
+          "operator": "海南游明信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕61号",
+          "isbn": "ISBN 978-7-498-14444-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "钓鱼高手",
+          "category_declared": "移动",
+          "publisher": "上海双盟网络科技有限公司",
+          "operator": "上海沛炫网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕62号",
+          "isbn": "ISBN 978-7-498-14445-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "顶级弓箭手",
+          "category_declared": "移动-休闲益智",
+          "publisher": "湖南电子音像出版社有限责任公司",
+          "operator": "成都晟歆网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕63号",
+          "isbn": "ISBN 978-7-498-14446-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "风之痕迹",
+          "category_declared": "移动",
+          "publisher": "成都盈众九州网络科技有限公司",
+          "operator": "四川思渝伦泰信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕64号",
+          "isbn": "ISBN 978-7-498-14447-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "烽火帝国",
+          "category_declared": "移动",
+          "publisher": "北京当乐信息技术有限公司",
+          "operator": "北京当乐信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕65号",
+          "isbn": "ISBN 978-7-498-14448-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "跟我一起上",
+          "category_declared": "移动-休闲益智",
+          "publisher": "方圆电子音像出版社有限责任公司",
+          "operator": "长沙指色网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕66号",
+          "isbn": "ISBN 978-7-498-14449-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "攻城奇兵",
+          "category_declared": "移动",
+          "publisher": "江苏凤凰数字传媒有限公司",
+          "operator": "苏州汇荧科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕67号",
+          "isbn": "ISBN 978-7-498-14450-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "国际跳棋大师",
+          "category_declared": "移动-休闲益智",
+          "publisher": "河北冠林数字出版有限公司",
+          "operator": "武汉指娱互动信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕68号",
+          "isbn": "ISBN 978-7-498-14451-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "海岛建造师",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州群游科技有限公司",
+          "operator": "南京伦焰网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕69号",
+          "isbn": "ISBN 978-7-498-14452-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "海怪猎人",
+          "category_declared": "移动",
+          "publisher": "波克科技集团有限公司",
+          "operator": "轩克科技(上海)有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕70号",
+          "isbn": "ISBN 978-7-498-14453-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "海域重启",
+          "category_declared": "移动",
+          "publisher": "大同出版传媒有限公司",
+          "operator": "上海全煜信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕71号",
+          "isbn": "ISBN 978-7-498-14454-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "黑色信标",
+          "category_declared": "移动",
+          "publisher": "北京目标在线科技有限公司",
+          "operator": "北京幸福满格科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕72号",
+          "isbn": "ISBN 978-7-498-14455-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "轰隆隆军团",
+          "category_declared": "移动",
+          "publisher": "上海文艺音像电子出版社有限公司",
+          "operator": "上海骨火网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕73号",
+          "isbn": "ISBN 978-7-498-14456-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "滑行逃脱",
+          "category_declared": "移动-休闲益智",
+          "publisher": "辽宁电子出版社有限责任公司",
+          "operator": "南京游鸣信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕74号",
+          "isbn": "ISBN 978-7-498-14457-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "欢乐冲撞",
+          "category_declared": "移动-休闲益智",
+          "publisher": "方圆电子音像出版社有限责任公司",
+          "operator": "广州晟越信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕75号",
+          "isbn": "ISBN 978-7-498-14458-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "幻兽召唤师",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海商国网络科技发展有限公司",
+          "operator": "上海乐钻科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕76号",
+          "isbn": "ISBN 978-7-498-14459-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "幻想冒险家",
+          "category_declared": "移动",
+          "publisher": "广州谷得网络科技有限公司",
+          "operator": "安徽萌盒互动科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕77号",
+          "isbn": "ISBN 978-7-498-14460-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "幻域纷争",
+          "category_declared": "移动",
+          "publisher": "天津电子出版社有限公司",
+          "operator": "天津千娱网络信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕78号",
+          "isbn": "ISBN 978-7-498-14461-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "灰烬幻想",
+          "category_declared": "移动",
+          "publisher": "上海易娱网络科技有限公司",
+          "operator": "上海易娱网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕79号",
+          "isbn": "ISBN 978-7-498-14462-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "火柴人快冲",
+          "category_declared": "移动-休闲益智",
+          "publisher": "辽宁电子出版社有限责任公司",
+          "operator": "南京原极信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕80号",
+          "isbn": "ISBN 978-7-498-14463-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "货柜配对消",
+          "category_declared": "移动-休闲益智",
+          "publisher": "河北冠林数字出版有限公司",
+          "operator": "广州千纵越信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕81号",
+          "isbn": "ISBN 978-7-498-14464-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "机智逃脱",
+          "category_declared": "移动-休闲益智",
+          "publisher": "辽宁电子出版社有限责任公司",
+          "operator": "北京乐杰轮科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕82号",
+          "isbn": "ISBN 978-7-498-14465-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "极限大乱斗",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海电子出版有限公司",
+          "operator": "上海爵游网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕83号",
+          "isbn": "ISBN 978-7-498-14466-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "疾风忍影",
+          "category_declared": "移动",
+          "publisher": "重庆华龙网集团股份有限公司",
+          "operator": "重庆园园网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕84号",
+          "isbn": "ISBN 978-7-498-14467-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "家园防御战",
+          "category_declared": "移动-休闲益智",
+          "publisher": "北京中科奥科技有限公司",
+          "operator": "北京中科奥科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕85号",
+          "isbn": "ISBN 978-7-498-14468-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "建筑世界",
+          "category_declared": "移动-休闲益智",
+          "publisher": "宁波东海岸电子音像出版社有限公司",
+          "operator": "广州卓讯互动信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕86号",
+          "isbn": "ISBN 978-7-498-14469-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "剑断长空",
+          "category_declared": "移动",
+          "publisher": "杭州渡口网络科技有限公司",
+          "operator": "厦门任势网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕87号",
+          "isbn": "ISBN 978-7-498-14470-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "剑韵古风行",
+          "category_declared": "移动",
+          "publisher": "安徽新华电子音像出版社",
+          "operator": "上海竹子互联网信息服务有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕88号",
+          "isbn": "ISBN 978-7-498-14471-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "剑之所指",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海晨路信息科技股份有限公司",
+          "operator": "上海莘灿芷卉网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕89号",
+          "isbn": "ISBN 978-7-498-14472-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "劲舞之星",
+          "category_declared": "移动",
+          "publisher": "上海久游网络科技有限公司",
+          "operator": "上海久之润信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕90号",
+          "isbn": "ISBN 978-7-498-14473-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "九洲傲天录",
+          "category_declared": "移动",
+          "publisher": "江苏凤凰电子音像出版社有限公司",
+          "operator": "南京天豆互动网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕91号",
+          "isbn": "ISBN 978-7-498-14474-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "巨匠眼",
+          "category_declared": "移动、客户端",
+          "publisher": "江苏凤凰数字传媒有限公司",
+          "operator": "上海胖布丁网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕92号",
+          "isbn": "ISBN 978-7-498-14475-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "铠甲勇士战神降临",
+          "category_declared": "移动",
+          "publisher": "合肥乐堂动漫信息技术有限公司",
+          "operator": "合肥乐堂动漫信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕93号",
+          "isbn": "ISBN 978-7-498-14476-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "口袋斗罗大陆",
+          "category_declared": "移动",
+          "publisher": "四川数字出版传媒有限公司",
+          "operator": "成都麟心科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕94号",
+          "isbn": "ISBN 978-7-498-14477-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "快乐魔法",
+          "category_declared": "移动",
+          "publisher": "湖北省扬子江影音有限责任公司",
+          "operator": "海南乐之鲸鱼科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕95号",
+          "isbn": "ISBN 978-7-498-14478-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "联盟守望者",
+          "category_declared": "移动",
+          "publisher": "广东海燕电子音像出版社有限公司",
+          "operator": "广州酷阅文化传播有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕96号",
+          "isbn": "ISBN 978-7-498-14479-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "烈焰觉醒",
+          "category_declared": "移动",
+          "publisher": "河北冠林数字出版有限公司",
+          "operator": "河北米玩网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕97号",
+          "isbn": "ISBN 978-7-498-14480-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "灵境余晖",
+          "category_declared": "移动",
+          "publisher": "上海科学技术文献出版社有限公司",
+          "operator": "上海玮骐科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕98号",
+          "isbn": "ISBN 978-7-498-14481-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "零境幻想",
+          "category_declared": "移动",
+          "publisher": "时代新媒体出版社有限责任公司",
+          "operator": "江苏三九互娱网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕99号",
+          "isbn": "ISBN 978-7-498-14482-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "龙胤立志传",
+          "category_declared": "移动、客户端",
+          "publisher": "华东师范大学电子音像出版社有限公司",
+          "operator": "上海可柯信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕100号",
+          "isbn": "ISBN 978-7-498-14483-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "龙之复苏",
+          "category_declared": "移动",
+          "publisher": "华东师范大学电子音像出版社有限公司",
+          "operator": "上海青笛科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕101号",
+          "isbn": "ISBN 978-7-498-14484-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "冒险新纪元",
+          "category_declared": "移动",
+          "publisher": "广州四三九九信息科技有限公司",
+          "operator": "广州爱游之城信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕102号",
+          "isbn": "ISBN 978-7-498-14485-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "冒险者之森",
+          "category_declared": "移动、网页",
+          "publisher": "上海绿岸网络科技股份有限公司",
+          "operator": "成都千向科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕103号",
+          "isbn": "ISBN 978-7-498-14486-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "萌宠田园",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州群游科技有限公司",
+          "operator": "厦门通弦网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕104号",
+          "isbn": "ISBN 978-7-498-14487-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "萌怪探险之旅",
+          "category_declared": "移动-休闲益智",
+          "publisher": "宁波东海岸电子音像出版社有限公司",
+          "operator": "上海鲸润网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕105号",
+          "isbn": "ISBN 978-7-498-14488-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "梦幻奇路",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海电子出版有限公司",
+          "operator": "上海函游网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕106号",
+          "isbn": "ISBN 978-7-498-14489-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "梦幻驯妖",
+          "category_declared": "移动-休闲益智",
+          "publisher": "广东趣炫网络股份有限公司",
+          "operator": "广东星辉天拓互动娱乐有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕107号",
+          "isbn": "ISBN 978-7-498-14490-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "梦想田园",
+          "category_declared": "移动",
+          "publisher": "咪咕互动娱乐有限公司",
+          "operator": "南京标节网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕108号",
+          "isbn": "ISBN 978-7-498-14491-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "咪嘟象棋",
+          "category_declared": "移动-休闲益智",
+          "publisher": "方圆电子音像出版社有限责任公司",
+          "operator": "沈阳纵艺科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕109号",
+          "isbn": "ISBN 978-7-498-14492-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "迷你逃脱世界",
+          "category_declared": "移动-休闲益智",
+          "publisher": "浙江出版集团数字传媒有限公司",
+          "operator": "北京光耀大地科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕110号",
+          "isbn": "ISBN 978-7-498-14493-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "谜境深林",
+          "category_declared": "移动-休闲益智",
+          "publisher": "天津新创元科技有限公司",
+          "operator": "南京星点网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕111号",
+          "isbn": "ISBN 978-7-498-14494-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "魔宠降临",
+          "category_declared": "移动",
+          "publisher": "上海锦游网络技术有限公司",
+          "operator": "上海璟幽信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕112号",
+          "isbn": "ISBN 978-7-498-14495-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "魔法奇斗",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海锦游网络技术有限公司",
+          "operator": "上海驰骋游网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕113号",
+          "isbn": "ISBN 978-7-498-14496-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "魔法甜境",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海商国网络科技发展有限公司",
+          "operator": "上海商国网络科技发展有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕114号",
+          "isbn": "ISBN 978-7-498-14497-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "魔塔突围",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海电子出版有限公司",
+          "operator": "上海沁奇亚信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕115号",
+          "isbn": "ISBN 978-7-498-14498-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "魔王终局",
+          "category_declared": "移动",
+          "publisher": "咪咕互动娱乐有限公司",
+          "operator": "厦门乐禧科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕116号",
+          "isbn": "ISBN 978-7-498-14499-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "木筏世界建造",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州群游科技有限公司",
+          "operator": "北京迪菲亚科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕117号",
+          "isbn": "ISBN 978-7-498-14500-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "暮光海岛",
+          "category_declared": "移动",
+          "publisher": "华中科技大学电子音像出版社",
+          "operator": "北京简游互娱科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕118号",
+          "isbn": "ISBN 978-7-498-14501-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "耐力弹射",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州紫府网络科技有限公司",
+          "operator": "江苏萱兰炘盛网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕119号",
+          "isbn": "ISBN 978-7-498-14502-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "闹闹嘻游",
+          "category_declared": "移动",
+          "publisher": "成都电子科大出版社有限责任公司",
+          "operator": "易远航科技（成都）有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕120号",
+          "isbn": "ISBN 978-7-498-14503-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "派对星球",
+          "category_declared": "移动",
+          "publisher": "重庆天健电子音像出版有限公司",
+          "operator": "重庆海游科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕121号",
+          "isbn": "ISBN 978-7-498-14504-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "皮皮爱挖宝",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州润趣科技有限公司",
+          "operator": "天津新创元科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕122号",
+          "isbn": "ISBN 978-7-498-14505-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "奇梦岛",
+          "category_declared": "移动、网页",
+          "publisher": "浙江出版集团数字传媒有限公司",
+          "operator": "深圳奇梦岛科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕123号",
+          "isbn": "ISBN 978-7-498-14506-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "奇妙飞行家",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州紫府网络科技有限公司",
+          "operator": "南京蓝讯五迈信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕124号",
+          "isbn": "ISBN 978-7-498-14507-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "群霸天下",
+          "category_declared": "移动",
+          "publisher": "上海同济大学电子音像出版社有限公司",
+          "operator": "上海游澄网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕125号",
+          "isbn": "ISBN 978-7-498-14508-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "群英将至",
+          "category_declared": "移动",
+          "publisher": "河北冠林数字出版有限公司",
+          "operator": "河北索拓网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕126号",
+          "isbn": "ISBN 978-7-498-14509-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "三千幻世",
+          "category_declared": "移动",
+          "publisher": "成都盈众九州网络科技有限公司",
+          "operator": "深圳市中手游网络科技有限公司",
+          "company_group": "中手游",
+          "approval_doc": "国新出审〔2025〕127号",
+          "isbn": "ISBN 978-7-498-14510-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "山海大乱斗",
+          "category_declared": "移动",
+          "publisher": "海南省电子音像出版社有限公司",
+          "operator": "海南金文昊成网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕128号",
+          "isbn": "ISBN 978-7-498-14511-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "神级勇士",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海电子出版有限公司",
+          "operator": "上海泓游网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕129号",
+          "isbn": "ISBN 978-7-498-14512-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "时空霸业",
+          "category_declared": "移动",
+          "publisher": "天津电子出版社有限公司",
+          "operator": "武汉游戏群科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕130号",
+          "isbn": "ISBN 978-7-498-14513-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "史诗大陆",
+          "category_declared": "移动",
+          "publisher": "三七互娱（上海）科技有限公司",
+          "operator": "上海硬通网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕131号",
+          "isbn": "ISBN 978-7-498-14514-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "守护精灵奇迹",
+          "category_declared": "移动",
+          "publisher": "上海方寸信息科技有限公司",
+          "operator": "上海栀瑾信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕132号",
+          "isbn": "ISBN 978-7-498-14515-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "兽猎突袭",
+          "category_declared": "客户端",
+          "publisher": "成都金山数字娱乐科技有限公司",
+          "operator": "成都金山世游卓立科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕133号",
+          "isbn": "ISBN 978-7-498-14516-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "兽兽冒险团",
+          "category_declared": "移动",
+          "publisher": "广东太平洋电子出版社有限公司",
+          "operator": "七伍（北京）数字科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕134号",
+          "isbn": "ISBN 978-7-498-14517-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "数海织梦",
+          "category_declared": "移动-休闲益智",
+          "publisher": "江苏凤凰电子音像出版社有限公司",
+          "operator": "杭州符言信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕135号",
+          "isbn": "ISBN 978-7-498-14518-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "台球大决战",
+          "category_declared": "移动-休闲益智",
+          "publisher": "重庆华龙网集团股份有限公司",
+          "operator": "重庆倍啦特网络技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕136号",
+          "isbn": "ISBN 978-7-498-14519-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "天天数字大师",
+          "category_declared": "移动-休闲益智",
+          "publisher": "深圳中青宝互动网络股份有限公司",
+          "operator": "深圳市小牛互动科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕137号",
+          "isbn": "ISBN 978-7-498-14520-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "停车场模拟",
+          "category_declared": "移动-休闲益智",
+          "publisher": "浙江出版集团数字传媒有限公司",
+          "operator": "南京摩佰科信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕138号",
+          "isbn": "ISBN 978-7-498-14521-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "投掷精英",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州紫府网络科技有限公司",
+          "operator": "北京赛诺斯科技发展有限责任公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕139号",
+          "isbn": "ISBN 978-7-498-14522-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "王国大国王",
+          "category_declared": "移动",
+          "publisher": "海南省电子音像出版社有限公司",
+          "operator": "海南祺曜互动娱乐有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕140号",
+          "isbn": "ISBN 978-7-498-14523-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "王牌建筑工",
+          "category_declared": "移动-休闲益智",
+          "publisher": "宁波东海岸电子音像出版社有限公司",
+          "operator": "深圳市禅游科技股份有限公司",
+          "company_group": "禅游科技",
+          "approval_doc": "国新出审〔2025〕141号",
+          "isbn": "ISBN 978-7-498-14524-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "王者荣耀世界",
+          "category_declared": "移动、客户端",
+          "publisher": "四川数字出版传媒有限公司",
+          "operator": "成都嘉享基越科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕142号",
+          "isbn": "ISBN 978-7-498-14525-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "王者守卫战",
+          "category_declared": "移动-休闲益智",
+          "publisher": "天津新创元科技有限公司",
+          "operator": "成都明杰未来科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕143号",
+          "isbn": "ISBN 978-7-498-14526-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "无尽勇士",
+          "category_declared": "移动",
+          "publisher": "上海科学技术文献出版社有限公司",
+          "operator": "上海炫闪网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕144号",
+          "isbn": "ISBN 978-7-498-14527-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "无畏大作战",
+          "category_declared": "移动",
+          "publisher": "黑龙江龙华数字出版股份有限公司",
+          "operator": "福州百兽互动网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕145号",
+          "isbn": "ISBN 978-7-498-14528-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "伍六七：暗影交锋",
+          "category_declared": "移动、客户端",
+          "publisher": "上海文艺音像电子出版社有限公司",
+          "operator": "啊吉游（上海）科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕146号",
+          "isbn": "ISBN 978-7-498-14529-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "武将冲锋",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海乐蜀网络科技股份有限公司",
+          "operator": "上海逸帆游网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕147号",
+          "isbn": "ISBN 978-7-498-14530-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "西游神魔榜",
+          "category_declared": "移动",
+          "publisher": "深圳冰川网络股份有限公司",
+          "operator": "深圳冰川网络股份有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕148号",
+          "isbn": "ISBN 978-7-498-14531-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "侠客联盟",
+          "category_declared": "移动",
+          "publisher": "天津电子出版社有限公司",
+          "operator": "深圳市前海龙游科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕149号",
+          "isbn": "ISBN 978-7-498-14532-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "侠者风华录",
+          "category_declared": "移动-休闲益智",
+          "publisher": "天津新创元科技有限公司",
+          "operator": "贵阳虾丸科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕150号",
+          "isbn": "ISBN 978-7-498-14533-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "仙界大掌门",
+          "category_declared": "移动",
+          "publisher": "广东海燕电子音像出版社有限公司",
+          "operator": "广州星嘉信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕151号",
+          "isbn": "ISBN 978-7-498-14534-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "鲜花连连消",
+          "category_declared": "移动-休闲益智",
+          "publisher": "成都电子科大出版社有限责任公司",
+          "operator": "武汉优量信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕152号",
+          "isbn": "ISBN 978-7-498-14535-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "小幺鸡大合体2",
+          "category_declared": "移动-休闲益智",
+          "publisher": "北京畅游时代数码技术有限公司",
+          "operator": "北京畅游时代数码技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕153号",
+          "isbn": "ISBN 978-7-498-14536-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "笑傲江湖：群侠传",
+          "category_declared": "移动",
+          "publisher": "上海恺英网络科技有限公司",
+          "operator": "江西贪玩信息技术有限公司",
+          "company_group": "中旭未来·贪玩",
+          "approval_doc": "国新出审〔2025〕154号",
+          "isbn": "ISBN 978-7-498-14537-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "星港之战",
+          "category_declared": "移动-休闲益智",
+          "publisher": "湖北省扬子江影音有限责任公司",
+          "operator": "广州捌佰玩网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕155号",
+          "isbn": "ISBN 978-7-498-14538-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "星回",
+          "category_declared": "移动、客户端",
+          "publisher": "上海科学技术文献出版社有限公司",
+          "operator": "上海光焰网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕156号",
+          "isbn": "ISBN 978-7-498-14539-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "星战无垠",
+          "category_declared": "移动",
+          "publisher": "海南省电子音像出版社有限公司",
+          "operator": "海南尤达科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕157号",
+          "isbn": "ISBN 978-7-498-14540-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "兄弟向前冲",
+          "category_declared": "移动-休闲益智",
+          "publisher": "成都电子科大出版社有限责任公司",
+          "operator": "武汉汇多互动信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕158号",
+          "isbn": "ISBN 978-7-498-14541-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "爷爷的早餐店",
+          "category_declared": "移动",
+          "publisher": "浙江出版集团数字传媒有限公司",
+          "operator": "成都魂动天下网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕159号",
+          "isbn": "ISBN 978-7-498-14542-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "夜幕之下",
+          "category_declared": "移动、客户端",
+          "publisher": "广州百田信息科技有限公司",
+          "operator": "广州天梯网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕160号",
+          "isbn": "ISBN 978-7-498-14543-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "一起来钓鱼",
+          "category_declared": "移动",
+          "publisher": "上海乐蜀网络科技股份有限公司",
+          "operator": "上海久宜网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕161号",
+          "isbn": "ISBN 978-7-498-14544-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "异星战争",
+          "category_declared": "移动",
+          "publisher": "深圳中青宝互动网络股份有限公司",
+          "operator": "龙涯（深圳）网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕162号",
+          "isbn": "ISBN 978-7-498-14545-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "英雄之城3",
+          "category_declared": "移动、客户端",
+          "publisher": "苏州蜗牛数字科技股份有限公司",
+          "operator": "苏州蜗牛数字科技股份有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕163号",
+          "isbn": "ISBN 978-7-498-14546-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "英雄之翼",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海晨路信息科技股份有限公司",
+          "operator": "上海宠智信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕164号",
+          "isbn": "ISBN 978-7-498-14547-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "永恒余烬",
+          "category_declared": "移动",
+          "publisher": "厦门雷霆互动网络有限公司",
+          "operator": "深圳雷霆信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕165号",
+          "isbn": "ISBN 978-7-498-14548-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "勇闯秘境",
+          "category_declared": "移动-休闲益智",
+          "publisher": "方圆电子音像出版社有限责任公司",
+          "operator": "厦门市冰天信息科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕166号",
+          "isbn": "ISBN 978-7-498-14549-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "元启世界",
+          "category_declared": "移动-休闲益智",
+          "publisher": "金报电子音像出版（北京）有限公司",
+          "operator": "北京琥珀金源传媒有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕167号",
+          "isbn": "ISBN 978-7-498-14550-5",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "战将出征",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海晨路信息科技股份有限公司",
+          "operator": "上海文翠锦玥网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕168号",
+          "isbn": "ISBN 978-7-498-14551-2",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "战栗绝境",
+          "category_declared": "客户端",
+          "publisher": "四川数字出版传媒有限公司",
+          "operator": "成都数字天空科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕169号",
+          "isbn": "ISBN 978-7-498-14552-9",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "战神西游",
+          "category_declared": "移动-休闲益智",
+          "publisher": "天津新创元科技有限公司",
+          "operator": "南阳铭傲软件有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕170号",
+          "isbn": "ISBN 978-7-498-14553-6",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "战争警戒",
+          "category_declared": "移动、客户端",
+          "publisher": "上海同济大学电子音像出版社有限公司",
+          "operator": "上海冒险岛信息技术有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕171号",
+          "isbn": "ISBN 978-7-498-14554-3",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "谪仙异闻录",
+          "category_declared": "移动",
+          "publisher": "上海商国网络科技发展有限公司",
+          "operator": "上海都玩网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕172号",
+          "isbn": "ISBN 978-7-498-14555-0",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "指尖漂移王者",
+          "category_declared": "移动-休闲益智",
+          "publisher": "杭州紫府网络科技有限公司",
+          "operator": "北京璀璨互联科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕173号",
+          "isbn": "ISBN 978-7-498-14556-7",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "指尖王国",
+          "category_declared": "移动",
+          "publisher": "成都盈众九州网络科技有限公司",
+          "operator": "深圳市墨和科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕174号",
+          "isbn": "ISBN 978-7-498-14557-4",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "逐个击破",
+          "category_declared": "移动-休闲益智",
+          "publisher": "辽宁电子出版社有限责任公司",
+          "operator": "杭州齐趣科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕175号",
+          "isbn": "ISBN 978-7-498-14558-1",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        },
+        {
+          "game_name": "纵横消消乐",
+          "category_declared": "移动-休闲益智",
+          "publisher": "上海商国网络科技发展有限公司",
+          "operator": "上海亿柠网络科技有限公司",
+          "company_group": "",
+          "approval_doc": "国新出审〔2025〕176号",
+          "isbn": "ISBN 978-7-498-14559-8",
+          "approval_date": "2025年01月20日",
+          "approval_month": "2025-01"
+        }
+      ]
+    }
+  },
+  "wechat-youxiputao-2649990536_1": {
+    "id": "wechat-youxiputao-2649990536_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "《鸣潮》3.0：猛踩一脚油门",
+    "original_url": "https://mp.weixin.qq.com/s/n-JJ_7UXirxULCUYo1nZPw",
+    "published_at": "2025-12-25T20:10:34+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcdXaAKsD8mrvChbciaEEgDAHzTzb7t08pntDFvOiaf9zNFAyLZFYn084ia61tW5BvZfIIFoR440y7Iw/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "玩法规则带来的产品生命力，比单纯的内容更长久。",
+    "payload": {
+      "excerpt": "玩法规则带来的产品生命力，比单纯的内容更长久。",
+      "body": "《鸣潮》3.0：猛踩一脚油门\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 玩法规则带来的产品生命力，比单纯的内容更长久。文/秋秋一年前跟库洛CEO李松伦交流时，我曾感慨：2.0的《鸣潮》几乎把「堆料」做到了某个极限。当时我甚至很难想象，接下来他们还能怎么突破，才能维持住游戏被撑大的预期。一年后，《鸣潮》3.0带着答案回来了。在全新的拉海洛地区，有着「复古未来+地心玄幻」的视觉设计，配合基于摩托载具的组合玩法，以及依旧在线的电影化叙事，整体给人的感觉完全不同。除了量大管饱的产能输出，我也发现3.0发生了一些更底层的变化：库洛对开放世界的理解，已经从单纯的「卷体量」，进化到了「卷设计」——这种升级，从本质上回答了我一年前对产品未来的担忧。3.0版本整体玩法概况界面这种转变，是扩充到超2000人的库洛「卷不动了」？还是他们，找到了解决长线产能、打破品质内卷的新思路？01给我干哪来了，这还是《鸣潮》吗？想弄清库洛的思路变化，得先看游戏3.0版本到底做出了哪些新东西。首先是视觉题材的「重构」。相比2.0的西幻浪漫，3.0的拉海洛，选择了一套更大胆的「复古科幻文艺复兴」。在大世界层面，它描绘了一个地心失落世界：植被高大猎奇、生物自带荧光、文明迹象与螺旋、晶簇地质深度融合。左右滑动查看而一旦进入人造建筑，游戏的画风，立刻切换到了上世纪80年代的复古未来感：低分辨率显示屏、粗犷的实体按钮、绚丽的孟菲斯色彩（粉蓝、紫橙渐变）——就连角色的智能终端，都从1.0瑝珑的「葫芦」，到2.0黎那汐塔的「提灯」，变成了拉海洛极具时代标志的「磁带」。左右滑动查看音乐可视化也是80年代复古未来的一大特征不同区域角色的智能终端迭代3.0版本的怪物设计，又是第三种科幻风格：类似《新世纪福音战士》（EVA）、《尼尔：机械纪元》《地平线》系列那样，由机械零件拟造的生物体，包括机械鹿、牛、蜜蜂、魔鬼鱼、沙虫……拉海洛的背景设定，更是直接致敬了EVA——从冰原上的巨型机体「巴德尔」散落成山川血肉，到屹立天地的镇压武器（EVA的朗基努斯之枪），再到培养机甲「适格者」的星炬学院……满满「地心版第一使徒」的既视感。此外，库洛还在游戏中塞入了大量泛科幻彩蛋：联运椎骨（太空电梯）、虚质磁暴（刘慈欣《球形闪电》）、参考《铁甲小宝》蜻蜓队长和田德莉娜人设的NPC、致敬《沙丘》的BOSS虚诞虫……可以说简单体验一遍，你就能感受复古科幻在游戏内的「文艺复兴」。联运椎骨游戏NPC N.A.N.A. 和《铁甲小宝》田德莉娜（图源网络）当然，这种混搭并非乱炖，而是仍服务于《鸣潮》的游戏基调：在没有神（岁主）庇护的拉海洛，人类必须找回前文明的科技，以血肉和机械对抗灾难。其中「巴德尔」是拉海洛大部分设定的来源，贯穿游戏体验，并将拉海洛塑造成了「鲸落万物生」的自洽生态。大部分地图场景，也是以巴德尔的骨肉命名其次，品质细节已经成了《鸣潮》的「地基」。比如角色除了依旧在线的品质细节，还在功能性（琳奈的轮滑高速移动、轮椅打法）、动作设计（琳奈的三段跳+彩虹）、视觉差异化（莫宁的半透明双腿）等方面有所突破。此外，3.0的BOSS设计、剧情演出、视听体验（剧情高潮的踩点BGM和大战「沙虫」确实爽）、细节彩蛋（比如细节丰富的琳奈宿舍）等等，由于篇幅和体验时长问题就不逐一展开了——不是说这些内容不够优秀，而是它们已经成了《鸣潮》的基础，而非需要额外强化和追求的目标。琳奈的宿舍中间那位是任务NPC，可见鸣潮堆料的程度……最后，也是更贴脸、更深入的变化：《鸣潮》的视觉体验从静态盆景设计，升级为了动态流体美学。《鸣潮》此前版本的大世界设计，多凸显「箱庭」或「盆景」的美感：地块相对独立，风格迥异，高低差和造景设计感强，适合停下来拍照。但2.0以来，这种静态奇观已卷到了某个天花板——2.8版本的穗波市已经精致到了某个极致，再去抠细节和堆料，我感觉边际效应递减会非常严重。2.8版本场景展示，视频来源B站@二向箔批发要吗但其实3.0抠细节和堆料的内容并不少，比如不经意间发现从崖壁上滑落的沙土于是在我看来，游戏3.0在保证品质的基础上，让场景设计「动」了起来。一旦你开上摩托，可能就会有完全不一样的视觉体验：流动的光影、动态的场景切换、极速下的感官冲击。如果说以前的开放世界是静态图片，撑死算个live2D动图，那3.0就是一个连续的、沉浸的「公路大片」——配合载具的摩托巡航、电影模式和角色共乘玩法，这个「大片」还能由玩家自己主演，带着喜欢的角色自由驰骋，体验「移步换景」的爽感。《鸣潮》：导演剪辑版往大了说，《鸣潮》3.0解放了游戏作为内容载体的独特优势——不直接上手，光看图文或视频，你真的很难感受到3.0的魅力。02做有内容的玩法型开放世界？聊到这，可能会有人说：你聊的这些，不还是证明游戏在卷美术？其实不然。在我看来，《鸣潮》视觉表达的升级和变化，也是在给他们下一阶段的思考打掩护：如何更深入地结合「玩」和「看」，如何让开放世界能被进一步交互，影响和变化。这其中他们最重要的尝试，是载具玩法和开放世界的融合。一是围绕载具的视觉体验。前面提到的动态美学，它不仅需要美术设计，还需要结合载具高速的移动、飙车漂移加速的手感、载具独特的第一视角和电台体验、场景设计的「大、平、爽」……3.0呈现出的高级视觉观感，本身就有玩法和机制的参与。这种升级在游戏主线中格外明显：《鸣潮》3.0在固定的介绍世界动画演出外，还增加了一段专属的「飙车看景」体验：玩家可以在琳奈陪同下疾驰，听着电台，用第一视角自由赏景，甚至还有专门的QTE，让你边开车，边观察角色指给你的风景——这种「玩法参与视觉表达」的设计，让每个人看到的景色都是独特的。二是效率与心流的平衡。很多开放世界游戏都怕玩家跑得太快，内容消耗太快，会做一些额外的限制。库洛这次却反其道而行：不仅有载具高速探索，还加入了「鹰眼+万相锚」的快速搜集采集物和宝箱的功能。鹰眼无人机骇入开宝箱这个设计，既照顾到了玩家「看到什么都要薅一遍」的游戏习惯，又没让你为了这口「肉」把车停下来，保证了飙车的爽感和持续心流，也缓解了「开放世界≈探索搜集」的焦虑感。万相锚检索和搜集采集物三是用系统驱动代替纯内容消耗。在3.0中，《鸣潮》通过引入一系列玩法规则，尝试让开放世界从静态的资产展示，升级为动态的涌现系统。比如基建玩法「开辟测界之路」，鼓励玩家通过完成任务铺路、改变地貌（解锁路网、地块和基建）、影响世界——这套玩法规则在很多品类中都行之有效，能给玩家带来更多阶段性的新鲜感和爽感。摩托在公路上可以无限冲刺，有实用价值随之解锁的地块：车站再比如天气模拟系统，玩家达成条件后能实时改变地图天气：流星、暴雨、大雾……这不只是视觉贴图的变化，更能实时影响生态，比如暴雨后河道水位会上涨。这种涌现式的规则设计，让同一场景在不同环境下，有了不同的探索意义，给了玩家重复体验的动力。雨天水位还会上涨除了核心的载具玩法，3.0新增了额外的搜集元素「日灵」（之前死板的收集物活了过来，类似塞尔达的呀哈哈），能通过召唤声骸扫描发现，甚至能多只汇聚随玩家一起解谜——玩法和观感的巧妙结合，给人带来了「1+1＞2」的探索体验。搜集日灵对库洛来说，这些设计也让游戏资产，有了更多重复体验的价值。3.0前的奇观，可能大家就看一遍、搜一遍，场景就会迅速贬值；但现在，载具的高机动性会驱动玩家为了兜风、飙车、或是尝试不同天气而反复回到同一个场景。在我看来，这种由玩法带来的多角度体验，能大幅缓解「手工堆料只为让人看一眼」的产能压力。暴雨中草地飙车是真的爽说到底，内容始终是一次性消耗品，纯靠内容驱动，至少会面临创意、产能、体量规模等桎梏，很难维持商业游戏的长期运营。目前《鸣潮》所做的，是将「纯内容堆料」升级为「有内容基础的玩法规则」，来保证玩家能有更长期、可重复的心流体验。在路上挡车，都够我玩好一会儿了……虽然这在侧重单机体验的二游中充满挑战，可一旦走通，它也会成为支撑产品长久价值的底层资产。03额外的长青路径回头来看，虽然3.0给我带来的初见惊喜，可能没2.0那么强烈，但我却对这套模式的长期表现保持乐观：从产品层面看，《鸣潮》找到了更底层的开放世界迭代逻辑。短期，这套「有内容的玩法型开放世界」设计（路网建设、载具养成和探索、涌现式设计），能在保证游戏品质的同时，提供更长周期的阶段性新鲜感；相信后续还会有更多区域专属大型玩法长期，它展现出了差异化的更大可能性：2.0是飞翔+奇观，3.0是摩托+路网，未来是不是还会有御剑、潜水、立体机动甚至太空探索？当探索机制不再是纯走跑，那开放世界的设计逻辑就彻底活了。从公司层面看，3.0版本，也是库洛对产品运营规划的深入理解：好的运营不应只靠一定周期的资产交付，如果陷入死磕品质的怪圈，随着团队扩充，效率降低和创意枯竭是迟早的事——他们超2000人的团队，需要寻找卷产能之外的长青路径。而现在，他们对玩法规则的深入探索算是一次解围，在保持游戏品质的同时，把团队从「只卷产能」的陷阱里拎了出来，重新去思考：如何定义开放世界体验，如何跑出更具差异化的长青模型？2.8的新玩法穗波怪异物语：鸣潮也有自己的搜打撤了虽然这些问题可能还没有具体答案，甚至前路坎坷，但他们依旧在做——这也是库洛「挑战即伟大」的企业文化所在。《鸣潮》3.0前节目瞻后，CEO李松伦的寄语从行业层面看，产品竞争的「品质墙」正在快速坍塌。如果把时间放长到五年、十年，你会发现，「高品质」正随着技术普及，从竞争壁垒演变为行业底线：十年前，一款高品质3D手游绝对独树一帜；但如今，顶尖品质与主流水准间的代差正在快速缩小，高品质3D甚至已成为不少中小厂商的标配。这意味着，未来厂商竞争的胜负手，一定不止是谁做得多、谁抠得细，而是一些更底层的东西：谁能找到不可替代的优势？谁能适应时代和玩家？而且，这并不是库洛一家需要面对的课题。放眼开放世界赛道，上一代长青产品，正试图通过更多差异化玩法，对抗内容疲劳；下一代新品，则干脆从立项起就将基建、捉宠、GTA式交互作为游戏标签——无论是老产品迭代，还是新品的差异化超车，大家都开始有了新共识：玩法规则带来的产品生命力，比单纯的内容更长久。库洛目前所做的，或许也是未来其他厂商准备或正在做的。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读年轻人爆仓 | 8000成本AI创业 | 对话鸭科夫星布谷地 | 望月重做 | 灰境行者明日方舟终末地 | 无限大 | 字节AI玩原神游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649990535_2": {
+    "id": "wechat-youxiputao-2649990535_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "2025最后一批版号发布：腾讯「QQ农场」、乐元素《白银之城》，还有《代号：界》",
+    "original_url": "https://mp.weixin.qq.com/s/Q6v63oZ5c74T0EXq39kPEg",
+    "published_at": "2025-12-25T17:48:38+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcdXaAKsD8mrvChbciaEEgDABmH8GyQTECYcyCVsfQicYBicDUC5nJVLsxpI0F6I1xsu2hiaianIXCv7Yg/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "圣诞快乐。",
+    "payload": {
+      "excerpt": "圣诞快乐。",
+      "body": "2025最后一批版号发布：腾讯「QQ农场」、乐元素《白银之城》，还有《代号：界》\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 圣诞快乐。文/严锦彦今天（12月25日），国家新闻出版署公布了12月国产网络游戏审批信息（144款）、新一批进口游戏审批信息（3款），以及审批变更信息（7款）。本次过审版号产品中，值得关注的有：腾讯《QQ经典农场》、乐元素《白银之城》、上海拾异《七界梦谭》、创梦天地《幻幻灵之战》、四三九九《勇者与幻兽》、电魂《出击吧！飞艇》、蓝飞《大鱼碰小鱼》等。其中，《七界梦谭》是此前收获过不少关注的国风仙诡MMO《代号：界》。该产品最早于去年首曝，并在今年开启过测试。游戏的制作人是前《一梦江湖》主策田力，核心团队来自网易、FunPlus。今年9月，《七界梦谭》曾对外公告称他们当前资金充沛，正在筹备后续更大规模的测试。当时葡萄君了解到，FunPlus为游戏研发提供了不少资金支持。本批过审游戏的完整名单如下（点击查看高清图）：游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读年轻人爆仓 | 8000成本AI创业 | 对话鸭科夫星布谷地 | 望月重做 | 灰境行者明日方舟终末地 | 无限大 | 字节AI玩原神游戏行业书籍推荐点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649985905_1": {
+    "id": "wechat-youxiputao-2649985905_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "蔡浩宇新作首曝幕后：经历惨败的38岁技术宅，还想拯救世界",
+    "original_url": "https://mp.weixin.qq.com/s/poW1JQzYXYq0-R49E7AjPA",
+    "published_at": "2025-11-21T09:57:33+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftc18zmicMDOJsVrNCkDOpQTqgQtibbE0V0axxHuuDZrIKnoTHUsgkoc1PjZib5GIPlVaBz3uWQdzwWKA/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "他还想再试一试。",
+    "payload": {
+      "excerpt": "他还想再试一试。",
+      "body": "蔡浩宇新作首曝幕后：经历惨败的38岁技术宅，还想拯救世界\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 他还想再试一试。文/严锦彦今天，由蔡浩宇担任制作人，米哈游和HoYoverse联合研发的旗舰新作《Varsapura》正式首曝。超过30分钟的实机演示，让许多人意识到它不同于米哈游，乃至整个行业里的任何一款产品。它的角色、场景，皆采用了像鹿鸣一样的高精度写实渲染风格，尝试了更加风格化的审美路线。虽然整个城市开放世界仅展示了数十秒，但足以让人瞥见夸张的布景密度。不难想象，这对技术、美术提出了多少挑战。它不再是米哈游过去擅长的幻想风格，在写实背景下，他们这次选择了以心理学作为题材，尝试将动漫番剧式的叙事，转向类似美剧的风格。同时，人物表情的细节，镜头的调度，剧情演出也都迈上了新的台阶。他们还在对话选项中，加入了判定要素，这意味着剧情的分支与自由度会完全不同于传统二游。同时，实机演示也展示了更多米哈游首次尝试的新玩法。比如可以漂移喷气的汽车载具，又比如潜行暗杀等等。看完《Varsapura》的实机演示后，不少人感叹：那个令人惊艳的技术宅又回来了。神秘，是外界对蔡浩宇的普遍认知。过去，米哈游每一款旗舰产品，总能带来代际跃迁，掀起新一轮行业热潮。同时大家津津乐道的，常常还有产品背后的制作人蔡浩宇。但令大众费解的是，《原神》成功后的5年里，蔡浩宇再也没有拿出足以革新业界的旗舰产品，这已经超出了以往米哈游旗舰迭代的最长时间。而从为数不多的公开信息来看，蔡浩宇仿佛完全投身进了AI相关的新事业中——直到今天《Varsapura》的亮相。很多人不知道，过去几年里，蔡浩宇为《Varsapura》投入了许多心血。这段超30分钟实机演示的脚本，便是由蔡浩宇亲自操刀制作，其中每一秒镜头应该看向哪里，都由他规划完成。同样鲜为人知的是，在《原神》大成之后，蔡浩宇其实经历了一次深刻的惨败。在那段日子里，他度过了近几年来最沮丧的时刻。近期，葡萄君和多位接近蔡浩宇的人士聊了聊，试图还原他的过去五年。01代号：PJSH在前半段人生中，蔡浩宇简直是个活生生的爽文男主。5岁时，他已经能打开游戏程序；18岁参加物理竞赛被保送上海交大；22岁和同学制作出了游戏编辑器平台，并获得了中科院计算所第二届技术创新大赛银奖……毕业创办米哈游后，他更是在公司愿景中，写下了「技术宅拯救世界」「打造全球十亿人愿意生活其中的虚拟世界」。虽然，现在看来他离拯救世界可能还有点远，但从《崩坏学园》到《崩坏3》，再到《原神》，蔡浩宇一直是在连胜中度过的。米哈游就像一辆高速列车，在极其顺畅的轨道上越开越快。不过，蔡浩宇并不满足于此，他希望自己能跑得更快一些。过去，《崩坏3》和《原神》都是在上一代产品做完半年后才开始立项。但当时《原神》刚结束CB1测试，蔡浩宇就已经加快研发节奏，开始构思下一代产品了。放在大部分公司和项目团队中，这个决定其实非常冒险。毕竟产品还没上线，制作人就分出精力去管别的事情，很可能会出现意想不到的岔子。但作为创作者，蔡浩宇对产品有着足够自信的判断。之前米哈游的产品上线前，蔡浩宇都会预估其表现，基本每一次都不会失误。而且在基础市场数据外，他很少会看所谓的市场分析报告，因为他认为分析报告是滞后的，只能告诉你产品哪里好哪里不好，不能预判一个从未见过的方向或产品能取得怎样的成绩——在CB1测试后，他就认为《原神》上线后的走势不会太差，足以让自己放心。另一方面，蔡浩宇虽然习惯事必躬亲，百分百投入到项目的前期研发中，但考虑到团队发展不能依赖于个人，在铺开管线后，他便抽出一部分精力，转向新的挑战。那么，新项目应该做什么呢？回顾过去的创作历程，蔡浩宇一直对「新东西」有一股执念，每一代产品都要有显著的进步与不同。《原神》之于《崩坏3》，做了开放世界，现在往前再进一步，玩家还能有什么新体验？他想到了城市题材的开放世界。不同于《原神》的幻想题材，现实都市的世界观，会让开放世界的范式产生更大的差异。它的叙事比重会明显提高，美术要更加写实，玩法也要做大革新，就像《GTA》那样。为了验证想法，蔡浩宇马上组建起团队，开始多个方面的探索。为了触碰更高的表现力上限，蔡浩宇决定放下多年积累的Unity基建，从零探索虚幻引擎。最为大众所熟知的一次试验是鹿鸣，她是蔡浩宇在visual development（视觉开发）层面的阶段性研究成果。不同于过去的赛璐璐画风，鹿鸣采用了高精度的写实渲染风格，视频一经推出就收获了2000万播放量，远超蔡浩宇的预期，这也让他更有底气沿着风格化美术的道路走下去。更让人没想到的是，在玩法层面，他还果断舍弃了过去的动作游戏路线，转去研究射击。经历了一番探索，他们在《原神》上线不久后正式立项，并开始了「代号：PJSH」两年多的研发历程。看到这个代号，大家应该能想起，PJSH并没有活着走到大众视野中。它第一次广泛被人看见，已经是2022年宣告项目被砍的「死讯」了。当时，蔡浩宇在内部群中表示：「fail fast, learn fast」。后来蔡浩宇曾和别人承认，那时自己太膨胀了。02fail fast, learn fast在PJSH正式立项后，蔡浩宇很快就铺开了规模化的管线，一切看似有条不紊。可实际做起来，他们却发现困难重重。一开始，团队参考过《GTA》的体验。但《GTA》的玩法与世界观紧紧咬合，这是一座罪恶之都，玩家可以随意开枪打人，警察则会来逮捕玩家，进而发生更激烈的战斗，它的运转逻辑高度自洽。可显然，他们并不想，也不能把PJSH做成一个随意开枪杀人的游戏。这还只是个开始。沿着这条路推演下去，许多设计难题接连涌现。《原神》是幻想风格的开放世界，大部分地图都在野外，怪物可以随意摆放，但在写实都市中，敌人不可能一直站在那里，且其他居民还能正常地生活。如果玩家突然在大街上开枪，那路人该作何反应？如果玩家不小心击中了路人，他们是否应该永久消失？于是，PJSH的Gameplay到底应该怎么展开，也就成为了项目的达摩利斯之剑，始终悬而未决。蔡浩宇并非没有想过解决方案，他们曾尝试在IP世界观方面自圆其说，譬如玩家开枪打倒路人，只是把他击晕了，而非击杀，以此为战斗提供合理化解释。可实践下来，蔡浩宇发现无论设定上如何咬文嚼字，用户的直观体验还是很拧巴，「我明明打倒了他，怎么过了一分钟他又站起来了？」设计上的难题远不止玩法，还有美术。在卡通渲染的游戏里，二次元角色可以容纳五花八门的设计元素。你能通过角色的服饰、发色、特效，一眼看出Ta与普通路人的区别。但在写实世界中，角色设计不能违背常理——大家都穿着现实中的衣服，突然有一个雷电将军混入其中，玩家一定会感到违和。那么，要如何保证角色符合写实设计，同时又能突出Ta是一个与众不同的五星角色？这需要长时间的探索。渐渐地，这些问题在研发过程中不断暴露出来，并直接影响了项目推进。起初，蔡浩宇只是觉得有些不对劲。可当项目进行了一年半后，他发现许多本该推下去的任务，迟迟得不到交付，预计只需要两三个月就能做完的角色，可能做了六七个月还是存在问题。项目遭遇不顺，团队内部难免也因为意见不统一而出现争吵。很多时候大家在会上看似达成了共识，但真正做起来，操作又会变形；同样的问题，之前看似解决了，可不久后又再次冒了出来。更致命的是，做到这里，蔡浩宇本人也开始对PJSH感到迷茫。在做《原神》时，每逢周四的版本日，蔡浩宇都会跟进到凌晨12点才回家。在走回家的半个小时里，他的脑海里会自然浮现出游戏不同开发阶段应有的画面。可对于PJSH，无论他怎么使劲，也依旧无法想象出这样清晰的画面。到了这一步，蔡浩宇才猛地意识到，PJSH从一开始就不是一个自洽的题目，哪怕他们后来不断尝试去解这个命题作文，也无济于事。更扎心的是，明明这个问题在行业里不算罕见，它只是需要制作人在前期快速调整方向，但蔡浩宇却迟迟没有发现。在反思中，蔡浩宇认为，PJSH在立项之初就违背了「米哈游怎么立项做项目」的标准。过去他们曾经总结过，新项目的团队规模最早应该小于五人。后续每个阶段，团队应该保持怎样的体量，能获得多少资源，对应又要交付多少东西，都有明确指引。可为了加快研发节奏，蔡浩宇在PJSH上延续了《原神》已经成熟的工业化开发规模，团队搭建之初，每个岗位就都有对应的leader，向上沟通时，整个项目要层层汇报。这让蔡浩宇无法深入到一线中，更早针对项目问题做出清晰的判断。作为对比，《原神》最早在公司内部公开时，开完年会只用两辆大巴就能把团队所有人带走。而PJSH的团队规模却一度超过了300人。过去，蔡浩宇会在前期事无巨细地参与研发细节，《崩三》最早的战斗、3C镜头设计，乃至基础代码都是他写的；《原神》最初的世界观、角色设定，包括内部标准化文档也是他从零做起的。可在PJSH中，蔡浩宇扮演的角色，更像是一个发号施令的验收者。在《原神》大获成功后，蔡浩宇虽然没有像其他成功制作人一样，频繁地抛头露面，也没有一掷千金去买豪车豪宅，生活得极其低调，可自我膨胀往往总是发生在自己意识不到的层面——他自信自己能兼顾好更大的团队，掌控更多资源，让项目跑得更快。可结果却是，这辆高速列车已经处在了脱轨的边缘。实际上，蔡浩宇也曾赶紧拉下手刹，重新梳理团队架构。他去掉了「中间商赚差价」的环节，让自己下沉到项目之中，亲自review百人团队。但此时项目已经积重难返，哪怕他亲临一线，也仍然无法想象PJSH应该如何调整。在直面一切后，蔡浩宇做出了断舍离的抉择。没有太多挣扎，他决定终止PJSH的研发。哪怕后来团队认为两年多的心血付诸东流太过可惜，他也只是让团队继续尝试，自己则抽身出来。那段日子，是蔡浩宇最沮丧的时刻。一直以来，他执着于不断超越自己，做出更厉害的产品，但PJSH把他拉回到了现实，让他明白了不是所有的一切都尽在掌控。如果强行「我都要」，产品一定会失控。更难受的是，他看不见未来有什么明确的方向值得All in去做，直到ChatGPT出来，才一定程度上解决了他的精神内耗。于是，他决定暂时离开游戏，投身AI相关的研究。03重拾passion故事到这里本该结束了。一个不断刷新纪录的技术宅，终于撞上了行业的天花板，意识到成功总是时运所系，于是说服自己，与其奢求连续成功，不如换一个领域，或者干脆享受生活，留下一段传说，交给后人超越。对不起，这并不是蔡浩宇的故事。在研究AI的日子里，蔡浩宇经常思考AI与游戏的关系，PJSH自然也被他偶尔想起。突然有一天，他的脑海里居然又浮现出了具体的游戏画面，那是一个比PJSH更自洽的题目。之前，PJSH在各方各面都追求创新，但它的IP、美术、玩法、商业模式并不自洽。例如他们一直想做FPS，但其实FPS的镜头视角限制了角色的演出空间，哪怕他们可以像《命运》那样，给角色加上多种技能，可在写实框架下，技能顶多也只是类似手雷、烟雾弹这样的战术道具，很难提高角色的幻想度。但如果不过度追求全盘创新，他们是否可以利用过去擅长的角色塑造能力，以及动作玩法经验，为多角色提供展示魅力的舞台，然后聚焦那些更关键的体验差异？首先，以城市为基础的写实开放世界，可以承载和《原神》截然不同的叙事风格。《原神》更像是一个幻想国度，它的基调相对轻松。而写实都市则更贴近现代人的生活，可以讲述更现实、更深刻的故事。沿着这个路径继续思考，能不能既保证都市开放世界的写实，又保留角色的幻想度？蔡浩宇很快否定了超级英雄、魔法、科幻等常见设定，而是选择了心理学作为背景。游戏世界观围绕潜意识展开，核心设定是如果你能影响人类集体潜意识，那将拥有改变物理世界的超能力。同时，在城市开放世界的自由度上，蔡浩宇认为玩法比重应该向叙事倾斜，而非世界探索。类比来说，这就像是《GTA》《荒野大镖客》与《塞尔达传说》的区别。而在今天《Varsapura》的实机演示中，他们其实已经展露了叙事层面的部分野心，你能看到角色的对话选项，带有一定的判定要素。这个玩法方向，也隐藏着蔡浩宇对用户需求的理解。近几年的开放世界游戏中，以叙事驱动的大作并不多，大家更多都在参考以视觉引导为主的设计方式，而他有不同的看法。虽然没有任何证据能证明一款新的叙事驱动的开放世界能大成，但大赌大赢一向是他的哲学。而在风格化美术层面，经过多年的探索迭代，团队的方向也逐渐明确起来。正如这次实机演示中的看板娘女警官，她的服饰并没有脱离写实范畴，没有过于夸张的元素，但你还是能感受到满满的二次元审美和设计细节。经过几个月的思考后，想法逐渐清晰、自洽，于是《Varsapura》正式立项。蔡浩宇告诉大家，自己终于拾回了做游戏的passion。这一次，蔡浩宇决定让团队先保持30人，同时由自己亲自下场做设计，做技术。甚至在早期阶段，负责撰写IP世界观的只有他一个人。不过，尽管《Varsapura》的大方向与团队运转步入了正轨，但这还只是开始，想要保证列车平稳抵达终点，依然需要克服大量困难。在叙事层面，蔡浩宇想要描绘更加写实深刻的故事，这意味着他们要从过去擅长的动漫番剧叙事，转向类似美剧的风格，这个转变相当困难。为此，《Varsapura》引入了一些拥有影视、3A游戏背景的编剧，专注于把剧情写得更细，更有起伏。同样，《Varsapura》的写实风格化美术，也与传统二游有很大区隔。但过去提到蔡浩宇，从业者普遍会把他的产品与赛璐璐风格的日式画风做绑定，这导致项目早期阶段，大家很难招到合适的美术人才。直到现在，蔡浩宇也会抽出不少时间用于招聘。更有挑战的是，为了加强叙事沉浸感，蔡浩宇还想改变过去传统JRPG中播片式的演出，让游戏叙事与Gameplay无缝结合。过去，二游往往会让玩家从box中配好角色，并投入战斗场景。但如果是在强剧情体验中，这种随意切角色的战斗，很可能会让玩家感到割裂：明明上一秒剧情里还是另一个角色，怎么下一秒就变了？于是，蔡浩宇根据战斗、剧情、自由探索做了三种系统设计。在剧情过程中，他会牺牲部分多人组队的自由度，避免其他角色乱入，从而保证纯净的剧情体验。一个直观例子是，在实机演示中，玩家第一次在战斗中切出看板娘时，她会破门而入，加入战场，这段小演出其实紧密承接了上一段剧情。另外，尽管这次实机视频对汽车载具的演示并不多，但你也能看到它有着诸如漂移、喷气等玩法空间。实际上，载具将会是《Varsapura》很重要的一条玩法线。蔡浩宇觉得，在《GTA》中，打枪与开车是两个核心体验。在《Varsapura》中，汽车同样也要承担更重要的内容和玩法体验。比如城市中可能会有很多竞速赛道，警匪之间也会上演高速追逐的戏码，而不同汽车或许还会有着不一样的能力。为了做好载具体验，蔡浩宇和团队投入了大量精力去钻研物理引擎，从而实现不同汽车的驾驶手感。他相信，未来游戏做好后，载具玩法所占的比重，应该会比目前市场上的同类游戏更多。看到这里，你应该更能察觉到，尽管《Varsapura》在多个方面有所妥协，但蔡浩宇还是希望能超越以往做过的产品，做出不一样的设计，哪怕这个过程要面临许多不确定因素，以及高风险的挑战。目前，《Varsapura》战斗系统的大方向依然是多角色、多职业的动作体验，但他们还是尝试引入了潜行暗杀等玩法。蔡浩宇认为，新鲜的战斗体验需要时间去摸索，正如《原神》的元素反应，也是在CB1到CB2之间才真正成熟的。同时，很多人可能没注意到，实机演示中的黄色警戒线上，有一行小字：Attention is all you need——这是一篇自然语言处理领域的里程碑式论文，作为AI小彩蛋，它暗示了AI与游戏结合的可能性。正如此前招聘海报中提到的，《Varsapura》想要构建一个高自由度的AI人文沙盒。如果可以实现，整个城市的NPC和可操作角色将会形成一张庞大的关系网，玩家的任何行为都可能对世界产生影响。而AI，恰好也是蔡浩宇这几年一直在亲自研究的东西。04拯救世界今天《Varsapura》首曝后，整个行业都在疯狂讨论这段超30分钟的实机演示。不过抛开对产品的评价，在了解整个研发历程之后，我最佩服的，还是蔡浩宇对创作的坚持。在行业中，也有不少早已功成名就的制作人或公司老板，依旧保持着创作的习惯，会在一线参与设计决策。但和蔡浩宇相比，很多大佬的事必躬亲，还是缺了一点力度。向《Varsapura》的发行负责人王宇阳求证后，他告诉我，像是首曝宣发这种工作，属于市场发行的领域，但作为制作人，蔡浩宇会亲自编写实机演示的脚本，而且细致到了哪一秒，镜头应该看向哪里。很多人接触蔡浩宇后，都发现他有一股与身份、年龄不匹配的气质。他不开豪车，打扮低调，穿着一身棒球夹克，甚至有一股学生气。有的时候，他还会提前到8点到公司，先上一节公司提供给大家的英语课，哪怕他的英语水平早就能和外国人无障碍沟通了。为了学好英语，他还曾告诉同事，在学好英语前，所有娱乐内容，都只看英文版本。以至于有的同事在坚持不住的时候，会咬牙告诉自己：「我靠蔡哥还在上，那我也不能逃课。」王宇阳说，他之前听过不少江湖传闻，以为蔡浩宇这样的人，一定很难和普通人打交道。但实际接触后发现，他的ego很小，在日常工作中没什么架子，哪怕是没有研发经验的同事，也会被他鼓励着表达对游戏的想法，讨论如何去改进游戏。不过蔡浩宇在一些事情上，还是有着极强的个人执念。在亲手撰写的米哈游handbook上，他曾提到公司的愿景和使命，是技术宅拯救世界，是打造全球十亿人愿意生活其中的虚拟世界。如今他对自己职业生涯的终极追求，也依然是像苹果、特斯拉一样，打造世界上从未存在过的东西。打造一个虚拟世界，这个愿景看起来非常中二。但熟悉蔡浩宇的人都知道，这并非只是写在handbook上的漂亮话，而是鼓励蔡浩宇坚持到现在的人生信条。大伟哥曾说，如果你和蔡浩宇一起共事，一定要保护好蔡浩宇的少年气和锐气，让他能够心无旁骛地去创作。当你和蔡浩宇讨论时，他会非常认真地解释，为什么现在还实现不了《刀剑神域》那样的虚拟世界，脑机发展还需要具备哪些条件。哪怕目前他在AI方面的探索近况并不乐观，但他还是坚定地认为，未来生成式的语言模型会跟游戏结合，做出非常酷的产品。提起虚拟世界的庞大愿景，蔡浩宇曾说，小时候他曾幻想过，如果有这么一个小小电视，能让他躲在被窝里看，不被父母发现，那该有多好。那时他无法想象这个小小电视会长什么样，直到智能手机的出现。虚拟世界也是如此，哪怕现在前方还有重重迷雾，无法看到终点，但这个愿景就像是一座灯塔，始终指引着他前进，他相信现在所做的所有事情，都会让他越来越接近这个目标。很多人在和蔡浩宇接触后，不禁由衷地羡慕蔡浩宇，「你当然可以说他是天才，但不是所有天才都有着改变世界的决心。曾几何时，我们可能也和他一样，想要改变世界，但不是每个人都有足够的勇气和信念坚持下去。」在创业前的一篇开发博客里，蔡浩宇曾分享过自己的人生理念：「是否活着的意义就在于，你是屈服于此，成为世界运行的傀儡，还是不断挣扎，成为改变世界的因子。」世界运行的规则正在影响所有人，即便是蔡浩宇也无法置身事外。但这位38岁仍然带着少年气的技术宅还在挣扎，他还想再试一试。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读年轻人爆仓 | 8000成本AI创业 | 对话鸭科夫星布谷地 | 望月重做 | 灰境行者明日方舟终末地 | 无限大 | 字节AI玩原神游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649981967_1": {
+    "id": "wechat-youxiputao-2649981967_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "网易李凯明官宣将离职创业：曾开创率土like，创立第十事业部",
+    "original_url": "https://mp.weixin.qq.com/s/dhH3sKWou3rjYHaVSHGX_w",
+    "published_at": "2025-10-22T21:18:55+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcpovvkic1RxMEgc8v4s9qyhibGicxjZZQNYKErhzp4r7FL9DETrnE09bSH6t5G16GfIALhr1wHyxTdw/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "率土like的开创者。",
+    "payload": {
+      "excerpt": "率土like的开创者。",
+      "body": "网易李凯明官宣将离职创业：曾开创率土like，创立第十事业部\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 率土like的开创者。‍‍‍‍‍‍‍‍‍‍‍‍‍文/托马斯之颅&王丹今日，网易互娱第十事业部负责人李凯明发布内部信，表示「由于个人职业发展的长远规划，近日我将从网易离职，开启创业的新征程！」他在信中感谢了公司和领导给予的信任和机会，并称在网易这十二年的经历是他人生中无与伦比的财富。以下为李凯明内部信全文：李凯明也在今晚发布了朋友圈，对业内关于他「被公司卸磨杀驴」的传言进行了辟谣，表示「我是自己要创业，我早就提离职了」。据其朋友圈截图，李凯明已于9月在系统内发起离职意向，目前还处于审批阶段。对此，网易互娱第十事业部回应称，原负责人李凯明因个人原因近期已向公司提出离职，相关交接工作顺利进行，不会影响到工作室正常运行。感谢凯明此前为团队作出的贡献，也希望他未来工作生活一切顺利。李凯明毕业于上海同济大学，2013年加入网易，曾负责广州合作产品部的成立和运营。而他最出名的战绩，就是做出了《率土之滨》。在2015年之前，绝大多数SLG手游都会沿用COK的框架。但据李凯明在网易游戏学堂举办的公开日活动上回忆，立项之初，他们首先决定不做三件事：不做传统页游的策略玩法、不做VIP、不用三国取名。之后，团队围绕占地、攻城、对抗/交互三个核心要素，做出了走格子、弱掠夺强合作、赛季制等一系列设计。十周年之际，《率土之滨》登畅销榜Top 72015年10月23日，《率土之滨》上线。据七麦数据统计，2018年10月，产品第一次进入iOS游戏畅销榜Top 5。上线一年后，游戏还获得了苹果的推荐。在《率土之滨》成功后，越来越多公司发现了这套设计在长线留存和收入上的优势，率土like也成为了和COK like并列的SLG玩法原型。《率土之滨》上线前几年的iOS游戏畅销榜走势如今十年过去，《率土之滨》通过多次迭代，即便在榜单越来越卷的近两年，也能时不时重回畅销榜Top 10左右。在做出《率土之滨》之后，第十事业部一直在研发策略游戏。2021年，他们推出了科幻题材的SLG手游《无尽的拉格朗日》。上线近一年后，游戏一度进入iOS游戏畅销榜Top 10，但之后没能复刻《率土之滨》的逆生长奇迹。2024年10月，第十事业部又曝光了一款历史题材单机策略游戏《万民长歌》。游戏在《率土之滨》的玩法之外，融入了《三国志》《全战》的影子。但遗憾的是，2025年6月-7月，业内传出了项目研发暂停的消息。多名相关人士称，李凯明曾亲自担任这个项目的制作人。在《率土之滨》上线一年时，李凯明曾说，他们不希望考虑游戏能做多久，“既然我认真做了这个事情，就要把它做到极致。”然而如今的游戏行业，长青游戏的寿命越来越久，游戏还在蒸蒸日上，制作人却已离职的情况也越来越多。这何尝不是另一种物是人非。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读行业人才走势 | 蔡浩宇AI游戏 | 漕河泾小天才对话库洛李松伦 | 归唐 | 对话莉莉丝袁帅点点互动翻盘 | 上海游戏政策 | 明末虚渊之羽游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文\n 修改于",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649980658_1": {
+    "id": "wechat-youxiputao-2649980658_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "口碑最烂的大厂赌出超级爆款：烧光28亿，前作多次暴死",
+    "original_url": "https://mp.weixin.qq.com/s/9rzA-SKcRQaMNJpZizJOgA",
+    "published_at": "2025-10-11T23:42:43+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftfGHLkCbKvuOicmXy97lvKnBkgJ1ysfol6OicVJOAUhtUR4PCQowbDfyoMibvorlJBmkJcghccOHD2yQ/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "这次它真的不一样。",
+    "payload": {
+      "excerpt": "这次它真的不一样。",
+      "body": "口碑最烂的大厂赌出超级爆款：烧光28亿，前作多次暴死\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 这次它真的不一样。文/梁乐天昨晚11点，《战地风云6》（下称《战地6》）终于正式发售，并迅速空降Steam全球热销Top 1。到凌晨1点，葡萄君打开SteamDB时，游戏的全球在线人数已经超过了《Dota 2》，一度达到了74万。可以预计的是，随着周末的到来，这一数据或许还会迎来新高——这还没有计算主机版本的成绩。截至发稿时，《战地6》简中区的好评率已经从开局的褒贬不一，回到了多半好评由于瞬时涌入的玩家太多，为了避免炸服，官方开启了排队机制。这可让屏幕前的几十万玩家心急如焚。漫长的等待也催生了一个笑话：这或许是EA新发明的防退款策略，因为等排队进去玩上几把，两个小时的退款时限早就过了。图源小黑盒@无人打开好友列表，不是都说不玩吗？当初被《战地2042》伤透了心，一个个都发誓再预购就是狗。结果听到噔→噔→噔→噔↗噔→噔↘的神秘音乐，就立马掏出手机完成了支付，嘴里还念叨着：信我，这次它真的不一样。战地玩家特有的吃一堑又吃一堑不过讲真，这次的《战地6》好像还真有那么点不一样。三年半的研发工期，远超4亿美元（约28亿人民币）的开发成本；EA为此整合了四个工作室，并请来了Byron Beede（曾任《使命召唤》《命运》总经理）和Vince Zampella（《泰坦陨落》《APEX英雄》开发商Respawn Entertainment的CEO，曾是《使命召唤》开发商Infinity Ward的联合创始人）来掌舵；甚至设定了1亿玩家的目标，颇有些不成功便成仁的意思。今年8月的Beta测试也为游戏积累了良好的前期口碑，算得上战地系列有史以来最好的B测——不仅放出的内容量足够多，其完成度也不低，给大家吃了一记定心丸，让不少犹豫不决的玩家当场拍板、决定预购。对中国玩家，这次的待遇同样拉得很满：全球搞了两场线下直播，香港就占了一个名额；游戏配备了完整的中文语音和文字支持，价格还特别实在；项目组甚至专门拍了视频来和中文玩家们打招呼……虽然刚上线的《战地6》仍有不少优化空间，但就目前而言，它应该是该系列近年来最稳的一作。01返璞归真如果用一个词来形容《战地6》，那应该是：返璞归真。相较于前作《战地2042》，本作大幅减少了那些天马行空的科幻技术，转而采用更接地气的现代战争形式，回到了《战地3》时代那种纯粹、硬核的质感。当然，这种谨慎和保守也意味着，即便有更震撼的破坏效果和更流畅的战术动作加持，《战地6》在核心玩法上没有拿出什么颠覆性的新花样。对别的游戏来说，这种做法或许会被打上“缺乏进取心、缺乏创新性”的标签；但对《战地6》来说，这种回归可能恰恰是最正确的选择，让该系列重新抓住了自己成功的根本。这种原汁原味的感觉，首先体现在小队战术的回归上。《战地6》重新将团队合作置于核心：突击、支援、工程和侦察，经典的四大职业悉数归位，每个人都分工明确，各有所长。这套体系会逼着你和队友思考。突击兵是顶在前面的破局者，但反载具能力一般；支援兵可以加血、补弹、架盾，但战斗能力不强；地面载具虽然威力骇人，却也很脆弱，必须依赖工程兵随行修理才能持续作战……每个人都无法独当一面，却又在自己的领域无可替代。因此，单打独斗的孤狼在这里注定走不远，胜利属于懂得沟通、配合与分工的队伍。而当团队协作发挥到极致时，你便能感受到有序中带着混乱的经典战地味：烟雾弥漫于阵地，坦克轰鸣着向前推进，工程师们在炮火下争分夺秒地维修载具，而医护兵则冒死将倒下的队友拖至安全地带……值得一提的是，《战地6》提高了救人与维修的得分。也就是说，在本作中，光杀人可不一定能拿到积分榜第一。于是，在游戏里，你时常能看到被戏称为“焊武帝”的工程兵，靠着跟在坦克屁股后面修修补补，也能拿下全场第一。这对新手玩家显然更为友好。这正是《战地》与其他竞技射击游戏最大的不同：在这里，没人会揪着你的KD不放，分数高低并不会带来实质奖励。打开社交媒体，你会发现各种整活才是王道。当然，这不是说拿竞技思维玩《战地6》有错。你完全可以选择当一个冲锋陷阵、在点里杀个七进七出的猛男；与此同时，你也可以和朋友们研究怎么把坦克炸上天，甚至掏出焊枪，在墙上搞点艺术创作。图源B站@土鸡蛋工作室而《战地6》返璞归真的体验，离不开一个更底层的逻辑：对枪械手感的追求。在前段时间科隆游戏展的开发者分享（Devcom）上，DICE的设计师Jack Carlson便提到，他们有一个基本的认知——在成为任何其他东西之前，《战地》首先是一款纯粹的FPS。这听起来很简单，对于《战地》来说，似乎也显而易见。但它的作用，是将游戏设计锚定在最核心的互动上，也就是从第一人称视角进行射击和造成伤害。无论美术、技术、设计还是音频，一切都必须服务于这一目的。这种理念催生了许多玩家能直观体验到的细节。按照设计师的说法，当玩家扣下扳机，游戏必须在前1到2帧的极短时间内，就通过枪械的后坐动画、镜头抖动和爆炸音效，给出一个冲击力足够强的回应。这种对即时反馈细节的注重，是构成《战地6》良好手感的原因之一。Jack Carlson虽然《战地6》并非完美，部分武器和载具的平衡性仍有待调整，地图设计水平也有些参差，但瑕不掩瑜，这些问题都可以通过后续的更新解决。它的多人对战体验，可以说是系列近年来最扎实的。至于单人战役嘛……只能说聊胜于无。整个故事就像一部不过不失的好莱坞爆米花大片：场面热闹，剧情平淡，整体玩下来没什么记忆点，也难怪IGN会给出5分的评价。02战地23年走过23个年头，《战地》系列早已是射击游戏史上一个无法绕开的名字。1992年在瑞典，创立DICE（Digital Illusions Creative Entertainment）的四名大学生Ulf Mandorff、Olof Gustafsson、Fredrik Liliegren以及Andreas Axelsson恐怕想不到，这家公司会凭借一款射击游戏闻名世界。在创立初期，为了积累开发经验，DICE既给Amiga平台开发过当时颇为流行的弹球游戏，也接过像微软《瑞典房车赛》这类赛车游戏的外包项目。2002年，DICE凭借《战地1942》的横空出世，一夜成名。多人大战场、多样化兵种和载具……这些日后让《战地》成名的特色，在系列的第一部作品中就已定下基调。市场的热烈反响证明了它的潜力，DICE也在次年果断停止所有外包业务，将全部精力投入到《战地》系列的开发中。此后的几年，DICE佳作频出：非对称玩法的《战地：越南》、引入真实物理破坏的《战地2》，以及首次登陆主机平台并加入单人战役的《战地2：现代战争》……如此强势的表现，自然引来了EA的注意。《战地2》目前依然是“战地”系列中评分最高的一作2006年，EA花费2300万美元（约1.6亿人民币），将DICE收入麾下。被收购后的DICE，一边推出《战地2142》《战地：叛逆连队》等实验性作品，一边还要协助EA旗下其他工作室进行开发，日子过得不可谓不忙碌。但在这种高压之下，DICE依然在2011年推出了《战地3》，一战封神。得益于寒霜引擎的技术飞跃，游戏的画面光影与环境破坏效果达到了当时的新高度。更难得的是，它的单人战役剧情也算得上精彩。首月800万套的销量，让《战地》系列在这一刻，终于成了能与《使命召唤》正面对抗的存在。在《战地3》的巨大成功后，系列的辉煌在2016年的《战地1》达到了顶点。它凭借着震撼的视听体验和对一战的独特呈现，获得了口碑与销量的双丰收，在当年彻底压过了老对手《使命召唤》。但谁也想不到，辉煌的顶点，也是通往衰落的起点。《战地1》发售前后，EA高层开始频繁干预DICE的决策。他们先是看到了电竞化的巨大商业潜力，要求DICE将《战地》电竞化。其直接后果，便是《战地1》后续DLC质量的断崖式下跌，以及核心开发者集体出走。而被硬推出来的入侵模式，上线不到一个月便无人问津。随后，大逃杀游戏的异军突起又让EA高层眼馋，要求刚刚经历换血、尚在磨合的DICE将开发重心转向为《战地5》制作大逃杀模式。结果可想而知：灾难性的首发、被玩家口诛笔伐的宣发、一个姗姗来迟又迅速鬼服的大逃杀模式“火线风暴”，以及一个多人模式半成品。再之后，便是大家更为熟知的《战地2042》。在疫情以及搜打撤游戏崛起的背景下，EA又一次指错了方向：新模式“危险地带”匆匆上马又迅速失败，而多人模式则几乎复刻了《战地5》发售时的悲剧。内部，是核心员工的不断出走；外部，是EA的强势干预；接连两部作品的失利，让玩家社群的信任降至冰点……这便是《战地6》，当时内部代号为“冰川”的项目，在立项之初所面临的局面。或许是意识到了悬崖勒马的必要性，EA开始了一系列调整。首先是换将。2021年，EA请来了两位曾在《使命召唤》担任要职的老将——Byron Beede与Vince Zampella，来统管整个《战地6》的开发。同时，他们还挖来了《光环》的联合创作者之一Marcus Lehto，在西雅图成立新工作室Ridgeline Games，专门负责《战地6》的单人战役开发。其次是整合。EA将旗下的DICE、Ripple Effect（原DICE LA）、Motive（代表作是《死亡空间》重制版）和Criterion（代表作是《极品飞车》）四个工作室进行整合，组成“战地工作室”，将所有资源和人力都押在了这一个项目上。最后是加钱。据海外媒体Ars Technica报道，2023年初，《战地6》的预算为4亿美元（约28亿人民币），成为史上开发成本最高的《战地》。但EA这套看似万无一失的组合技，却在一个关键环节上出了问题。那个为了补齐前作短板、专门成立新工作室来开发单人战役的决定，不仅没有达到预期的效果，反而引发了开发危机，并最终导致本就高昂的预算彻底失控。据海外媒体Ars Technica报道，新成立的Ridgeline工作室在两年的开发时间里，由于缺乏有效监管，项目进度几乎无人知晓。直到2024年2月，EA在一次关键评估中才发现项目进展缓慢且质量堪忧，随即关闭了整个工作室。紧接着，单人战役的开发工作被分配给了3家工作室：Criterion、DICE和Motive。但他们很快发现，“Ridgeline花了2年开发的内容完全没法用”，他们不得不在距离发售日仅剩一年多的时间里，将所有内容推倒重来。甚至直到今年5月底，单人战役部分都未能完成Alpha测试。无论如何，在经历了种种波折后，《战地6》终究是在10月10日准时发售了。虽然开发过程一波三折，也经受了玩家们长期的质疑，但它发售后的第一步，目前来看走得还算稳健。纵观该系列23年的发展，这部史上最昂贵的《战地》，面临的是史上最艰难的局面。它能否一扫前作的阴霾，让这个传奇系列重现荣光，成败或许真的在此一举了。《战地6》获得了该系列近年来的最好评分03成也EA，败也EA虽然近年来玩家对EA的批评不绝于耳，但不可否认的是：没有EA，或许就没有《战地》。在DICE名不见经传时，是EA慧眼识珠，拍板出钱发行了《战地1942》，让游戏呱呱坠地；2006年的收购，更是让DICE这家瑞典小作坊鸟枪换炮，获得了充足的资金和资源去扩张团队，打磨寒霜引擎，这才有了后来一系列的封神之作。可以说，正是EA的商业眼光和雄厚资本，让《战地》走到了今天的位置。然而，当商业凌驾于创意之上时，蜜糖也会变成毒药。EA逐年下滑的玩家口碑，并没有影响它在GaaS领域的赚钱能力。也正是该模式在商业上的巨大成功，让EA对《战地》系列产生了更高的期望，试图将其他游戏的成功模式强行嫁接到《战地》身上。这种做法不仅没能带来预期的收益，反而一步步稀释了系列的核心魅力，透支了玩家的信任。如今，EA被私有资本收购，自己也迎来了新变局。可以预见的是，出于盈利的考虑，未来的EA可能采取更激进的成本削减举措；同时，它也将更难再去冒险开辟新IP，而是会专注于最大化现有品牌的价值，比如提高服务型游戏和EA Play订阅的利润。那么，这对刚刚缓过一口气的《战地》意味着什么？之后上线的全新大逃杀模式，将给出第一个答案。它会是像《使命召唤：战区》那样，成为与本体相辅相成的成功延伸？还是会重蹈“火线风暴”的覆辙，成为又一个被硬塞进来的、被玩家迅速抛弃的半成品？目前《战地6》的成绩，似乎止住了该系列近年来的下滑颓势，为这个IP赢得了宝贵的喘息机会。但对于身处EA这艘巨轮上的战地工作室成员，以及《战地》系列而言，前方的风浪，恐怕才刚刚开始。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读行业人才走势 | 蔡浩宇AI游戏 | 漕河泾小天才对话库洛李松伦 | 归唐 | 对话莉莉丝袁帅点点互动翻盘 | 上海游戏政策 | 明末虚渊之羽游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649970019_3": {
+    "id": "wechat-youxiputao-2649970019_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "微软再裁约9000人，游戏业务迎来大调整",
+    "original_url": "https://mp.weixin.qq.com/s/Hs0V58Pm0LriP-vfACW0zw",
+    "published_at": "2025-07-03T21:26:37+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3fteFYAhVHXia68CF1vWpfyxBUgrchiax26qcbKDmPic2nmzNzFzKxNEzxhOlr92PlEXZZpG2wXHpnng6A/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "再裁约9000人，微软游戏业务迎来大调整。",
+    "payload": {
+      "excerpt": "再裁约9000人，微软游戏业务迎来大调整。",
+      "body": "微软再裁约9000人，游戏业务迎来大调整",
+      "author": ""
+    }
+  },
+  "wechat-youxiputao-2649964739_3": {
+    "id": "wechat-youxiputao-2649964739_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "B站Q1游戏收入暴涨76%至17.3亿，还得是《三谋》",
+    "original_url": "https://mp.weixin.qq.com/s/jXnDp6yFkNntGFPEpw-WhA",
+    "published_at": "2025-05-20T21:03:06+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftewOwdyIBqkkv2T0Y5jWzaRpZyvSKqYkHCJI8o7LvNV5Ru0E2h9pia6QBaWJgFCOYMdtVUcCJLda2A/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "excerpt": "",
+      "body": "B站Q1游戏收入暴涨76%至17.3亿，还得是《三谋》\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 文/王丹今日（5月20日），B站公布了2025年第一季度财报。报告期内，公司总营收为70亿元人民币，同比增长24%。其中游戏业务收入17.3亿元，同比增长76%；广告业务收入20亿元，同比增长20%。广告和游戏业务收入快速增长，带动毛利润同比提升58%。公司毛利率连续11个季度环比提升至36.3%。此外，本季度B站多项数据创下历史新高，其中包括：月均活跃用户达3.68亿；用户日均使用时长增长至108分钟。财报表示，公司游戏业务的收入增长，主要源于《三国：谋定天下》（下称《三谋》）的强势表现。同时，公司Q1营销成本同比增加26%，部分原因也在于《三谋》的宣发成本在连年增加。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读鹰角音律联觉 | 苏丹的游戏 | 星穹铁道音乐会成都慢半拍 | 漕河泾「抬棺人」| 91ACT复活 对话射雕制作人 | 33号远征队 | 黑暗世界：因与果游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649960836_1": {
+    "id": "wechat-youxiputao-2649960836_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "育碧血赚？腾讯斥资11.6亿欧元，投资刺客信条等三大核心IP",
+    "original_url": "https://mp.weixin.qq.com/s/8s9FnFKxDP1lzoaRa_l8GA",
+    "published_at": "2025-03-28T08:25:14+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftee1AkMdnxN6SeLfWADOAE3Ebz5fc7vOVzY5xsoOibcg8V6JQeHCHbgrq5Haf4dO8xSOY3Hpuh6IhA/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "「长青游戏」这个概念也算开始文化输出了。",
+    "payload": {
+      "excerpt": "「长青游戏」这个概念也算开始文化输出了。",
+      "body": "育碧血赚？腾讯斥资11.6亿欧元，投资刺客信条等三大核心IP\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 「长青游戏」这个概念也算开始文化输出了。‍‍‍‍‍‍‍‍文/托马斯之颅3月27日，育碧发布公告，宣布将把刺客信条、孤岛惊魂、彩虹六号等IP剥离出来，成立一家全资子公司，腾讯将以11.6亿欧元的价格，在这一新公司当中占股25%。而原有的育碧，将专注于幽灵行动、全境封锁等IP的开发。新公司的估值约为40亿欧元，对应2024-2025财年平均销售额的4倍乘数，而近期育碧的市值在20亿欧元上下。换言之，腾讯投资的这家新公司，拥有育碧最核心的IP和最大的价值，而腾讯给出的价格，也释放出了巨大的诚意。消息一出，育碧大涨超10%公告称，新公司将专注于长青化、多平台的游戏生态，通过更高频率的内容更新，扩展多人游戏产品矩阵，引入免费游玩接触点，并整合更多社交功能。这些也都是腾讯擅长的领域。‍‍‍‍‍‍‍‍另外公告还披露了一些腾讯投资的相关细节：腾讯注资的11.6亿欧元，将用于强化育碧的资产负债表，包括偿还集团债务和辅助新公司的运营；‍育碧将保留子公司100%的创意控制权、IP所有权和商业决策权；‍腾讯有权提名一名无表决权的董事会观察员，但不会干涉公司运营；‍协议包含标准交割条件，包括但不限于通过相关反垄断审查，以及获得必要的监管批准。这家新公司，将拥有位于蒙特利尔、魁北克、舍布鲁克、萨格奈、巴塞罗那及索非亚的彩虹六号、刺客信条、孤岛惊魂系列的开发团队、所有历史作品、当前处于开发阶段或未来计划开发的任何新游戏，且相关权利属于全球性、排他性、不可撤销的永久许可。不过子公司需要向育碧支付特许权使用费。《刺客信条：影》育碧联合创始人兼CEO Yves Guillemot表示，这轮投资帮助育碧实现了资产价值的显性化，强化了资产负债表。未来育碧将打造更精简、更专注的组织架构，并致力于构建强大的游戏生态系统以实现长青化，推动高绩效品牌的成长，并依托尖端与新兴技术创造新IP。腾讯总裁刘炽平则表示：“我们很高兴通过这次投资来进一步巩固与育碧的长期合作伙伴关系，这表明我们对育碧的创意愿景和杰出人才持续推动行业发展一直充满信心。我们看到这些游戏系列有巨大的潜力发展成为长期的长青游戏平台，并为玩家创造引人入胜的新体验。”‍‍‍‍‍‍‍‍‍‍‍‍‍至此，育碧算是阶段性地走出了困局，而腾讯也距离育碧最核心的资产更近了一步。更有趣的是，从双方的发言来看，「长青游戏」（Evergreen）已经成为了大家共同追逐的目标。这个由腾讯主要提出、不断强调和践行的词汇，也算是开始文化输出了。附育碧公告原文：https://staticctf.ubisoft.com/8aefmxkxpxwl/1uPFqvuRRej3UoemTIgVLH/890f8c1f7640ab0b4e098c0a42f32a91/2025.03.27_-_Press_Release_vfinal.pdf游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读腾讯离职制作人 | DeepSeek实操 | 广州百人公司解散燕云十六声 |  中国二游2025 | 天美组织调整行业没有中产 | 对话腾讯助理总经理 | 广州游戏地图游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649951605_3": {
+    "id": "wechat-youxiputao-2649951605_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "今年最赚钱的新游？DNF手游国服iOS收入超10亿美元",
+    "original_url": "https://mp.weixin.qq.com/s/NJvjtcb64Uy3sNywflBlTQ",
+    "published_at": "2024-12-04T20:20:01+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3fteuiahmEsIoCmBMQa0kqfG80eUrkay7loK5hb1yt9rC49bl1eWv184FAdPzulJgbQpicRxia48Gtic1iaQ/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "该数据由AppMagic测算。",
+    "payload": {
+      "excerpt": "该数据由AppMagic测算。",
+      "body": "今年最赚钱的新游？DNF手游国服iOS收入超10亿美元",
+      "author": ""
+    }
+  },
+  "wechat-youxiputao-2649920859_4": {
+    "id": "wechat-youxiputao-2649920859_4",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "凌晨115款版号突发，朝夕光年腾讯鹰角在列，什么叫惊喜",
+    "original_url": "https://mp.weixin.qq.com/s/MnYs_ZvlY0UAnrMEDAnvfA",
+    "published_at": "2024-01-26T20:58:45+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftdsocHfDJz6zFqBicJFCgzmZJAqStGptdUbVszK42aHQlHnvmNBzR2g4Nv61WBbHgJVzD9LbX5icJ8w/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "猝不及防。",
+    "payload": {
+      "excerpt": "猝不及防。",
+      "body": "凌晨115款版号突发，朝夕光年腾讯鹰角在列，什么叫惊喜\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 猝不及防。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍文/严锦彦1月26日，国家新闻出版署公布了2024年1月份国产网络游戏审批信息，共有115款游戏过审（文末附有完整名单）。与以往不同的是，本次版号公示的时间节点，选择在了凌晨，这也让不少游戏人深夜一激灵。本次过审版号中，值得注意的产品有：腾讯《热血美职篮》、莉莉丝《万龙觉醒》、鹰角《泡姆泡姆》、朝夕光年《龙息：神寂》、心动《伊瑟·重启日》、游族《我的三体：2277》、龙渊《物华弥新》、冰川网络《悠星大陆》、诗悦《梦境护卫队》、无端科技《雷鸣行动》、四三九九《卡米亚计划》、雷霆《纪元变异》……其中《龙息：神寂》为朝夕光年自研自发的一款Team RPG策略游戏。该产品曾于去年苹果年度开发者大会（WWDC2023）上，作为唯一一款国产游戏，出现在Mac介绍环节。游戏已于去年登陆海外。虽然去年字节跳动宣布调整游戏业务，但据信源透露，目前《龙息：神寂》已和多个外部方洽谈，且取得了不错的进展。《泡姆泡姆》是鹰角自研的一款多人合作PartyGame，游戏于去年首曝，预计将采用买断制收费，登陆PC&主机端。此前葡萄君曾对这款产品的试玩版做过相关报道。《万龙觉醒》为莉莉丝与乐狗继《万国觉醒》之后的第二次合作，依然是其擅长的SLG品类。游戏于2023年初在海外上线，不久即在近100个国家地区的App Store里冲到了免费榜前十，法国、新加坡等地的畅销前十。《伊瑟·重启日》是一款近未来都市鬼神职人题材的3D回合制卡牌RPG，系心动自研工作室使用UE4制作。游戏舞台是名为「伊瑟」的虚拟都市，玩家将化身「超链者」，与鬼神职人「异格者」并肩战斗，对抗未知病毒的入侵，探索危机背后的阴谋，体验多种势力之间的明争暗斗。游戏曾于去年开启过测试，目前其TapTap评分为7.3分。本批过审游戏完整名单如下（点击查看高清图）：游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读朝夕光年败局 | 离开字节游戏 | 行业步入中年元梦之星 | 二次元骗局 | 星穹铁道 韩游赶中超日 | 绝区零 | 腾讯投资赢了游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649912819_3": {
+    "id": "wechat-youxiputao-2649912819_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "又一上市公司加入价格战：不卖数值的「全民」产品要来了",
+    "original_url": "https://mp.weixin.qq.com/s/VBWQ27GLCnbdfrrJJ489tQ",
+    "published_at": "2023-12-01T19:25:39+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftduKhQrLl0uuflSlkoKYP8E0CDol4zl1UapXfAKstXINWzibic7wibSxgg0Mvm8SkpM2zoNBruos29tQ/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "excerpt": "",
+      "body": "又一上市公司加入价格战：不卖数值的「全民」产品要来了\n 爱游戏的葡萄君\n 爱游戏的葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 今日（12月1日），由中手游控股子公司上海洲竞自主研发的网游《全民街篮》，正式宣布于12月29日开启不删档测试。如果平常有关注体育电竞游戏，那么你对中手游、上海洲竞可能并不感到陌生。毕竟，近些年来，他们在体育电竞领域里，动静不算小：2022年3月，中手游入股上海洲竞，邀请“街篮品类金牌制作人”赵勇硕与柳京彬两位制作人加盟，开始打造具有国潮特色的“街篮体育电竞生态”。中手游之所以想要打造“街篮体育电竞生态”，一方面在于，国内体育竞技市场目前大概率仍处于蓝海时期；另一方面，或许也和中手游较为特殊的企业身份有关——中手游已连续多年被评为社会责任表现突出企业，换个角度来说，他们坚持社会责任的企业形象，已经在一定程度上获得了社会认可。在此背景下立项的《全民街篮》，由“街篮品类金牌制作人”赵勇硕与柳京彬带队、中韩团队联合研发。而他们瞄准的受众群体，并非细分的竞技玩家或重度篮球爱好者，而是各个年龄段的全民玩家。选择这样广泛的目标受众定位，可能意味着中手游在做游戏的同时，也想为青少年提供一个更适合他们身心健康发展的产品。左：赵勇硕；右：柳京彬01“公平，公平，还是公平！”作为一款受众目标为“全民”的网游作品，《全民街篮》也相当重视\"公平\"这一核心要素。对于所有竞技类游戏玩家来说，这是最复杂，同时也最尖锐的问题。而在一个月前，知名解说管泽元拜访该项目的研发团队时，《全民街篮》游戏策划向观众公开表达了制作组的设计重点：“公平，公平，还是公平！”当前大部分竞技类游戏，为玩家提供的数值成长路线，大多为两种：第一，通过角色升级/升星，逐步解锁完整的角色属性/技能；第二，通过购买皮肤/饰品外观等道具，来获得额外属性加成。即使数值变化幅度再微小，这样的设计也多多少少会影响对局平衡。而《全民街篮》以“角色只是玩家实现球场操作的载体”作为核心，决定为初入游戏的玩家直接解锁角色的完整技能；同时，他们还向玩家承诺，《全民街篮》中的时装，只会改变角色外观，不会有任何数值加成。02对标现实街篮，只比操作和策略虽然不卖数值，但《全民街篮》为玩家构建了一套成长系统——在属性方面，游戏采用了里程碑模式。也就是说，玩家使用某个角色的熟练度越高，该角色的属性便会得到相应提升。取消了氪金获取及培养属性的商业化设计，再加上MOBA和街篮玩法的结合，意味着《全民街篮》玩家手中不会有全属性拉满的球员。只要玩家愿意去尝试不同的角色，那么每一位角色，都有可能在对局中改变比赛的走向。在这种机制设计下，传统的“通过投入资源进行数值养成”的玩法，已经行不通了。《全民街篮》的设计，显然是想引导玩家去集中精力研究技巧和操作，而非Pay to Win。除了在玩法设计中贯穿公平理念，《全民街篮》还将现实街篮中的战术配合、潮酷嘻哈风格元素，还原进了游戏里。比如，在3V3对决过程里，玩家就可以使出现实生活中的挡拆、传切等策略技术。和游戏搭子互相配合，大家可以商讨出不同的打法套路。这也意味着，《全民街篮》虽然是在线上进行，但它和线下的街篮对决有很多类似的对战要点，两者也都十分强调团队配合和策略选择。03带玩家跳出「数值深坑」在游戏设计初期，《全民街篮》就已经明确“吸引各个年龄段和不同游戏经验玩家”的大目标；在后续的游戏机制设计、玩法创新及视觉表现等方面，制作组也做了对应考量，为此剔除了以数值养成为主的商业化设计，力求让新玩家为游戏策略上心，而非陷入「数值深坑」。这款将于12月29日开启不删档测试的全民级产品，说不定能给体育电竞游戏领域，尤其是篮球游戏赛道，开拓出新的受众市场，为业界提供更多选择和思路。推荐阅读腾讯远征 | 国产游戏信任危机 | 站着挣钱元梦之星 | 二次元骗局 | 黑神话：悟空对话黄一孟 | 行业价格战 | 对话郭炜炜点击下方名片，将公众号设为星标（流程如上图）可第一时间收到推送和完整封面！",
+      "author": "爱游戏的葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649893976_3": {
+    "id": "wechat-youxiputao-2649893976_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "北大发布了一款「游戏」？",
+    "original_url": "https://mp.weixin.qq.com/s/2jWfun90BrCvhy2AT35m3w",
+    "published_at": "2023-06-26T21:59:57+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcv4raN9XOwTTBhpZURicn33iapIwBSiakb5fcPvQNIL6HQ5oKTTcJRcibx3T8oiaPI6I3iaJTGfdoNg4jw/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "excerpt": "",
+      "body": "北大发布了一款「游戏」？\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 近日，北京大学发布了一段名为《学在北医》的「游戏宣传视频」，目前该视频在B站已经拿下了超30万的播放量。如此噱头和热度背后，证明了游戏正在成为更受年轻人欢迎的娱乐活动；游戏元素，也正在成为学校等组织链接年轻群体的新手段：游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读莉莉丝十年 | 如何评价腾讯 | 米哈游十二年龙拳风暴败局 | 重返未来：1999 | 未来三年新品专访罗子雄 | 对话马晓轶 | 专访程良奇点击下方名片，将公众号设为星标（流程如上图）可第一时间收到推送和完整封面！\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649893878_2": {
+    "id": "wechat-youxiputao-2649893878_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "创业5年连出3个爆款，单品月流水破3亿，创始人揭秘立项方法",
+    "original_url": "https://mp.weixin.qq.com/s/z6cTka6pdGKQAzbIBKJYUA",
+    "published_at": "2023-06-25T22:30:21+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcnqVBBlmnExBGFZy8t4gI0NFNYkb3t02JmJFkibtfTWZVBjjGY2DlutIchNPickf1NTWv47jEib5Wyg/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "让休闲玩法具备中度付费能力。",
+    "payload": {
+      "excerpt": "让休闲玩法具备中度付费能力。",
+      "body": "创业5年连出3个爆款，单品月流水破3亿，创始人揭秘立项方法\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 让休闲玩法具备中度付费能力。整理/王丹一家创业公司在成立刚过2年的时间点，做出进入多国畅销榜前10、3个月内购收入超3500万美元的黑马爆款，你会觉得它靠的是运气吗？在之前葡萄君介绍《弓箭传说》以及开发商Habby的文章下面，就有不少人留下类似的评论：Habby的成功靠的不是产品，而是单纯铺天盖地的买量，以及好运气。确实，一家创立不久的公司，仅凭一两个爆款，很难证明它找到了稳定的吸金方法。但如果它接二连三地取得成功呢？在制作出累计流水超20亿的《弓箭传说》、月流水最高破3亿的《弹壳特攻队》之后，Habby又在2023年推出了一个进入多国畅销榜Top 10、首月流水达3750万的产品《蛇蛇贪吃》。连续三款中度休闲+Roguelike游戏的成功，让不少人对这家公司态度转变。2022年发行商海外收入榜中，Habby排第19位图源Sensor Tower通过Habby官网可以看出，他们虽然在中度休闲+Roguelike这条赛道上已经取得了不错的成果，但仍未放弃对其他玩法的尝试。比如，Habby曾推出休闲放置游戏《企鹅岛（Penguin Isle）》、弹球游戏《赤核（Flaming Core）》、音游《旋转节奏（Spin Rhythm）》……前不久，他们还在海外测试了一款看起来很没有“Habby味儿”的AFK-like产品《光之境（Souls）》。Habby官网的游戏列表这样不断进行玩法探索的Habby，到底是纯粹想碰运气，还是有什么特殊的立项方法？6月17日下午，王嗣恩在真格基金举办的AI游戏黑客松比赛上，同秦天一（真格基金投资总监、Habby投资人），与线上线下的参赛者们就Habby的游戏设计经验进行了探讨交流。据他介绍，自己2017年离开猎豹游戏、2018年创立Habby的故事，远没有表面看起来那么美好：他和团队踩了不少坑，做过一些商业成绩较差的产品。除了讲述创业历程，他也为中小型游戏创业团队分享了不少立项方面的经验教训，并推荐了在市场大盘中找到品类机会的方法。以下为王嗣恩、秦天一，与参赛者的探讨内容（为方便阅读，内容略有调整）：秦天一：你之前在猎豹游戏，有没有学到一些对后来创业有用的东西？王嗣恩：首先，我掌握了很多关于手机市场引流的方法，那时国内大部分人可能还没把这事搞明白，但我已经很清楚怎么在海外市场进行引流，这对我创业后的发行工作有很大帮助。其次，当时对产品进行测试以及后续调整，对后来我做手游是有帮助的。很多传统的游戏，会把测试安排在后期，这样做风险非常大：你在项目上的投入可能已经超过亿元，才跟用户见面，如果你此时发现市场发生变化，会来不及做调整。所以我们选择在早期就开始做验证。包括我们在确定中度休闲这个玩法领域前，也进行过早期验证。在正式创业之前，我们进行过一些设计尝试，想要摆脱产品对广告变现的依赖，但都失败了。因为我们当时所擅长的超休闲、长线内容设计方向，不适合做商业变现。直到后来我们尝试做俯视角射击弹幕游戏，发现这种玩法操作简单，但对数值有比较强的依赖，才找到通过数值做商业化设计的办法。很多人可能以为我们只是做了玩法创新，但事实上它是一种新的商业变现模式的创新：即在IAA（广告变现）的现有模式下，加入IAP（内购变现），让一个很休闲的玩法具备中度付费能力。根据我们内部数据来看，IAP的占比最高已经接近90%，这和很多休闲游戏走的广告变现模式已经不一样了。秦天一：在开始做游戏之前，你唯一一段工作，就是做了十几年金山毒霸。从做这种工具型产品，转型到做游戏，中间的学习过程是怎样的？王嗣恩：第一，要精准了解用户需求的是什么。从PC安全转到手机APP，我花了至少一年的时间去了解什么样的游戏是受欢迎的，我每天都会去看榜单变化，来判断手游发展趋势。那一年是比较关键的，这让我能比较准确地抓到用户需求，对于后面立项方向、衡量把游戏做到什么度，都有帮助。我觉得这是比技术、能力更重要的事情。第二，我觉得每个游戏都应该有自己的世界观。所以即使是做一个极其简单的游戏，我都会给它设定好世界观。在世界观背景下，很多设计是用常理就能想出来的。第三，从简单的游戏做起，而且是在有市场反馈的基础上去做。先做简单的玩法，再给玩法加内容、加系统，最后加商业化。一开始先只做一部分，拿到市场上做验证，当你在这一部分积累得足够好之后，再去做更复杂的东西。秦天一：Habby有哪些失败经验教训？王嗣恩：我们最开始在猎豹游戏做的都是很休闲的音乐游戏，比如《钢琴块2》《跳舞线》。在当时的手游变现模式下，我们把超休闲、长线优质内容结合起来，获得了非常好的效果。这导致我们对这种模式产生了路径依赖。等到我自己开始创业时，才发现因为市场发生变化，同类型的游戏已经运转不起来了。比如说，Voodoo采取了较暴力的变现模式，它用非常低的价格来买量，这让他们的游戏三天之内就可以回本。而我们做的长线内容游戏，是无法和他们的产品竞争的。所以，当时我就觉得，超休闲并不是一个可以持久发展的方向，于是我们转而选择了中度休闲。同时，我们也立了一些项目去延续之前的超休闲设计，这些项目最终在商业上的表现都比较差，即使产品本身有不错的口碑。这就是一个教训：当市场变现环境发生变化时，你过去认为能成功的一些方法，不一定适用于当下。另一个教训是，《弓箭传说》成功之后，我们曾思考过，针对同类玩法是否可以换着题材去做，但进行尝试后发现没有特别好的效果。因为在同类玩法下，新品需要有极大的提升，才能获得关注。这和IP不太一样，IP是可以对故事进行延续的，IP世界观扩展之后你还可以继续做新产品。但玩法机制不能这样做延续。秦天一：你对中小型创业游戏团队有什么建议？王嗣恩：很多人可能会觉得，做手游，就是把PC上的游戏创意挪到移动端平台，再加上手游特有的变现、引流模式。这种案例其实比较少见，这个做法也不是所有中小团队能承担得起的。我会推荐中小团队去掌握好手游平台的特性，学习积累如何通过系统设计、变现方式来提升商业化效果。参赛者：具体来说，关于早期验证这块，Demo测试数据要达到什么水平，Habby才会决定继续将它往深了做？王嗣恩：Demo做得多简单都可以，只要你觉得大部分用户愿意玩它超过一天，那就可以去测试了。数据方面，主要看留存率。如果Demo甚至没法让玩家在第一天留下来，那这个产品就不用继续做了。再一个是要测CPI（Cost Per Install）能否得到广泛认同。如果玩家反馈说太贵，那说明你的游戏太小众，或者说玩法不容易被人理解。在手游里做出不易被理解的玩法，是非常吃亏的。之后要看它的留存衰减情况，一般来说次日留存至少要有50%才行。不过次留50%这种数据，如果是放在我们公司这些中轻度付费产品身上来看，它是不会成功的。大部分偏休闲的游戏次留数据都得更高，一般次留至少需要在60-70%以上，7日留存至少超过30%。参赛者：怎么去发现哪些类型产品是还有机会可以做的？王嗣恩：我以往认为，被互联网头部吃掉的市场，就没有新品进入的机会了。现在看来，有一些赛道是例外。比如说三消，它是一个包容度很高的玩法，大部分女性和接近一半的男性都可以接受它。在三消的玩法流程中找到任何一个参数进行改善、提升，比如说优化变现，或者让玩法流程加长，都值得做一个新品出来。《Project Makeover》在参数上做了调整，让它可以花更少的钱来获取用户；《Royal Match》走了另一条路，它改造了三消机制，实现了更长的流程、更好的付费。三消只是一个例子。你在任何一个游戏品类中，如果能在CPI、长期留存、付费能力这三个点中，提升任意一个点的数据，都可以尝试去做。从发行的角度来看是这样的。从制作的角度来说，游戏肯定是越新颖越好。但新颖的同时，要能把以往的制作经验利用起来，让产品看起来是稳定、完整的。参赛者：你怎么看待像《合成大西瓜》《羊了个羊》这类游戏？王嗣恩：《羊了个羊》这种游戏，其实以前就有，比如《围住神经猫》，只是后者没做变现。在我看来这些产品更像病毒性传播事件，而不是游戏。它们作为传播学案例研究是合适的，作为游戏来研究可能没有太多参考意义。这种热度来得快、走得快的游戏，我们确实也研究得比较少，相比之下会更关注稳定、长期运营的游戏。秦天一：如果要培养一个刚入行的年轻人，你会注重哪些方面？王嗣恩：我觉得要培养一个优秀的制作人，最重要的是培养他的激情。如果一个人从小到大没有遇到过让他感到兴奋的事情，也没有什么兴趣爱好，那他可能是不适合成为制作人的——或许可以去当助手，或者去做一些强调专业技能的工作。为什么说优秀的制作人一定要有激情，因为他需要在思考时尽量深入，要想到表层之下很多层的内容。如果让我去培养的话，我不会看他过去具备什么，而是会引导他往自己擅长、感兴趣的方向发展，让他在这个过程中找到激情。所以我重点培养的不是技能，因为技能花钱就可以学到：你花百万，就可以学到百万水平的技能；花千万，可以学到千万水平的技能。学技能并不难，难点在于你能不能扎进去，进入更深的状态。秦天一：你觉得AI在游戏生产中会有什么样的作用？王嗣恩：AI可以帮忙做很多原本交给外包的重复性素材制作。ChatGPT写完整剧情的能力可能还不够好，但你可以让它写一些段落，再由人工进行修改。另外，我们在尝试通过AI来实现游戏内容实时生成，这意味着每个用户看到的内容会是完全不一样的，它会极大地提升游玩探索的乐趣。目前我们还在朝这个方向尝试，也不一定能成功。参赛者：Habby有没有尝试用AI去优化Roguelike关卡设计？王嗣恩：我们有尝试让AI生产游戏机制，但目前来看不太成功。如果是开放世界游戏，因为内容量比较大，AI可能可以协助制作、填充素材。但我们游戏的主要卖点是机制，关卡节奏是需要特别设计的，所以用AI尝试出来的效果不太好。但我们还会坚持继续尝试，等AI发展到一定水平，应该是可以用来做关卡的。秦天一：你平时喜欢玩什么游戏？王嗣恩：我喜欢任天堂的游戏。我认为任天堂真的是在做一些游戏领域的理论探索，和相关的实际应用尝试，并且做得很好。他们是很有使命感的一家公司。秦天一：如果不考虑商业化，你想做什么游戏？王嗣恩：如果完全不考虑商业化，我想做一个体现市场经济的模拟经营游戏。虽然市场经济已经存在了很久，但大部分刚踏入社会的人，对这个东西其实并不理解。以至于很多人会讨论：市场经济是否适合我们？这个话题存在很大争议。所以我想做一个游戏，以此做一次社会性实验，在游戏里模拟偏公正的分配方式，以及市场经济，让玩家走自己的路，看最后谁能胜出。这个游戏如果要做出来，肯定会很复杂，可能需要经济学家参与制作才做完成。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读行业招聘季 | 2023人才走势 | AI与裁员星穹铁道 | 二次元惨烈一年 | 行业陷阱专访沈黎 | 我用游戏教历史 | AI美术定价点击下方名片，将公众号设为星标（流程如上图）可第一时间收到推送和完整封面！\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649893019_3": {
+    "id": "wechat-youxiputao-2649893019_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "多款产品月流水破3亿，这家华南大厂也要做二次元开放世界？",
+    "original_url": "https://mp.weixin.qq.com/s/ylvZxWnOWk2FDi0TtYeI3A",
+    "published_at": "2023-06-13T22:24:57+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3fteZxBd0ofxquN567vBO2gOHsq9rBLPhL2WBP08lCc7ic9ftFjtH5dpjnm110iaBrOn7MNDib9l2BAMpw/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "蓄势待发。",
+    "payload": {
+      "excerpt": "蓄势待发。",
+      "body": "多款产品月流水破3亿，这家华南大厂也要做二次元开放世界？\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 蓄势待发。文/以撒最近，葡萄君看到一则游戏公司的内推、招聘长图，而且似乎是挺紧急的招聘动态。本来我只是随便刷刷，但仔细一看我眼前一亮——在招聘岗位中，他们标明了一些项目类型标签，而其中包含“开放世界ACT”。这意味着又有一家游戏公司入局开放世界了，而这家公司的风格，还与我们以往印象中那些开放世界选手不太一样。上下滑动查看当然，任何公司都可以做开放世界。只不过诗悦向来低调，再加上他们以往的产品多以数值、卡牌、MMO类型为主，我才会下意识地有点惊讶。尤其是这张海报上的角色还是二次元风格的——这就好比上次看到叠纸做重战斗的《百面千相》时，那种有点超出我预期的感觉一样。在招聘平台上，也能查询到诗悦在招的一些相关岗位。比如开放世界ACT游戏的动作设计师、地编、渲染等，以及3A级别手游的技术美术专家。不过这二者指的是不是同一个项目，目前我们还不清楚。另外，据职位标签和JD内容推测，这款开放世界可能是由Unity引擎研发，题材上可能涉及二次元+国风；而UE4方面他们也有在研项目，标签为卡牌/战棋，大概就是他们此前提到过的3D卡牌游戏。要说诗悦在近年给人最大的印象，可能要数《长安幻想》这款产品了。此前，它上线首日即登上畅销榜Top 4时，我们也做过相关报道。当时其实有不少人不太在意这款产品，觉得它不过是又一个平平无奇的一波流数值卡牌。而半年过去，它的成绩却稳得有点吓人……至少你三天两头就能在畅销榜Top 10看见它，偶尔它还能冲进Top 5。据说它的月流水最高超过了3亿。除了《长安幻想》之外，诗悦其他产品在近年的表现也不差。比如自研自发方面，他们的《闪烁之光》月流水最高破3亿，单款产品年度累计流水超30亿、3年5款产品月流水过亿、累计总流水超百亿；而在与三七合作发行的产品方面，《斗罗大陆：武魂觉醒》和《云上城之歌》月流水最高都超过3亿，后者累计流水超过80亿……其他产品月流水均超过3千万，最近的《最后的原始人》成绩也不错。这一串产品盘下来，光数字就能给人看麻了。而在数字背后，或许在品类、技术和发行等方面的经验积累，才是他们进军开放世界和更大项目的底气所在。仅从表面来分析：他们最擅长三个赛道：卡牌、回合、ARPG，其中本来就涉及到了一些开放世界的底子，比如3D战斗和部分系统设计。另一方面，他们在内容上的尝试也确实有一些亮眼之处，比如《长安幻想》虽然仍以数值为主，但也在题材、美术和剧情、宣发等方面脱离了纯粹的数值产品框架。这样一家底子厚，又乐意尝试新赛道的厂商，有这样的动态也确实不足为怪了。最后，尽管现在说这个还有点早，但是当我们刻板印象中的“华南厂商”，也开始做二次元+国风的开放世界ACT产品时，或许行业真的不能再以以前那种死板的标准来评判了。几年后的市场会如何？我可太期待了。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读行业招聘季 | 2023人才走势 | AI与裁员星穹铁道 | 二次元惨烈一年 | 行业陷阱专访沈黎 | 我用游戏教历史 | AI美术定价点击下方名片，将公众号设为星标（流程如上图）可第一时间收到推送和完整封面！\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-Vnandao-2247486431_1": {
+    "id": "wechat-Vnandao-2247486431_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "《崩坏：星穹铁道》联动贺图服设原稿",
+    "original_url": "https://mp.weixin.qq.com/s/vt3ZkdAKNU3Zi9mmMH28Xg",
+    "published_at": "2026-06-01T23:32:30+08:00",
+    "ingested_at": "2026-06-25T14:48:25+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFMZPFcGCr0CVWoibwNJEeiax5IdFeic85EN5TGiaeCEdLaOE5FoVZYj3vPuRqydIicV4ia65BWa3gmzNGicF26rNribyRzKiaTTPyroicLiaM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "",
+      "excerpt": "《崩坏：星穹铁道》x Round1USA联动贺图服设原稿\n画师：grape",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247486255_1": {
+    "id": "wechat-Vnandao-2247486255_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "版权碰瓷新高度：“我翻唱=我原创”？歌手翻唱原神玛薇卡曲后，举报官方侵权，还要求标注“来源是我”？",
+    "original_url": "https://mp.weixin.qq.com/s/wBlCQVOGGQXVkhoiEMqlXw",
+    "published_at": "2026-05-27T14:36:57+08:00",
+    "ingested_at": "2026-06-25T14:48:25+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFO64mTPv7rRp0txHqwAGbNx7ESojdJyhIHlOGerGTUYcnicHYpALicrB09kqPdvjUp6m21OKETkpDzKAN8Bic22zzClad2v3u0zKM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "版权碰瓷新高度：“我翻唱=我原创”？歌手翻唱原神玛薇卡曲后，举报官方侵权，还要求标注“来源是我”？",
+      "body": "最近，又有一个离谱事件在外网发酵。\n\n有翻唱歌手在翻唱《原神》角色玛薇卡的主题曲后，竟反手向原版官方视频发起了\"版权炮\"，多位内容创作者的视频因此被下架。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFMYDVFuD8uicr1F1QkpJ3MQySRQXyBFQhicHJKcvK585an8bd1bRPj1PRvc5ItDyk6DPYq6VDuaWoaUice1x3oZHhkgMtxrVK14iaw/640?wx_fmt=png&from=appmsg)\n\n事件的源头是一位名叫\"C'est Moi\"的歌手。\n\n她在翻唱了《原神》玛薇卡的角色曲后，将翻唱版本上传至海外音乐平台，并在歌曲名称后面专门加上了\"原神\"的标签来吸引流量。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFPa3BeLqADEwmALo8gLOWrYQ4gkxjQerfbFxM9sJibFfRWbRMvGxwjUmjIdGyzv2p8cBVcpKfQKiaQLDsGUIFNdCtB5KaxBGf4o0/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFMxaIH3PlZEzjlibg6fLMEY4vGvFeS0ptyhl40yrRIaGVKwxSGETm4tcZrCag6nWElSicY6UDtOPxmtP5v8gwUTj2Z2q34FIn8eg/640?wx_fmt=png&from=appmsg)\n\n离谱的是，她随后利用YouTube等平台的版权主张系统，反手举报《原神》官方原版视频侵权，甚至要求其他内容创作者在使用这首音乐时，必须在简介中标注歌曲来源为自己翻唱的歌曲。\n\n在这轮操作下，多位使用《原神》玛薇卡PV音乐的内容创作者惨遭视频下架，大量相关内容受到了无差别打击。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFMJibHx4eOibYA0rlG7V3Dypsrj6sTEFxP6qouQdxTr1Y6oGnUeLCEgsN27Hy1qMTQUwJRRqc1ib3uezA5ib6R5KxAhDxNePjuqOhg/640?wx_fmt=png&from=appmsg)\n\n这并非孤例。更早之前，还有一起更为恶劣的案例。\n\n一位名叫\"Roshi\"的说唱歌手，盗用了《原神》音乐人陈致逸的曲目\"Slight Distress\"（风龙废墟配乐）作为歌曲的伴奏，并通过其合作的唱片公司，在YouTube上对所有包含这段BGM的视频进行了无差别举报。\n\n导致大量丝柯克传说任务实况被下架，连陈致逸本人的官方频道也未能幸免。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFPg7pNXrth3AXGMwh4w9Gd5USFySeJenrc0NRoN0IHSGWuotzHmnIAr5hqgYFkLhMOHjkVJ8HPMAKxqLOz2DoXjpxIZ8WXQWVU/640?wx_fmt=png&from=appmsg)\n\n这类乱象之所以屡禁不止，核心原因在于现有平台机制的漏洞。\n\nYouTube等平台奉行的\"先下架，后审核\"原则，使得发起版权投诉的门槛极低，为恶意投诉提供了巨大的操作空间。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFPaIUTmvBJvbMqAlPIv0ynxqgQiafrsCXc6lNc7TvsX7T40gB8C5UbaZhDl7ZKh5s8ceAALpkFHmOvIrtPqGiaYoXW5vBTDXSs9k/640?wx_fmt=png&from=appmsg)\n\n而海外发行代理方在这一过程中也扮演了微妙的角色。\n\n唱片公司通常拥有强大的版权主张工具和较高的系统信任度，一旦他们接收了\"翻唱者\"提交的歌曲，其版权主张会迅速被平台通过，让原版视频在短时间内被批量下架。\n\n更棘手的是，音乐版权在不同地区的归属、授权和分销情况异常复杂。\n\n对于恶意投诉，被侵权方若要申诉，需要投入大量时间和法律资源来厘清权利链条，这使得许多公司望而却步。\n\n频频得手的“碰瓷”行为也让玩家社区累积了不小的负面情绪。大量玩家在相关新闻下呼吁米哈游法务部在外网“狠狠发力”，整治这股歪风邪气。\n\n有玩家调侃道：“这操作真是把版权法玩明白了，但就是没玩对方向。”\n\n这出“翻唱者反告原唱”的荒诞剧不仅伤害了原创者和玩家，也再次揭示了当前数字内容版权保护面临的复杂挑战。\n\n在玩家们感慨“离大谱”的同时，或许更需要强有力的法律手段，来确保真正的创作者权益不受侵害。\n\n（注：以上图片素材源自网络，如有侵权请联系删除！）\n\n* * *\n\n**推荐阅读：**\n\n**[《星布谷地》娜洛被“投毒”](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486070&idx=1&sn=bd463ad216937fdfb27e94b523d08d39&scene=21#wechat_redirect) ********| [《Varsapura》中文名《雨雾之都》即将落定](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486058&idx=1&sn=1538f6b24c3bd450aace4e6a0d06126f&scene=21#wechat_redirect)**********\n\n********[米哈游正在构建下一代虚拟世界](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486120&idx=1&sn=91bdbad602b79fa9ac39c9b6302ea8c5&scene=21#wechat_redirect)  ****|**** [三年千亿，创造AI独立自主的文明](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486057&idx=1&sn=92cfe3d2ba3ccb745495b27236a41187&scene=21#wechat_redirect)********"
+    }
+  },
+  "news-fami-79318": {
+    "id": "news-fami-79318",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "【コンアカ】『ボコスカウォーズ』6月25日配信。リアルタイムストラテジーの先駆けとなった戦略シミュレーションがSwitch2/PS5で蘇る",
+    "original_url": "https://www.famitsu.com/article/202606/79318",
+    "published_at": "2026-06-24T18:00:00+08:00",
+    "ingested_at": "2026-06-25T14:48:34+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/79318/thumbnail_YyCZ.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "『コンソールアーカイブス』（コンアカ）シリーズ『ボコスカウォーズ』が2026年6月25日にNintendo Switch 2、プレイステーション5（PS5）で配信。プレイヤーはスレン王となり、仲間の兵士たちを率いて、オゴレス王が支配するバサム帝国へと挑む。",
+    "payload": {
+      "excerpt": "『コンソールアーカイブス』（コンアカ）シリーズ『ボコスカウォーズ』が2026年6月25日にNintendo Switch 2、プレイステーション5（PS5）で配信。プレイヤーはスレン王となり、仲間の兵士たちを率いて、オゴレス王が支配するバサム帝国へと挑む。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "wechat-GameLook_News-2657320629_6": {
+    "id": "wechat-GameLook_News-2657320629_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "假期看啥？《辐射》第二季观众破8300万，《超级马里奥银河》电影成新赢家",
+    "original_url": "https://mp.weixin.qq.com/s/2Pz9zTwFAvpEYoNaY73kCA",
+    "published_at": "2026-04-03T23:59:36+08:00",
+    "ingested_at": "2026-06-25T15:00:11+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4Sj4jF1P9zNTp8HebgACpFJgnm9QLhlye34LFCRqQnl10icx1BhE3icCkgLvGriaJwLqHROlHiaAP58zBIrCqPSUHdSd6MG8naYORw/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": "假期看啥？《辐射》第二季观众破8300万，《超级马里奥银河》电影成新赢家\n 原创\n GameLook\n GameLook\n GameLook \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 「 点击上方\"GameLook\"↑↑↑，订阅微信 」清明假期将至，放假在家看点什么，成了不少朋友这两天琢磨的事。巧的是，就在昨天，北美影市扔出了一颗“重磅炸弹”——由任天堂和照明娱乐联手打造的《超级马里奥银河》电影正式上映，旋即掀起了一场席卷影市的红色风暴。在内地市场，根据猫眼专业版数据，《超级马里奥银河》目前已拿下2026年清明档票房冠军，截至GameLook完稿时，内地票房为751万元。而在国外，热度更甚。影片在北美3821家影院同步上映，单日狂揽3400万美元（约合人民币2.47亿元），一举打破北美四月份周三开画影片的历史最高纪录，更超越了2023年《超级马里奥兄弟大电影》开画时的3170万美元，实力碾压前作开局。放眼全球，这位水管工的宇宙冒险正以摧枯拉朽之势刷新各项纪录。据Deadline披露的数据，《超级马里奥银河》在全球78个市场同步开画，全球首日总票房高达6840万美元，成功超越前作《超级马里奥兄弟大电影》首日6640万美元的成绩。其中，墨西哥贡献670万美元，创下当地环球影业史上最佳开画成绩；德国开出380万美元，写下该国影史动画片最高开画纪录；中美洲则以180万美元位列当地影史第二，仅次于《复仇者联盟4：终局之战》。这一成绩不仅轻松摘得2026年度迄今为止的单日票房桂冠，更值得注意的是——它是在影评人一片严苛的挑剔声中，硬生生杀出的一条血路。在烂番茄网站上，影评人新鲜度仅有44%（前作为59%），较前作骤降15个百分点，评论区堪称一场针对续作的“批斗大会”。《Variety》毫不客气地称这部影片是“节奏紧张、令人失望的产品搭售烂摊片”，《卫报》则毫不留情地给出1星评价，称其“就像是用AI复制了原本就是AI生成的东西，创造出一个无聊的模板”。言辞最为激烈的当属《泰晤士报》，直接打出0分，批评影片“空洞乏味”，甚至质疑这部电影的出现“是否代表电影时代的终结”。Metacritic上的媒体评分也仅有35分，评级为“普遍不友好”。尽管影评人一片唱衰，观众的狂热追捧却与专业口碑形成了天壤之别的两极分化。烂番茄网站上的观众爆米花指数飙升至90%至91%，荣获“观众认证爆款”标签；Metacritic用户评分则高达7.7分，评级为“普遍好评”。有观众在Metacritic上写道：“对粉丝来说绝对是种享受，片中展现的对马里奥游戏的热爱棒极了！”购票入场的粉丝们对片中海量的游戏彩蛋、令人叹为观止的太空视觉奇观以及原汁原味的童年情怀赞不绝口。就在《马里奥银河》争议刷屏的同时，亚马逊官方宣布了一个令业内侧目的好消息：《辐射》第二季在全球范围内吸引了8300万观众，累计时长在Prime Video回归剧集中仅次于《侠探》第二季，高居历史第二位。两季合计，整个《辐射》系列的全球观众已正式突破1亿人大关。在游戏改编影视作品普遍“翻车”的大环境下，《辐射》系列无疑是一股清流。它是如何做到的？一位玩家的评论精准地切中了要害：“像《辐射》这样的作品，其系列优势在于它的世界观，但没有哪一部的剧情特别出彩——除了玩家可以用各种方式去摆弄它。大多数时候，这个世界本身就很有趣。这就像一个编剧的游乐场。如果他们直接去改编《辐射3》或《新维加斯》的剧情，那肯定是一团糟。”“而这就是当你做出一次优秀的改编、并尊重原著时，所得到的结果。”这番话一针见血。无论是《超级马里奥银河》的票房神话，还是《辐射》第二季的收视长虹，都在证明一点：游戏IP在影视领域正处于一个黄金时代。但黄金时代也是最容易浮躁的时代。对于创作者来说，他们面对的是一群既最挑剔也最宽容的观众。只要尊重原著，不胡编乱造剧本，不在结局喂“屎”，哪怕影评人骂得再凶，玩家也会用脚投票，把你捧上神坛。反之，如果为了所谓的“惊喜”强行扭转剧情，或者因为商业利益强行续命拖垮节奏，那么从神坛跌落也只是一瞬间的事。这个清明假期，你是准备走进影院跟着马里奥来一场银河冒险，还是窝在沙发上补完《辐射》第二季？不管选哪个，反正游戏玩家都不亏。····· End ·····招聘游戏内容编辑，欢迎有兴趣的同学投递简历GameLook每日游戏产业报道全球视野 / 深度有料爆料 / 交流 / 合作：请加主编微信 igamelook广告投放 : 请加 微信：Amyly588简历投递邮箱 : [邮箱已隐去]      长按下方图片，\"识别二维码\" 订阅微信公众号····· 更多内容请访问 www.gamelook.com.cn ·····Copyright © GameLook® since 2009        觉得好看，请点这里 ↓↓↓"
+    }
+  },
+  "wechat-Vnandao-2247486057_1": {
+    "id": "wechat-Vnandao-2247486057_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "三年千亿投入，创造AI独立自主的文明，米哈游这次没开玩笑",
+    "original_url": "https://mp.weixin.qq.com/s/UPbtlYgkVt1A2ID-D7nyAA",
+    "published_at": "2026-05-16T16:22:39+08:00",
+    "ingested_at": "2026-06-25T15:01:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOlAic9LVic2Kd1bdnOf1osVQ1XRzZhthoLus807w8sPvSMiaWAViaJGdibrdnXWMtaVyjJjps3AnOgq0fBU87W0jha4u0WVOx2Y4MI/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "我们希望创造一个ai独立自主的文明。",
+      "body": "三年千亿投入，创造AI独立自主的文明，米哈游这次没开玩笑\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 最近，米哈游办了一场大模型招聘宣讲会。有参与者整理了现场笔记，其中几个观点信息量不小。“三年最多给你一千亿，做不出来就当放了场烟花”这大概是整场最让人心头一震的话。大伟哥表示，公司愿意给大模型团队三年时间、拿出千亿级资金，覆盖算力建设、数据工程等一系列投入。如果做不出来，“我们也认了，算是做一个大的烟花”。他给出了一个明确判断：“任何团队没有坚定地去搞算力、Scale这件事，是绝不可能把模型做到顶级的。”这其实是当前大模型圈的共识：在Scaling Laws仍然有效的阶段，算力就是入场券。不是“有几张卡试试看”的试探，而是真正下决心投入万卡级别的AI算力集群。模型智力水平的天花板，在很大程度上是由GPU数量定义的。“创始人必须是CTO”：管理成本是毒药“必须创始人同时是技术负责人，在一线做所有的事情，只有这种方式才有可能把大模型做成。”大模型领域目前的特点是范式迭代太快，从Transformer到MoE，从RLHF到Agent，技术路径每隔几个月就会发生重大变化。如果决策者站在技术外部靠汇报做判断，从获取信息到产生决策的速度，已经输给了对手。宣讲会还专门批注了另一个观点：警惕“大牛陷阱”。传统AI经验在大模型时代可能反而是一种包袱，不是经验本身没价值，而是它们往往伴随着地盘意识和局部优化思维。大模型研发的特点是高度耦合：数据、模型、Infra不是三个可以各自优化再拼起来的模块，而是一个需要从全局视角同时设计调优的整体。创始人在一线，本质上是把决策层和工程层之间的信息传递损耗降到最低。“数据占0-90分，模型只占90-95分”在Pre-training方法论上，宣讲会给出了一个清晰的量化判断：如果大模型整体表现是0到95分的区间，数据决定的是从0到90分的部分，模型结构只是从90分提到95分的最后突破。过去几年很多团队把精力放在魔改MoE结构或设计新的注意力机制上。这些工作在小规模模型上往往有不错的提点效果，但在万卡级别的极限Scale下往往会失效。数据是模型学到“世界知识”的根本来源，数据质量直接决定了模型的学习上限。宣讲人还提到大规模训练中“偶然事件”的致命性。单卡或小集群训练中，某次Token异常可能完全不被察觉。但在万卡规模下，任何一个极低频的数据异常，都可能被指数级放大，最终导致训练崩塌。因此，拥有从梯度到底层算子异常的全链路可观测能力，本身就是一种核心竞争力。“上下文×权限”：Agent的终局公式“Context × Permission” （上下文 × 权限）。上下文是指大模型能否真正“看”到足够深的世界信息，代码库的完整历史、聊天记录里的背景脉络、项目讨论中的隐含意图。权限是指模型是否被真正赋予了“动手”的能力，能直接执行PR、修改环境、触发真实的工作流。两者的关系是乘法而非加法。只有上下文没有权限，模型是“懂了但做不了”的旁观者；只有权限没有上下文，模型是“在陌生环境里瞎指挥”。能看到的越多，能做的事就越准确；能做的事越多，需要获取的上下文也越丰富。在这种Agent逻辑下，强化学习的方向也要变。传统RLHF让人类给模型输出打分，但Agent的价值不在于说得多漂亮，而在于“做对了没有”。在真实交互环境中，改错代码导致Pipeline崩溃，这个代价本身就是最优质的Reward信号。让AI在不确定的、动态变化的环境中做出正确的决策序列。几条补充判断宣讲会还提出了几个值得关注的判断：模型能力的边界越来越被基础设施重新定义。当参数量上升到万亿级别、上下文突破百万Token时，通信、计算、数据的协同设计不再只是配合算法的辅助角色，而是直接决定模型天花板的关键变量。AI for AI的自循环。让大模型自己去分析训练中的慢节点、写复杂GPU Kernel、做轨迹分析和Bug定位，用“模型训练模型”替代传统的“招人来解决”。目前业界已在朝这个方向发展。音频原生的多模态融合。不是先做语音识别转文字、推理完再用语音合成输出的“外挂”流水线，而是在预训练早期就让音频频谱特征和文本表征在同一空间里对齐。这样才能保留说话人情绪、重音、语速等文字无法传递的深层信息。写在最后这场宣讲会透露出不少信号：在组织上，反对大公司病的层层汇报，要求创始人站在代码和训练曲线的一线；在资源上，反对小作坊式试探，主张把资金集中于基础设施和规模化训练；在技术上，反对沉溺于小众Trick和局部优化，把精力聚焦在真正决定胜负的关键变量上；在人才上，反对大牛崇拜和地盘文化，只要拥有全局视野、愿意不断清零的年轻极客。这不一定是做大模型的“唯一正确答案”。对把AI定位为“提效工具”的公司来说，这套法则可能过于极端。但对立志从零做出顶级大模型的团队而言，这份笔记至少提供了一个清晰的参照系：在认知和技术落地层面，如果你不打算把自己逼到极限，那就很可能被那些更极致的对手远远甩开。米哈游宣讲海报上印着一句新口号：“创造AI独立自主的文明”。听起来像科幻台词，但结合这场宣讲来看，他们大概确实不是在开玩笑。当年用《原神》把开放世界带到手机上，这一次，他们想做的是那个世界本身。推荐阅读：国际化下一步棋 | 日本为什么做不出“原神”？ | 米哈游愿景在一步步实现让玩家留下来的秘密 | 米哈游出圈国际艺术展| 20后都玩上原神了点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247485243_1": {
+    "id": "wechat-Vnandao-2247485243_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "星穹铁道 | 第二支MV来了！miku唱响《天生鬼才》，与开拓者共游二相乐园",
+    "original_url": "https://mp.weixin.qq.com/s/AjU5omtc9i3g74looYs3Kw",
+    "published_at": "2026-04-26T12:54:28+08:00",
+    "ingested_at": "2026-06-25T15:01:35+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPUUDgoSZL9PvvpNWW6bdjXMSEhcjLnUrwN039kGwGdBp7KmMia4VibtEJsicusv0bLibiasctaufzaeFh6t5Zl7XvotlmKf0J1oDJw/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "初音未来官方全球发布了第二支联动MV——星穹铁道三周年主题曲 《天生鬼才》 的日文翻唱版，由初音未来演绎。",
+      "body": "星穹铁道 | 第二支MV来了！miku唱响《天生鬼才》，与开拓者共游二相乐园\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 初音未来与列车组、星核猎手全员集结，共游二相乐园。没错，排面拉满！第二首联动MV已经来了。初音未来和《崩坏：星穹铁道》的这次合作不仅‘量大管饱’，在曲风、制作规格和世界观融入的深度上，更是诚意十足。今天上午11点，初音未来官方全球发布了第二支联动MV——星穹铁道三周年主题曲 《天生鬼才》 的日文翻唱版，由初音未来演绎。《天生鬼才》游戏原版由萧敬腾演唱。这次可不只是简单的翻唱，而是对原曲的全新Remix演绎，由知名创作者KIRA操刀。在初音未来的声线加持下，这首本就节奏感十足的三周年主题曲，更多了一层V家独特的魅力。如果说第一首《HoYoHoYoにしてあげる♪》是“欢闹的联动”，那这支《天生鬼才》更像是从联动到乐园巡礼的全面升级。新MV围绕二相乐园展开，更像一支概念完整、氛围欢快的动画短片。画面中不仅有熟悉的开拓者、三月七等列车组成员，还有卡芙卡、银狼等星核猎手的人气角色，以及二相乐园相关的本地角色登场，像是一场三周年的全员狂欢。整个MV充满了节日的欢乐气息，完美契合了三周年庆和二相乐园的“欢愉”主题，让“排面”瞬间具象化了。从街机厅共奏到乐园巡游，三天内连发两支高质量联动MV——初音未来与星穹铁道的这次合作，早已超出普通商业联动的范畴，更像是一场跨越十几年的双向奔赴。(注：以上图片素材源自网络，如有侵权请联系删除！)推荐阅读：星穹铁道 | 凌晨6点排队，订单多到“绝望”，“将军请喝茶”喝瘫全国门店？星穹铁道 | 真白月光二度发力：星铁×初音第二支MV定档星穹铁道 | 一首联动MV，让全世界星铁玩家都哼起了“HoYoHoYo”【初音未来×银狼LV.999】把你HoYoHoYo掉（中文字幕MV）点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247484175_2": {
+    "id": "wechat-Vnandao-2247484175_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "茶百道六刷米哈游，星铁二次联动正式官宣。",
+    "original_url": "https://mp.weixin.qq.com/s/NMrLrmiGBxRpZLSKYNDztg",
+    "published_at": "2026-04-10T18:13:31+08:00",
+    "ingested_at": "2026-06-25T15:01:51+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMLegwftphHXRjjDiaEKYS4QWEAc72qM2xgGLNZHnKtgrDX4SsiahmaruT3b6uUUBmkfL1ceLRFUWRUWTntziap1YokFUtrVlIH8g/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "茶百道与《崩坏：星穹铁道》的第二次联动，于4月10日正式官宣。",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247484076_2": {
+    "id": "wechat-Vnandao-2247484076_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "原神 | 蒙德港口航道窄到离谱，堪称蒙德版霍尔木兹海峡",
+    "original_url": "https://mp.weixin.qq.com/s/7RbeaFfU6_iOuvIVgLG9rQ",
+    "published_at": "2026-04-08T18:18:51+08:00",
+    "ingested_at": "2026-06-25T15:01:51+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFO9CvISHzwbZeU0kCicyb0UCDRcISMEMkS8wVInvGGres77jEibz04OFhzGqDKf1iaTW15pjSxdJtqGAJxoOx837iajsLfg7pstI28/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "6.5版本「月之六」上线后，蒙德新区域荆夫港终于开放。这个从开服就存在的卫星地图，如今成了蒙德北部最主要的港口，以运输业与花卉种植业为中心产业。",
+      "body": "原神 | 蒙德港口航道窄到离谱，堪称蒙德版霍尔木兹海峡\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 6.5版本「月之六」上线后，蒙德新区域荆夫港终于开放。这个从开服就存在的卫星地图，如今成了蒙德北部最主要的港口，以运输业与花卉种植业为中心产业。然而玩家很快发现了一个让人忍俊不禁的槽点：整个蒙德所有商船的进出，竟都依赖一条窄到离谱的小峡谷。堪称蒙德版霍尔木兹海峡！这里的梗在于，霍尔木兹海峡是连接波斯湾和印度洋的狭窄水道，全球约20%的石油运输必经此地，是中东石油出口的“咽喉要道”，也是现实中地缘政治的敏感地带。玩家将荆夫港这条小水道类比为霍尔木兹海峡，本质上是在吐槽蒙德港口的战略设计过于“草率”。蒙德作为以\"自由\"和\"贸易\"闻名的城邦，竟把自己的经济命脉放在一条\"一夫当关万夫莫开\"的小峡谷里。评论区瞬间变成玩梗现场：\"建议可莉带着炸弹去疏通一下，一发不够来两发。\"\"这就是风神摸鱼的后果，巴巴托斯但凡干点正事，蒙德至于连个像样的港口都没有吗？\"\"等至冬打过来，先派一艘船往峡谷口一横，蒙德的经济直接瘫痪。\"\"蒙德版霍尔木兹海峡\"这个梗，本质上还是玩家对地图设计的一次调侃。不过话说回来，让可莉去炸宽点，这主意听起来还真不赖。毕竟，炸弹解决不了的问题，再来一发炸弹总能解决，对吧？（以上资讯综合整理自玩家社区讨论，纯属调侃，非官方设定。）点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "news-fami-78449": {
+    "id": "news-fami-78449",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『ウマ娘』新シナリオ“トレセン軒編”先行プレイリポート。ラーメンは愛――背脂が勝負強さを生み、豚骨スープが賢者を育む！",
+    "original_url": "https://www.famitsu.com/article/202606/78449",
+    "published_at": "2026-06-27T11:00:00+08:00",
+    "ingested_at": "2026-06-27T18:33:03+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/78449/thumbnail_uvYZ.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "ゲーム『ウマ娘』にて、2026年6月29日12時より、新ナリオ“らっしゃい！トレセン軒！～恩返し、始めました～”が配信スタート。本記事では、メディア向けに開催された先行体験会をもとに本シナリオの先行プレイをたっぷりお届け。",
+    "payload": {
+      "excerpt": "ゲーム『ウマ娘』にて、2026年6月29日12時より、新ナリオ“らっしゃい！トレセン軒！～恩返し、始めました～”が配信スタート。本記事では、メディア向けに開催された先行体験会をもとに本シナリオの先行プレイをたっぷりお届け。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "entitychg_91310104MAEL937K7L_2026-03-12_325fa723e49f": {
+    "id": "entitychg_91310104MAEL937K7L_2026-03-12_325fa723e49f",
+    "source_type": "entity_change",
+    "source_name": "天眼查",
+    "title": "上海米哈游原初海科技有限公司 · 有限责任公司股东或者变更",
+    "original_url": "",
+    "cover_image": null,
+    "published_at": "2026-03-12T00:00:00+08:00",
+    "tags": [
+      "有限责任公司股东或者"
+    ],
+    "entities": {
+      "works": [],
+      "companies": [
+        "上海米哈游原初海科技有限公司"
+      ]
+    },
+    "ingested_at": "2026-06-29T16:49:04+08:00",
+    "deep_summary": "",
+    "payload": {
+      "entity_credit_code": "91310104MAEL937K7L",
+      "change_item": "有限责任公司股东或者",
+      "before": "上海米哈游网络科技股份有限公司出资：8000万人民币元",
+      "after": "上海米哈游网络科技股份有限公司出资：22000（ + 14000 ）万人民币元",
+      "change_date": "2026-03-12",
+      "group_key": "mihoyo",
+      "detected_at": "2026-06-29T16:49:04+08:00"
+    }
+  },
+  "entitychg_91310104MA1FRNHC94_2022-08-29_693135188c7e": {
+    "id": "entitychg_91310104MA1FRNHC94_2022-08-29_693135188c7e",
+    "source_type": "entity_change",
+    "source_name": "天眼查",
+    "title": "上海米哈游姬米花科技有限公司 · 许可经营项目变更",
+    "original_url": "",
+    "cover_image": null,
+    "published_at": "2022-08-29T00:00:00+08:00",
+    "tags": [
+      "许可经营项目变更"
+    ],
+    "entities": {
+      "works": [],
+      "companies": [
+        "上海米哈游姬米花科技有限公司"
+      ]
+    },
+    "ingested_at": "2026-06-29T16:49:15+08:00",
+    "deep_summary": "",
+    "payload": {
+      "entity_credit_code": "91310104MA1FRNHC94",
+      "change_item": "许可经营项目变更",
+      "before": "无",
+      "after": "无",
+      "change_date": "2022-08-29",
+      "group_key": "mihoyo",
+      "detected_at": "2026-06-29T16:49:15+08:00"
+    }
+  },
+  "news-fami-79758": {
+    "id": "news-fami-79758",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『RACCOIN: Coin Pusher Roguelike』Steamで“非常に好評”のデッキ構築型メダル落とし。Switch2、PS5、Xbox版が2026年秋発売",
+    "original_url": "https://www.famitsu.com/article/202606/79758",
+    "published_at": "2026-06-29T14:10:00+08:00",
+    "ingested_at": "2026-06-29T18:01:09+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/79758/thumbnail_vgGv.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "デッキ構築型メダル落としゲーム『RACCOIN: Coin Pusher Roguelike』のNintendo Switch 2、PS5、Xbox Series X|S版が2026年秋に発売決定した。",
+    "payload": {
+      "excerpt": "デッキ構築型メダル落としゲーム『RACCOIN: Coin Pusher Roguelike』のNintendo Switch 2、PS5、Xbox Series X|S版が2026年秋に発売決定した。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-79835": {
+    "id": "news-fami-79835",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "アニメ『サイバーパンク: エッジランナーズ2』ティザー第2弾公開。新たな“エッジランナーズ”ウィーク、D、ロマン、タリアの4人のアクションが確認できる",
+    "original_url": "https://www.famitsu.com/article/202606/79835",
+    "published_at": "2026-06-29T23:38:00+08:00",
+    "ingested_at": "2026-06-30T09:17:30+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/79835/thumbnail_Aqol.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "『サイバーパンク: エッジランナーズ2』の公式ティザー動画第2弾が公開された。新たな“エッジランナーズ”たちが登場する完全新作の物語。2026年秋にNetflixで独占配信。",
+    "payload": {
+      "excerpt": "『サイバーパンク: エッジランナーズ2』の公式ティザー動画第2弾が公開された。新たな“エッジランナーズ”たちが登場する完全新作の物語。2026年秋にNetflixで独占配信。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-79813": {
+    "id": "news-fami-79813",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『トリッカル』開発元の新作『TRICKCAL PATIMA』ティザーサイト公開。「カラコンを片方だけなくした人」など多数のキャラを収めた映像も",
+    "original_url": "https://www.famitsu.com/article/202606/79813",
+    "published_at": "2026-06-29T18:58:00+08:00",
+    "ingested_at": "2026-06-30T09:17:30+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/79813/thumbnail_OSzH.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "『トリッカル・もちもちほっペ大作戦』開発元のEPID Gamesの新作『TRICKCAL PATIMA』のティザーサイトが公開された。",
+    "payload": {
+      "excerpt": "『トリッカル・もちもちほっペ大作戦』開発元のEPID Gamesの新作『TRICKCAL PATIMA』のティザーサイトが公開された。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-78867": {
+    "id": "news-fami-78867",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『レディーバグ』を配信前に最速プレイ。『コンアカ ドラえもん』と『鉄拳』もゆるっと遊びます！ 第224回『俺たちのアケアカ』は本日（7月1日）20時より生放送【ファミ通チャンネル】",
+    "original_url": "https://www.famitsu.com/article/202607/78867",
+    "published_at": "2026-07-01T16:45:00+08:00",
+    "ingested_at": "2026-07-01T18:00:15+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/78867/thumbnail_wynO.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "ファミ通のででおとみさいル小野のふたりで、名作クラシックゲームをゆる～く遊ぶ番組。第224回となる今回はKONAMIの『鉄拳』とタイトーの『レディーバグ』を遊びます！",
+    "payload": {
+      "excerpt": "ファミ通のででおとみさいル小野のふたりで、名作クラシックゲームをゆる～く遊ぶ番組。第224回となる今回はKONAMIの『鉄拳』とタイトーの『レディーバグ』を遊びます！",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-79978": {
+    "id": "news-fami-79978",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "【コンアカ】『ハードエッジ』7月2日配信。特殊部隊の隊員となり、己の肉体を武器に武装集団に立ち向かうサンソフトのアクション",
+    "original_url": "https://www.famitsu.com/article/202607/79978",
+    "published_at": "2026-07-01T18:00:00+08:00",
+    "ingested_at": "2026-07-02T09:00:12+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/79978/thumbnail_dBdE.jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "『コンソールアーカイブス ハードエッジ』が2026年7月2日より配信。1998年にサンソフトから発売されたアクションゲームが『コンソールアーカイブス』（コンアカ）シリーズに登場。",
+    "payload": {
+      "excerpt": "『コンソールアーカイブス ハードエッジ』が2026年7月2日より配信。1998年にサンソフトから発売されたアクションゲームが『コンソールアーカイブス』（コンアカ）シリーズに登場。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80121": {
+    "id": "news-fami-80121",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『進撃の巨人3』発売日が今冬に決定。新要素“壁外調査”の紹介映像も公開。馬で野を駆け、環境も利用して巨人を討伐するシーンが描かれる",
+    "original_url": "https://www.famitsu.com/article/202607/80121",
+    "published_at": "2026-07-02T11:06:00+08:00",
+    "ingested_at": "2026-07-02T18:01:01+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80121/thumbnail_oVdh.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "タクティカルハンティングアクションゲーム『進撃の巨人３』の発売予定日が今冬であることが発表。また、新要素の“壁外調査”を紹介するPVが公開された。人類の活動領域を広げため、調査兵団員を勧誘し自分だけの班を編成して、巨人の討伐などに挑む。",
+    "payload": {
+      "excerpt": "タクティカルハンティングアクションゲーム『進撃の巨人３』の発売予定日が今冬であることが発表。また、新要素の“壁外調査”を紹介するPVが公開された。人類の活動領域を広げため、調査兵団員を勧誘し自分だけの班を編成して、巨人の討伐などに挑む。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80088": {
+    "id": "news-fami-80088",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "【PS5】DualSenseコントローラー新色“アイコン ブルー スペシャルエディション”が予約開始。プレイステーションを象徴する限定カラー",
+    "original_url": "https://www.famitsu.com/article/202607/80088",
+    "published_at": "2026-07-02T09:50:00+08:00",
+    "ingested_at": "2026-07-02T18:01:01+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80088/thumbnail_reof.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "Amazonや楽天ブックスにて、DualSenseワイヤレスコントローラーの新カラー“アイコン ブルー スペシャルエディション”の予約受付が開始された。発売日は2026年8月6日予定で、希望小売価格は12480円［税込］。",
+    "payload": {
+      "excerpt": "Amazonや楽天ブックスにて、DualSenseワイヤレスコントローラーの新カラー“アイコン ブルー スペシャルエディション”の予約受付が開始された。発売日は2026年8月6日予定で、希望小売価格は12480円［税込］。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "wechat-greatpurple_share-2648889220_1": {
+    "id": "wechat-greatpurple_share-2648889220_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "度假感也可以浓缩 - 为什么AI时代\"没有敌人\"的游戏正在征服世界",
+    "original_url": "https://mp.weixin.qq.com/s/VR1B3HJWeE9Y891ssStRJg",
+    "published_at": "2026-05-04T07:44:47+08:00",
+    "ingested_at": "2026-07-03T10:10:24+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/hiaKiaHyKoJKWxx66QET4ExbkiazlyjDURVqECd7609s3iahnK5bqFeWGxF57nY7cvOicoQm9wsibPSOuS24gia7kDBVAqlibf6VibLGyHNJyrV7UqUc/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "最近几年，市场上有一个游戏品类，正在悄悄变成一股巨大的力量。这类游戏的主要特点是：轻松休闲，几乎没有敌人，没有死亡，没有排行榜，没有PvP。它们不需要你练手速、背攻略、研究装备搭配。你打开它们，就好像推开了一扇门，门后面是一个美好的休闲世界。",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648889143_1": {
+    "id": "wechat-greatpurple_share-2648889143_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "微软换帅索尼裁员、全球产能大转移、Scopely 10亿美元再出手、Unity将推出AI创作工具、Autodesk押注世界模型 | 齐城的游戏行业周报",
+    "original_url": "https://mp.weixin.qq.com/s/qLYn0e5XVYVzuTUy9ECMvQ",
+    "published_at": "2026-02-24T11:57:43+08:00",
+    "ingested_at": "2026-07-03T10:10:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/vgEBibLXyxV65dRF3xvGHqXrf5gibutC7Ipic67V1VpHzsGWYibhrnGj6Zps1zyvibCPicoBP8ZPuZNXOHdsnP9PUaskA3v4L7rds7fZiaYbb54Sbg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "齐城",
+      "excerpt": "AI分身已接入满血版DeepSeek，关注公众号后可通过菜单栏调用。",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888395_1": {
+    "id": "wechat-greatpurple_share-2648888395_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "推荐一本好书Pixel Sweat and Pixels像素工厂",
+    "original_url": "https://mp.weixin.qq.com/s/jZKal9ykbXZg2sHzXbHxow",
+    "published_at": "2025-05-01T00:20:23+08:00",
+    "ingested_at": "2026-07-03T10:10:58+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0CPj0EKTPzX6baY3Xype6PJX4xvj1rz6gJ0agb0PN5S0yHaANhkGcv9f0BV1ukXUKIMHiaFSqPIEGw/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "今天再给大家推荐一本好书啊：《像素工厂》英文叫《Blood Sweat and Pixels》。",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888252_1": {
+    "id": "wechat-greatpurple_share-2648888252_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "读Jason的好书《Play Nice 暴雪沉浮录》22",
+    "original_url": "https://mp.weixin.qq.com/s/z-kUOxhcNhn-zcdxy9icVg",
+    "published_at": "2025-02-11T23:25:35+08:00",
+    "ingested_at": "2026-07-03T10:11:03+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0AGJt41qRCSoeS2DfYpqkCcDU3KvXGjUjZmSvepibRDnu68sV4LFYZTc7oxZdVMeSdoTjt7CxsWKfQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888230_1": {
+    "id": "wechat-greatpurple_share-2648888230_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "读Jason的好书《Play Nice 暴雪沉浮录》9",
+    "original_url": "https://mp.weixin.qq.com/s/1-fUcfZZ7O2Pk6BZUI7Hfw",
+    "published_at": "2025-02-11T23:12:14+08:00",
+    "ingested_at": "2026-07-03T10:11:08+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0AGJt41qRCSoeS2DfYpqkCcDU3KvXGjUjZmSvepibRDnu68sV4LFYZTc7oxZdVMeSdoTjt7CxsWKfQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888032_1": {
+    "id": "wechat-greatpurple_share-2648888032_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "《黑神话：悟空》成功引发的思考(2/2)",
+    "original_url": "https://mp.weixin.qq.com/s/LWDfFhj2WpetO68i8VepGA",
+    "published_at": "2024-09-09T00:03:49+08:00",
+    "ingested_at": "2026-07-03T10:11:19+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0CiaCpTdcWmgbPjB1oI1f0xx8Wdxn3hHm0anwazqDlwwESKkwBxYNUH5s8RBqRYEyFrhYRic9hn5Bmg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888010_1": {
+    "id": "wechat-greatpurple_share-2648888010_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "PocketPair的新作PalWorld大成有感",
+    "original_url": "https://mp.weixin.qq.com/s/7bb7HPND3WrpN7UvaoUGog",
+    "published_at": "2024-01-23T20:20:26+08:00",
+    "ingested_at": "2026-07-03T10:11:19+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0C2cQZSNUQ5QJYIjrsA28hltkUKJgmndwqYCdOabz261I8U2A9joZGh6ZicCcEbuxzh25PfTRzdsMg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "PalWord大成给小团队什么启示？",
+      "body": ""
+    }
+  },
+  "news-fami-80264": {
+    "id": "news-fami-80264",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『ウィザードリィ ヴァリアンツ ダフネ』と『FF11』のコラボが夏に開催。長きにわたって冒険者たちを魅了してきた両作品の世界が交わる",
+    "original_url": "https://www.famitsu.com/article/202607/80264",
+    "published_at": "2026-07-03T14:00:00+08:00",
+    "ingested_at": "2026-07-03T17:29:16+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80264/thumbnail_SPFV.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "3DダンジョンRPG『Wizardry Variants Daphne』とMMORPG『ファイナルファンタジーXI』のコラボイベントが2026年夏に開催。なお、コラボの詳細は順次発表予定。",
+    "payload": {
+      "excerpt": "3DダンジョンRPG『Wizardry Variants Daphne』とMMORPG『ファイナルファンタジーXI』のコラボイベントが2026年夏に開催。なお、コラボの詳細は順次発表予定。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80187": {
+    "id": "news-fami-80187",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "神戸電子専門学校で7月4日から公開セミナー開催。『キミプリ』で学ぶ業界のリアル、サイゲームス高木謙一郎×カラー小林浩康の業界セミナーなど",
+    "original_url": "https://www.famitsu.com/article/202607/80187",
+    "published_at": "2026-07-03T10:30:00+08:00",
+    "ingested_at": "2026-07-03T17:29:16+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80187/thumbnail_Qyxl.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "神戸電子専門学校で2026年7月4日～9月12日に公開セミナーが開催。サイバーコネクトツー松山洋氏、スクウェア・エニックス時田貴司氏、サイゲームス高木謙一郎氏×カラー小林浩康氏など、豪華ゲストを招いて実施される。",
+    "payload": {
+      "excerpt": "神戸電子専門学校で2026年7月4日～9月12日に公開セミナーが開催。サイバーコネクトツー松山洋氏、スクウェア・エニックス時田貴司氏、サイゲームス高木謙一郎氏×カラー小林浩康氏など、豪華ゲストを招いて実施される。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "wechat-Vnandao-2247487102_1": {
+    "id": "wechat-Vnandao-2247487102_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "“1元抢一万原石”虚假宣传，拼多多被判赔100万，最高法驳回再审，米哈游胜诉",
+    "original_url": "https://mp.weixin.qq.com/s/oWtJB_J0GF9fzJV0OZekkA",
+    "published_at": "2026-07-04T20:33:35+08:00",
+    "ingested_at": "2026-07-05T12:10:40+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOGurXm72ETbZkM7WhMCTEmOs5SDZibiak7eVvXgV5eOLNvHswa99wHjn652ErmjgD4z5cYJEvQ0oMD0SblOEG1OAiaRBwcz2Wuq4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "米哈游诉拼多多不正当竞争案终审落槌：最高法驳回再审申请，100万赔偿维持不变",
+      "body": ""
+    }
+  },
+  "news-fami-80682": {
+    "id": "news-fami-80682",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『リゼロ』『このすば』『文スト』などKADOKAWAアニメタイトルが青森ねぶた祭・仙台七夕まつりに参加。展示や描き下ろしイラストのグッズを展開",
+    "original_url": "https://www.famitsu.com/article/202607/80682",
+    "published_at": "2026-07-07T18:30:00+08:00",
+    "ingested_at": "2026-07-08T09:00:10+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80682/thumbnail_lSzW.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "2026年8月2日～7日に開催される青森ねぶた祭と8月6日～8日に開催される仙台七夕まつりに、『Re:ゼロから始める異世界生活』、『この素晴らしい世界に祝福を！』などのKADOKAWAアニメ7作品が参加し、展示・物販を展開する。",
+    "payload": {
+      "excerpt": "2026年8月2日～7日に開催される青森ねぶた祭と8月6日～8日に開催される仙台七夕まつりに、『Re:ゼロから始める異世界生活』、『この素晴らしい世界に祝福を！』などのKADOKAWAアニメ7作品が参加し、展示・物販を展開する。",
+      "body": "",
+      "extracted_terms": []
+    }
+  }
+}

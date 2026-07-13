@@ -1,6 +1,8 @@
+import { useState } from 'react'
 import type { BaseEnvelope } from '../../types/envelope'
 import { sourceMeta } from '../../registry/meta'
 import { tint } from '../../lib/color'
+import { getHttpUrl } from '../../lib/url'
 
 /**
  * 封面：有 cover_image 则显示图片，否则用信源强调色生成渐变占位（带信源图标）。
@@ -17,13 +19,18 @@ export function Cover({
 }) {
   const meta = sourceMeta(item.source_type)
   const Icon = meta.icon
+  const resolvedCover = getHttpUrl(item.cover_image)
+  const coverUrl = resolvedCover?.startsWith('https://') ? resolvedCover : null
+  const [failedUrl, setFailedUrl] = useState<string | null>(null)
 
-  if (item.cover_image) {
+  if (coverUrl && failedUrl !== coverUrl) {
     return (
       <img
-        src={item.cover_image}
+        src={coverUrl}
         alt=""
         loading="lazy"
+        referrerPolicy="no-referrer"
+        onError={() => setFailedUrl(coverUrl)}
         className={`object-cover ${className ?? ''}`}
       />
     )

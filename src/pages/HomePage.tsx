@@ -154,15 +154,15 @@ export function HomePage() {
 
   const data = useMemo(() => items ?? [], [items])
   const todayAdded = useMemo(() => summarizeTodayAdded(data), [data])
-  const latestDemoCount = todayAdded.total + todayAdded.backfillTotal
+  const latestSnapshotCount = todayAdded.total + todayAdded.backfillTotal
   const isTodayAddedView = activeType === TODAY_ADDED_VIEW
   const counts = useMemo(() => {
-    const c: Record<string, number> = { [TODAY_ADDED_VIEW]: latestDemoCount }
+    const c: Record<string, number> = { [TODAY_ADDED_VIEW]: latestSnapshotCount }
     for (const group of HOME_CONTENT_GROUPS) {
       c[group.key] = data.filter((item) => group.sourceTypes.includes(item.source_type)).length
     }
     return c
-  }, [data, latestDemoCount])
+  }, [data, latestSnapshotCount])
 
   // 二级段控：该大类下各信源（>1 个才显示，[全部 + 各源]）
   const segs = useMemo<Seg[]>(() => {
@@ -265,13 +265,13 @@ export function HomePage() {
       <div style={{ ...pagerTrack, transform: entered ? 'translateY(-50%)' : 'translateY(0)' }}>
         {/* 区块0：门厅 hero（米哈游式整页第一屏） */}
         <section style={pagerPanel}>
-          <Foyer count={latestDemoCount} onEnter={enter} />
+          <Foyer count={latestSnapshotCount} onEnter={enter} />
         </section>
         {/* 区块1：战略雷达看板（下滑后从下方滑入，不是淡出） */}
         <section style={pagerPanel}>
           <div style={shell}>
       {/* 巨型浅灰英文水印 */}
-      <div aria-hidden style={watermark}>DEMO</div>
+      <div aria-hidden style={watermark}>DATA</div>
       {/* 左竖排 slogan */}
       <div className="radar-slogan" aria-hidden style={slogan}>TECH OTAKUS SAVE THE WORLD</div>
 
@@ -280,7 +280,7 @@ export function HomePage() {
         <span style={{ display: 'inline-flex', alignItems: 'center', gap: 10 }}>
           <span style={{ width: 5, height: 20, background: BLUE, borderRadius: 2 }} />
           <span style={{ fontSize: 18, fontWeight: 800, color: INK, letterSpacing: '0.02em' }}>战略雷达</span>
-          <span style={publicDemoBadge}>PUBLIC DEMO</span>
+          <span style={publicSnapshotBadge}>PUBLIC SNAPSHOT</span>
         </span>
         <span style={{ marginLeft: 'auto', display: 'inline-flex', alignItems: 'center', gap: 18 }}>
           <span className="radar-readonly" style={readOnlyLabel}>只读展示</span>
@@ -373,7 +373,7 @@ const pagerPanel: CSSProperties = {
   width: '100%',
 }
 
-const publicDemoBadge: CSSProperties = {
+const publicSnapshotBadge: CSSProperties = {
   padding: '3px 7px',
   border: '1px solid #BFD2F2',
   borderRadius: 999,

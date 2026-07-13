@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "export:public-snapshot": "node scripts/export-public-snapshot.mjs",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "verify:snapshot": "node scripts/verify-public-snapshot.mjs"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.2.9",

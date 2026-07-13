@@ -129,7 +129,8 @@ export interface EntityPayload {
   branches: Branch[]
   overseas_curated: boolean
   source_fetched_at: string
-  raw_ref: string
+  /** 生产管线内部引用；公开快照中省略。 */
+  raw_ref?: string
 }
 
 /* ---------------- 商业实体 · entity_change（工商变更，意图层信号） ---------------- */
@@ -142,7 +143,8 @@ export interface EntityChangePayload {
   change_date: string
   group_key: string
   detected_at: string
-  raw_ref: string
+  /** 生产管线内部引用；公开快照中省略。 */
+  raw_ref?: string
 }
 
 /* ---------------- 商业实体 · trademark（商标，国家知识产权局/天眼查） ---------------- */
@@ -158,7 +160,8 @@ export interface TrademarkPayload {
   latest_event_date: string
   group_key: string
   source_fetched_at: string
-  raw_ref: string
+  /** 生产管线内部引用；公开快照中省略。 */
+  raw_ref?: string
 }
 
 /* ---------------- 商业实体 · recruitment（招聘，天眼查快照·非实时） ---------------- */
@@ -176,5 +179,6 @@ export interface RecruitmentPayload {
   group_key: string
   /** 本次快照采集时刻（区别于 publish_date） */
   snapshot_fetched_at: string
-  raw_ref: string
+  /** 生产管线内部引用；公开快照中省略。 */
+  raw_ref?: string
 }

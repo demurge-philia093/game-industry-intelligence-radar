@@ -1,8 +1,6 @@
 import { Link } from 'react-router-dom'
-import { Sparkles } from 'lucide-react'
-import type { CSSProperties, ReactNode } from 'react'
+import { useState, type CSSProperties, type ReactNode } from 'react'
 import type { FeedItem } from '../../types/envelope'
-import { isPickPlaceholder } from '../../lib/daily'
 import { ModuleTitle } from './Digest'
 
 const BLUE = '#3778E5'
@@ -26,7 +24,7 @@ function snippet(it: FeedItem): string {
  * 锁定一屏：根为 flex 列，卡片列 flex:1 内部滚动（src-scroll 冷灰细条），
  * 顶栏/底盘始终在屏，仅卡片列在框内滚动——长清单（可能 ~90 条）不顶破整页。
  */
-const RENDER_CAP = 60 // 控 DOM：最多渲染 60 张（如 wechat 数千条），其余在列表内滚动也不堆 DOM
+const PAGE_SIZE = 60 // 控 DOM：按 60 条渐进加载，避免一次渲染数千张卡片
 
 export interface SourceFeedFolded {
   items: FeedItem[]
@@ -51,8 +49,11 @@ export function SourceFeed({
 }) {
   const foldedItems = folded?.items ?? []
   const totalCount = items.length + foldedItems.length
-  const shown = items.slice(0, RENDER_CAP)
-  const foldedShown = folded?.open ? foldedItems.slice(0, RENDER_CAP) : []
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
+  const [visibleFoldedCount, setVisibleFoldedCount] = useState(PAGE_SIZE)
+
+  const shown = items.slice(0, visibleCount)
+  const foldedShown = folded?.open ? foldedItems.slice(0, visibleFoldedCount) : []
   const renderedCount = shown.length + foldedShown.length
   const foldedLabel = folded?.label ?? '集低相关单集'
   const foldedBadgeLabel = folded?.badgeLabel ?? '低相关'
@@ -89,6 +90,17 @@ export function SourceFeed({
           }}
         >
           {shown.map((it, i) => renderItem(it, i, null))}
+          {shown.length < items.length && (
+            <li>
+              <button
+                type="button"
+                onClick={() => setVisibleCount((count) => Math.min(count + PAGE_SIZE, items.length))}
+                style={loadMoreButton}
+              >
+                加载更多 · 已显示 {shown.length}/{items.length}
+              </button>
+            </li>
+          )}
           {foldedItems.length > 0 && folded && (
             <li>
               <button type="button" onClick={folded.onToggle} style={foldToggle}>
@@ -99,6 +111,19 @@ export function SourceFeed({
           {foldedShown.map((it, i) =>
             renderItem(it, shown.length + i, <span style={foldedBadge}>{foldedBadgeLabel}</span>),
           )}
+          {folded?.open && foldedShown.length < foldedItems.length && (
+            <li>
+              <button
+                type="button"
+                onClick={() =>
+                  setVisibleFoldedCount((count) => Math.min(count + PAGE_SIZE, foldedItems.length))
+                }
+                style={loadMoreButton}
+              >
+                加载更多补充条目 · 已显示 {foldedShown.length}/{foldedItems.length}
+              </button>
+            </li>
+          )}
         </ul>
       )}
     </div>
@@ -106,15 +131,14 @@ export function SourceFeed({
 }
 
 function renderItem(it: FeedItem, i: number, badge: ReactNode) {
-  const pick = isPickPlaceholder(i)
   const sub = snippet(it)
   return (
     <li key={it.id}>
-      <Link to={`/item/${it.id}`} style={cardStyle(pick)} className="rd-card">
+      <Link to={`/item/${it.id}`} style={cardStyle} className="rd-card">
         {/* 右侧大号编号水印 */}
         <span aria-hidden style={numWatermark}>
           <span style={{ color: '#E4E8F0', fontWeight: 800 }}>&gt;&gt;&gt;</span>
-          <span style={{ color: pick ? 'rgba(55,120,229,0.10)' : '#EDEFF4', fontWeight: 800 }}>
+          <span style={{ color: '#EDEFF4', fontWeight: 800 }}>
             {String(i + 1).padStart(2, '0')}
           </span>
         </span>
@@ -125,12 +149,6 @@ function renderItem(it: FeedItem, i: number, badge: ReactNode) {
         <div style={{ minWidth: 0, flex: 1, paddingRight: 56 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
             {badge}
-            {pick && (
-              <span style={pickBadge}>
-                <Sparkles size={11} />
-                精选·示例
-              </span>
-            )}
             <h3 style={titleStyle}>{it.title}</h3>
           </div>
 
@@ -147,20 +165,18 @@ function renderItem(it: FeedItem, i: number, badge: ReactNode) {
   )
 }
 
-function cardStyle(pick: boolean): CSSProperties {
-  return {
-    position: 'relative',
-    display: 'flex',
-    gap: 12,
-    padding: '11px 18px',
-    background: '#fff',
-    border: `1px solid ${pick ? 'rgba(55,120,229,0.22)' : '#ECEEF3'}`,
-    borderRadius: 12,
-    boxShadow: '0 1px 2px rgba(22,33,62,0.04)',
-    textDecoration: 'none',
-    color: 'inherit',
-    overflow: 'hidden',
-  }
+const cardStyle: CSSProperties = {
+  position: 'relative',
+  display: 'flex',
+  gap: 12,
+  padding: '11px 18px',
+  background: '#fff',
+  border: '1px solid #ECEEF3',
+  borderRadius: 12,
+  boxShadow: '0 1px 2px rgba(22,33,62,0.04)',
+  textDecoration: 'none',
+  color: 'inherit',
+  overflow: 'hidden',
 }
 
 const numWatermark: CSSProperties = {
@@ -210,19 +226,6 @@ const metaRow: CSSProperties = {
   color: '#AEB4BC',
 }
 
-const pickBadge: CSSProperties = {
-  display: 'inline-flex',
-  alignItems: 'center',
-  gap: 3,
-  fontSize: 10.5,
-  fontWeight: 600,
-  color: BLUE,
-  background: 'rgba(55,120,229,0.1)',
-  padding: '2px 6px',
-  borderRadius: 5,
-  flex: 'none',
-}
-
 const foldedBadge: CSSProperties = {
   display: 'inline-flex',
   alignItems: 'center',
@@ -234,6 +237,18 @@ const foldedBadge: CSSProperties = {
   padding: '2px 6px',
   borderRadius: 5,
   flex: 'none',
+}
+
+const loadMoreButton: CSSProperties = {
+  width: '100%',
+  padding: '10px 14px',
+  border: '1px solid #D9E3F4',
+  borderRadius: 10,
+  background: '#F6F9FE',
+  color: BLUE,
+  fontSize: 12,
+  fontWeight: 700,
+  cursor: 'pointer',
 }
 
 const foldToggle: CSSProperties = {

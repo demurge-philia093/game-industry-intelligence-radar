@@ -1,0 +1,1438 @@
+{
+  "podcast-xyz-6a4100299d2f5743683f1a3d": {
+    "id": "podcast-xyz-6a4100299d2f5743683f1a3d",
+    "source_type": "podcast",
+    "source_name": "UV相对论",
+    "title": "SP41：日本稳如磐石，韩国疯狂内卷——夏季游戏节深度拆解",
+    "original_url": "https://www.xiaoyuzhoufm.com/episode/6a4100299d2f5743683f1a3d",
+    "published_at": "2026-06-29T06:00:00+08:00",
+    "ingested_at": "2026-07-03T15:34:13+08:00",
+    "cover_image": "https://image.xyzcdn.net/FlZZHWG_dsLCmhClSiA0-B9i_c2k.png",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c5cf05ec5a52c4b6e29c3e/6a4100299d2f5743683f1a3d/media.xyzcdn.net/67c5cf05ec5a52c4b6e29c3e/lsAJOvVhqJGox-hwibe6iWpznlXm.m4a",
+      "duration_seconds": 4979,
+      "background": "本期节目，我们延续上期对日本游戏厂商的观察，将目光投向那些尚未被充分讨论的日本巨头与新兴力量，并首次系统性地剖析韩国游戏产业的十年沉浮。从光荣的“炒股式经营”到科乐美的“老年体育帝国”，从万代的IP换皮术到任天堂的独占博弈，再到韩国游戏公司集体上演的“市值崩盘秀”——这场跨越东亚两大游戏强国的横向对比，揭示出截然不同的产业逻辑与文化底色。\n日本篇：稳到极致，是福是祸？\n光荣特库摩：稳过头了，钱都拿去炒股了\n光荣是日本“稳”字的典型代表。Omega Force常年将全球IP“无双化”，从《进击的巨人》到各类授权合作，几乎从不偏离核心赛道。Team Ninja负责硬核动作，也鲜少跨界冒险。新IP？基本不碰。\n但光荣的“稳”已经到了令人瞠目的程度——其利润中有一半来自炒股收益。公司宁可把钱投入股市，也不愿意孵化新IP或拓展产品线。即便手握《三国志战略版》的版权费（曾一度极高），随着B站《三国志·...",
+      "people": [],
+      "chapters": [],
+      "transcript": []
+    }
+  },
+  "podcast-xyz-69f23b07fbed7ba941228d92": {
+    "id": "podcast-xyz-69f23b07fbed7ba941228d92",
+    "source_type": "podcast",
+    "source_name": "UV相对论",
+    "title": "S58：AI开始长出身体：工具、机器人、生命科学和国产算力",
+    "original_url": "https://www.xiaoyuzhoufm.com/episode/69f23b07fbed7ba941228d92",
+    "published_at": "2026-04-30T06:00:00+08:00",
+    "ingested_at": "2026-07-03T15:34:13+08:00",
+    "cover_image": "https://image.xyzcdn.net/FlZZHWG_dsLCmhClSiA0-B9i_c2k.png",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c5cf05ec5a52c4b6e29c3e/69f23b07fbed7ba941228d92/media.xyzcdn.net/67c5cf05ec5a52c4b6e29c3e/ljZ2ArBPmnIeDHsgOZpFAwhkupL4.m4a",
+      "duration_seconds": 4662,
+      "background": "当模型越来越大，AI真正的竞争开始转向谁能把它接进工具链、硬件、数据和真实世界。\n这一期从老许参加清华校庆聊起。自动化系曾经像一个“什么都沾一点”的万金油专业，但在具身智能、机器人和AI硬件成为新主线之后，它突然重新找到了时代位置。于是问题也变得更具体：如果纯软件会被AI最快冲击，那未来更值得押注的能力，可能反而是硬件、工业设计、审美、真实世界经验，以及把AI接进现实系统的能力。\n我们这期聊了很多AI新闻，但它们其实指向同一个变化：AI不再只是一个模型，而是在寻找身体、工具、平台和边界。Claude和Codex的组合，像是把一个模型当“大脑”，另一个当“手脚”；但真正重要的不是谁更强，而是AI不能既当运动员又当裁判。它会为了交付速度而糊弄、漏测，甚至骗你，所以跨模型、跨环境的审计，正在变成AI工作流里的基础设施。\nOpenAI和微软的协议变化、OpenAI手机的想象、小米和DeepSeek...",
+      "people": [],
+      "chapters": [],
+      "transcript": []
+    }
+  },
+  "podcast-xyz-6a158ddb13abca418579e477": {
+    "id": "podcast-xyz-6a158ddb13abca418579e477",
+    "source_type": "podcast",
+    "source_name": "405游局",
+    "title": "EP.46 串台《十字路口》，和Koji聊聊对AI游戏发展的一些观察与思考",
+    "original_url": "https://www.xiaoyuzhoufm.com/episode/6a158ddb13abca418579e477",
+    "published_at": "2026-05-28T00:00:00+08:00",
+    "ingested_at": "2026-07-01T10:20:41+08:00",
+    "cover_image": "https://image.xyzcdn.net/Fl8HuPBonHFbMDlzmiPGQ5eh_jvD.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/682b082a7a18085b07730038/6a158ddb13abca418579e477/media.xyzcdn.net/682b082a7a18085b07730038/lgFDhSwvGaXaH7sKi8XOJMMXT5cc.m4a",
+      "duration_seconds": 2903,
+      "background": "本集播客是和《十字路口》的串台节目，感谢Koji的邀请，我们一起来分享下站在2026年中这个时间节点，对于AI游戏的一些观察与思考。\n【405游局播客简介】\n《405游局》是一档长期关注互动娱乐与技术变迁的播客。我们讨论游戏，但不只讨论游戏本身；我们关注AI，但不止于模型参数。我们更关心的是——当技术发生跃迁，娱乐如何被重写？创作者如何改变？产业的结构会如何被重构？\n我们希望长期记录互动娱乐的变化，与真正身处其中的人展开深入对话，持续输出更系统、更有密度的内容——试着留下对这个阶段真正有价值的观察与思考。\n【本期简介】\n当下，AI + 游戏、AI 互动娱乐早已成为行业热议焦点。各式各样的 AI 交互 Demo、前沿技术接连亮相，行业一派热闹景象，可真正引爆大众、形成全民共识的现象级爆款，却依旧迟迟未见踪影。\n本期《405游局》主理人筱宁与《十字路口》主理人Koji，结合多年一线经验，完成了...",
+      "people": [],
+      "chapters": [],
+      "transcript": []
+    }
+  },
+  "news-3dm-3946896": {
+    "id": "news-3dm-3946896",
+    "source_type": "news",
+    "source_name": "3DM游戏网",
+    "title": "恐怖游戏作者疑似因女主太性感被大量举报被封禁",
+    "original_url": "https://www.3dmgame.com/news/202606/3946896.html",
+    "published_at": "2026-06-23T15:07:42+08:00",
+    "ingested_at": "2026-06-23T16:15:30+08:00",
+    "cover_image": null,
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "2026年6月22日晚，独立游戏工作室HideWorks及一名开发者的社交媒体账号在没有任何预警和具体解释的情况下遭到封禁。这个双人开发团队正在制作心理恐怖游戏《阈限点》。",
+    "payload": {
+      "excerpt": "2026年6月22日晚，独立游戏工作室HideWorks及一名开发者的社交媒体账号在没有任何预警和具体解释的情况下遭到封禁。这个双人开发团队正在制作心理恐怖游戏《阈限点》。",
+      "body": "2026年6月22日晚，独立游戏工作室HideWorks及一名开发者的社交媒体账号在没有任何预警和具体解释的情况下遭到封禁。这个双人开发团队正在制作心理恐怖游戏《阈限点》。\n\n![](https://img.3dmgame.com/uploads/images/news/20260623/1782176621_364339.jpg)\n\n他们随即发布了一则求助声明。其中一位主创LordZero写道：\"各位，社交媒体平台同时封禁了HideWorks和Lady_zero的账号，完全没有任何理由。如果有人能帮忙，求求你们了。\"\n\n![](https://img.3dmgame.com/uploads/images/news/20260623/1782176621_274878.jpg)\n\n玩家和独立开发者们表达了愤慨，并推测封禁可能是大量举报导致的结果。评论区猜测可能有激进人士因不满女主角设计而发起举报攻势的说法。自首支预告片发布以来，主角莱拉的外貌就因\"过于暴露的着装\"引发过争议。工作室方面希望这只是社交媒体平台算法出了错，并已提交申诉。社区中正在热议，许多内容更具争议的账号往往安然无恙，而小型独立团队却因举报深受其害。\n\n相关资讯\n\n标签：阈限点\n\n《阈限点》全新预告公布 性感女主打怪闯关\n 《阈限点》新预告将于6月1日公布 展示实机内容\n 美女恐怖游戏《阈限点》新细节 核心机制和技术特点等\n 渔网袜美女恐怖游戏《阈限点》愿望单破十万！明年初试玩\n 《阈限点》新视频和主视觉图 美女大战众怪物\n 超2万玩家将《阈限点》加入愿望单 漂亮女主吸睛",
+      "extracted_terms": []
+    }
+  },
+  "news-3dm-3946874": {
+    "id": "news-3dm-3946874",
+    "source_type": "news",
+    "source_name": "3DM游戏网",
+    "title": "三星各部门营收差距拉大 智能手机销售或出现亏损",
+    "original_url": "https://www.3dmgame.com/news/202606/3946874.html",
+    "published_at": "2026-06-22T19:37:31+08:00",
+    "ingested_at": "2026-06-23T16:19:22+08:00",
+    "cover_image": null,
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "随着过去一年里DRAM和NAND闪存价格暴涨、利润大增，作为全球第一大存储芯片制造商，三星频频出现在各大媒体的新闻头条。有人欢喜有人愁，对于组织架构庞大、业务众多的三星来说，内部各部门也不是都在这一轮人工智能（AI）热潮中受益，能过上好日子。",
+    "payload": {
+      "excerpt": "随着过去一年里DRAM和NAND闪存价格暴涨、利润大增，作为全球第一大存储芯片制造商，三星频频出现在各大媒体的新闻头条。有人欢喜有人愁，对于组织架构庞大、业务众多的三星来说，内部各部门也不是都在这一轮人工智能（AI）热潮中受益，能过上好日子。",
+      "body": "随着过去一年里DRAM和NAND闪存价格暴涨、利润大增，作为全球第一大存储芯片制造商，三星频频出现在各大媒体的新闻头条。有人欢喜有人愁，对于组织架构庞大、业务众多的三星来说，内部各部门也不是都在这一轮人工智能（AI）热潮中受益，能过上好日子。\n\n![](https://img.3dmgame.com/uploads/images/news/20260622/1782128177_805436_jpg_r.webp)\n\n据Wccftech报道，近日有报告称，随着半导体业务飞升，使得三星内部各部门的实力差距变得越来越大，这次受害的是曾经风光无限的移动业务。2026年第二季度三星智能手机的的利润预计仅为三星半导体利润的1%，而且存在亏损的可能。就如大家所想，这种部门收益上的差距也将体现在三星各业务部门员工的年终奖金上。\n\n根据三星今年的营业利润预期和奖金发放规则，每位存储部门的员工将平均获得约40万美元的奖金。然而其他部门的员工情况要糟糕得多，像移动部门的员工可能只有存储部门的1%，而智能手机销售的最大阻力则是来自于存储涨价。传闻三星将提高今年新款Galaxy \nZ Fold 8 / Z Fold 8 Ultra的价格，最受影响的将是欧洲和亚洲市场。\n\n传出这样的消息并不令人感到意外，毕竟连苹果都开始支撑不住，认为当前的产品定价“不可持续”，已经有提高定价的打算。\n\n相关资讯\n\n标签：三星\n\n三星正在开发新技术 让智能手机和平板使用HBM\n 三星显示器或已找到代理 接手国行销售\n 三星家电正式退出大陆市场 含电视、显示器等产品\n 全球首发1.4nm工艺 三星Exynos 2800已在路上\n 三星发2026年Q1财报：营业利润超去年全年\n 假冒990 Pro固态硬盘流入欧洲市场 三星作出回应",
+      "extracted_terms": []
+    }
+  },
+  "wechat-youxiputao-2650009561_2": {
+    "id": "wechat-youxiputao-2650009561_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "三角洲制作人对话彩虹六号：深度理解之后才是灵魂共振",
+    "original_url": "https://mp.weixin.qq.com/s/gkGh2hLAC2vS69YLKugRxA",
+    "published_at": "2026-06-17T22:47:26+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZD6nVT7p8DHCiaJVdGLCmD43PmdsHlkefKjpkIt95tWibHuh7JnAj0a4b8mbiaAjsGEoO2mQJeukGkHy6zCOicxhGgWhT54KibibKuE/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "玩家社区推动的双向奔赴。",
+    "payload": {
+      "excerpt": "玩家社区推动的双向奔赴。",
+      "body": "游戏葡萄君 游戏葡萄君 [游戏葡萄](javascript:void\\(0\\);)\n\n在小说阅读器读本章\n\n去阅读\n\n在小说阅读器中沉浸阅读\n\n![](https://mmbiz.qpic.cn/mmbiz_png/GYfBeCic3ftdL2HnQHI9iaZktWKiawWWgrCK2vJSKW2G9Yuf9plsyTl34mY2X0xSxP75JYkAGQQPHic0kPc6xNWyWw/640?wx_fmt=png&from=appmsg)\n\n玩家社区推动的双向奔赴。\n\n译/九莲宝灯\n\n昨天上午（6月16日），《三角洲行动》突然公布：游戏将于7月10日，与《彩虹六号：围攻》（后简称彩六）展开联动活动。\n\n这还挺微妙的——按理来说，这两款游戏同属战术射击品类，在某种维度上，甚至可以看作是竞品关系。近几年里，我们很少能看到同赛道的产品这样联动。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZjZUC5FomiazrqtEpEdZKcsS90DhGHlZlJyeTYL1585ial8OzX20PxibJGRTGy4pbUykwVFtf4qv1lIf28IjScuuP2X6USOTPytg/640?wx_fmt=jpeg&from=appmsg)\n\n但实际上，观察玩家社区，同品类联动一直是玩家呼声最高的合作形式之一，但过去碍于竞品之间的关系，这种事情往往很难落地。\n\n那为什么三角洲和彩六能展开联动？一方面或许是因为这两款IP的赛道并未完全重合，另一方面，他们这次合作恰好能各取所需：《三角洲行动》能借此与国际战术标杆产品同台对话，撬动海外声量；而《彩虹六号：围攻》，也需要进一步展现它的生命力。\n\n不过，这场联动也有更加纯粹的地方。在玩家社群中，早有关于两款游戏近似职业干员之间的讨论。而这场联动，让玩家们的想象成了真，双方对需求的观察和服务玩家的态度，显然值得尊重。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasYTNJwXaEGJWATibwaZUFTms1fRbIhvkeg1MV1EUNt29GSqmP6el54ypibrrh3IljExWnCuEYuMuTQngeSnCLpUSgv67brjBXKh8/640?wx_fmt=png&from=appmsg)\n\n从目前公布后的反响来看，玩家们确实对这场联动的期待值很高。我们能在抖音、B站等平台上看到，很多玩家都在三角洲评论区晒出了自己的彩六游戏时长，低调地展示自己「双厨狂喜」的心情。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasayEMfFWiby1u7Rx4UIFodkgiawgfSv9bF9yFx8zJKyXeDmVl9zTym45k8gviaK8YTphw3WY6nLbadA0II6ZvrJxKfVZt9MwFGoXM/640?wx_fmt=png&from=appmsg)\n\n不过从实际落地来考虑，这个联动并不简单：固然，作为两款战术射击游戏，他们在角色设计上或有相通之处，但各自的角色都带有明显的产品风格。如何让彩六的设计亮点在三角洲中自然融入，双方的元素都得以体现，会是一个问题。\n\n据外媒Gamerant报道，最近，《三角洲行动》制作人Shadow与《彩虹六号：围攻》全球创意总监Joshua Mills展开了对谈，并探讨了相关问题。\n\n葡萄对Game rant的完整采访做了编译后发现，在这次交流中，Shadow透露了很多联动的细节，以及他对联动的看法和体会。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasbGmEUxLSzkI529sQ0F6ob1dVxhrYL7Miak5sjic1R3PXtQLCgHsibcDqxzFGrHhPI1I93ZvzY43U6VbSsk2QmZjQMAIQkRDPdw0M/640?wx_fmt=jpeg&from=appmsg)\n\n首先，他提到，这次联动是由《三角洲行动》主动发起的。他们选择与彩六联动，主要是因为在三角洲社区，彩六是玩家们最常提到的IP之一。而产品团队里包括他在内的很多人，也都是彩六的深度玩家。\n\n值得一提的是，《彩虹六号：围攻》答应得很快。Joshua Mills表示，团队早就在关注三角洲，自己也是三角洲IP的多年老粉。他们也很期待这次联动合作。\n\n其次，Shadow还公开了项目组筛选联动对象的标准——玩家看到这个合作，会不会有所期待？这两个IP的DNA能不能在精神层面上真正融合？双方团队在合作结束时，是不是都学到了东西？\n\n在他眼中，《彩虹六号：围攻》完全契合这三项要求。他还表示，团队后续可能会找其他战术射击，或者是意料之外的品类联动。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZk86hdZ0Mzz6lSdymOicgJ7ypSGmYvKdIojPyPfARPpib3Be5LfvCUI3icbe1gAjEdyuwTt3K5zMFamfTcGaRGTyx08iacSicbfibuc/640?wx_fmt=jpeg&from=appmsg)\n\n以下是经过编译的内容：\n\n**01**\n\n**一场来自共同玩家与共同社区的合作**\n\n从一开始，这次合作最明显的特点就是“自然”。Shadow表示，自三角洲行动上线以来，玩家社区就一直表现出对战术射击品类的强烈热情，而《彩虹六号：围攻》也是玩家最频繁提到的名字之一。\n\n与此同时，三角洲团队内部也有很多长期玩彩六的成员。这些社区声音，加上团队自身对这款品类标杆作品的真实理解，让双方的合作显得顺理成章。Shadow将最初主动联系育碧的过程形容为“一场来自中国战术射击游戏与国际战术射击标杆之间的真诚对话”。\n\n> “自《三角洲行动》上线以来，我们持续看到玩家社区对战术射击类型的强烈热情，而《彩虹六号：围攻》常常被提及。这并不令人意外。如果你在做战术射击游戏，就不可能不受到这样一款在过去十年里定义了这个品类语言的作品影响。我们团队里有很多人都是《彩虹六号：围攻》的长期玩家，包括我自己。”\n\n真正让三角洲团队惊讶的是育碧的回应速度。事实证明，彩六团队也一直在关注《三角洲行动》。\n\nJoshua Mills表示，自己本身就是三角洲的长期粉丝。在正式参与这次合作之前，他已经在家里玩这款游戏了。更重要的是，从最早的提案材料开始，三角洲团队对彩六身份与细节的尊重就已经非常明显。\n\n> “说我很兴奋都算轻描淡写了。因为即便是在最早的沟通中，我们就已经能看到他们对《彩虹六号：围攻》的用心，以及对细节的关注。”\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasYAWN867SV9cibKwKWtDEd4FwjOGqSQichtVsnUaGMHz8iabwz5jgTsjfzYrhXdn4Ca2rLqyqxjQPketCIYMK0NewwHvsu5ic0ShMA/640?wx_fmt=jpeg&from=appmsg)\n\n###\n\n**02**\n\n**三组干员搭配，一个核心标准**\n\n这次联动的核心，是三组干员搭配。它们并不是根据外观相似度来组合，而是围绕共同的“战斗哲学”来设计。Shadow表示，这一点从项目初期就是不可妥协的原则。\n\n> “干员是《彩虹六号：围攻》和《三角洲行动》中最具代表性的体验之一，因此他们自然成为了这次合作的核心。三组搭配分别是：深蓝 xMontagne，代表不可动摇的守护；无名 x Vigil，二者都将‘消失’这件事发挥到极致；以及蜂医 x Doc，他们都相信在每一次救援行动中，生命优先。”\n\nShadow特别提到蜂医与Doc的组合。乍看之下，这似乎是一组并不直观的搭配：蜂医是三角洲中的医疗专家，而Doc是《彩虹六号：围攻》中的战地医疗兵。但对设计团队来说，关键在于两人的底层信念其实一致。他们都在以自己的方式守护生命，只是分别站在战术行动的不同位置上。一个负责阻止防线崩溃，另一个则在伤亡发生之后把人带回来。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasbWyXLicAMMbmSJyqUXEVehYCWDEykm64W0RW2qLPahkoAX1s6XiawxUtkW8GYxsrsBuuM6AXOPGoRauVr9e9IDCR665nNiaVsicJ4/640?wx_fmt=jpeg&from=appmsg)\n\n###\n\n**03**\n\n**保留社区眼中的“身份卡”**\n\n将《彩虹六号：围攻》的干员带入《三角洲行动》的视觉体系，并不是简单地换一套模型或皮肤。真正的挑战在于，如何让这些角色进入另一个游戏世界，同时不削弱他们原本的独特身份。\n\nMills表示，关键在于保留每个角色的“个体身份”。对彩六玩家来说，每一位干员都不仅仅是一套技能或一张脸。他们有各自的历史、文化、创伤和信念，而这些具体性正是玩家在十余年里与他们建立情感连接的原因。\n\n> “比如Montagne那种沉稳而坚定的勇气，或者Doc身上那种强大到近乎具有压迫感的存在感。毕竟他说过：‘有时候，拯救一条生命的唯一方式，就是夺走另一条生命。’这就是必须被捕捉到的角色本质。”\n\nShadow也表示，这种尊重必须落实到非常细的层面。\n\n> “像徽章、Doc的白手套、Vigil的面具，这些都是《彩虹六号：围攻》玩家眼中的‘身份卡’，不能被轻易改动。”\n\n例如，在无名 x Vigil皮肤的设计中，碳纤维材质就经过了多次调整。团队刻意避免让它显得过于闪亮或反光，而是让它回到更贴近Vigil角色气质的沉稳、写实风格。此外，团队还注意到一个很小但很重要的细节：干员只有在真正开火时，手指才会放在扳机上。这个细节本身并不显眼，却体现了双方对战术世界观一致性的重视。\n\nShadow用一句话总结了这次合作想达到的状态：\n\n> “我们的目标是，让《彩虹六号：围攻》的玩家一眼认出‘这是我认识的那个人’，同时也让 《三角洲行动》的玩家觉得‘这个人真的来到了我的世界’。”\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZZwal5NrXV5jY3TYFA39N1G4lVJEKT63wPjbuFt2fwiaFatu2yF9lmqkWfEdU6Q0JeuLmgP51bicu2khfwvzJ25Zzvtfcr4rEdE/640?wx_fmt=jpeg&from=appmsg)\n\n###\n\n**04**\n\n**这次合作对未来意味着什么**\n\n两位总监都提到，推动这次联动的并不只是“同为战术射击游戏”这么简单。更重要的是，两个社区之间存在一种非常相似的玩家气质。\n\nShadow将战术射击玩家形容为一种格外认真、甚至近乎专业的群体。他们会因为一次防守失误复盘整场比赛，会围绕某个干员强度争论几个小时，也会用非常高的标准审视游戏里的每一个设计决定。这种共同的社区基础，让双方团队坐到一起之后，这次合作显得更加自然。\n\nShadow还透露，三角洲团队在评估每一次潜在合作时，都会问三个问题：\n\n> 玩家会不会真正感到兴奋？\n> \n> 两款游戏的DNA能否在精神层面融合，而不只是视觉层面的拼贴？\n> \n> 两支团队是否都能从这次合作中学到东西？\n\n在他们看来，这次与《彩虹六号：围攻》的合作同时满足了这三个条件。至于 《三角洲行动》未来还会与哪些作品合作，Shadow的表述也刻意保留了开放性。\n\n> “我们会继续寻找那种一加一大于二的合作。它可能是另一款战术射击游戏，也可能是一个所有人都意想不到的品类。但《三角洲行动》的世界，以及玩家对我们的信任，是我们最珍视的资产。我们不会让任何合作轻易稀释它们。”\n\nMills也表示，这次合作让双方都加深了对彼此游戏和团队的尊重。\n\n> “我很有信心地说，经历这次合作之后，我们双方都会对彼此的游戏和团队抱有更深的尊重。《三角洲行动》背后是一支非常有才华的团队，这体现在他们对游戏的日常运营、持续交付的更新，以及这次合作中。”\n\n###\n\n**05**\n\n**干员之外，还有更多内容**\n\n除了三组干员搭配之外，这次联动还有不少内容暂时没有完全公开。Shadow表示，他不想在这里剧透所有东西。\n\n不过，目前已经确认的是，联动内容中还包括对《彩虹六号：围攻》经典墨冰皮肤系列的重新诠释。墨冰是《彩虹六号：围攻》社区中极具标志性的皮肤之一，也与游戏早期的身份记忆紧密相连。《三角洲行动》团队并没有选择简单复制它，而是希望在 《三角洲行动》自身的系统和视觉语言中重新构建这个经典元素，以此向它致敬。\n\n此外，《彩虹六号：围攻》中极具代表性的侦查小车也将在 《三角洲行动》中登场。这显然有意致敬了彩六最有辨识度的战术符号。至于联动中的其他彩蛋，Mills给出了一个提示。\n\n> “我不想破坏大家寻找彩蛋的乐趣，但我可以给一个提示：在《彩虹六号：围攻》中，如果你是进攻方，你应该多做这件事……祝你好运！”",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2650009364_1": {
+    "id": "wechat-youxiputao-2650009364_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "官宣销量5天破100万份，全系列300万：创造奇迹的国产新品，谁还没看懂？",
+    "original_url": "https://mp.weixin.qq.com/s/1CxpC0GL_swBjkzcI_ashA",
+    "published_at": "2026-06-14T16:33:54+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasYp1FnkkyBff1rB5iaMCSicJxtVesCpEvZUicqLJH0B3rf9ZNbzdrBcYVUJ7WjsbKo5ic2gCBPdS0hFqOkcOX0dHV86mibbjC2HOpgw/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "一声新的回响。",
+    "payload": {
+      "excerpt": "一声新的回响。",
+      "body": "一声新的回响。\n\n文/以撒\n\n今天（6月14日），《盛世天下》官方公布了一个消息：女帝篇的全平台销量已经突破100万份；媚娘篇和女帝篇的合计销量，则已经突破300万份。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasaueIco5vvZiaOy5sQLKxGPlsxTJ5HcnyBIuvRo13wBpNDSFosmWzAo2EYyBr2EPxqBnic6bU9P3hxtwZ8rsBD0nibMaftK2XLyicM/640?wx_fmt=png&from=appmsg)\n\n在去年，媚娘篇上线后用时12天破百万；而女帝篇上线仅5天即破百万，这个销量增长速度创下了互动影视作品品类的历史新高，算得上一个新的里程碑。\n\n不过在这之前，女帝篇也有过挺多让人意外的成绩了：上线之后，它很快登上了中国大陆及港澳台地区、韩国、新加坡等6个地区的App Store付费榜榜首，海外10个地区的App Store付费榜前列；在Steam也登上了国区热销榜第一、全球热销榜第三。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYCt8vicjyaFtZJcSl2jiaEa2cX3pxQ2zicy5YGg8GxiaKjvjbXDsgcibGbUf0QpTA6zCmtBW8oW6MxdvWFaYeiaAk3mkryXI9x6ywRA/640?wx_fmt=png&from=appmsg)\n\n各种社区平台上，对女帝篇的讨论都不少。上线才5天，微博、小红书、抖音及快手上的热搜热点总数已达150多个……甚至在韩国X趋势，盛世天下也排到过第六名。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZDLXrSibECy25RwSCictsQT6iaeicpgBnEtwA5ibYIViaHBDiauVBpFtwnAZr6ADCjrwX5xYwI2DJS8M1Wber0AvvAUY5icM5Jw8V2Cdo/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZuTGIdBom8KzB3KY2yLvVypRVXUw1dwxjfnI06C9gQ6HaFB6cWZgYtX88QD8IopmwzNEGc0yJiavRyCy597hxb2luGvrjFbmjk/640?wx_fmt=png&from=appmsg)\n\n如果你这一周刷过社交平台，大概率会对这些讨论有印象：第一天，有人开始熬夜通关、上传全集实况；第二天，大家陆陆续续讨论起一些高光和名场面；到第三天，就能刷到不少人谈自己的通关感受，甚至甩出小作文了。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasbeOYfZvpeGuXflDtHMRzB2nxRtKOgeOzwpxXUs66NuMLI5xhS9hrYagMCgOeIxfOPWdFTsrF1w0Tn21SpXibeia5sZGAic3hQib7U/640?wx_fmt=png&from=appmsg)\n\n对互动影视行业来说，这当然又是一个可喜可贺的成绩。\n\n只不过，还是有一个问题令人在意——在所有数据都表明女帝篇很火的时候，似乎没多少用户能真正说清楚，他们到底为什么为这款产品付费；甚至完全不理解「互动影视」这种形式的，也大有人在。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZAHueynX6xQruWgiapMXWqeSUCwakVB0Mu96XeNAYgqySDNNlS8CZiac1fNbo6mPeKqiaiaRyYeI1TQq2t1DBibc1csF27BS8SvSsU/640?wx_fmt=png&from=appmsg)\n\n这就让我对这款产品，和它背后的互动影视赛道更好奇了。\n\n**01**\n\n**当你玩互动影视时，**\n\n**你在玩什么？**\n\n就葡萄君观察到的来说，大多数人面对互动影视的第一反应，就是「这和看剧有啥区别？」但如果你去社区里逛一圈，就会发现答案就在用户的反应里。\n\n最明显的第一个现象是：用户讨论角色时，主语大多都是「我」，不是「她」。\n\n高扬公主是个很好的例子。她和伍元照从知心朋友变成了敌人，恨了你大半部时间。但随着剧情推进，你会发现高扬实际上没做过多少对你不利的事，反而在其他人都无心关注你、救你的烟火会上，在你最需要的时候拉了一把。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYFG1Cxoy0MuJ2X3jIt5WNVlHtzg3jRHhbLoaMzgw8e3T1icH5wmcUuHEU6Kr7l1uN3lBLVsDfsWTm8GLL6N2UxSwpTztCIC7Js/640?wx_fmt=png&from=appmsg)\n\n走到最后关头的时候，她也终于向你袒露了心声——恨你，只不过是她活下去的一个理由罢了。很多用户玩到这里，普遍的反应不是「这角色人太好了」，更多是「我也很在意你啊高扬」「我真的很想跟你和好」「如果当初我能……」。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasY3iaW61fQyorBqIZmOKAAe1RhXCheU7UkMI5L7C1YB8psMczp3ucdmXa8cq9UoQ8AfgmJMlJd7m55HVIbFjcqAicKA4g7f2GNm8/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasZUvicuKIn23FLepovGV2JpTIE9icmoicPZc6hWqibkz9o20lZzWWzibLucbHyEcQP2GjaEFj3Jgp5WTxxTbhwr5tvGAxXvMeXdA1tU/640?wx_fmt=png&from=appmsg)\n\n发出这些感叹的用户，讲的是自己的故事、自己的感受，为高扬而流泪也是发自真心的惋惜与惆怅。这在其他影视剧里，是非常罕见的现象和体验。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasa5k74vId0URSIWh7bop2v8fxRqMACxzmdT6H1SJ18TuZXicVE9KvP8CrqqQRiaECaQhibGPxss1G2EUiatPC8FxOvWI2RicicBiaLXz8/640?wx_fmt=png&from=appmsg)\n\n有时，这种入戏太深的体验，还会从语言习惯延伸到行动逻辑上。比如有人发现，在所有出场角色的鲜花/鸡蛋榜上，一只叫啾啾的小狗赫然在鸡蛋榜的前三名。这就让人很迷惑了——小狗又没做错什么，你砸它鸡蛋干嘛？\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasablDACoO1QjogUdsmC0FU5GyQPppecPoFxZiaj6JHwZLLrVel55jMicqniatGIDvHuIXGoKz1agTURgWMoJdTEdyQEibqoJr7HfBU/640?wx_fmt=png&from=appmsg)\n\n这时就有人出来解释了：大家不是想砸它，而是看到了小传里写着，啾啾原本是韦贵妃的小狗玉兔，在韦贵妃死后，瘦瘦脏脏的它一直守着主人的坟墓不愿离开……这样的细节感动了不少人，大家怕它饿着，这才想通过这种方式「喂」它鸡蛋。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasaYmZOrzFZTenkRibzV0Lic6iandQxV6ibSZ585QPxriacQArflESvLPK216ueXuryl5NTOkvJcO7on6Rl7w3CEmx8leiciaia9coDU7bY/640?wx_fmt=png&from=appmsg)\n\n给一只虚拟的小狗，喂虚拟的鸡蛋——这种看起来有点抽象的关心，大概只有在一种情况下才会发生：你真的觉得，自己是这个世界/故事的一部分。\n\n第二个现象是，在讨论女帝篇里出现的那些热梗、名场面时，大家除了在分享内容之外，更多也是在分享自己。\n\n一起看剧遇到名场面时，大家顶多会说「我当时笑死了」；但玩互动影视产品的用户就不一样了——他们除了描述自己有多难绷住，还会充满热情地说「我当时直接就选了」。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasaicfmKvVP2CoeFeMHvicdPFvKxzEn6fzDjC2SjPjITMXhU73HLQLJ8pXBx1ibDsIbtzLWcLr4jetVKmrNvGl9NPwF8sYVrv0wGcU/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasZXZDxJTqvoZp521rgZlotlk4Sdg5mbmElr1p7tnjx6BicZYn3HaLp4qCU53SYLbQQ8Bib4qe8LGJQ1AZib7bAE5HMXSbTu6X9aVo/640?wx_fmt=png&from=appmsg)\n\n没办法，有些选项就是让人第一眼看到后很难不选。比如在感业寺见到礼治后，你明知这时不能急着做昭仪，但还是会好奇作死的结果是什么——当然是因为你俩太急，被各方势力盯上，最终声讨至死啦……\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasaYN2sEvfGibGQNh6XGWhss1wdSl87CrficYQvdEoOLmtVickmyPvmuia9y7RVeYGPnDho9qoKbXy4s5BT3fDOpicVpX6EkUiaCxyrjk/640?wx_fmt=png&from=appmsg)\n\n不出意料地死掉之后，在死亡结局的回响里，礼治再补上一句精准的吐槽，你就得到了一次从做出选择，到触发后果，再到听见包袱响的完整幽默体验。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYB3PM7kiaUJ73lmRTJx3ic7WyQHuJTm0zgvSu5ghLQj5ia26MdV6mw40f1ibibFJeFDMYuV4LJIyJ924IGBGQ0kHKOspbjof5SHcVg/640?wx_fmt=png&from=appmsg)\n\n这种感受，一定会让人记得更深、更有分享欲望。因为在这个过程里，你得到的不止是一个编剧制造的笑点，还有自己和自己玩出来的幽默。\n\n第三个现象是，互动影视的体验不是一次性的，也不是一个人的。前两个现象，讲的都是「我做了选择」，但互动影视的妙处就是，即便是观察别人，大家也能得到巨大的反馈。\n\n有一部分人普遍喜欢看别人玩，尤其是有趣的主播/电竞选手。他们会提前打听看谁玩最有意思，关注他们在每一个关键时刻怎么选、有什么反应，反复去消费Reaction内容。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYNRuaQK9icNSnvicb1jXB2ESFfXG2fJEAnXe2sSydkLvmxxzSyeV7yR05uKy8iaAqCwQXjVHKdUKaELe4MK8z6BEuHfbiaH4piby0o/640?wx_fmt=png&from=appmsg)\n\n这种心态，葡萄君自己就深有体会——之前的《隐形守护者》，我就看各种主播玩看了七八遍，媚娘篇也看了三四遍。到了这次的女帝篇，各种国内外主播的实况和反应名场面就更是铺天盖地了。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasbHxdZiaQmPQoccCspoPeb5Qs7nUmeY3SGFBxq6mSQETA2gQAD3lcA282sDEl4c9vRfZNBUibIjicSEKsYfYeZu2hTWYOIwdlfgYI/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYSoibpibWbyCrvJFzbye4tpcxf9g4PeIMVYbk7SQPO1V6ll5oqR2ibpAkrkAicT2cEGfEcQIJ32MvVt3jZCdCf725rd6l4POoFJiaQ/640?wx_fmt=png&from=appmsg)\n\n上：刘小怂；下：소니쇼\n\n除了看主播的搞笑整活，我们更多也是想看他们在面临那些处境时，会如何思考、选择，从中映射出自身的思考与共鸣。换句话说，你在看别人怎么通过这部作品来表达自己、暴露自己——这种逻辑，在其他媒介中还挺少见的。\n\n另一部分人，则特别喜欢和亲友一起玩，甚至会主动提出和没怎么玩过游戏的妈妈、老婆一起玩。甚至有人意外地发现，妈妈竟然玩得比自己还6……玩媚娘篇一次都没错过。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasZ6xYZAcfoklO0kWOf8CIaF9E76VQEVt4yhx1zKm4fjtIU1SAmBmWXcUp7dPsgnzDNnfJ43BojXdUDf2L0kpVXHbXjfE92M7PM/640?wx_fmt=png&from=appmsg)\n\n虽然她妈妈确实很厉害，但这个例子最妙的地方在于：一起看剧时，你们是在共享一段别人的故事；一起玩互动影视时，你们是在感受彼此怎么做人——你看到妈妈一次都没选错，本质上是通过伍元照的经历，看到了一个自己平时没那么了解的妈妈。\n\n其实现在对大多人来说，和亲友一起玩互动影视产品，也成为了一个默认的好选项。因为一起玩过的人都会发现，有时看别人推理和吃瘪，或是一起讨论做出决定，比自己玩要有趣太多了。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasYw4HGfnSia90Z311oFQ6vGe2foIxjDricxntVRib8Iw5nDCwZicarXtibnD8GExPJs7kBSw4z88OyMbBJ6p8ciatRVbQL2iazXumPTJM/640?wx_fmt=png&from=appmsg)\n\n这三个现象，本质上都指向一件事：互动影视的体验看起来和看剧很像，但在根本上和看剧是两种东西。走过这1000分钟的人，讨论的角色看似是伍元照，其实都是自己。\n\n**02**\n\n**太多人算错了**\n\n**互动影视的账**\n\n为什么我要花这么大力气，去论证「互动影视和影视剧不一样」呢？我们先来用比较功利的眼光去分析一下——\n\n这些和影视剧的不同点，其实直接导致了一个结果：《盛世天下》这一份内容带来的社交货币，相对其他媒介是成倍增加的，用户本身就有大量高质量的分享，这些分享还会带来二次、三次的传播裂变；而这份传播和反复观看、消费内容的价值，也让它的生命周期，注定会比一般的影视剧更长。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasY9r2bnfebma6VBAtfzZuLZNspyowY9Smm045JFxfU0AMHaicoJ529UzRJZPmuicmq9icYGWSNCRyBPGAbvu5Z9ibRXt5pibodqwwZg/640?wx_fmt=png&from=appmsg)\n\n王皇后和莫影的主仆设定，也让不少人耿耿于怀\n\n这个结果就让我觉得，一直以来，太多人都把互动影视的账算错了。\n\n互动影视的尴尬之处在于，很多人会拿它和游戏产品比流水，和影视剧比制作成本。这么一比下来，即使是赛道头部最优秀的两三部作品，它们的决策看起来都是不明智的。\n\n但如果你把互动影视视为一个独立的新赛道，那可就一念天地宽了。你会发现：\n\n1、比起大部分游戏，互动影视多了一份不被打断的叙事，和不需要锻炼的沉浸。\n\n游戏的情感体验，往往容易被玩法打断——你刚入戏，说不定会有人找你通马桶，或者来一局昆特牌。血海深仇就这么被轻飘飘地放下了……而互动影视是个连贯的叙事流程，会一直带着人往下走。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasZl69ElpcKMx9LpiaflCBDibiamJ0CPV1FWAfB7ZP58CXSKrmIS8FybvG1caUKdB2qgycWUAxa7UQXBTpiaVibqkkOOObuOjiboicMq40/640?wx_fmt=png&from=appmsg)\n\n玩个梗，别认真，求放过\n\n更关键的是，玩游戏要先会玩，要认系统、练操作、理解规则，这可能是大多数人入坑游戏最大的一个障碍。\n\n但一个从不玩游戏的人打开《盛世天下》，也能立刻进入这个世界，甚至像网友的妈妈一样一次都不选错。为什么呢？因为他们不需要会玩游戏，只需要做自己就够了。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasYQOPCiaY0rYOAduq2P0BP4J5gfSxMyOHJQAPQnXiboBVQhfKI2zgSQLvZrKoibVLIaVUjciap3Xk8tagOx8vkm5GaXlMF888pQ0YA/640?wx_fmt=png&from=appmsg)\n\n现实版大女主刘晓庆最近也直播玩了女帝篇\n\n2、比起大部分影视剧，互动影视多了一份第一人称的主体性，和一份零门槛的社交货币。\n\n主体性这一点前面也说过——互动影视的核心，是玩家自己经历了什么。当一个故事以「我」为主体时，用户的消费深度和传播意愿，一定是大多数影视剧无法比拟的。因为人天生有暴露自己的冲动，也天生对别人的暴露充满好奇。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasb2gwGCiafOP4PnrFRMj6RXiboVqJFoyGNwgYRfiaInQPicTkNjwGWEzw0DbHdPCYOggQLGrz44Wj7Lm5gRqAX9H6DXZjvnXHmxQ44/640?wx_fmt=png&from=appmsg)\n\n而在社交方面，互动影视提供的，是全世界最容易参与、也最难聊到头的话题：你会怎么选？聊电影但凡聊深一点，难免会扯到分镜、调度之类难聊的话题，但要聊自己做过的选择，那所有人都有话说。\n\n3、比起大部分短剧，互动影视则多了一份绵长的回响。\n\n短剧给人带来的，往往是即时的爽感，消费完大概率也就结束了；但用户在互动影视里做出的选择，不止会在后续的剧情里有所反响，甚至还会在你的脑海里泛起涟漪，让你忍不住去想：如果当时有别的选择，结果会不会不一样？\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasa1fh6kSxLUXKAhREKykfct9RQWQemU2uh1dzkR3QKCjbqyNqZBvlfxTRYF2u7Vxp9UOhN9sZYGPBJZHgmLInnsBu8bdj4D2g4/640?wx_fmt=png&from=appmsg)\n\n当然了，每一种媒介都有自身无法被替代的特质，这是任何其他媒介没法碰瓷的。\n\n但这些多出来的东西，就给互动影视这种媒介，带来了很强的想象力——看看叙事媒介的十字路口，互动影视似乎正好站在几个市场的交叉点上，补上了它们各自缺少的那一块拼图。\n\n《盛世天下》女帝篇的100万套销量，和系列总计的300万套销量，其实就是这个新赛道的一声新的回响，但还远远不是这个赛道的天花板。\n\n《盛世天下》这一创造历史的成绩，也让我们明白，这个品类的天花板远不止如此。\n\n**03**\n\n**互动影视到底**\n\n**因何而特别？**\n\n从这个角度来说，我觉得很多人暂时不理解互动影视也没什么关系，因为只要他们某一天开始上手体验，就一定能体会到它的醍醐味。\n\n太多人把关注点放在「影视」上，其实「互动」才是互动影视的灵魂——影视剧主角的光环是隐形的，观众即使能共情他们的爱恨情仇，也不一定能每次都感受到他们经历过什么样的挣扎和取舍；只有在亲手选择时，你才能做到真正的感同身受，体会到那些选择的重量。\n\n就好比在《潜伏》里看余则成面色不改、对答如流时，你不一定有时间去思考，他的对答背后下了什么样的工夫，有多少心惊肉跳；但在《隐形守护者》里经历冯一贤层层试探，被他只问三个问题，却劈死十几次的时候，你可能会真的背上一身冷汗。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYuzYUWVY8LsWNpTK0ib13JeEBVWCFicXDcC96FAtshibgHicibkP71QRpFpXzS5kUjqxF4cJeHFZHLARCnkTtMPKO2fmgkTU1kgIy0/640?wx_fmt=png&from=appmsg)\n\n有那么多人觉得这类作品后劲大，也正是出于这个原因。我们在屏幕前可以重来无数次，但肖途、伍元照，他们都是一命通关。你知道这件事，是因为你刚刚为了走通这一步，死了好几回。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYkQHDr2eFqomX0ytct7hcEP5rcAAq5k0K1GVNs1T0QBtlCzybhj7Pk9g7elicMUxYjjibjlCbH7ZRExEPvnsjsx01aYavhicZYWk/640?wx_fmt=png&from=appmsg)\n\n说白了，互动影视为什么特别？原因就在于，它是一种通过互动，来制造「回忆」的媒介。这比创造「体验」更难做到——体验是别人替你安排的，而回忆是你自己参与制造的。\n\n看到自己的选择泛起涟漪时，你的印象会尤其深刻。就好比在女帝篇的新世界支线中，当你偶遇高扬，鼓起勇气邀请她和你一起走时，她不会选择直接逃跑，但会被你触动，开始为自己争取更多力量。这样的选择，最终让她在一条分支中得以生还，和你再次相会，在阳光下相拥。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasafHXa4GWDOlwaHzHicSQrFmgZD8BuN4YFl8sQjl063tMxNS2BWTnvvgIsXiaBqgMqDvHRruR3gP7ntUbmFdbuUliaby0xI5MEP7M/640?wx_fmt=png&from=appmsg)\n\n很多人其实根本看不到这个隐藏的线路。因为这个结局不是编剧送给你的，是你自己的一系列选择结出的果。\n\n你自己经历、挣扎、选择之后，最终迎来的结局，成了你独特的一份回忆。你也从这段经历中，完成了一次「照见自己」的过程——你在每一个岔路口暴露的，是你看重什么、害怕什么、愿意为什么奋不顾身。\n\n这些都让我觉得，互动影视注定会是一个属于未来、属于更多人的叙事媒介。它把观众真正地从观众席上拽进了故事里，让他们作为主角活一次，再带着这段记忆走出来。这是一种所有叙事媒介都在靠近，却只有极少数媒介能轻易抵达的对岸。\n\n当足够多人体会过这样的过程之后，我想互动影视就不再需要任何人替它辩经了。",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2650009221_1": {
+    "id": "wechat-youxiputao-2650009221_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "漕河泾二游，疯狂靠咖啡厅赚钱？",
+    "original_url": "https://mp.weixin.qq.com/s/QVvz5Cs0xapOTxnV1IktoA",
+    "published_at": "2026-06-12T14:36:33+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZOHjILfN1dgkttKic2493dibzaKtvic1hzZkfnPmV60pia97U4QCMVeK55iaGWVwwonCib2hyjWicW0M1pX3Y7GrySq1hqU74Jz5UiaXY/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "真的赚吗？",
+    "payload": {
+      "excerpt": "真的赚吗？",
+      "body": "文/九莲宝灯\n\n在上海，有这么一家颇有人脉的小咖啡厅：一大堆二游不仅排着队找它联动，在各自的版本前瞻直播中，他们还会把联动消息当作一件大事公布。很多玩家们聊起这些联动，都会说上一句「羡慕沪爷」。\n\n如果你关注《蔚蓝档案》《星塔旅人》《吉星派对》《胜利女神》《少女前线2》《鸣潮》《世界之外》《剑网3》《战双帕弥什》……那你一定知道我在说谁——它的名字叫萌果酱谷子咖啡。\n\n今年初，我曾参加过《吉星派对》与萌果酱的联动，当时他们还请来了韩国顶流Coser Yasal，排面堪比一场游戏only漫展。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZR1aOF3bqISu0ZUDQLjQ9vez2TjjPPbbia2o0E4H6TXibAaLmWdjVlZiawUVrvUC2As7k4LZHYd16ibZN8TcEDkTr75kr1BEYDbTY/640?wx_fmt=jpeg&from=appmsg)\n\n《吉星派对》× 萌果酱\n\n但要说与这家店联动的老资历，还要数悠星。他们旗下的《星塔旅人》《蔚蓝档案》都先后与它联动过，并且《蔚蓝档案》共举办了3次活动之多。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasb7ZgjxZW2YvcJStG2BT4gazubPiarMDsmgXFFveEumveRrUkjkA1ARZoEyEPBFzFtM2OfOfLhtYwpDibM2ibATXJicafTEGNeorJA/640?wx_fmt=jpeg&from=appmsg)\n\n《蔚蓝档案》× 萌果酱\n\n如果我们把视野打开，你会发现像这样的咖啡厅还不只有萌果酱一个品牌：\n\n潮玩星球、次元波板糖、奇谷米、三月兽CAFE、HAPPY ZOO、PrismLand、animate cafe等动漫游戏主题餐厅都在全国多点开花。据IP整合营销商骏飞文化的统计，仅2024年一年，这八家品牌就与120个海内外IP合作，在全国落地了226场活动。米哈游、鹰角、叠纸等二游/乙游大厂，也都与这类咖啡厅联动过。\n\n这真的让人摸不着头脑：相比于大型漫展，这类咖啡厅实在是太小了。拿位于上海百联ZX创趣场的萌果酱谷子咖啡来说，只需要50个人就能把这里坐满，它每天最多也只能接待250人。而这些二游们，活跃玩家数量少则几十万，多则数百万，是KFC不香了，还是漫展的二味儿不够浓？他们为什么偏偏看中了这些小咖啡厅？\n\n趁着《蔚蓝档案》联动的机会，我与《蔚蓝档案》市场负责人，以及萌果酱店长聊了聊，试图理解它为什么能成为二游联动常见选择，以及这种「谷子+餐厅」的业态，到底是不是一个好生意。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasbSlmWcR77wbxia9J7OgMibHBNQTRUZ5msNyZIpklxwcGPHWZvNFwLx04BibocsiaCbocSFVK66Zib6UPRAVO2zTooIF7ibZXIicpj8kk/640?wx_fmt=png&from=appmsg)\n\n《蔚蓝档案》× 萌果酱\n\n**01**\n\n**卖餐饮、卖谷子，**\n\n**更是卖氛围**\n\n首先，我们需要先了解一下这类店铺到底是干什么的。\n\n它们通常有一个很长的名字，叫做「动漫游戏IP主题联动谷子餐厅」，店面也一般会分成两部分，外面卖IP周边谷子，里面卖餐饮。\n\n就拿这次《蔚蓝档案》与萌果酱的联动来说，整个活动时长2个月，你可以在任何一天预约前往。在联动期间，萌果酱店门口的大屏会不断播放与游戏有关的内容，谷子售卖区则会上架对应的立牌和周边商品。在联动开启期间，悠星还专门邀请了Coser来做「一日店长」，让她与来店的玩家互动合影。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasbJxecsJqwMBGnTABKxhgic7icPMPSM0U4mibicUGpLTQMSicSbaaicic1EVgicjK4dlyzZEKsDlKZfWQxax6uN7lZbRuxQUtibZpmiabCWo/640?wx_fmt=jpeg&from=appmsg)\n\n《蔚蓝档案》× 萌果酱\n\n当然，重头戏不在店门口，而是在内部的餐厅里。据店长介绍，萌果酱谷子咖啡采取分时供应的方式，每天从上午到晚间，一共有5次入场时间，每次顾客最长就餐时间为90分钟，到点后店员就会清理餐厅，再邀请下一组客人进场。\n\n玩家只要成功预约并到店，就会获赠一些纸质小周边。餐厅针对这次联动还做了专门的装潢，比如墙上的贴画、桌上的摆件都换成了游戏指定的样式。有个摆件非常有趣，你只要点按上面的按钮，就可以触发角色语音。另外，当玩家一人前往时，店员还会安排一个角色大立牌陪同。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasbzZPtoCEGNMdCZ4qsK52cEXma7vhj97ciaVYk5QKZaM098zN3vb65Z8WnljZaLXRTZcR0Lm7f5cTTCNT9RWN1WkVKjpWjZkDng/640?wx_fmt=jpeg&from=appmsg)\n\n餐饮方面，这次《蔚蓝档案》与萌果酱一起制作了6款与游戏角色设定强相关的套餐。\n\n我体验的套餐名字叫做「脸红公主的破墙法宝」，它包含一个粉色汉堡，几块造型像是砖墙的曲奇，一些薯条，还有一杯荔枝玫瑰干姜水。在整体粉嫩的氛围中，它似乎又掺杂了一丝丝暴力色彩——这与游戏中的角色「圣园未花」的人设非常接近。玩家一眼就能猜出它所代表的设定元素。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasaXiac7EW9VXbcHAcoyvaHjIUoWnMCDfDcKvzJfiaHDk3CUV5gjZ0X9Da6XrnOkZgVxQ1gWePFen9lWqThiaUzNaXl7gSPXicomiaE8/640?wx_fmt=jpeg&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasbIRkOnwlr3PFAPClaeqVnhC5t6vKFQsSswbJD5PLKU0EyfyRQxFkwqPYgqSvapBibdVhoZYSI34lFtcgI6iavibFibaXWpIianketc/640?wx_fmt=jpeg&from=appmsg)\n\n当然，还有更逆天的餐饮设计——角色「下江小春」的联动饮料叫做「小春的堆堆袜」，它其实是一杯草莓可尔必思苏打，但从杯子形状和层层叠叠的白色气泡来看，它还真有点像角色的袜子……据悠星透露，他们提出这个方案时，曾担心IP方韩国NEXON不同意，没想到对方非常爽快地通过了这个套餐的设计。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasZqDK1XC0ardljj91ZFaicHNWzjfQ1RsWqfJFNGXhuUry6CyFoib4QBP6fMtIfUKibXXAZOHtDeU7icx3tqj8DIdUCQJbod2ZDqags/640?wx_fmt=png&from=appmsg)\n\n总的来说，吃这么一顿的感受确实不错，价格虽然谈不上便宜，但人均100元左右的消费仍属于可接受的区间。在就餐结束后，当你来到外面的周边谷子售卖区，看到很多联动限定商品，比如亚克力立牌、色纸等等，你很可能忍不住再消费一番，给这次体验画上完美的句点。\n\n即使我这样说，或许还是会有人觉得，谷子+餐饮，这个业态听起来未免太缝合了。但站在谷子餐厅的视角来看，这两种业态，完全是左右脚的关系：\n\n萌果酱店长表示，相比于餐饮，谷子实际上才是门店收入的主要部分。它们不仅可以在联动期间线下销售，联动结束之后还能根据版权使用情况延长销售时间，或者开启余量线上通贩，让门店运营更稳定。\n\n而这些谷子之所以能够卖得这么好，也是因为他们能提供餐饮服务，使得游戏公司们更愿意与之合作，推出独家限定产品。二者就这样轮流推动，形成了合理的商业循环。\n\n站在游戏公司的视角，这样的业态也比纯粹的谷子店更好。它能给玩家带来更多服务。\n\n《蔚蓝档案》市场负责人告诉我，这种主题餐饮空间，至少有以下几点好处：\n\n第一，相比于KFC、必胜客等大型快餐品牌，这类餐厅可以提供更定制化的产品和服务。全店的装修，餐品的设计，全都能按IP方要求来做，而大型快餐品牌能提供的定制通常仅局限于食物的包装。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZfzRUSic1y1IgrMHW1PLRLstDTqiaON0IAIaAThdMkqddlqlnLvs0IcguPAaNicghlz5icfjficbb75rwUMQiaXCVxtVhKw7YllK6ic0/640?wx_fmt=jpeg&from=appmsg)\n\n从客户视角看，这类餐厅几乎只有玩家才会预约前往，玩家们虽然互不认识，但只要进入这家店，就会默认对方和自己有相同的爱好，因此很容易聊到一起，甚至形成「联谊」的氛围。这种高纯度、高质量的线下体验，其他线下形式很难提供。\n\n哪怕餐厅里只有一两个客人，这样一个完全充斥着自己喜爱元素氛围的空间，对于玩家来说也很难得。《蔚蓝档案》市场负责人给我分享了他的个人观察：有些特别喜欢某一IP的玩家，甚至会约下一整天的所有场次，从餐厅开门一直待到打烊。\n\n第二，比起漫展、音乐会等同样高纯度的线下活动，这类联动的举办难度较小，且持续时间更长。例如这次《蔚蓝档案》与萌果酱的联动，时间跨度就长达2个月。这相当于在百联商场内租了一个长期广告位，能够进一步提升游戏品牌影响力。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasbzxeOmibdJjIwn4qOO0qWbFKnNCV2Epex0SxMEBTZiaXuwjYsLHOeOKw6nicbqwkyRQOuibwUjziav1kqLlB2MYORGuiau5mx6SxpBQ/640?wx_fmt=png&from=appmsg)\n\n南京东路百联ZX创趣场\n\n第三，餐饮联动形式，可以是其他各类线下活动的补充——毕竟人总是要吃饭的。当游戏举办一些大规模线下活动时，往往会吸引到很多外地玩家，他们来到这里之后，也可以顺便体验联动餐饮，这几乎不会占据他们多余的时间，但能获得更完整的线下体验。\n\n「我们今年选这个档期也有一些小心思：它正好覆盖到了BW，很多玩家会来上海玩。既然这个期间大家都会来，很方便顺道打个卡。」\n\n玩家开心，游戏公司满意，谷子餐厅能赚到钱，从这个角度看，这个业态或许在未来会越开越多，形成更大的影响力，成为一股新的风潮……吗？\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZOEVedDckVPhfthhPvX0ianZ4jzfzG9XLcVV23FMGO77R9h4jmZsib7tzy6YsWWUTKdic1Q7l6lBAjrAPrZgaon6HtLzBeDtvHicA/640?wx_fmt=jpeg&from=appmsg)\n\n**02**\n\n**成本高、经营难，**\n\n**两边都头疼**\n\n在我以为这个行业正在高歌猛进时，萌果酱店长却告诉我，「我们今年暂时没有新开分店的计划。」\n\n究其原因，「动漫游戏IP主题联动谷子餐厅」虽然听起来很潮，但它并不是一个很性感的生意。因为它的经营成本过高，还有一些不可预期的风险。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasYicAmnApP8nDm4Z5ibib8OoiavDraTMiaVibIuHpM71YcgZoukSGBb0yswsbcxa4uzTO0eicMict25dZ7nK9zJZGgnw0dicYyXQ64l1V8I/640?wx_fmt=jpeg&from=appmsg)\n\n《重返未来：1999》× 萌果酱\n\n先说说成本。从刚才描述的一系列体验中你能感受到，这个组合业态不仅需要承担两边的经营成本，甚至相比于传统餐厅或者谷子店，它还要承受更多：\n\n它需要不断刷新门店装饰和餐品，以及新的限定周边。这一切不仅要有对应的钱和人才，还要提前半年甚至一两年就开始准备。但最终除了周边可以长线销售外，其他每一项重金投入的物料，最多2个月就得丢弃。\n\n而真到了换IP的那两天，店面不仅要歇业重新装修，还要培训店员，让店员快速了解不同IP的用户生态、各种黑话，以及绝对不要触及的玩家雷区……\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasb4PINolcAfAdaMg4rI9dyCSGwAFfEiaC3xeJMGOFtQibZ7p1SGyoZtpDKUkesk0c01qgTKAEoRpwib7JibQ67P5JictaaenOhC5s9s/640?wx_fmt=jpeg&from=appmsg)\n\n《少女前线2：追放》× 萌果酱\n\n就算跨过了准备阶段的种种难题，谷子餐厅店真正经营起来同样面临不少挑战。\n\n它们要直面人流量不稳定的窘境。萌果酱店长表示，在大IP联动期间，餐厅还能保持较高的整体热度，但一旦到了常规IP联动的中后期，来店就餐的玩家数量会直线下降。这几乎是所有谷子餐厅的常态。\n\n而且不同IP的玩家号召力也不同，选合作对象无异于一场赌博。太火的IP，小门店不一定能接得住，太凉的IP，又难以回本。不仅如此，由于很多男性并不偏好这种类似逛街的线下娱乐，所以男性向IP的联动效果通常也不如女性向IP。\n\n要是在合作期间，IP还产生了其他风险，那就更麻烦了。比如随着中日关系紧张，很多谷子餐厅与日本IP取消了合作，大量档期找不到IP，这成为了一些品牌今年最头疼的问题。\n\n另外，虽然谷子餐厅和其他线下联动类型并不一样，但他们仍然不可避免地会参与到各种联动形式的竞争中。由于很多玩家比起IP美食更关心周边谷子，因此，有些游戏公司还是更倾向于选择辐射范围更广、更方便前往的街边连锁便利店和奶茶店。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasYQCw0yR7dQ5OSPDwqC1sdNaicDoWy8g1uMFiaQfvf70aa0BFHMHNtvv9mKcZBTj1e70ReJia5DuFgvWW2FvpKZoswj0AvgzSRpdI/640?wx_fmt=jpeg&from=appmsg)\n\n《鸣潮》× 萌果酱\n\n最后，餐饮的利润空间也非常小。站在游戏公司角度，他们肯定不希望因为定价太贵引发玩家炎上，因此一定会尽可能压低价格；但与此同时，为了提供更好、更独特的体验，他们又需要联动餐厅能够拿出足够新颖的花样和摆盘，甚至是专门定制的餐具……餐饮本身就是一门损耗较大的生意，再加上这些要求，谷子餐厅难免步履维艰。\n\n面对不稳定的客流，以及定期重新装修、培训店员、日常维护的成本，这个业态目前几乎没有大店。根据葡萄君搜索，在谷子售卖区通常占全店一半面积的情况下，国内也没有超过200平方米的谷子餐厅。\n\n头疼的也不只是谷子餐厅。如今，游戏公司虽然看中了这种业态的独特体验，但很多现实问题也迫使他们反复斟酌。\n\n首先是谷子餐厅的覆盖范围。这类店铺常常在上海扎堆，在其他城市则很少见。萌果酱作为国内最老的谷子餐厅品牌，至今也只在上海和广州有提供餐饮服务的门店。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasbXLhLUFVns3xWYHGtKK24Vwfnzoibzs1C7T2Bfkm3Q8Y84gFIVgDLgjdHs0EIe0PxHCQtFeyA68gBZK2xA1UO2ycf08Xh1jocs/640?wx_fmt=jpeg&from=appmsg)\n\n《胜利女神：新的希望》× 萌果酱\n\n为了避免其他城市的玩家不满，游戏厂商必然要考虑覆盖更多城市的方案。但这些谷子餐厅为了尽可能多地获客，往往会提出一些排他性要求。这导致游戏厂商很难同时与多个品牌合作，覆盖全国。\n\n厂商还要操心餐品。很多玩家对游戏IP联动餐的印象，往往是「为了谷子去吃X」。但为了给玩家更好的体验，现在的游戏厂商对餐品质量的要求正变得越来越高。\n\n这个质量一方面是独特外观，另一方面就是口味。《蔚蓝档案》市场负责人说，他们会分两个阶段试餐，分别是刚上餐的时候，以及放了一段时间之后。如果一道菜温度下降后就变得难以下咽，那就是一道不合格的餐品——因为参加活动的玩家，通常都会拍照纪念，他们还会拿出自己的谷子和棉花娃娃，和菜品一起合影，这都需要不少时间。\n\n「放久了味道有差距很正常，但至少要达到麦当劳、肯德基的那种基准。」\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZpVav9Km8kaAG6Pg6Dn7TM3EtTAVF9d0ldu9eBGyV37cI9Uib8WeN19SVF9ITlxWCL7MuCG4zEQX0sOhSn8DDuU4D5MN92FZDA/640?wx_fmt=jpeg&from=appmsg)\n\n另外，二次元联动菜品还有其他的讲究：「设计餐品一般有三个步骤，第一个步骤是定方向，例如中餐西餐、冷食热食；然后再定具体使用什么食材，能够和联动主题相对应；最后一步是设计摆盘。」\n\n《蔚蓝档案》市场负责人总结经验说，作为面向二次元核心人群的餐饮，联动餐不能太「健康」，有足够的肉和酱料很重要；中餐最容易翻车，因此尽可能要做西式快餐风格；年轻人群不爱喝太苦的咖啡，也不适合酒精饮料，最好配置一些甜饮汽水之类。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZatjgvSYVE6T09j32K5vIsD3U3fB3Pz4Vc0FqmI5xIsPib4oGSywEhxCoXB2wWN8GPiaZHPVFD2tkSfgOm2z44pB5U8LicoCsuzM/640?wx_fmt=jpeg&from=appmsg)\n\n《明日方舟：终末地》× PrismLand\n\n品控是更大的挑战。对于游戏厂商来说，联动餐厅菜品和服务质量不佳，最终伤害的是自己的游戏品牌，因此往往慎之又慎。《蔚蓝档案》市场负责人调查了非常多的联动餐厅，发现有些品牌会存在例如阴阳菜单、差别服务等问题。\n\n他通常会在同一段联动活动周期内，体验五六次菜品。这是为了考察联动餐厅出品能否在配置、摆盘上保持一致。他提到，在联动后期，有些餐厅不仅会出现餐品降配的情况，甚至连定制的碗、水杯都有概率破损，这种品牌必然会被毙掉。\n\n「通常来说，如果你试餐日觉得好吃，那至少玩家不会觉得太难吃。但有一些店，你试餐觉得贼好吃，反而要警惕一点。有一家联动餐厅，我吃完媒体招待日觉得很棒，结果我后面去了几次，一次一个味道，摆盘都不一样了。」\n\n他每次体验联动餐厅服务，还会扮演不同的身份，例如作为普通玩家、普通Coser、带摄影的Coser；一个人吃，两个人吃，或者一群人去聚餐……这是为了验证联动餐厅能否应对各种场合，也考察店员在面对不同顾客时，是否会出现不同的接待态度。\n\n「游戏厂商的要求肯定是会越来越高的。」他最后总结说。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZJNJRD8AkiaUVJctxXkk3iau3cw3kENf0KSMHRCnykkG0QxLM2MzmB6ziasYSyIX86vkP5eibcfG1ffkuNC8sgEvMoPSEhZxIsk5A/640?wx_fmt=jpeg&from=appmsg)\n\n《碧蓝航线》× 萌果酱\n\n**03**\n\n**结语**\n\n目前，随着越来越多内容型游戏开始关注玩家的线下体验，「IP联动谷子餐厅」这种新业态仍在持续扩张中。\n\n原本专注谷子生意的三月兽，在近两年推出了三月兽CAFE；专做快闪活动的KACOKACO，如今也开始试水餐饮业务。甚至一些非二次元的文娱IP，也开始尝试这种谷子餐厅的形式。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasb902ygia4ARWGGG9Wyia6jJq8UGWMmsclusOOyUTVuCZoQSQCGUK95me55e380bdmMkv5lduGqV5jyW5qp2vQumibkeX2fnHhbdU/640?wx_fmt=jpeg&from=appmsg)\n\n三月兽CAFE\n\n对于一些玩家来说，和朋友相约前往百联ZX这样的商场度过一整天，并在商场中的这些谷子餐厅里解决午晚餐，已经成为了一种新日常。\n\n但总的来说，它仍然是一个定位相当特殊的生意：\n\n一方面，相比于单纯谷子店，「IP联动谷子餐厅」凭借自身能提供的独特体验，可以拿到IP授权，制作独家限定周边，在如今谷子店退潮洗牌的阶段，有更强的客户粘性；\n\n但另一方面，相比于其他各类店铺，他们其实做的是一种「乙方生意」：他们需要提供更好的服务，争取到足够多、足够好的IP，才能健康运营。一旦拿不到IP合作，店面甚至可能遭遇长期颗粒无收的窘境。\n\n在我看来，随着国产游戏竞争日趋激烈，厂商对玩家注意力的争夺，早就从线上一路追到了线下，加上如今谷子文化的盛行，玩家也会主动去寻求类似的体验。双向奔赴的情况下，作为中间人的谷子餐厅，或许核心竞争力正在于长线运营。\n\n如果他们能够在每一段联动期间，都长期保持高品质服务，甚至钻研出更多和互动体验的IP内容玩法，或许就能让联动活动能始终给玩家带来更多新鲜感。当这些谷子餐厅最终进化成为「二次元万事屋」，或许它们将会成为更多玩家线下休闲的首选目标。对于游戏公司来说，这样的业态或许也将发挥更大的作用。",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2650007340_1": {
+    "id": "wechat-youxiputao-2650007340_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "2人开发收入1200万，低调的小众黑马，藏着三个以小博大的机会",
+    "original_url": "https://mp.weixin.qq.com/s/4q8d7DmTkHBECYvZNrCxgw",
+    "published_at": "2026-05-23T13:32:04+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasY54DODXnO1YDDAHZibbL7Q8VDnQg6QSkjpSmvKRghF45CSxR5zHNcDonygS4KIS7AHvTH0DJYQptcnd6NQVUJawqTCFzLRf7qA/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "再玩一遍、让我再玩一遍……",
+    "payload": {
+      "excerpt": "再玩一遍、让我再玩一遍……",
+      "body": "2人开发收入1200万，低调的小众黑马，藏着三个以小博大的机会\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 再玩一遍、让我再玩一遍……文/依光流由于担心各位错过4月不得不品的一款黑马独游，所以有了这篇推荐文。今天要聊的主角，是一款很奇妙的游戏，用玩家的话来形容这种奇妙，那就是“它适合所有身患焦虑症、抑郁症、生活失能症、创伤后应激障碍的人，以及喜欢酒吧和社交的人类、侏儒、矮人和精灵”。别急，原因我们慢慢讲。游戏的名字叫做《图书管理员：整理魔法图书馆吧！》，由于太长所以下面简称《图书管理员》。它由日本独游团队ArtRising制作，团队成员仅两人，游戏很罕见地支持粤语，玩法创意也特别简单，就是整理散落的书本，直到整个图书馆的书本都复位。4月底刚发售时，虽然很快好评如潮，但《图书管理员》还没火起来，同时在线人数只有几千。游戏吸引了一批喜欢CozyGame（治愈游戏）的核心玩家，在Reddit、油管等社区和媒体上小范围扩散。没想到发售后过了1个多星期，有一名TikTok KOL制作了游戏的切片短视频，然后迅速走红，最终创下150万播放、15.5万赞的数据，给游戏吸引了一大批新玩家。于是《图书管理员》的同时在线峰值快速拔高到16000，后续随着更多TikTok、油管的KOL效仿，几十万播放、十几万点赞的视频层出不穷。这周内，油管上跟风的新一则短视频，更是拿下370万播放，数据还在疯涨。如今在Steam上，基本每天都有1万多人同时在线玩《图书管理员》。要知道，通关这款游戏就几小时的事儿，然而到了游戏上线3周多的现在，玩家的热情依旧没消退，不论是周末还是工作日。游戏销量也很争气，吭哧吭哧涨到38万套左右，销售额差不多有180万美金（第三方平台预估数据），也就是1222万人民币上下。根据SteamDB统计，《图书管理员》的愿望单转化率也非常高，能排到近期全球热门Steam游戏的Top 4，比前不久的《遥遥西土》还猛。至此黑马已成：2个人，仅用1个简单的创意，就在大作云集的4月5月夹缝中，砍下16000+同时在线，坚挺20多天，游戏爆卖1200万元。01一个简单至极的创意如同前面说的，《图书管理员》的玩法创意简单到了极点：整理书架。你甚至可以说它单调，甚至是枯燥。买游戏之前，我以为它玩起来，会有哈利·波特第一次进霍格沃兹时，被各种魔法和奇幻生物迷花眼的感觉。实际一进游戏，摆在我面前的就是一个狗窝。两层高的图书馆，分布着几十个书架，然后地上、楼梯上、过道上、桌子椅子上，大致扫一眼，密密麻麻都是书，一看提示，总共3000多本。根据背景介绍，这个让人头大的狗窝，全是一只捣蛋妖精整出来的。而我们作为魔法学徒，只能身体力行，按照要求一点点将书本归位。玩到这里我其实挺迷茫的因为根本无从下手比如先从身边捡起几本开始整理吧，可一时间根本搞不懂每本书该放哪里。因为书架编号是“数字+英文字母”，而书本没有对应编号，只能找大厅两侧的平面图，按照题材分类，大致猜测书本该放的地方。当然也可以按个人习惯来整理比如按颜色又比如按照书架整理，那更不可能知道对应的一套书到底散落在图书馆的什么地方，有的书三五本一套，有的书十本一套，万一有一本塞在某个犄角旮旯，找几个小时可能都凑不齐。这样的游戏，理论上玩起来相当折磨，但实际上，只要对上电波，这种重复单调动作的玩法，反而很治愈。其实《图书管理员》并没有让玩家单纯地整理图书，严格来说，从玩家进游戏开始，它就一直在用各种小细节，尝试帮玩家放空大脑，抛开烦躁的情绪。首先，游戏的配乐质量很高，在舒缓的曲调之余，偶尔还会在演奏乐器、部分段落的节奏、和声等方面做文章，让玩家慢慢感受到教堂式的庄严宏伟、魔法的深邃和神秘、自然的宁静和活力等不同的意象。当慢慢被音乐吸引注意力之后，你又会发现这款游戏很正经地收录了不少槽点满满、把梗玩得飞起的书本，第一次看到时，真的让人很难绷住。比如《碎膝之箭》《名侦探死神》《圣光隐匿重要部位咒语》《异世界勇者召唤理论与实践》，还有《经济：失落的三十年》《劳动研究：就算会魔法，加班还是逃不掉》《就业不平等：拿到贤者执照后，收入却很低？》……从陈年老梗，到动漫圈流行厕纸，再到现实讽刺，总有一本整活书，能把你逗笑。还有一些标题党吸睛书，诸如《二十岁年轻女士与八十岁富豪缔结的真爱》《浪漫小说：前辈与野兽》《究极选择：咖喱味的大便vs大便味的咖喱》《将食物转化为屎的炼金艺术》，不得不品好吧。当然，有多少不正经的书，就有更多正经的书，游戏对魔法世界的背景设定其实相当成体系。它不仅有魔物学、地下城、魔法道具与附魔、炼金术与药剂制作、异世界等基础魔法生态架构；还建立了占星术与预言、诅咒与解咒、幻术魔法、召唤术、死灵术、变形术、神圣魔法、治愈魔法、破坏魔法、日常魔法等一系列完整的基础魔法理论体系和实战体系；更有魔法师、战士、弓术、吟游诗人等职业体系。此外，游戏还引入了数学、艺术、管理学、经济学、社会学、心理学、哲学、法学等基础学科，又融入了爱情小说、推理小说、历史、语言等杂七杂八的读物。所以越是整理，我就越是好奇，每套书本代表的学说和记述背后有着怎样的细节和故事。遗憾的是，目前游戏里的书本只有名字，不能翻开来阅读。从最初的迷茫，到硬着头皮记地图的过程中，我其实已经被游戏的独特氛围和世界观吸引了：想看看还有哪些整活书，也会忍不住设想《第一个语言如何诞生》以及《短寿种文化对长寿种的影响》，还会因《一百次猜测中猜对一次就足以成为先知》里的哲理陷入深思。再到放空大脑整理了几套书以后，游戏又进入新的阶段，是的，我们可以用魔法技能来整理了！从简单的排序，方便摆放书本，到吸引同套书本，再到自动将手里的书上架……如果频繁使用魔法，往后的整理会越来越快，越来越不需要思考。游戏还有几个彩蛋技能，需要拿到藏起来的宝箱钥匙，解锁宝箱后获得。所有技能差不多拿全以后，《图书管理员》玩起来也就有了化身邓布利多，一键还原整个房间的那种魔法味儿。但魔法用多了，游戏就不治愈了。这可能听起来有点离谱，毕竟“玩得爽”很多时候是这个年代游戏开发的通用解。然而对于喜欢《图书管理员》的玩家来说，游戏最初用不了魔法的那个阶段，才是通关以后回味起来最充实的过程。看着一个狗窝被自己渐渐打理得井井有序的成就感，亲手把一本本书归为的掌控感，期待发现更多宝藏书的心情，随着音乐沉浸在重复动作里的专注感……这些都是大家称赞的部分。这也是开头为什么说《图书管理员》适合焦虑症、抑郁症、生活失能症、创伤后应激障碍的人来玩的原因——当你简单适应极简的玩法后，你真的能忘掉很多糟心的事。于是乎，随着更多玩家被《图书管理员》的魔力所感染，大家也在社区呼吁制作组适配更多语种、加入更多书本和更多地图，甚至是加入联机玩法和语音功能，方便玩家拉好友进游戏一起享受一起唠嗑。只是制作组毕竟只有两个人，产能相当有限，所以等不及的玩家开始挑战速通、挑战不用魔法通关，或者是单纯重开一局，每天花几分钟、十几分钟去整理，慢慢享受这款游戏。因此，这款看似玩法过于简单的《图书管理员》，实际的重复可玩性、用户粘性，远比单论玩法设计的理论情况要强得多。这款小体量独游能后发制胜、坚挺20多天万人在线，也就变得合理起来了。02三个产品设计的方向写到这里也该图穷匕见，聊聊《图书管理员》的可取之处了。如果对比近些年爆火的独游，你会发现像《图书管理员》这样的游戏，真心不多见。它不是按照某种固定玩法类型、产品模版去设计的游戏，而更像是截取了人们生活中的一个片段，再将之转化成了游戏。因此《图书管理员》大概率不能成为小游戏直接照搬的原型，在我看来，它对于行业的启示，是提供了三个可以深挖的制作方向：第一个方向，是工作型游戏。注意，不是指在工作时可以摸鱼玩的游戏，而是指模拟某种工作的游戏。这个方向以前很常见，比如模拟开店，通过制作、售卖，把某种生意做火，但这种套路太泛滥，因此不在今天的讨论范围内。相比之下《图书管理员》的方向，是把某个枯燥的工作，制作成某种舒缓心情、解压的游戏场景或游戏过程。我们可以找个参照物：拥有76万好评的《Euro Truck Simulator 2》。这款游戏里在高速上开卡车的沉浸式模拟玩法，有着异曲同工之妙。第二个方向，是专注型游戏。要区分的是，当一个人专注做一件事时，获得的反馈也有正负，能感到的压力也有高低，例如专注FPS显然是压力高，打不好就有负反馈的事。而《图书管理员》恰恰相反，它除了让玩家专注做“整理”一件事之外，不提供其他任何强加的压力。因此玩家可以在没有限制的空间里，按照自己的能力范围，自主地找到最多的正反馈。比如那些沉浸在不用魔法挑战里的玩家，亲自上手整理，就是他们最享受的方式。又如钓鱼，枯燥属于围观的外人，乐趣则属于钓鱼佬自身。第三个方向，是治愈游戏。当然，这种治愈不是给玩家心理上的救赎，而是让玩家放松精神、缓解日常积累的压力。类似的游戏在近两年频繁冒头，比如往轻量化体验方向发展的桌面游戏，还有各种画风清新的家装题材游戏。相比之下，《图书管理员》既没有清新的画风，操作体验也谈不上轻量，它实现治愈的方式，是通过细节埋点勾起玩家好奇，通过玩梗打乱玩家心流，通过音乐和世界观让玩家代入，每种手法单独拿出来，都是加分项，凑一起自然就特别治愈了。《终焉莉莉》的音乐是最治愈的一笔而不论深挖哪个方向，只要找到对口的玩家，产品就能赢一大半。就像图书整理在现实里是图书管理员的工作，但也是每个人多少都会经历的生活场景。因此即便产品看起来很冷门、很小众，实际上只要打动一批对上电波的核心玩家，产品依旧很容易扩散开来。尤其在当今短视频的算法下，小众但有趣的内容，也更容易出圈。所以，别看《图书管理员》的核心创意只有“整理书本”这小小一个点，如果回归游戏乐趣本质，哪怕是玩泥巴、弹玻璃珠，甚至手握一根树枝，都能让我们乐上一整个夏天。这背后，也藏着更多创作者以小博大的机会。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2650005380_3": {
+    "id": "wechat-youxiputao-2650005380_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "4月全球收入榜：王者蝉联Top 1，奔奔王国国区收入创新高",
+    "original_url": "https://mp.weixin.qq.com/s/4uZHLqbOqSPU7j5vH0uDmA",
+    "published_at": "2026-05-07T19:22:05+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasYMlD2heu1CALZ3iciajiaFcFfoK2Mw8rWXHzzrI5nCVU1zaXsZ6jsAbVoESbOTqVyudxZQKNwkTtIN7YcETMnnlmzduSOQhGYU9w/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "excerpt": "",
+      "body": "4月全球收入榜：王者蝉联Top 1，奔奔王国国区收入创新高\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 以下文章来源于AppMagic\n ，作者AppMagic\n AppMagic\n .\n 移动app数据洞察\n 5月7日，AppMagic发布2026年4月全球手游收入排行与增长榜。4月全球手游收入环比下降4.3%，同比2025年4月下降2.6%。01全球手游收入Top 30全球手游收入榜单中，头部3款游戏保持不变，《王者荣耀》持续领跑月度榜单；《崩坏: 星穹铁道》迎来三周年庆，排名上升11位，位列第14名；《SD高达 G世代 永恒》时隔5个月重回榜单，成为本期排名提升最多的游戏；《Disney Solitaire》收入再创新高，排名上升至第26位；《洛克王国：世界》首次入围全球手游收入榜Top30；此外，《eFootball™》《怪物弹珠》等游戏也回归榜单。腾讯游戏旗下《洛克王国：世界》自3月26日上线中国大陆iOS后，4月迎来首个完整运营月，根据AppMagic数据估算，该游戏4月中国大陆iOS分成后收入约2300万美元。驱动主要来自开服活动的集中释放，新区域地图与精灵图鉴同步更新，叠加限时任务与成长活动，持续拉升用户活跃度。玩法上，产品以开放世界“捉宠”为核心，融合回合制战斗与宠物养成体系，并通过探索、收集与社交玩法构建循环体验，拓展用户覆盖面。腾讯游戏旗下《王者荣耀》4月收入稳步回升，根据AppMagic数据估算，游戏全球分成后收入约1.38亿美元（折合人民币约9.39亿元），环比增长约4%。4月1日，S43新赛季「陌上相逢」正式开启，元流之子新增“刺客”职业，法师玩法升级，同步上线 “汇流成兵”赛季技能、小屋装扮、农场种植等全新玩法，推动游戏在4月2日至12日日分成后收入持续维持在500万美元以上。4月29日，年度重磅活动“五五开黑节”正式开启，游戏携手《哪吒 2》推出限定联动皮肤及系列主题内容，搭配高性价比礼包、抽卡活动及农场联动任务，大幅提升用户活跃度与付费转化，带动月末收入增长。《王者荣耀》农场种植玩法图源：游戏官方微信公众号腾讯游戏旗下《三角洲行动》4月全球分成后收入环比增长约41%，成为射击细分品类的增长核心。游戏延续2至3个月一次大版本更新节奏，4月16日S9赛季上线，全新角色“回响”、新战场“乌姆斯运河”、新武器“M82”同步登场，新增竞技挑战、趣味跑酷、藏宝互动等多元玩法，丰富玩家体验。根据AppMagic数据估算，游戏4月17日全球日分成后收入达700万美元，刷新单日历史纪录；4月16至17日成功登顶核心收入市场中国iOS游戏畅销榜榜首，体现强劲增长势能。《三角洲行动》4月13日-19日收入表现点点互动旗下《Kingshot》位居全球收入榜第10名。根据AppMagic数据估算，4月游戏全球分成后收入突破8100万美元，其中，日本、中国大陆等地区月度收入创新高；中国大陆地区环比增长约47%，以420万美元分成后收入（仅App Store）位居第4大市场。米哈游旗下《崩坏：星穹铁道》依托4.2.0三周年大版本实现收入大幅增长。根据AppMagic数据追踪与估算，游戏1月触及低点后，连续三个月实现增长，月均增速约90%。4月22日三周年版本正式上线，带动当日全球分成后收入突破760万美元，创年内单日收入新高，并同步登顶中国、日本等地区iOS游戏畅销榜。本次版本内容以周年庆典与剧情拓展为双主线，不仅上线两名全新五星角色及专属光锥，还解锁全新主线篇章与探索区域，进一步扩充世界观叙事。叠加周年庆海量福利放送，包含免费抽卡、限定角色兑换等权益，有效拉动老玩家回流与新增用户活跃度。《崩坏：星穹铁道》三周年活动AppMagic实时运营与更新日历KONAMI旗下足球竞技游戏《eFootball™》4月榜单排名攀升16位。据游戏官方披露，游戏全平台（含移动端与主机）累计下载量已突破10亿次。为庆祝这一里程碑，移动端重磅上线经典大师联赛玩法回归、传奇球星限时招募、登录福利系列活动，调动全球球迷与核心玩家的付费热情，推动收入在4月10日至11日达到全月峰值，单日全球分成后收入约320万美元。本次表现再次印证IP情怀与内容迭代对体育品类的强驱动作用，助力游戏重回体育手游细分赛道榜首。《eFootball™》1亿下载推文图源：游戏官方FacebookXFLAG旗下《怪物弹珠》在双IP联动加持下，4月收入显著抬升，在核心市场日本多次登顶iOS畅销榜。根据AppMagic数据追踪，游戏收入波动与峰值主要由iOS端主导。该作月初携手现象级IP《链锯人》开启第二弹联动，限定扭蛋卡池快速撬动付费；月末接档国民级IP《轻音少女 K-ON!》，以限定角色与休闲趣味玩法承接用户活跃。两大热门IP前后接力，助力游戏回归全球手游收入榜Top30。以色列厂商SuperPlay旗下休闲纸牌游戏《Disney Solitaire》自3月首次入围全球榜后，4月排名上升3位至第26名，根据AppMagic数据估算，该游戏4月全球分成后收入超2400万美元，创生命周期新高。以下是榜单详情：02全球手游收入增长Top 30完美世界旗下《异环》4月开启全球分批公测，4月23日率先登陆中国iOS，4月28日上架日本、美国等全球市场，上线首日登顶多个地区iOS游戏免费榜。作为一款超自然都市题材开放世界RPG，游戏以都市异能冒险为核心，融合伙伴组队、生活养成、自由穿搭装扮等玩法，题材风格新颖独特。根据AppMagic移动端数据统计，上线当月，游戏全球分成后收入超290万美元（折合人民币约1974万元），中国大陆市场贡献70%收入；日本市场后劲十足，上线次日单日收入就反超中国大陆，成为后续第一大收入市场，未来表现值得期待。Bandai Namco旗下《SD 高达 G 世纪：永恒》4月迎来上线一周年庆典。本作是以机体收集、策略养成为核心的战棋类手游，依托自由编队搭配与关卡推进，构建长线养成体系。受周年庆版本带动，根据AppMagic数据估算，游戏于4月3日全球分成后收入突破330万美元，刷新单日收入纪录；4月2至3日连续两日登顶日本iOS畅销榜。产品收入高度集中，日本贡献70%收入（下载仅占26%），中国香港、中国台湾分别贡献11%、7%。凭借周年庆版本福利，4月游戏位列全球手游收入榜第23名，同时登顶增长榜。《SD 高达 G 世纪：永恒》应用图标变化AppMagic应用页面历史《明日方舟》双版本收入均实现环比上涨。其中，悠星网络代发行的国际版（Arknights）收入波动更为明显，在4月14日版本更新、限定寻访及主题剧情活动带动下，游戏单日分成后收入突破253万美元。鹰角网络发行的中国大陆及港澳台版本，月度收入走势平缓。从全球收入结构来看，日本以55%占比稳居第一，中国、美国分别贡献17%、10%，三者共同构成当月收入Top3市场。腾讯游戏旗下《胜利女神: NIKKE》4月全球分成后收入环比增长约59%，增量超710万美元，主要由日本、韩国、美国三大核心市场拉动。4月中下旬游戏开启3.5周年版本更新，上线全新SSR角色、拓展主线剧情章节，并推出多重限时活动；叠加大量免费抽卡、限定皮肤等福利内容，激发玩家付费热情。根据AppMagic数据估算，该产品4月30日单日分成后收入突破260万美元，创年内单日收入新高。悠星网络旗下二次元麻将手游《雀魂》跻身增长榜第8名。产品4月全球分成后收入超770万美元，环比暴涨约734%，创近两年月收入峰值。游戏下旬开启与人气IP《刀剑神域（SAO）》重磅联动，上线桐人、亚丝娜等限定雀士，同步开放专属寻访、联动剧情副本及多重免费福利等，带动4月22日至24日连续三日单日分成后收入均超130万美元，并同步进入日本iOS游戏畅销榜Top3。灵犀互娱旗下《三国志・战略版》4月收入环比增长112%。分市场来看，各地区均实现显著增长：中国大陆市场贡献核心收入，环比提升约45%；日本市场收入环比暴涨约460%，增幅居首；中国台湾地区收入也实现约400%的大幅增长。整体来看，版本更新与赛季内容推动了用户付费意愿，带动全市场收入同步攀升，日本市场的爆发式增长成为本月最大亮点。Netmarble于4月15日全球发行新作《MONGIL: STAR DIVE》，产品以“怪物收集+动作RPG”为核心，采用可实时切换的三人小队战斗机制，搭配完整角色养成体系。游戏上线后持续推出新角色限定召唤与各类限时庆典活动，拉动用户留存与付费转化。根据AppMagic数据估算，该作4月全球分成后收入超370万美元，其中韩国为核心市场贡献约60%，日本与美国分别占比约15%与10%。《MONGIL: STAR DIVE》4月15日上线图源：游戏官方FacebookSQUARE ENIX旗下经典IP《勇者斗恶龙》衍生新作《DRAGON QUEST Smash/Grow》于4月8日全球上线，是一款主打爽快割草体验的肉鸽RPG。游戏延续IP系列世界观，玩家可通过随机技能选择、职业搭配打造多元战斗玩法，同时支持4人联机协作闯关，强化社交互动属性。从收入结构来看，日本仍为核心市场，4月贡献约90%。对比同厂同IP另一款位置类产品《勇者斗恶龙Walk》，本作更偏重战斗与成长循环。目前两款游戏已成为该厂商近期收入Top2作品。以下是榜单详情：游戏葡萄招聘商务经理，点击「阅读原文」可了解详情推荐阅读极限汉化丝之歌 | 对话鹰角主策 | AI零代码开发起底游戏周边 | 白银之城 | 离职字节创业对话终末地 | 对话前沐瞳CEO | 对话鸣潮总监游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）",
+      "author": "AppMagic"
+    }
+  },
+  "wechat-youxiputao-2650000190_1": {
+    "id": "wechat-youxiputao-2650000190_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "2026游戏美术求职现状：从年薪25万到200万",
+    "original_url": "https://mp.weixin.qq.com/s/1VmjK-GOY8NuuzCKVm40bA",
+    "published_at": "2026-03-24T13:34:35+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/0Negiapw0whfjQGN5aSQOscA9MGCjPBFsfJOzxwsb3tkXN5tnkpotXCqeuCAOnEckhHwO1WOBODO0IY9Pxia9oSMfNFNOs4Jt0WJic4UOS18J0/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "哪些游戏美术岗位吃香？",
+    "payload": {
+      "excerpt": "哪些游戏美术岗位吃香？",
+      "body": "2026游戏美术求职现状：从年薪25万到200万\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 以下文章来源于游戏猎人Vivi\n ，作者游戏猎人Vivi\n 游戏猎人Vivi\n .\n 专注于游戏行业多年的猎头Vivi，每月8号原创分享“求职&招聘”一手信息：行情预测、职业咨询、面试辅导、写简历、职场故事等等！\n座右铭-看到你的优势，识别你的价值，推动你抛弃安于现状的自我，追求价值更大化的人生！\n题记：廖义霞(Vivi)\n 本文源自转载，原标题为《2026年，哪些游戏美术岗位吃香？》，作者为专注于游戏行业10以上的游戏猎头Vivi。本文结合了我所了解的2025年度及2026年初各大、中及部分小型游戏公司招聘数据（以一线城市北京、上海、广州、深圳和杭州为主），以及近期持续热招的大部分美术需求，详细分析美术从业者行情走势，同时分享部分如何更好的跳槽策略，如有疑虑或需要进一步了解的欢迎留言。全文近2900字。01基本篇整体来说，游戏美术的招聘特性如下：1、需求量大：卷画质的当下，美术需求在游戏研发里占比最大（不包括发行侧美术的话），美术：程序：策划 ≈ 4:3:3。2、年龄上限高，学历下限低：相对于发行和策划而言，业内普遍对美术的学历和年龄宽容度更高，大部分中重度游戏默认为大专以上81后即可（45岁以内）。另外因为是艺术岗，其实部分高中甚至更低学历也是OK的。作为对比，程序绝大部分要求82后+第一学历统招本科；策划对年龄包容度最低，大部分是统招本科+40岁以内（爆款除外）。3、薪资：比肩甚至略高于策划，更有甚者部分核心岗可比肩程序。可以说当下对于美术从业者而言，不管是重要性、需求量还是钱途以及稀缺性都是最好的时代！02职能篇写在前列，AI作为必备技能，尤其是2D类从业者，故此不再重点提及所谓的“AI美术”需求走势。不过，目前已有部分中型游戏公司开启了纯“AI游戏”制作，规模在10人以内，按品类逐一跑通，TA（会AI）异常抢手，且不限品类、引擎和风格。整体来说，按招聘需求量大致依次排序如下：1、动效：最主要原因还是因为从业者太少了，稀缺，而且不管什么品类基本都需要，所以我直接放在了首位。2、原画类：1）不管是概念设计，角色原画还是场景缺口都不小，相对来说角色原画需求略微大于场景。这一方面是因为角色原画对精确度的要求远高于场景原画；另外象纯2D游戏以开房间为主要玩法的，比如棋牌/捕鱼这种场景是固定的，所以角色原画需求也多于场景。2）对于中重度游戏来说岗位越来越细分，比如商业化原画异常吃香，还有服装（有些公司甚至放宽到服装行业从业者）、怪物原画、枪械原画、载具等，具有稀缺性更有溢价空间。3、TA：目前TA划分的也很细，不仅有风格之分还会进一步细化为，如：渲染TA、管线TA、动画TA、角色TA、场景TA、特效TA、绑定TA等等。4、动作、特效。与引擎关联度及高，且分工也越来越细化，比如四足动画、3C、过场动画、过场动画、动捕、商业化特效、特效原画等。顺便补充下，2D动作和2D特效需求相对会少一些，且大多集中于小游戏，由于体量和成本所限，放给我们猎头的需求量也远低于纯3D类游戏。而长三角的二次元大多数是UE5，搜打撤目前也主要是UE5为主。5、 UI视觉：分工一方面越来越细，比如商业化界面（首充、签到)，另一方面需要综合性强的。比如手头有好几家公司招聘UI时直接明确要求同时会部分视觉或交互。6、其他：相对来说需求量略低于前面几大模块，如地编、场景模型、硬表面、SD材质师、场景关卡（LA）、模型师（擅长高精度的模型除外，这种还是很吃香的）。不过灯光和音频/音效更少，也只有大项目才有需求，比如厢庭式、开放世界、SOC等。7、主美/美术总监：带管理岗位的不管是手游还是端游包括单机需求相对都比较少，可以结合此前分享的这篇一起来看。什么样的40岁+游戏从业者受欢迎？结合手头几家top大厂主美及以上需求来看，有两类特征和趋势比较明显：1）招聘特征：一个是未完全偏管理的成功项目者（重点强调，美术和项目流水也越来越息息相关，如果在研项目放出过PV也是极大的加分）；一个是强审美+管理型（擅长提升效能和产能），这个对制作能力要求并不高，但是对其管理幅度倚重大，比如管理过80人以上规模。2）背景要求：3D背景出生的主美需求陡增，另外有些大项目会进一步细分为2D主美、3D主美。尤其是对管线、角色精度要求高的，如开放世界、二次元、3A游戏会偏向于3D出生的主美；而SLG、小游戏、棋牌等还是倾向于2D背景的。03风格篇1、众所周知，美术绝大部分职位都与风格息息相关，当然也有少部分例外，如场景关卡、交互、灯光等，这些不在这里详细讨论。2、按美术风格需求量依次递减，大致排序如下：1）风格化：不管是腾网米（注：腾讯、网易、米哈游的简称）还是一些相当有研发实力的公司，这个品类最多。比如目前我了解到的就有，美漫风格化、欧卡风格化、治愈风等。2）二次元：这个赛道大都是大公司在竞争，相应的招聘激烈程度可想而知。不过补充说下，这里不包括传统日式二次元。3）欧卡：以北京以及大部分出海的中轻度游戏为主，包括消除、合成、SLG+X、捕鱼、slots、棋牌等。4）写实：欧美写实多一些，大部分以搜打撤、SOC为主。至于国风相对少一些，毕竟MMO赛道准入门槛太高。不过单机热潮的到来，推测未来或许会有更多需求可期；特别指出，都市现代风，目前有看涨趋势，几家top级大厂都有入局；科幻类据我了解也只有极少数大厂有。5）半写实，以欧美半写实居多。主要在MOBA和FPS这两个大类，还有部分SLG、卡牌等。6）潮流卡通：前面提到的治愈风，腾网米等大厂都有加码模拟经营赛道，如星布谷地、小人国，另外蛋仔和元梦也可以算这种风格。7）其他：a.女性向：叠纸已经把这个赛道卷起来了，准入门槛实在太高，所以招聘需求量相应降低。b.Q版：小游戏赛道对这块需求还是蛮多的，但是之所以不放重点项，主要是因为人员规模和研发周期决定了其需求量相对固定，薪酬也比较有限制。c.日韩：还是主要在小游戏赛道，而且大部分公司都限制了年龄，比如主美40岁以内，组长35岁以内。顺便补充一下，地处长三角擅长日韩风的2D类其跳槽难度远大于广深。因为这种大多数是手游为主，尤其是MMO及卡牌，但长三角最近1年多这两种品类的在研大项目相对稀缺，甚至曾经在卡牌领域有一席之地的几家中型公司还在进一步收缩。d.其他没有罗列出来的风格会相对小众一些，也大都集中在中轻度游戏，如像素风、赛博朋克、卡通（集中在2D小游戏为主）。04薪情资深：大厂50-80万左右，中型公司40-60万，小公司25-40万。leader：大厂80-120万（也叫owner）；中型公司60-80万；小公司30-50万。主美/总监：大厂150-200万（专家级也在这个区间）；中型公司120-150万；中小公司50-70万。另外就地域而言，上海和深圳是第一梯队；北京、广州和杭州次之。前面的数据也仅限于这几个城市为主。不过以上薪酬区间并不绝对，不仅需要结合周期和品类（比如大厂2026年都在卷模拟经营和战旗类，再比如小游戏主美和开放世界主美完全不在一个量级），还需要结合地域因素（比如上海欧卡风项目远少于北京），只是一个大致参照。05后记如果换行，会去到哪些行业？据我所了解的情况大致有这些：1、教育/培训类：比如大学/高中当美术老师，或者去教育机构培训儿童绘画；2、衍生品/潮玩类：比如雕塑、手办、盲盒、游戏周边等；3、影视：一方面影视行业对从业者的年龄包容度要高不少，同时其薪资早已提高到甚至部分比肩中大型游戏公司。最后越来越多的影视公司转为游戏厂商（比如《凡应》和《凡人修仙传》的动画制作公司都有游戏在研），急需经验丰富的游戏从业者；4、其他：艺术展览（收藏类）、互联网app（交互和UI比较多），甚至还有电商、保险、医生、开饭店、托儿所老师等等五花八门。游戏葡萄招聘商务经理，点击「阅读原文」可了解详情推荐阅读极限汉化丝之歌 | 对话鹰角主策 | AI零代码开发起底游戏周边 | 白银之城 | 离职字节创业对话终末地 | 对话前沐瞳CEO | 对话鸣潮总监游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏猎人Vivi"
+    }
+  },
+  "wechat-youxiputao-2649990629_2": {
+    "id": "wechat-youxiputao-2649990629_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "库洛今年抢跑？年会礼品曝光",
+    "original_url": "https://mp.weixin.qq.com/s/v_29oq1nNWRqeBOS2LAFxg",
+    "published_at": "2025-12-26T19:11:15+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftdicsKbKUnPGgZ8a95eVLax7wgVck58AT5vYBRtbJWeLH48OVtmpuwKyAa3YXkg4Xe9ibxhwf04ibsicw/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "excerpt": "",
+      "body": "库洛今年抢跑？年会礼品曝光\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 文/秋秋前两天，一份名为「库洛游戏2025年度礼品放送活动」的礼品清单曝光，拉响了今年游戏公司年会礼品内卷的序幕。话不多说，我们直接看奖品：大奖「金色传说」为iMac电脑，官网售价在1.5万元左右；UR和SSR级别的奖品价格相差不大，分别为万元和8000元左右，类型包括苹果手机/平板、华为手机、5070Ti显卡、护肤品、音响和10克黄金。再往下是则是5000元、3000元档的奖品，包括手机平板、游戏设备、家用电器、护肤品等等。以下为清单长图：游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读年轻人爆仓 | 8000成本AI创业 | 对话鸭科夫星布谷地 | 望月重做 | 灰境行者明日方舟终末地 | 无限大 | 字节AI玩原神游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649959180_3": {
+    "id": "wechat-youxiputao-2649959180_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "2月发行商收入榜：腾讯占TOP 5四席，韩国市场再出国产黑马",
+    "original_url": "https://mp.weixin.qq.com/s/FtTRSV95-z1_2WcTCq5wSA",
+    "published_at": "2025-03-07T15:19:23+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftctqlGfjsGdyjUH8ic8e1icSdnSIcCQxgBcuav6pAPKwE2tI7icDYh8NFOO4dGw4w8siafb8Xw61WwnbA/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "excerpt": "",
+      "body": "2月发行商收入榜：腾讯占TOP 5四席，韩国市场再出国产黑马\n 分析师Rui Ma\n 分析师Rui Ma\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 3月7日，Sensor Tower发布了2月中国手游发行商收入情况，本期共35个中国厂商入围全球手游发行商收入榜TOP 100，合计吸金19亿美元，占本期全球TOP 100手游发行商收入37%。特别说明：本报告仅统计发行商收入，且不包括中国地区第三方安卓渠道。01中国手游发行商收入TOP 30 随着农历春节、《葫芦兄弟》联动和《奶龙》联动的到来。1月29日，《蛋仔派对》日流水迅速攀升至近12个月内的最高值，同时该游戏2月收入增长22%。《Whiteout Survival》2月收入环比增长4%，带动点点互动收入提升4%。柠檬微趣的合成手游《Gossip Harbor》和《Seaside Escape》保持增长态势，收入环比提升8%和10%，助力发行商2月收入环比增长9%，排名前进1位至收入榜第5名。在合成手游领域，柠檬微趣蝉联该赛道冠军，2月收入是第2名发行商的3.5倍。江娱互动《Top Heroes》和《口袋奇兵》2月收入分别迎来7%和26%的环比增长，推动发行商本期收入环比提升13%，排名升至收入榜第10名。其中《Top Heroes》在1月下旬全球下载量突破1000万次后，2月收入迎来环比7%的增长，使其在上市1周年之际累计吸金逼近2亿美元。Florere Game旗下末日题材4X策略手游《Dark War Survival》和《Last Z: Survival Shooter》2月收入再度增长7%和69%，使发行商收入增长18%，创历史新高，排名前进3位至收入榜第14名。春节期间，乐元素三消手游《开心消消乐》推出诸多福利礼包，使得2月该游戏收入上涨19%，推动乐元素本期收入提升9%，排名上升5位至榜单第19名。Leniu Games于1月中旬在韩国市场推出的MMORPG手游《I9:인페르노 나인》(I9: Inferno Nine)跻身2月韩国RPG手游收入榜亚军，仅次于《天堂M》，并位列本期出海手游收入增长冠军，带动发行商收入增长110%，首次入围收入榜第27名。榜单之外，入围全球收入TOP 100的中国手游发行商依次是：HaoPlay、竞技世界、游卡网络、4399和乐逗游戏共34家厂商。02中国App Store手游收入TOP 20腾讯《王者荣耀》《和平精英》《金铲铲之战》《穿越火线》4款游戏包揽中国App Store手游收入榜TOP 4。2月《王者荣耀》仍然保持稳定的盈利能力，“苍”、“西施”和“狄仁杰”等新皮肤的上线，助力该游戏在中国iOS市场收入提升8%，蝉联本期收入冠军。在情人节等活动的带动下，《无尽冬日》本期收入环比提升23%，使得游戏在中国iOS市场的收入再次超越美国。随着3.0下半卡池新角色“阿格莱雅”的上线，以及全新3.1版本“门扉之启，王座之终”的推出，米哈游《崩坏：星穹铁道》本期收入环比提升11%，重回榜单第16名。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读腾讯离职制作人 | DeepSeek实操 | 广州百人公司解散燕云十六声 |  中国二游2025 | 天美组织调整行业没有中产 | 对话腾讯助理总经理 | 广州游戏地图游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）",
+      "author": "分析师Rui Ma"
+    }
+  },
+  "wechat-youxiputao-2649939184_1": {
+    "id": "wechat-youxiputao-2649939184_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "腾讯开窍第一步：去掉爹味",
+    "original_url": "https://mp.weixin.qq.com/s/gTmxUPkeFuSgYBtg8hEz4Q",
+    "published_at": "2024-07-22T21:21:45+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftf0Ozo8rzaeibgYxbFzI1dHPulXuJuElClACTQNhvxzVPic2LCc5wVQxbWSSWsY4uyticNpkcw3C1tag/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "得民心者得天下。",
+    "payload": {
+      "excerpt": "得民心者得天下。",
+      "body": "腾讯开窍第一步：去掉爹味\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 得民心者得天下。文/严锦彦01《命运方舟》上线一周年，应该超出了不少人的预期。它的国服迟到了几年，又是国内已经式微了的端游MMO，怎么看都是一场逆风局。可结果呢，它成了去年现象级的MMO新品，连续两个季度被腾讯财报点名表扬。而就在前两天，我去了一趟《命运方舟》国服一“舟”年线下庆典。说几个印象点吧。第一，人很多，而且是年轻玩家很多，这让我挺意外的。毕竟按照刻板印象，这个年头，年轻人应该都更钟情于二次元。可现场却有不少人和我说，他们都是趁着暑假组团过来玩的。现场Coser还原度确实高，不少玩家都在集邮第二，现场很有梗。从进门开始，每一个区域都是最能唤起玩家记忆的游戏场景。比如在孤岛欧佩尔和托托克，大家要在妮娜芙和摩可可的引导下，喝下缩小药水，收集岛之心和摩可可，兑换奖励；这两位更是成了现场最吸睛的Coser甚至现场还有点石头强化环节，直接判定你是非酋还是欧皇……一路上，不少玩家都说，“这是回家了啊。”舞台表演赛也节目效果拉满。比如陈赫因为异地登录，弹出了安全绑定的提示，差点还暴露了自己的手机号码。台下玩家连呼太真实，DNA动了。而在看完这场周年线下活动，并回顾了游戏过去一年的运营后，我也终于明白了《命运方舟》能在国内逆势增长的原因：很简单，也很质朴，就是抓住了行业当前最重要的成功密码——得民心者得天下。02今年以来，厂商与玩家的矛盾加剧，信任关系被重新拿出来，反复提及。再厉害，再头部的产品，稍有不慎，都有可能口碑滑坡，堕入舆论深渊；但同时，也有产品因为和玩家站在同一阵线，从而获得青睐。《命运方舟》就属于后者。过去一年里，《命运方舟》国服不是没有过舆论，但他们的运营方式，主打一个听劝。今年春节，游戏推出了国服限定外观“涣梦流光”。这个外观很好看，有专属特效，而为了让它更加锦上添花一点，国服团队还给了它额外2%的基础属性加成。怎么说呢，在外观里面添加数值属性，虽然在国内算是常态，且2%的属性也算可有可无，但对于更年轻、追求公平的玩家而言，自然是受不了的，于是便开始了对“涣梦流光”的口诛笔伐。不过，这个舆论并没有持续很久。《命运方舟》国服团队的滑跪速度很快，只用一天就发布了道歉公告，并承诺未来也不会用付费的形式，做国服特有的，突破战斗数值上限的设计。另一个例子，是产品的更新节奏。作为一款迟到了几年的代理产品，《命运方舟》国服免不了要追赶外服的版本进度，加上为了避免长草期，游戏过去一年，几乎平均每月更新一个大型副本、一个新职业。对于喜欢肝的玩家而言，一直有新鲜内容，当然是一件好事，但如果一直被塞满，肝帝也会感到力不从心。因此，过重的养成压力，成了让玩家苦不堪言的槽点。而国服为了解决这点，他们居然做了一个极其罕见的调整——更新大版本时，暂时跳过副本，先出新职业。一定程度上，这就让玩家可以先拿新职业过把瘾，在保持新鲜感的同时，又不会被迫去卷新装备。此外，为了让玩家对国服放心，团队也在今年初开始发布更新计划，提前预告游戏未来的大方向。对于玩家来说，这至少能让大家心里有个底，不用担心策划运营朝三暮四，突然做出什么背刺自己的大改动。也正是这一来一回，不断磨合的听劝决策，《命运方舟》国服逐渐就和玩家，形成了一种信任关系。03当然，信任只是外显的最终结果，想要真正获得民心，不能只是一味听劝，内核还是看团队是否足够懂玩家。《最终幻想14》的制作人吉田直树曾说过，对于MMO而言，感受有时候比数据更重要。运营团队需要真正理解玩家想要什么，并不断提供更便利和有趣的体验。放到《命运方舟》国服身上，他们这一年来，几乎一直在做利好玩家体验的产品优化。首先是减负。我们都知道，MMO嘛，万变不离其宗，为了保在线率，拉用户时长，免不了用日常任务来留住玩家。但现在时代变了，玩家更喜欢轻松的游戏体验，希望用更低的投入，获得更强的正反馈。于是在这次一周年，国服调整了日常副本的任务要求，过去玩家需要每周7天上线打本才能凑齐的日常奖励，现在只要挑三天上线就行了。说实话，很少有MMO，敢在上线的头一年就做这些决定，况且这还是在海外运营多年的代理产品，想要打破已有传统，难度之大可以想象。但看起来，国服团队丝毫不担心数据下滑，不打算靠系统机制奖励去硬拉活跃，而是对产品本身抱有自信，靠新玩法、新内容去吸引用户。其次，我们常说在如今的市场环境里，MMO端游的受众面太窄，尤其难以吸引到年轻用户。原因有很多，我只说两个点：门槛和社交习惯。对于年轻玩家来说，大家并不习惯MMO复杂的打本与机制配合，况且在人均社恐的当下，大家更想要单独体验剧情和玩法。于是，《命运方舟》国服是怎么做的？他们直接把一个攻略站内置进了游戏。新人玩家不知道该怎么加点？没关系，你可以直接在技能树旁边的攻略中，选出一个最感兴趣的，一键加点。新人不知道团本该怎么打？没关系，屏幕右侧直接标注好了当前副本的萌新指南。更直接的是，新人还不用担心数值强度不够，他们会有额外的Buff增益和翻倍奖励。而更加开创性的设计是，《命运方舟》国服还一改过去MMO的固化思路，不强制玩家社交，允许单人挑战团本。玩家在单人挑战时，会获得额外的增益，同时产出的材料奖励，也与正常的团本基本一致。而有了这一系列的改动加持，这次《命运方舟》的一周年版本，也就成了大家口中的“最适合萌新入坑”的版本。04在一周年线下活动现场，我还发现，国服团队把玩家放到了至关重要的位置。与其他游戏不同的地方还在于，这次的线下活动，不仅是一场玩家聚会，同时也是运营团队与玩家沟通的场合。具体来说，他们在场馆里专门划出了一块国服运营团队面对面的区域，并分配了三个负责不同模块的运营，现场解答所有玩家的疑问。这也是我重点蹲守的区域。因为这个活动形式实在是有些大胆，别的游戏一般只敢以线上直播的形式来做答疑，甚至出镜的策划，往往都要全副武装，戴好口罩，生怕被玩家记恨。而《命运方舟》的国服团队，一个个都坐在长桌上，等着玩家过来。我都不敢想现场会不会发生什么过激行为。可和预想中的不一样，现场始终保持着peace&love的氛围。这并不是说玩家到了线下就抹不开面子，相反，提出尖锐质疑的玩家不在少数，甚至有时会把团队成员问得汗流浃背，双手合十地接连道歉。当然，道歉并不能解决问题。很多时候，国服运营团队都会针对问题，一个个掰碎了去聊决策逻辑和对应措施。比如职业的平衡性是重灾区，团队会从多维度去坦言他们对职业强度的理解，并提供收集到的数据，与玩家探讨，同时也会现场在电脑上，记下反馈。又比如，在商业化的运营举措方面，团队还会引导玩家说出自己不满意的地方，反过来要求多来点锐评。在我的观察中，玩家来到这里，当然都抱有自己的游戏需求。但大家肯定不是无理取闹，并不是要求团队立马给自己磕一个。实际上他们在与运营交流时，都是在礼貌地提出一些建设性意见。从不少玩家提出的问题来看，他们对游戏的熟悉程度，甚至堪比官方团队。也就是说，大家想要的，更多是一个态度，想要知道游戏是否真的尊重自己，是否真的懂玩家。也正因如此，在团队与玩家对齐认知后，大部分人都能心满意足地离开。事实上，除了上文提到的减负、优化外，回顾《命运方舟》过去一年的大事件，不难看出，团队一直在想办法，让玩家从游戏内外感受到诚意与被重视。产品侧不用多说，游戏上线才一年，就已经追赶了外服好几年的版本，并且还能推出外服刚更新的职业。而在运营推广侧，《命运方舟》国服也针对玩家喜欢的内容，树立起了自己的品牌调性。比如考虑到产品本身的音乐优势，国服与张靓颖、陈卓璇、毛不易、郎朗等音乐人制作了高品质音乐，艺术性拉满。其中，朗朗还被做成了NPC，放进了游戏里；而虚拟主播星瞳则和游戏展开外部联动，合作了双人舞表演。同时，这一年来的几个资料片更新，往往都伴随着电影制作级别的CG释出，打破了不少人认为MMO做不了内容型产品的刻板印象。又比如，在大众推广层面，国服自开服起不断投入资源，搞直播、UGC生态。之前他们就从隔壁《英雄联盟》请来了The shy、宁王等大主播入坑，接连登上热搜。在推出新职业武神时，他们又拉来了张名扬——为中国赢下UFC大级别历史首胜、仅用101秒KO对手的UFC名将——来站台。春节期间，《命运方舟》国服还用双语在拉斯维加斯大球祝全世界春节快乐。从中，玩家能感知到，原来自己玩的游戏，是如此的有牌面。总之，从以上这些动作来看，《命运方舟》国服一年来，一直传递出的信号就是，他们足够懂玩家，并愿意给予玩家最大的诚意。05上线一周年，《命运方舟》现在已经成为了国内MMO端游的新锐代表。这点不仅反映在社区热度上面，你到网吧里一看，可能会有更深的感触。至少我这一年里，在网吧总能看见这款游戏的身影，而在它上线前，我已经很久没在网吧里这么频繁地看见MMO了。要说《命运方舟》为什么能取得成功，那些产品更新、运营推广，当然都是原因之一。但就像上文说的，最关键的，还是他们把一款长线游戏的服务型精神给拉满了，收获了民心。有了这点作为基础，未来产品可能也会有更高的成长空间。放到今天来说，这可能不仅是MMO所需要的，也是所有GaaS产品都要理解和学习的一点。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读科韵路12年 | 离职天美回家带娃 | 字节游戏调整绝区零 | 黑神话：悟空 | 鸣潮 2024人才走势 | 动物井 | 对话腾讯马晓轶游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649929184_2": {
+    "id": "wechat-youxiputao-2649929184_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "今日，朝夕光年迎来大规模人员调整",
+    "original_url": "https://mp.weixin.qq.com/s/alExP4zL3_MRoSEJDMEk-g",
+    "published_at": "2024-04-17T18:27:52+08:00",
+    "ingested_at": "2026-06-23T16:24:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcFNIAEIUzfX75RbIuQX4hU6BHvAnbGaqREEMdYKH23gfzwNfQmia4jTeSxMgVTA3Yjlbgggf9Qe1w/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "下个月离职，获N+1赔偿。",
+    "payload": {
+      "excerpt": "下个月离职，获N+1赔偿。",
+      "body": "今日，朝夕光年迎来大规模人员调整\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 下个月离职，获N+1赔偿。文/严锦彦游戏葡萄获悉，朝夕光年于今天（4月17日）迎来了一轮大规模人员调整，波及人数或达数百人。相关人士称，昨天开始便有员工接到公司约谈，今早基本事项已经确定，被通知到的员工将于下月离职，获得N+1赔偿。实际上，有关这轮裁员，朝夕光年内部早有传闻。3月14日，朝夕光年发布内部信，调整组织架构，并宣布游戏业务将「回归孵化状态」，下一阶段游戏业务的核心是「耐心做好稳定经营」。那时，就有朝夕光年员工称，下一轮裁员可能会在一至两周内来临。在此前传闻中，裁员比例最高接近一半。一位内部人士认为，这轮裁员决策并不难理解。他表示，公司业务的现金流其实还行，现阶段想要“猥琐发育”，裁员、削减不必要的开支，也符合大家的预判。3月14日的内部信去年，朝夕光年宣布业务大调整后，围绕旗下工作室、项目，进行了一系列对外洽谈，主要以出售为主。此前，多位朝夕光年人士曾告诉葡萄君，部分项目虽然在去年底有所裁撤，但对于已经上线的项目，公司并没有马上进行大规模裁员，团队依然保持着原先的运营状态，按部就班地推进工作。而随着多个项目出售，以及战略定位、组织架构进一步调整，朝夕光年目前或许已经完成了一轮业务梳理，并开始着手下一阶段的“去肥增瘦”。相关人士表示，本轮裁员范围覆盖程序、策划、美术、发行等等。此前没有被出售的上线项目，在本次裁员中波及人数较广。其中，一位自研工作室中层透露，其所在团队这次被裁撤人员，大概在50-100人。他认为，经过这轮调整后，项目应该暂时不用再担心利润问题，团队可以更有确定性地推进后续工作。知情人士透露，在今日的内部沟通中，公司称基于上个月的战略定位调整，目前《星球：重启》将调整方向探索AIGC相关的能力。而原有的UGC项目「Block」的发行工作也将被重新整合，从ONE发行工作室转到UGC部门，同时相应地会精简人员。一位发行方面的员工表示，鼎盛时期，朝夕光年的发行线有400余人，目前人数约为260人，根据今日的内部沟通口径，随着朝夕光年越来越多原有项目的交易与剥离，未来结合新的研发资源和条件，发行人员也将进行大幅整合与精简。该员工推测，根据现有业务需要，最终发行人员可能只需保留不到50人。此外，本次裁员中，技术中台也成为了裁员重灾区。内部人士称，此前朝夕光年的技术中台人数太多，接近300人，人员规模一度超过了发行工作室，因此在本轮调整中首当其冲也不难理解。关于本轮裁员，有朝夕光年员工称，这可能算是朝夕光年业务大调整后，正式落地的大规模人事变动方案，后续工作室、子公司或许还要经历一阵人员调整。目前朝夕光年内部员工五味杂陈。部分员工表示，此前早有离职打算，已拿到Offer，就是在等N+1；另一部分仍处于迷茫阶段的员工，情绪则较为低落，他们希望近期的一系列调整能够一步到位，尽快结束。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读朝夕光年败局 | 全球裁员潮 | 字节游戏调整解限机 | 星铁FGO对谈 | 射雕 腾讯开年改革 | 幻兽帕鲁 | 做游戏很危险游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649919241_1": {
+    "id": "wechat-youxiputao-2649919241_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "曾经想做中国Steam？现在腾讯这个部门想清楚了",
+    "original_url": "https://mp.weixin.qq.com/s/YlxGvRgL4OKDYWWwIZ-ygA",
+    "published_at": "2024-01-13T20:12:01+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftcwib8ZQlGKedrHjNMib6H2icbVfXgrKOaOibzia2SBectE6WpTFlooeEbBo8gHGVpYrV37cQ2YBcC1QcQ/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "跨越周期。",
+    "payload": {
+      "excerpt": "跨越周期。",
+      "body": "曾经想做中国Steam？现在腾讯这个部门想清楚了\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 跨越周期。文/严锦彦你有多久没关注过WeGame了？过去几年里，我经常会觉得，它是一个有些特殊，又尴尬的存在。还记得2017年，腾讯宣布TGP（腾讯游戏平台）要升级成WeGame，开始引进单机游戏。那时候，WeGame备受行业关注。一方面，它展现出了不太寻常的气质——相关负责人曾表示，WeGame没有任何营收方面的KPI，而且一段时间内都不考虑商业利益。另一方面，大家都把它当成了Steam的强力竞争对手。外媒Eurogamer曾表示，“WeGame在中国拥有2亿用户，Steam与之相比就是小巫见大巫。”WeGame引进的首款产品《饥荒》也确实不负众望，首月就卖出了超过100万销量。然而，后来受限于端游供给不足，国内整体市场朝手游发展，WeGame的声势慢慢趋于平静。它的诸多尝试，例如探索海外WeGame、掌上WeGame，最后都在大家可能没注意到的角落，以失败告终。在更多玩家眼里，WeGame依旧只是个“《英雄联盟》启动器”，这看上去和当年的TGP没有本质区别。但大家可能没想到的是，伴随着这两年PC网游重焕生机，以及手游多端化的趋势，WeGame反而找到了一条自己的道路——“做最好的服务PC GaaS游戏的平台”。这让他们的用户活跃连续3年稳步上涨，用户规模已覆盖了国内3/4的PC玩家，去年暑期的MAU还达到了6100万，创下近4年的新高。WeGame平台产品和发行总监Vito，以及产品负责人Demon告诉我，现在他们已经想通了：WeGame成为不了Steam，也不需要成为Steam。我好奇他们的战略转折到底是如何发生的，也想知道他们如何看待GaaS游戏和手游多端化的趋势。于是，我们有了以下对话：（内容经过整理，有所调整）01不需要成为Steam葡萄君：感觉WeGame好久没对外发声了，大家对你们的印象，可能还停留在中国Steam上。Vito：前些年提到WeGame，确实会有很多人这样调侃。但这两年我们已经清晰认识到，WeGame成为不了Steam，也不太需要成为Steam。葡萄君：从头聊一下这个战略变化吧，当年你们为什么会投入这么多资源在单机游戏上？Vito：主观上讲，一开始要做单机游戏平台，肯定带有一定热爱因素。直到现在，我们团队里大部分同事也都是单机玩家。客观上看，当时我们判断这确实存在机会点，可能是一个风口。2016年左右，我们发现Steam的中国用户多了起来，大家能接触到很多从没见过的游戏，但放到大众圈层来看，仍然有大量玩家不知道Steam。那个时候，Steam也还有着不少门槛，支付和网络都不算便利。而恰好TGP已经有了七八千万的活跃用户，只不过之前一直只提供了腾讯的端游，所以我们就想既然玩家喜欢，何不把那些优质的海外单机也带给平台的玩家。于是，TGP在2017年升级成WeGame，并引入了第一款产品《饥荒》，结果成绩超出所有人的预期——首月就卖了超过100万份，要知道它已经在Steam卖很久了。当时我们就更加坚定：原来用户真的有这么大的需求，如果我们能引入更多海外大型游戏，甚至能同步上线，那效果可能会更好。葡萄君：但没想到，后面端游引入就越来越难了。Vito：一方面是引入需要走较长的流程，另一方面是国内市场从端游全面转向手游，平台的新内容越来越少。2018到2021年这个阶段非常痛苦，WeGame用户不断流失，团队压力很大。当平台内容足够多时，哪怕我们不赚钱，只要用户能保持增长，商业模式就还能成立。但一旦用户下滑，这对平台型产品来说是致命的。葡萄君：所以那个时候就在探索海外和移动端市场？Vito：对，但这都是迫于生存做的被动拓展，看到什么火，就一股脑扎进去，想得都不够细。比如我们在移动端的核心竞争力是什么；走向海外市场时，海外用户真的还需要一个Steam么？回看起来，已经有大量事实说明，用户不需要一个新的TapTap和Steam。再加上，受疫情影响，2020年WeGame网吧用户规模也严重下降，整体DAU出现了断崖式下跌。大部分互联网产品，一旦进入到下滑周期之后，很难再去逆转。我们当时面临的最大问题，就是如何让WeGame跨越周期，重新找到它的用户价值，最后想到的就是：坚持做我们最擅长的事情，更好的去服务PC GaaS游戏。葡萄君：这是怎么推导出来的？Vito：过去几年，我们自己也在做发行。我们发现，Steam对于卖拷贝类型的游戏来说，它的后台服务和自动化接入都非常友好，但对于GaaS游戏，就不是那么便利了。比如一个网游想先做2000人的区域测试，Steam很难做到限量且精准的导入，又或者是分区域测试，它要经过一系列比较繁琐的流程。又比如去年在Steam发《重生边缘》时，我们遇到了一个BUG，点了发布按钮，但游戏在外网无法下载，只能给客服写邮件，然后等几个小时让他们帮助解决。对于一款网游来说，这算是运营事故了，可以想象大家当时有多着急。不可否认，Steam是一个很有极客精神的平台，它的标准化流程也特别好，但这和中国人做互联网产品有明显区别，我们更擅长服务。找到这个差异化方向后，我们觉得，既然本身WeGame就是网游居多，那单机的路走不通，也没必要再去和Steam争产品、抢用户了。所以在2021年左右，我们开始朝这个方向发展，重构了一遍WeGame的底层服务，帮助GaaS游戏更好地接入，以及在平台上运营。我们其实很难预判到，端游市场什么时候会回暖，以及《命运方舟》和《无畏契约》的上线，会带来这么大的变化。事实上，当你在做正确的事情之后，自然而然就会得到市场的回报，并且机会来了，你能立马把握住。02服务于市场需求葡萄君：你们是什么时候意识到，服务GaaS游戏是正确的道路？Vito：接入第一款腾讯外部网游《最终幻想14》的时候。当时，《最终幻想14》国服正处于3.0版本，数据有些下滑，刚好腾讯和盛趣是长期合作伙伴，我们找到对方后，很快就一拍即合。后面4.0版本，游戏接入WeGame，数据也提了上来。《激战2》也一样。当年这款产品国内运营得比较艰难，那时欧美系MMO在中国普遍不太吃香，虽然现在大家又重新接受了这一类型，但如果无法度过那个艰难的周期，产品可能就没了。而当时《激战2》进入WeGame后，数据增长了一倍多，直到今天依然有很强的生命力。葡萄君：具体来说，WeGame发挥了什么作用？Vito：首先是用户触达非常直接。我们作为从业者来看，总会觉得市场有那么多好的网游，难道玩家不知道吗？但实际上，即使到了现在，大众玩家的信息还是没那么畅通。当年厂商发网游，需要去媒体、门户网站打广告，现在也还要去B站发视频，可能上百万点击量就已经很高了，但WeGame一个月就有几千万用户，且在平台内就能完成下载转化，路径非常短。所以，很多游戏会发现，原来他们还能获得这么多潜在用户，像《三国杀》这样的老网游，在WeGame依然能收获不错的效果。Demon：在做触达时，我们也会根据用户属性去做拆分。比如《命运方舟》做推广时，我们会向MMO“老炮”突出游戏的高品质和版本独特玩法；面向非MMO用户，则多去推送游戏的世界观背景，酷炫的角色外观，又或是精彩的实机画面，让潜在的外围玩家也能被吸引。再比如，WeGame过去其实没那么多二次元游戏，去年《卡拉彼丘》上线前，我们做了很多二次元氛围营造尝试：例如在游戏专区给角色做了一个虚拟形象，点击会播放角色CV语音；包括在做广告推荐时，我们也和项目组一起交流，尝试制作了不少互动类的宣发素材。现在，WeGame的用户已经逐渐多元起来，大家并不只是玩一款游戏。就像手游的主游副游概念一样，内容型玩家，也可以是竞技型玩家，当他们消费完一个内容版本后，可能就会去继续玩《无畏契约》或《英雄联盟》。而WeGame就能促进这些玩家相互转化。葡萄君：像触达，或者分层推送，是不是很多游戏平台也都能做到，WeGame的优势除了用户体量大以外，还有什么？Demon：除了用户触达和精细化运营，我们在PC场景产品和技术支持上也有深厚的积累:一方面是服务单款游戏的助手功能，这是我们从TGP时代一路过来的立身之本。像今年上线的很多游戏，你能明显感觉到助手带来的便利。比如《无畏契约》混合了射击和技能，相对硬核，新手上手门槛较高，我们就在英雄选择、游戏加载界面，加入了技能说明视频和地图点位，方便新手快速上手；同时，国服专属的无畏时刻录制功能，其实我们团队也有参与其中提供游戏内绘制技术支持。另一方面，在平台的底层技术方面，我们做了大量优化，比如账号安全、下载更新等等。去年一款热门MMOARPG刚上线时，因为用户账号被盗，游戏客服每天最多能收到上千份投诉，但我们升级了几轮安全策略后，负面反馈基本下降了90%。当然，和黑产对抗仍然是一个长期过程。Vito：有款二次元射击游戏在一次更新之后，那一天玩家活跃掉得特别厉害。一问才知道，那次更新包体很大，有5个G，但其实只是日常维护，并没有内容大更新，用户体验自然不太好。这是因为研发团队在做包技术上，还没那么先进，后来我们帮助做了优化，基本帮他们减少了2/3的包体体量。葡萄君：但在很多人看来，WeGame更多还是在帮腾讯系游戏做定制服务。包括目前平台上的产品，仍然以腾讯游戏为主。这是不是意味着，WeGame现在更像一个内部支持部门？Vito：这其实是一个市场化的选择。不管腾讯内部还是外部的项目，我们都有深度合作的模式，这取决于项目的需求和合作模式：有些项目需要我们协助进行更大规模的发行推广，以及提供各种辅助功能，帮他们达到更好的服务效果；有些产品可能仅仅需要在WeGame上架，进行基础接入就够了。至于说到WeGame上的游戏，大部分都是腾讯系的，我觉得太正常了，毕竟你看国内端游市场，仍然是腾讯占了一大块，我们自然会优先考虑这部分用户。当然，我们完全不排斥其他公司的产品接入WeGame，像近年越来越多手游团队，开始做多端产品，我们也很欢迎他们能进入WeGame。事实上，这也是一个趋势。前些年，厂商和平台之间，可能还存在一些芥蒂，但现在大家会发现，与其头部产品各自隔绝用户，不如把用户都留在平台，互相流通。前阵子，我们和DNF的运营团队交流，发现他们仍然能保持增长；一个现象是，尽管DNF玩家可能会流失一段时间，但只要他们还留在平台，过段时间大版本更新，玩家在平台合适的场景下看到推送的版本信息，很容易就被拉回来；实际上现在大部分内容向游戏玩家都会有“长草期”，可能去玩竞技类游戏，但平台只要能很便捷的把“版本内容”更快速直接的传递给用户，就很容易把用户召回。所以这两年来，不管是腾讯内部还是外部，也很少人再去讲，到底是腾讯游戏成就了WeGame，还是WeGame成就了腾讯游戏。本质上说，内容和平台是一个共生关系。03端游回暖是必然葡萄君：GaaS化是近年行业一直聊的话题，你们怎么看待这个趋势？Vito：我们不敢说哪个方向最终一定是对的，但这两年的市场变化挺有意思。以前大家做一个3A游戏，几个亿美金砸下去，做个五六年才见玩家，一旦销量不好，那都不是说产品问题，整个公司可能就没了。哪怕强如CDPR，《赛博朋克2077》也差点让公司陷入困境。而当开发成本随着游戏质量水涨船高时，游戏定价自然也越来越贵，这没办法，如果不卖那么贵，可能都回不了本。但这未必是一个持久的商业模式。所以，现在很多海外大厂，都在探索或拥抱GaaS化，比如《使命召唤》系列，又比如《命运2》在Steam改成F2P服务型游戏后，越来越好。因为如果一款3A品质的产品能在两三年里做出体验版本去见用户，快速的测试迭代调整，它会更可控和安全。而不管它的商业模式是卖拷贝、DLC还是内购，本质都是在卖服务。因此在差不多2020年左右，我们团队内部就反复强调，大家不要再去区分单机和网游，而是看它是不是GaaS化的产品。葡萄君：那你们觉得端游市场，未来还会有很大潜力吗？Demon：之前我们做过一些调研分析，发现PC市场复苏是明确的趋势。一方面，前些年疫情的客观原因造成的线下网吧场景缺失，正在逐步恢复。另一方面，我们看前两年端手游的版号和用户规模比例，明显PC市场是更缺乏新内容的，所以只要新内容供给上了，PC市场自然而然会反弹。当然，你说它上限有多高，我觉得不好说。但PC用户需求一直没变，这也是为什么很多老产品可以运营多年。况且，现在手游多端化的趋势，也在吸引新生代用户。比如《原神》玩家会发现PC端体验原来这么好。Vito：现在手游分化很明显，要么越来越轻度，像去年小游戏全面爆发；要么就越来越重度，“端游化”，投入跟端游差不多。到这个阶段，大家会发现手机还是更适合休闲游戏，毕竟大部分人都要用手机来处理杂七杂八的事情，很难一直拿来玩沉浸式的重度游戏。于是，重度手游厂商发现用户在PC端有更好的体验，能更好的呈现产品的品质；越来越多的重度手游开始多端化，然后促进手游玩家去购买PC设备，这些用户不是传统的“端游用户”。所以各种因素叠加起来，PC市场回暖是一个必然结果。当然，在此之前，没人能预测到它会在什么时候会发生。葡萄君：你们想要引进那些多端产品，会不会遇到困难？Vito：肯定会。特别是没有接触过PC端的新生代厂商，他们并不是特别了解PC用户，对WeGame了解也少。我们过去聊合作时，他们会有一个固有认知，把我们和手游渠道联系起来，当然这是可以预想到的，毕竟在手游行业，内容跟渠道的关系非常复杂。但我们从不定义WeGame是一个流量商店，而是一个服务型平台，跟手游商店有本质的区别：手游商店用户更多是“被服务”了，用户从各种内容平台了解到了游戏，然后主动或“被动”通过商店去下载，这需要项目本身在前期有大量的市场品牌推广或者上线后的买量；还有就是用户不会每天都打开手游商店，下载完一款游戏，在一定时间段内，用户跟商店就断开“链接”了；WeGame用户每天都会登陆平台，更容易接触到“新游戏”，可以配合项目更早期的进行品牌宣传和内容传播，甚至针对性的核心用户测试打磨，同时用户在玩游戏的整个生命周期内，跟平台都是强“链接”的，这样平台可以给游戏提供完整生命周期的服务，包括底层技术、游戏助手、社区、内容、游戏外的商业化场景触达等等；这些东西在商务沟通时，很难直接pitch给对方，因为商务会谈时很容易就变成了“内容和渠道”惯性的谈判模式；像是和中手游合作的《仙剑世界》，其实就出于偶然机会，在一个朋友的饭局里我们聊起二游在WeGame上的表现，他们理解到之后，马上拉起技术和发行团队跟我们开了一个大会，双方在PC端的发行和技术层面产生了很强的共鸣和信任，这种双向选择才是最好的。Demon：很快大家会看到越来越多的“新生代”多端产品上线WeGame，顺便也吆喝一下，最近（1月12日）即时多维战斗RPG游戏《白荆回廊》上线WeGame，希望大家多多的支持。04做产品，不要强加价值葡萄君：WeGame这次更新，放出了一句话是“WeGame More，一起更好玩”，相当于是一次品牌升级？Vito：在我个人看来，我不太想把它定义成品牌升级，它只是代表了产品的一次迭代，版面设计、功能的迭代，迭代的同时让用户有更深的印象；WeGame用户喜欢联机游戏，所以我们用了“More”，希望去连接他们，后续可能也会推出一些版块和功能，让玩家在上面认识朋友，一起刷刷刷或者打竞技。又比如，最近我们线上举办了“腾讯端游嘉年华”，联合腾讯各大端游年末给大家送福利，可以跟小伙伴一起更开心的打游戏。其次，我想有一个阶段性的里程碑，它能给予团队一些自我肯定，驱动并指引大家进入下一个阶段，有时做产品迭代也是如此。但这并不是说我们要大肆对外宣扬WeGame如何如何，我觉得我们已经不太需要对用户去强调这些。现在回头看，我们以前凭着一腔热血做了很多事情，比如要成为中国Steam，又或者提出“千万不分成”，说要承担更多责任，帮助中国独立游戏行业。这些当然是我们的本心，但用户可能不太需要知道这些，他觉得产品好用就用手投票，觉得不好就用脚投票，你说再多也不太管用。本质上说，我们提出的种种，肯定也是基于平台自身对内容的需求，没必要为它强加价值。葡萄君：一旦强加价值，就会变得很累。Vito：所以现在我们想清楚了，WeGame不需要成为Steam，也不用成为任何东西，我们就做自己，服务好GaaS游戏。其实做一个产品，无非是表达自己，服务用户，紧跟公司策略，当这三个价值都实现之后，我们就不太在意别人怎么看了。所以这两年，团队反而也轻松专注了很多。葡萄君：这样看起来，你们找到的这条路真的挺难得。Vito：这两个月，腾讯内部，包括pony（马化腾）一直在反复提到腾讯的价值观。我理解起来就是，我们在做规划的时候，不是说这个东西别人都在做，并且做得很成功就是对的，我们更不能强行去做，然后用流量把它推起来。 真正有意义的产品，大多是有自己核心内在价值的，只有这样才可以跨越周期。我觉得WeGame也是如此，我们走过了要做中国Steam的阶段，回归自身价值之后，反而会发现道路通畅了很多。未来我们会更加聚焦于一个点，就是在游戏多端趋势下，在服务好现有内容和用户基础上，如何更好的为“新生代的内容和用户”提供价值。游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读朝夕光年败局 | 离开字节游戏 | 行业步入中年元梦之星 | 二次元骗局 | 星穹铁道 韩游赶中超日 | 绝区零 | 腾讯投资赢了游戏行业书籍推荐点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）\n 阅读原文",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649916191_4": {
+    "id": "wechat-youxiputao-2649916191_4",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "40款进口版号突发：完美雷霆B站心动中手游在列",
+    "original_url": "https://mp.weixin.qq.com/s/lfnLue75ta0UfiojRv_nxQ",
+    "published_at": "2023-12-22T17:02:59+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3fte139qZvNRYDBaZEweNcm7LVO9w6ibgTutFGupwUD0MoLgbsglCEGSibqKVRxQBuedXpRvMy3JWSicjg/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "来了。",
+    "payload": {
+      "excerpt": "来了。",
+      "body": "40款进口版号突发：完美雷霆B站心动中手游在列\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 来了。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍文/修理&秋秋12月22日，国家新闻出版署公布了2023进口网络游戏审批信息，共有40款游戏过审（文末附有完整名单）。本次过审版号中，值得注意的产品有：《剑灵2》，完美世界的《一拳超人：世界》，雷霆的《烛火地牢2》 ，B站的《炽焰天穹》，中手游的《火影忍者：木叶高手》，心动的《挺进地牢》《浮岛冒险》，恺英的《关于我转生变成史莱姆这档事：新世界》；索尼的《地平线：西之绝境》 ，育碧的《渡神纪：芬尼斯崛起》， 万代南梦宫的《数码宝贝：源码》 ，北京互爱互动的《英雄传说：闪之轨迹3》，深圳爱的番茄的《伊苏6：纳比斯汀的方舟》，SIGONO的《龙脉常歌》，雷亚的《花雨旋律》 。其中《炽焰天穹》为Key社《Heaven Burns Red》的中文译名。本批过审游戏完整名单如下（点击查看高清图）：推荐阅读腾讯远征 | 国产游戏信任危机 | 站着挣钱元梦之星 | 二次元骗局 | 黑神话：悟空对话黄一孟 | 行业价格战 | 对话郭炜炜游戏行业书籍推荐：葡萄书房点击下方名片，关注公众号（星标可第一时间收到推送和完整封面）",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-youxiputao-2649902092_1": {
+    "id": "wechat-youxiputao-2649902092_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "拳头办了场马斯克都要带儿子来看的游戏比赛",
+    "original_url": "https://mp.weixin.qq.com/s/-yp3md6s-HKFViEbyMe3Zw",
+    "published_at": "2023-08-28T21:34:06+08:00",
+    "ingested_at": "2026-06-23T16:24:14+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/GYfBeCic3ftfyE0wexriclXTibXiccIMGnO8pbxvpoevDqWLLfmf42gRCvJoekJOBeA4A2MfGV3n5B6VLibmBXbYKZQ/0?wx_fmt=jpeg",
+    "tags": [
+      "公众号"
+    ],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "这还只是开始。",
+    "payload": {
+      "excerpt": "这还只是开始。",
+      "body": "拳头办了场马斯克都要带儿子来看的游戏比赛\n 原创\n 游戏葡萄君\n 游戏葡萄君\n 游戏葡萄 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 这还只是开始。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍文/修理《无畏契约》上线一个多月了。在之前的圆桌讨论中，葡萄君曾提到该游戏可能是腾讯今年最好的一张牌，而现在可能会有人对此表示怀疑，毕竟端游的商业成绩没法像手游那么具有爆发力，更不用说这还是个竞技型产品。但我想表达的是，相比于短期的国服能赚多少钱，《无畏契约》对腾讯而言更大的价值是对于全球市场和电竞生态的补强，以及未来的长线增长空间。就像《VALORANT》在海外初上时也没有多爆，但现在几乎每次腾讯财报里的国际市场游戏营收增长部分都会提到它。而在本次《无畏契约》的全球冠军赛中，还有不少名人到场。比如说马斯克。再比如说《蝙蝠侠大战超人：正义黎明》和《正义联盟》里蝙蝠侠的扮演者本·阿弗莱克。《无畏契约》作为一款竞技游戏，电竞生态自然是最主要的增长动力来源。更不用说有《英雄联盟》这个珠玉在前，不难想象腾讯和拳头游戏会希望把《无畏契约》打造为下一个足够长期又足够成功的电竞产品。而在游戏的全球电竞生态已趋于成熟和稳定的情况下，那么国内赛事的发展自然就成了产品未来重要的新机会和增长点。就在前几天，拳头游戏公布了无畏契约冠军巡回赛（VCT）的2024电竞赛季计划——VCT CN（CN赛区）正式成为第四个官方联赛，并且明年大师赛将在上海举办。《无畏契约》的全球赛事版图得到了进一步补齐。而CN赛区下半年还有一系列密集的赛事：进化者系列公开赛、改变者赛等等，不难看出电竞将作为IP推广的核心策略，此外也将可以达到补足游戏生态，来保障游戏的用户粘性和长线运营的效果。在最近的位于美国洛杉矶的2023无畏契约全球冠军赛上，首次有两支中国队伍携手晋级八强。除了在东京大师赛上已经出名的EDG之外，还有初登国际赛场的BLG。虽然这次有不少人会遗憾于EDG止步六强，但其实一切才刚刚开始。和游戏一样，也许CN赛区与海外差了三年的发展与沉淀时间，但那种潜力是肉眼可见的。01之前在东京大师赛上大放异彩的EDG选手康康（ID：ZmjjKK），在CN赛区资格赛的夺冠采访中，曾说今年的目标就是拿到全球冠军赛的四强，但是总有一天会拿到那个冠军。当然，我们现在都知道EDG在淘汰赛中，撞上了去年的冠军队LOUD。鏖战三局，EDG最终以1：2憾负对手，止步6强。不过就和《无畏契约》的游戏表现一样，我认为「CN瓦」还得看更长线的未来。重点不是第一步能迈多大，而是其方向和势头对不对。从2022全球冠军赛、2023巴西季前邀请赛的「一轮游」，到东京大师赛6强、全球冠军赛6强，「迟到三年」的中国队伍毫无疑问已经展现出了惊人的成长潜力。包括全球的社区关注度也来到一个不小的量级，据电竞赛事数据机构Eschartz的统计，EDG的淘汰赛热度达到了整个系列赛的观看量峰值。本次全球冠军赛上有三支中国战队参赛：EDG、BLG、FPX。其中FPX作为CN赛区三号种子首发上阵，对战东京大师赛黑马亚军，美洲国际联赛一号种子的EG。虽然最终FPX输掉了比赛，但团队在战术配合和追分能力上还是表现出了一定的水准，尤其队伍中的AAAAY， nizhaoTZH、都有不同程度的亮眼表现。另一边，CN赛区二号种子BLG首战则十分惊艳，以2-0击败同为美洲国际联赛二号种子队伍的NRG。BLG是这次16支队伍中唯一一个第一次参加无畏契约国际赛事的队伍。刚开始他们显然还没有完全进入到比赛状态，以及适应对局的强度。但在交了一波「学费」过后，BLG很快就发起了反击。最终BLG为中国队伍赢下了全球冠军赛历史上的第一场比赛。赛后BLG选手whzy接受采访时说，「我们就是要掀翻他们，而且我们做到了。」不过后来，BLG还是输给了EMEA国际联赛头号种子FNC，可以看到和顶级强队还是存在硬实力上的差距。最后BLG败于与EDG的CN内战，止步8强。但考虑到这次是BLG《无畏契约》的全球赛事首秀，表现已经可圈可点，面对强队也能保持着一个较好的对局状态，包括BLG两次战胜了NRG，也证明了其实力。而作为CN赛区头号种子EDG承载着BLG和FPX希望，顺利拿下第一个对手GIA ，取得了全球冠军赛的首胜。随后EDG面对「宿敌」PRX失利，进入了败者组。然后EDG顶着压力，分别击败了GIA、BLG连续晋级，但最终不敌LOUD，止步6强。但LOUD毕竟是去年的全球冠军队伍，这次也杀到了本次全球冠军赛的前三。而这种顶级强队确实需要更长的时间去积累经验和打磨实力，才有机会追上。EDG之前在东京大师赛上的惊艳表现，可能让大家忽略了游戏在国内只能算是刚刚起步的事实。虽然这次不少人会有人遗憾中国队伍最好成绩是全球六强，但已能隐约感觉到「CN瓦」的潜力。一切才刚刚开始。02其实相比于CN赛区最终的比赛成绩，我更关注的是整个《无畏契约》电竞生态的情况。当时CN作为尚未设有联赛的新晋赛区，通过东京大师赛、全球冠军赛两场全球赛事，已经成功建立起了初步的电竞社区基础。像国服还没上线，今年6月东京大师赛就在国内全网创造了46个热搜话题，其相关阅读数便达到了20.4亿；而在国服上线一个月后开启的全球冠军赛，中国队伍每打一场就大概率能拿下一个热搜，其中EDG六强冲到了热搜第五。可以看到，两场赛事打下来，国内整个玩家社区对于《无畏契约》以及相关电竞内容的关注度显然上了一个台阶。官方赛事号从最早的几千几万播放了，已经逐渐涨到现在的大几十万，近百万。EDG与GIA的比赛直播在B站也超过了七百万的观看人数。哪怕是只有几十粉丝的B站号，也能靠赛事热点内容拿到十几万的播放量。而像这样的内容在B站还有很多，赛事点评、切片分析、战队解读......凭借CN电竞赛事的开启，国内玩家的社区内容已初具规模。而全球赛事和海外玩家社区也因为有了中国队伍的加入，增添了新的内容活性。比如说EDG打LOUD的赛前预告片就被称为是迄今为止最好的预告片。再比如说创造出了新的故事线——如果你长期关注电竞，你就会知道一条好的故事线对于电竞生态来说有多重要。而这种百花齐放的全球赛区竞争，无疑是一个国际性电竞赛事能够长久运营的基础。甚至可以说，《无畏契约》的多样性和全球化可能是目前电竞产品中发展最好的。像今年的全球冠军赛四强队伍，就分别来自太平洋赛区的PRX、来自EMEA赛区（欧洲、中东和非洲赛区）的FNC、来自美洲赛区的EG和LOUD，再加上止步于6强的中国队伍EDG和韩国队伍DRX，我们可以看到游戏的各个全球赛区发展是相对均衡的，而不是一边倒的被某个国家统治和垄断，其实这在电竞项目当中也并不多见。此次开幕式也保持了一贯的拳头水准每个赛区都有机会创造属于自己的电竞故事。而团队的目标是把《无畏契约》做成世界上全球化程度最高的电竞项目。本次是EG夺得了世界冠军所以前不久，拳头公布了冠军巡回赛的2024赛季计划，将在明年引入一系列变动和改进：一是CN赛区将成为VCT的第四个官方联赛（VCT CN)，可以理解在在定位上与美洲赛区、EMEA赛区和太平洋赛区并行。二是每个联赛将举办一场为期两周的赛事（启点赛段）。这场赛事将决选出8支队伍，他们将参加赛季首个国际赛事——西班牙马德里大师赛。而第二个大师赛将会在中国上海举办。三是挑战者赛将改为全年运营，会有更多二级赛事。同时还将推出附属队伍和租借选手体系，让国际联赛、挑战者赛和改变者赛间有更多选手流动。四是VCT CN赛区即将于2024年开启，会选出10支合作队伍做为赛事的长期合作伙伴。合作队伍名单预计将于今年晚些时候揭晓。五是除了长期合作伙伴之外，CN赛区还将通过晋升赛（暂用名）提供为期两年的临时联赛席位。晋升赛将于今年12月举办。其中参与晋升赛的名额将于今年9-11月举办的无畏契约CN赛区进化者系列公开赛赛事积分决定。此外，所有长期的赛事合作伙伴，都不收取任何席位费，并会为合作伙伴提供相对丰厚的补贴与完备的激励计划，以回报战队在发展无畏契约电竞生态方面的投入。同时拳头还公布了2023全球冠军赛套装的销售分成总计超过了2000万美元，所有VCT合作伙伴队伍都可获得该分成，可以想象到将是相当可观的一笔数字。看到这，你大概就会明白了CN赛区的潜力在哪。东京大师赛之后，可以说中国队伍每一步都在创造历史——BLG取得了中国战队在无畏契约全球冠军赛上的首场胜利，EDG则创造了中国战队在无畏契约全球冠军赛上的最好成绩。当然，最终的这个比赛结果也说明了CN赛区还有很长的路要走，游戏在国内的玩家生态培育也还需要更多时间。毕竟无论中国被称为怎样的「竞技大国」，游戏环境到底还是比国外晚了三年，而竞技游戏的社群活性又特别依赖电竞内容。但重要的是，这次比赛不仅展示了中国队伍的潜力，催生出像ZmjjKK和whzy这般新生代的实力选手，更是让我看到了CN赛区对于游戏全球化电竞的价值和意义所在，以及这种全球化电竞赛事体系能对国内社群、国服本身带来多大的影响。就像EDG选手nobody在接受采访的时候说的：「后面的路还长，走着瞧吧。」游戏葡萄招聘内容编辑，点击「阅读原文」可了解详情推荐阅读莉莉丝十年 | 如何评价腾讯 | 米哈游十二年龙拳风暴败局 | 重返未来：1999 | 未来三年新品对话罗子雄 | 对话马晓轶 | 对话程良奇点击下方名片，将公众号设为星标（流程如上图）可第一时间收到推送和完整封面！\n 阅读原文\n 修改于",
+      "author": "游戏葡萄君"
+    }
+  },
+  "wechat-GameLook_News-2657325292_3": {
+    "id": "wechat-GameLook_News-2657325292_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“1000分钟真人实拍、锤爆AI剧”！《盛世天下·女帝篇》玩大了",
+    "original_url": "https://mp.weixin.qq.com/s/f_mqEUIA2Qstity4bKyTjA",
+    "published_at": "2026-06-10T00:00:31+08:00",
+    "ingested_at": "2026-06-25T14:47:08+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4R8ptqkWWUWfOMptwwicR129mcktpLlRpkMI7guXVE1UJTJdyLd8oRqzPBfeft3BHgCsAQxGbx6HWps3rC82dAkWdQqYnRibnV9o/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": "“1000分钟真人实拍、锤爆AI剧”！《盛世天下·女帝篇》玩大了\n 原创\n GameLook\n GameLook\n GameLook \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 「 点击上方\"GameLook\"↑↑↑，订阅微信 」2026年的互动影游赛道，风向变得比谁都快。AI浪潮来得太猛。猛到不少短剧公司要么裁员、要么直接转型做AI漫剧。效率、成本、量产。这些让传统影视团队头疼了多少年的痛点，在AI面前似乎一夜之间就要被扫进故纸堆。但就在这股浪潮席卷而来的当口，6月9日，由《隐形守护者》原班团队New One Studio打造的《盛世天下·女帝篇》（下称《女帝篇》）正式全球同步上线，让我们看到了一种截然不同的答案。截止发稿，《女帝篇》的Steam首日在线人数迅速突破2.8万人，可谓开局顺利。前作已是现象级，续作还要继续\"卷\"在讨论《女帝篇》之前，有必要回顾一下它站在什么样的肩膀上。《媚娘篇》的成绩单拿出来，放在任何互动影游品类中都足够耀眼。上线仅12天销量突破100万套，根据2025年国游销量年榜的数据，最终以180万份的销量位居国游销量第二、互动影游品类第一。更难得的是，这款以唐代宫廷为背景的女性向作品，不仅在海外中华文化圈引发广泛传播，甚至在iOS付费榜上登顶中国、泰国、新加坡、缅甸等多地榜首。这是一个足以让任何制作团队感到安心的成绩。换作大多数团队，看到这样的数据，大概率会选择保守策略：延续前作的成功经验，控制成本，快速推出续作，在IP红利期里尽可能\"收割\"受众。但New One Studio的选择恰恰相反。从定档消息传出开始，《女帝篇》就在释放一个信号：这一次，我们不仅要做，更要“卷”。剧情体量从前作的约500分钟直接翻倍至1000分钟，32集全新篇章，支线分支超100种。制作人自己在官宣时也坦言：\"很抱歉推出下部的时间比预计的要晚，因为我高估了打磨这么大体量的速度，也低估了我们一遍一遍过的时候会发现有很多不足而想要完善它的热忱。\"《女帝篇》全剧情实拍内容约1000分钟，是前作的两倍有余。1000分钟是什么概念？普通国产电视剧一集约40分钟，这个体量相当于25集正剧的完整叙事规模。而互动影游的特殊性在于，分支选择和多重结局的存在意味着实际拍摄的素材量远超线性影视。同一个场景，演员可能要拍好几套不同走向的表演；同一条剧情线，可能要为不同结局预留多种情绪演变。这些素材如果全部摊开，恐怕远远不止1000分钟。从视觉层面看，《女帝篇》的野心同样不加掩饰。全片采用4K电影级实景拍摄，服饰参照古画色谱，融入唐代非遗纹饰元素，从华服锦缎的细腻纹理到宫殿藻井的考究还原，力求再现盛唐宫廷的精致与权谋的凶险。简单说就四个字：对标头部影视剧。从\"后宫求生\"到\"君临天下\"如果说前作《媚娘篇》的核心体验是\"如何在步步惊心的宫斗中活下来\"，那么《女帝篇》的叙事重心发生了根本性偏移。玩家不再是被迫入局的棋子，而是手握权柄的执棋者。剧情延续前作结局，玩家化身女主角伍元照，从感业寺女尼的蛰伏期开始，历经后宫博弈与朝堂交锋，在皇后、宦官、诸王等多股政治力量的掣肘中步步为营，最终登顶权力巅峰。故事承接前作，但视角从\"被迫卷入\"转向\"主动入局\"，从深宫闺怨走向庙堂权谋。这种叙事重心的迁移，本身就体现了制作团队对\"女帝\"身份深层逻辑的思考。这里不妨用开篇的一个细节举例说明。伍元照身处感业寺时，玩家面临多种选择。可以回宫，也可以潜逃。如果选择潜逃，会遇上之前成为新任尚宫的刘熙，而刘熙恰好是伍元照入宫时就认识的人，如今伍元照的困境也少不了刘熙的\"功劳\"。此时，趾高气昂的刘熙为了报复，闯入伍元照的闺房搜出了她与魏王的信件。在魏王已然失势的局面下，这封信成了刘熙要挟的筹码，她要用剧毒的花簪在伍元照脸上刻字。经过第一部洗礼的老玩家，到这里自然懂得宫中的凶险。如果选择隐忍求情，会直接被刺死。这是一个很典型的互动影游\"陷阱\"。玩家需要通过一个QTE夺下花簪反杀刘熙，才能继续推进剧情。这种设计背后的创作难度，远比看上去要大得多：每一条分支路径都需要完整的拍摄素材、连贯的情绪表演和合理的逻辑闭环。正是这种环环相扣的打磨，让《女帝篇》真正超越了一般的\"互动叙事\"，展现出游戏级的系统思维。在玩法层面，《女帝篇》同样大幅升级。除了经典的互动分支选择外，新增批阅奏折、颁布圣旨等帝王向核心玩法，引入\"势力平衡\"机制，让玩家在皇后、宦官、诸王等多股政治力量之间周旋。通关后系统还会生成专属的\"帝王人格评估报告\"。从权谋风骨、危机决断到御人之道，把每位玩家的江山气质剖析得明明白白。这种\"上朝模拟器\"的玩法嵌入，不仅提升了策略深度，更让\"女帝\"身份的体验从剧情叙事延伸到了玩法交互。这恰恰是GameLook在体验过程中感受到的核心进化：《女帝篇》不再仅仅是一个\"可以选择的剧\"，而是一个真正意义上的\"互动游戏\"。每一次决策都触发蝴蝶效应，直接改变朝堂派系走向与王朝发展轨迹。从后宫周旋到朝堂博弈，从绝境求存到权掌天下，整个叙事线完整覆盖了从\"入局\"到\"掌控\"的过程。可以说，在互动影游的\"游戏性\"这个维度上，《女帝篇》确实建立了一个新的标杆。AI浪潮汹涌而至，互动影游走到了十字路口《女帝篇》之所以在这个时间点显得格外引人注目，不只因为它本身的产品力。更因为它恰好处在一个特殊的时间节点：AI正在以惊人的速度入侵互动叙事领域。就在《女帝篇》上线前一周，腾讯光子工作室群于5月28日正式推出了AI互动游戏梦工厂\"造化工坊\"。用户只需输入故事设定、角色描述或剧情大纲，造化引擎就能自动完成场景生成、角色构建、分支逻辑搭建及音画内容产出。一人、10天、3000元就能创作出一部AI短片，这在过去是完全不可想象的。与此同时，字节跳动也发布了修仙题材的AI互动影游《不问凡尘》的首曝PV。制作团队披露，这款游戏几乎全部内容都是AI原生资产。从角色形象到演出视频，从特效到法线贴图，整个生产流程大部分由AI完成。而在更细分的赛道，从番茄小说、拼多多内测AI真人互动剧，到周星驰旗下比高集团战略入股AI剧集公司，AI互动剧正成为漫短剧行业集体入局的新品类。传统互动内容长期面临\"耗时、费钱、难量产\"的痼疾，而AI正在把互动影游从一个\"手工作坊\"变成\"工业化流水线\"。可以说，2026年AIGC已经不是什么\"未来概念\"，而是切切实实杀入了互动影游的生产链。然而，从质感上看，AI的短板也同样明显，而且这些短板并非短期内能解决。目前的AI生成技术在多角色同框、多人互动表演等场景中依然捉襟见肘。一个场景老是一两个人在那里\"念台词\"，镜头感差，缺乏真正的表演张力和多人互动时的那种戏剧火花。即便是在技术相对领先的《不问凡尘》中，那些由AI生成的视频画面也更多呈现的是单人视角下的运镜与表演，距离真正意义上的\"群像戏\"还有不小的距离。这本质上是一个技术天花板问题：AI可以学会画一张脸，但它很难学会如何让三张脸在同一个画面里有层次、有节奏地互动。用影视行业内的话说：AI生成的互动影游更像是\"大头贴叙事\"，而不是真正的电影叙事。反观真人实拍的《女帝篇》，优势恰恰体现在这些AI暂时无法跨越的维度上。演员黄羿饰演的伍元照从深宫女尼到垂帘听政的面部微表情变化，官鸿饰演的李治在不同抉择下的深情与挣扎，姚弛饰演的李泰在权谋算计中的眼神流转。这些真实的表演细节汇聚成了角色的可信度与沉浸感。武则天这个角色的复杂性，需要的恰恰是这样的深度表演，而不是一个AI生成、面目模糊的\"古风数字人\"。正是这种无可替代的\"人味儿\"，让《女帝篇》筑起了一条AI难以跨越的赛道壁垒。结语最后GameLook想聊聊，手工与AI流水线，哪一条才是互动影游的未来？从商业逻辑出发，AI无疑是更理性的选择。生产周期短，迭代速度快，内容密度高，试错成本低——所有这些特质都契合了互联网时代的流量打法。腾讯光子推出\"造化工坊\"的逻辑也正在于此。用AI降低创作门槛，用平台激活长尾创作，用海量内容去抢占用户注意力。这套打法在短视频、AI漫剧等赛道早已被反复验证，几乎是必然的趋势。但\"必然\"不等于\"唯一\"。《女帝篇》的存在恰恰证明了一个事实：在市场追求效率和规模的同时，永远有消费者对\"品质\"和\"深度\"抱有不可妥协的需求。那种经过千锤百炼的剧本结构，那种演员在镜头前即兴发挥的鲜活瞬间，那种需要反复推演才能达成的逻辑闭环。AI可以模仿，但至少在今天，还远未能超越。GameLook认为，2026年的互动影游市场并非一个非此即彼的选择题。更可能出现的图景是：市场分层加速，AI批量生产填充中长尾需求，而头部精品的准入门槛不降反升。当海量低成本的AI互动内容如潮水般涌入，用户的审美疲劳会来得更快，对\"真正好内容\"的渴求反而会更加强烈。到那个时候，像《女帝篇》这样舍得投入时间、金钱和心力去手工打磨的作品，所拥有的将不再是成本优势，而是AI无法复制的稀缺价值。而这，或许才是互动影游这个品类最本质的护城河。····· End ·····招聘游戏内容编辑，欢迎有兴趣的同学投递简历GameLook每日游戏产业报道全球视野 / 深度有料爆料 / 交流 / 合作：请加主编微信 igamelook广告投放 : 请加 微信：Amyly588简历投递邮箱 : [邮箱已隐去]      长按下方图片，\"识别二维码\" 订阅微信公众号····· 更多内容请访问 www.gamelook.com.cn ·····Copyright © GameLook® since 2009        觉得好看，请点这里 ↓↓↓"
+    }
+  },
+  "wechat-YoHoManagement-2247487428_1": {
+    "id": "wechat-YoHoManagement-2247487428_1",
+    "source_type": "wechat",
+    "source_name": "齐城的游戏行业笔记",
+    "title": "CCP赎身并接受DeepMind投资、Bungie再计提减值、《逃离塔科夫》三款新作、Switch 2全球涨价、Unity AI公测 | 齐城的游戏行业周报",
+    "original_url": "https://mp.weixin.qq.com/s/WNz17kemVLvjDjY2APRGOA",
+    "published_at": "2026-05-11T07:51:34+08:00",
+    "ingested_at": "2026-06-25T14:48:04+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/vgEBibLXyxV5HyWax2UwWRhiciaOU99zyZia8EcgZcUia1QREXwbQVMrEfEzicQeLQIpA0ticdL2veLTsYjv2tbTianrDF4FwjsX7AEj9gmVf4P646g/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "齐城",
+      "excerpt": "齐城的游戏行业 AI 分身已接入满血版 DeepSeek。关注公众号后可通过菜单栏调用，助你高效获取游戏行业深度信息。",
+      "body": "本文内容由人工选题+AI整理汇总。\n\n冰岛CCP Games从Pearl Abyss手中赎身、更名Fenris Creations：韩国Pearl Abyss上周以1亿美元现金加2000万美元代币购买权（token acquisition rights）的总价格，把《EVE Online》开发商CCP Games卖回给该公司CEO Hilmar Veigar Pétursson主导的管理层。这个数字不到Pearl Abyss 2018年4.25亿美元（含2亿美元业绩对赌）收购价的一半。回归独立后，公司更名为Fenris Creations，并随即接受了Google DeepMind的少数股权投资——DeepMind将利用《EVE Online》的虚拟环境研究长期规划、记忆与持续学习。\n\nEA创纪录财报：FY26财报Q4净营收21亿美元（同比+12%）、净利润4.61亿美元（同比+81.5%）；全财年净营收75.3亿美元、净订单80.3亿美元（同比+9%）。CEO Andrew Wilson把成绩归功于《Battlefield 6》创下系列财年纪录，以及《EA Sports FC》《Apex Legends》等长线运营组合的稳健表现。\n\n不过，加拿大CWA工会主席Carmel Smyth致信加拿大工业部长Mélanie Joly，要求政府以国家安全为由援引《加拿大投资法》对沙特资本收购EA展开审查，理由涉及个人数据外流、AI技术转移等。与此同时，玩家组织\"The Players Alliance\"宣布将于本周一（北美时间5月11日）下午1点，在EA加州Redwood City总部举行线下抗议——理由聚焦\"裁员、AI替代开发者与微交易涨价\"。\n\nBungie相关资产再吃约7.65亿美元减值：索尼公布2025财年（截至2026年3月31日）业绩，集团销售收入12.48万亿日元（同比+4%）、营业利润1.45万亿日元（+13%）；游戏与网络（G&NS）全年净销售4.69万亿日元、营业利润4633亿日元（+12%），季度营业利润甚至创历史新高。但财报中最扎眼的是与Bungie相关的无形资产再次计提合计1201亿日元（约7.65亿美元）减值损失，其中Q2约2亿美元、Q4约5.65亿美元——这是2022年索尼以36亿美元收购Bungie之后，对其品牌价值的又一次大幅下修。\n\n直接导火索是上线一个多月的搜打撤射击《Marathon》——游戏3月发售后Steam同时在线一直下滑，原本要面向《命运2》和服务型游戏组合输血的留存数据未能形成支撑。索尼CFO在投资者会议上罕见地承认服务型游戏战略推进\"并非完全顺利\"——索尼原计划在2026年3月前推出的12款服务型游戏中，已有8款被取消或延期。\n\nPS5本财年硬件出货1600万台（前一财年1850万台），累计出货已达9370万台、月活用户1.25亿；全年第一方游戏销量3210万份、非第一方软件销量3.179亿份；数字版占比从前一财年的80%进一步上行到FY2025 Q4的85%。\n\n另外，索尼在公布财报的同一天宣布与万代南梦宫控股达成战略合作，双方将在五大主题上协同推进，并联合向IP区块链初创公司Gaudiy投资100亿日元。合作内容覆盖日本IP全球化、IP创作改进、数据资产整合，以及最受关注的生成式AI研发与应用。索尼在公告中强调\"游戏的愿景、设计与情感冲击始终来自工作室与表演者的才华\"，但同时已将AI用于自动化重复工作流、加速QA、3D建模与动画、以及PSSR的画质提升。会上演示的两个内部AI工具尤为直观：面部动画工具Mockingbird把原本数小时至数天的逐帧微调缩短到1秒内完成，另一款专门处理发丝动态建模。\n\n索尼CEO对PS6发售时间和定价均\"未定\"：在财报电话会议上，索尼集团总裁兼CEO Hiroki Totoki正面回应了关于下一代主机的提问，明确表示PS6的发售时间和定价均尚未确定，公司甚至可能\"改变商业模式\"以应对全球内存涨价（受AI数据中心需求驱动）带来的BoM和制造成本压力。索尼表示2026年余下时间所需的物料已采购到位，但FY2027的内存价格预计仍处高位。\n\n任天堂发布财报：全年净销售23,130亿日元（同比+98.6%）、营业利润3601亿日元（+27.5%）；Switch 2全财年累计出货1986万台、单季新增249万台，平台游戏累计已达4871万套。\n\n任天堂正式确认对Switch 2及部分服务全球涨价：日本5月25日生效，美加欧9月1日生效。Switch 2日版从49,980日元上调至59,980日元、美版从449.99美元上调至499.99美元。\n\n任天堂在同份财报中宣布——传奇设计师手冢卓志（Takashi Tezuka）将于2026年6月26日正式退休。他参与了任天堂著名系列马力欧、塞尔达传说、耀西、皮克敏等的开发，他也曾和宫本茂共同担任任天堂最大游戏开发部任天堂情报开发本部的部长。\n\n腾讯天美G1工作室解散：上周五腾讯天美内部公告，G1工作室总经理高敏（Vincent Gao，2016年底加入腾讯）不再担任工作室总经理职务。G1原本承担天美国际AAA级研发使命，但旗下两大海外开发基地——美国的Team Kaiju 2023年关闭、2021年成立的天美蒙特利尔工作室在今年2月关停——均无实质产出。\n\nXbox高层大换血：从CoreAI团队引入5位高管，而原先的两位元老则将卸任。同时，Xbox官方确认将停止主机版Gaming Copilot的开发，并逐步淘汰移动端版本——讽刺的是，今年3月GDC上Xbox AI产品经理Sonali Yadav还公开承诺年内会把Gaming Copilot带到Xbox Series X|S，仅两个月后项目即被砍。Sharma在公开信中强调\"Xbox需要走得更快、加深与社区的联系、解决玩家与开发者的摩擦\"，并罕见地承认目前商业模式\"已不是带我们走向未来的那一个\"，\"玩家数量和收入增长尚未达到我们的预期目标\"。\n\nSupercell收购《Merge Mansion》开发商Metacore：Supercell宣布将收购芬兰开发商Metacore——后者2020年上线的爆款《Merge Mansion》（庄园合合）累计下载量已超6000万次、累计收入约7亿美元。Supercell此前已是Metacore股东，2021年向其投资过1.8亿欧元。Supercell CEO Ilkka Paananen表示\"《Merge Mansion》最好的日子还在后头\"，希望借助Supercell在长线运营和用户获取上的能力，让该作重回品类顶端。Paananen本人也是上周BAFTA Fellowship终身成就奖的获得者。\n\nRemedy新CEO打出\"小预算 + 亚洲市场\"组合拳：在多人射击《FBC: Firebreak》遇冷、上一任CEO退场之后，前EA高管Jean-Charles Gaudechon于2月正式接任Remedy新CEO，上周首次主持财报电话会议——Q1营收1310万欧元（同比-1.9%）、营业利润100万欧元，《Control》全球累计销量已突破600万份，续作《Control: Resonant》预算约5000万欧元、计划2026年Q2发售。Gaudechon的两条战略主线很清晰：一是坚守\"在小预算下做出3A品质\"的工艺，二是与本地伙伴合作进军包括中国在内的亚洲市场。\n\nUnity Q1营收创新高、净亏损扩大至3.47亿美元，Unity AI同步公测：Unity发布截至2026年3月31日的Q1财报，总营收5.082亿美元（同比+17%），但同期净亏损扩大至3.47亿美元（去年同期7800万美元），其中包括因关停IronSource广告网络（4月30日下架）和剥离Supersonic所产生的2.79亿美元资产减值。Unity AI于上周一公开测试同步上线，分三层架构——编辑器内原生Agentic Assistant（含Plan Mode、Skills、checkpoints & rollback）、AI Gateway（接Claude、Gemini等外部模型支持BYOK）、MCP Server（让Claude Code、Cursor从外部反向操控Unity Editor）；项目管理、场景创建、资产管理、代码生成全主链路都已开放。\n\nxAI解散并入SpaceX、Anthropic拿下三百兆瓦算力：上周马斯克正式宣布xAI将解散并改名SpaceXAI并入SpaceX旗下，合并后SpaceX整体估值1.75万亿美元，原12位联合创始人仅剩Manuel Kroiss和Ross Nordeen留任。同期Anthropic与SpaceX达成算力合作协议——位于田纳西州孟菲斯的Colossus 1数据中心（拥有超过22万块H100/H200/GB200芯片）将允许Anthropic在一个月内调用超过300兆瓦算力。Anthropic Q1年化收入和使用量较原计划增长80倍（远超原本预期的10倍）；公司同步宣布将Claude Code五小时额度翻倍、取消高峰期限制、提高Claude Opus API速率上限。马斯克本人则把SpaceXAI的下一站定在了\"太空轨道数据中心\"。\n\nAtari收购初代《Wizardry》前五部完整IP：Atari宣布从原作团队手中买断了《Wizardry》系列前五部作品（1981至1988年发售的I到V）的完整独占权利。这些被誉为日式RPG鼻祖的IP已超过25年未对开发者和粉丝开放——2024年Atari旗下Digital Eclipse推出过初代的重制版（拿下Grammy原声奖）。Atari CEO Wade Rosen表示将围绕这五作展开重制、合集、新作以及周边、桌游、漫画、影视等全方位长线开发；《Wizardry》6/7/8则仍由日本Drecom拥有。\n\nTeam17与FirstLook达成独家测试平台合作：自1990年成立、以《Worms》系列闻名的Team17宣布FirstLook为其旗下游戏组合的独家玩家测试平台，覆盖即将开始PC测试的《Hell Let Loose: Vietnam》等新作；FirstLook目前已为超过200家工作室提供玩家反馈服务。\n\n心动公司\"每人每天300美金Token\"全员AI支持：心动公司CEO Dash上周宣布全员AI支持政策——向全体员工开放OpenAI ChatGPT企业版及统一API集成代理服务（涵盖Claude、Gemini、Seedance 2.0等），配套每人每天300美金Token额度，并自建工具LobeChat与Mivo。\n\nAstrocade融资5600万美元：李飞飞参与联合创立的AI游戏平台Astrocade完成A+B轮合并融资5600万美元（红杉领投B轮、Sea领投A轮，谷歌AI Futures Fund、英伟达跟投），上线8个月用户突破2000万、覆盖80多个国家、月游玩量1.4亿次。\n\n娱美德与恺英《传奇2》和解：4月29日韩国公司娱美德（Wemade）与恺英网络（Kingnet）就《热血传奇》（《传奇2》）多年的版权纠纷达成和解，WeMade确认已收到上海恺英网络科技有限公司支付的人民币1.98亿元。\n\nNCsoft与Roblox韩国签署营销MOU：4月29日NCsoft与Roblox韩国签署营销谅解备忘录，覆盖线上线下联合营销、联名内容、官方渠道推广，并将3款Roblox IP游戏在NC旗下网吧网络中提供福利。\n\n海外工作室裁员与关闭：Build A Rocket Boy（《MindsEye》）据Kotaku报道一年内第三轮裁员超170人、剩余员工降至约80人；2K旗下《Project Ethos》开发商31st Union再度裁员；Fortnite Creative品牌内容工作室Alliance Studios在运营7年、与超50家品牌合作（含MrBeast、Coachella、The Kid Laroi演唱会等）、累计触达超10亿玩家之后宣布关闭。\n\n海外新工作室成立与融资：前Ubisoft Montréal创意总监Clint Hocking在该工作室经历重组后创立独立工作室Build Machine Games（目前2-10人规模、专注\"情感共鸣、社会相关\"的原创游戏）；前Gearbox Studio Québec两位负责人Sébastien Caisse与Pierre-André Déry于魁北克成立Studio Ricochet打造合作动作冒险新作；土耳其AI原生休闲拼图工作室Mindtail获得200万美元种子前融资、技能博弈平台EasyWin以2000万美元估值完成第二轮种子；激励忠诚平台Mistplay宣布收购MAF子公司MyChips扩张其LoyaltyPlay激励广告网络；Griffin Gaming Partners推出1亿美元的\"Special Opportunities Fund\"，以项目制收益分成代替传统股权投资模式扶持独立游戏，已投15款作品（其中《MENACE》3个月销量突破25万份）。\n\n前Epic高管在欧洲打造Unreal的\"非美非中\"替代品：Guerrilla Games联合创始人、前Epic Games全球Unreal产品管理总监Arjan Brussee正在荷兰开发名为Immense Engine的全新游戏引擎，定位为\"美国Unreal与中国引擎之外、由欧洲规则托管\"的第三选择，并将完全集成AI——除了游戏，还瞄准国防与物流的3D仿真。\n\n\\---\n\n字节朝夕光年《镭明闪击》周四公测、2026年首款字节发行新游：字节旗下心光流美研发的次世代写实3D射击新作《镭明闪击》将于本周正式公测，这是2026年字节旗下首款进入正式公测的游戏。游戏主打1分钟1局的塔攻+快节奏枪战玩法。\n\n任天堂Switch 2第一年的新作成绩单：《马力欧卡丁车世界》卖出1470万套（含捆绑）、《咚奇刚蕉力全开》452万套、《宝可梦Pokopia》上线5周破400万套、《朋友收集梦想生活》两周380万套、《卡比的驭天飞行者》187万套；《宝可梦传说Z-A》Switch 2实体版394万套（NS2下载版另含885万套）；《超级马力欧银河》初代和2复刻版分别卖出260万和276万套；《超级马力欧兄弟Wonder》《皮克敏4》等老作仍在持续走货；《超级马力欧银河大电影》4月1日全球公映、首映4周全球票房即超过8亿美元。任天堂还预告《夺宝奇兵：古老之圈》将于本周二（5月12日）登陆Switch 2。\n\nPRAGMATA销量16天破200万、PS5 Pro优化补丁同步推送：卡普空科幻动作冒险《PRAGMATA》自4月17日发售16天后全球销量突破200万份，公司同步公布主角戴安娜的手绘庆祝贺图，卡普空总部一楼则展出了一尊真人大小的戴安娜雕像作为发售里程碑纪念；这款跳票数年的科幻新作首发即获Steam 97%好评，跻身卡普空Steam历史评分最高作品之列。\n\n索尼多款第一方PC移植首月销量不到百万：与alinea analytics此前梳理的\"100万Steam俱乐部\"形成鲜明对比，索尼内部数据呈现了另一面——多款第一方PC移植首月销量《战神：诸神黄昏》仅约30万、《漫威蜘蛛侠2》约26万、《地平线：西之绝境》约23万、《对马岛之魂》导演剪辑版71万，远低于早期《地平线：零之曙光》《战神4》的水平。\n\n顽皮狗《星际：异端先知》女主由韩裔黑人演员饰演：顽皮狗即将推出的PS5独占新作《星际：异端先知》女主Jordan A. Mun饰演者Tati Gabrielle接受采访透露开发动态——演员本人为韩裔黑人、\"Mun\"为传统韩国姓氏与角色背景一致，动作捕捉尚未完成。这一选角在玩家社区引发了一定讨论。\n\n《尘白禁区》停服65天后归来：西山居二次元战术射击《尘白禁区》在停服深度维护65天后，于上周五下午两点正式重启。\n\n《影之刃零》Gamescom LATAM 2026包揽两项大奖：灵游坊《影之刃零》在巴西圣保罗举行的Gamescom LATAM 2026（4月30日至5月3日）荣获最佳PC游戏与最佳展台两项玩家投票大奖——展会有超过400款游戏参展、新作超60款、154,000名游客（同比+17.5%）。《影之刃零》是现场唯一拿下两项大奖的IP，试玩时长1小时、排队等待5小时以上，巴西舞狮队现场表演成为话题。游戏将于2026年9月9日全球同步发售，登陆PS5与PC。\n\n《Escape from Tarkov》宇宙将再添三款新作：Battlestate Games在TarkovTV发布会上确认《逃离塔科夫》宇宙将扩展三款新作——未命名手游（不会是端游移植）、未命名单机版（剧集形式）、免费Steam枪械模拟应用《Escape from Tarkov: Guncyclopedia》（2026年内推出，未来或推VR版）。主机版本仍在开发中、正与PlayStation与Xbox洽谈移植。\n\n《使命召唤》系列13年来终于放弃PS4/Xbox One：动视暴雪官推上周辟谣\"《使命召唤：现代战争4》将登陆PS4\"传闻，明确表示新作不再为旧世代主机开发——这是该系列首次登陆PS4/Xbox One的13年之后第一次完全放弃旧世代。新作首发也不会进入Game Pass。\n\n《绿色地狱》全平台累计1200万套：波兰Creepy Jar的丛林生存名作《绿色地狱》多平台累计销量突破1200万套——团队从2016年5人小团队起步、2019年开启抢先体验，开发者上周专文向玩家致谢。\n\nEA Sports FC + 巴西足联多年合作、Roblox上多特蒙德新球衣首秀：EA与巴西足球联合会（CBF）在闭幕的Gamescom Latam 2026上宣布多年期授权与营销合作，将在《EA Sports FC 26》及Mobile版中加入巴西国家队相关内容；与此同时，Gamefam联合多特蒙德足球俱乐部（BVB）在Roblox游戏《FIFA Super Soccer》中率先发布Puma 2026/27赛季新球衣。\n\n\\---\n\nApple对Epic案上诉被美国最高法院驳回：上周四（5月7日）美国最高法院拒绝受理Apple对App Store反垄断判决的上诉，第九巡回上诉法院的此前判决就此维持。案件回归地方法院进一步决定Apple可对外部购买链接收取的合理实施成本。Tim Sweeney在社交媒体上表示\"很棒的消息——最高法院驳回了苹果的拖延战术，现在我们回到地方法院\"。《Fortnite》目前已重返Google Play、美国/欧盟/澳大利亚App Store，日本仍仅可通过Epic Games网店访问。\n\nIGN/Kantar/UC Berkeley联合调查：62%核心玩家不再购买全价游戏：IGN Entertainment首次以公开报告\"Generations in Play\"形式发布与Kantar、UC Berkeley合作的受众调研——抽样美/英/澳数千名\"重度内容消费者\"显示62%的核心玩家不再购买全价游戏，Z世代42%、千禧一代38%仍倾向全价购买、X世代仅20%；X世代使用AI发现新游戏的可能性低38%、相信AI摘要质量与人类相当的可能性低44%。报告认为消费者已经\"饱和\"，游戏厂商需要重新思考新作首发策略。\n\n上海闵行区出台游戏产业专项政策：上海闵行区上周宣布游戏产业扶持新政——原创游戏可获200万元补贴、孵化载体最高200万元运营奖励，意在吸引更多游戏团队落户。\n\n《愤怒的小鸟》入选世界游戏名人堂：Rovio Entertainment上周宣布旗下《愤怒的小鸟》入选位于纽约罗切斯特The Strong国家游戏博物馆的世界视频游戏名人堂——这款2009年发布、全球累计下载量超过50亿次的作品被认为定义了移动游戏新时代；《愤怒的小鸟3》计划2026年12月上映。\n\nSteam Controller遭黄牛炒上五倍价、V社启动预订队列：Valve新版Steam Controller（欧美售价99美元、约700元人民币）上周一发售后35分钟内即售罄，eBay上立刻出现起拍价200美元起，中国二手平台报价1400元。Valve在公告中坦承\"库存比预期耗尽得更快\"，并自上周六（北京时间5月9日凌晨1点）启用预订队列：每用户限购1台、收到下单邮件后72小时内须完成购买、账户须在2026年4月27日前有过Steam消费记录、美加优先发货后再到英欧澳。\n\n\\---\n\n写到这里，上周的全球游戏行业新闻就基本梳理完了。如果这期周报帮你少刷了十几个信息源、节省了一些时间，欢迎转发给同样在追这行的朋友；这周你最关注哪条，也欢迎留言聊聊。下周见。"
+    }
+  },
+  "wechat-Vnandao-2247486887_2": {
+    "id": "wechat-Vnandao-2247486887_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "米哈游2026引擎沙龙全面升级：四城巡回，弋振中、安柏霖等四位引擎大牛同台分享",
+    "original_url": "https://mp.weixin.qq.com/s/s0hSNV57jqsB2JqktAuGWg",
+    "published_at": "2026-06-18T22:24:10+08:00",
+    "ingested_at": "2026-06-25T14:48:21+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNn2wHXic0icsJcwNrF5QvNJtseGe69tA6VFUxaYkOtAaWwtIkicDOLFbQVgyrrAL44uKiaPVdtQMAN6pnsgTsIuEAsUSQIUatWfJ0/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "米哈游法务部官宣，“多摩万事屋”著作权侵权及不正当竞争纠纷一案迎来终审判决。",
+      "body": "2026年6月，米哈游正式启动“线下引擎沙龙·2026”报名通道。相比首期活动，本届沙龙在议题深度、嘉宾阵容和落地城市上均做了全面扩容，覆盖杭州、深圳、上海、北京四城，从7月4日延续至7月25日。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNvmHIaPBsuj9j3Ay6LxW98YPowL3Ck9L4RxHT9VFlT0aicgQiawXuz7h3zR0StCRQlMUWiawbPlXGhibAkbVfOCcOpJXoR2C55Kyk/640?wx_fmt=jpeg)\n\n不只是宣讲会，更是一次“技术面试+引擎闭门会”\n\n根据公开的沙龙安排，本次活动包含三大核心模块：\n\n技术分享——游戏引擎与AI引擎团队将现场拆解一线实战经验，从渲染管线到物理系统，从AI动画到超分插帧，覆盖面向下一代游戏的前沿技术方向。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFOVccMI0ZgXoShz5HTu4W2GROiaGAmxJ0MRnx8C4DPcLnkuulJbBse6zgT4WhWzm8Autrsvvd7SibJN96FdXG7GOYghvzOFVHNak/640?wx_fmt=jpeg)\n\n校招通道——参与者可获得线下面试机会，有机会直通秋招Offer。沙龙与后续秋招不冲突，相当于多了一次“提前批”入场券。往届参与者曾分享，2025年7月的引擎沙龙面试体验“挺好的，问的基本都答上来了”，即使未通过也被转至线上面试流程。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFP9TuZ304RxfT23icAX8tF97gVLbWsKYZPPDzpoxIf8tB8ic8Iu8dCic6mWDnXSXVPFXyDsVhUaxsY20Kk2ZiaSoWqAJHYQ61xTLsg/640?wx_fmt=jpeg)\n\n互动答疑——嘉宾与HR现场答疑，深度了解团队与技术方向，并附赠全员伴手礼。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNs4wpJpVsdwu5uUxRAX9ETV6od57mqibYf9Gtrz6HMfoOLgORAUOIGjVddbkUiaV6Ilz2wvPL0EL1ibJBTCXvicUMsJVPTFYgnY3g/640?wx_fmt=jpeg)\n\n报名时需提交简历，建议突出以下内容：所学专业/所在实验室研究方向/导师；游戏引擎开发、游戏渲染开发、实时渲染、图形学算法、AI应用等相关经历（包括实习、项目实践、比赛、个人项目等）；\n\n在顶级会议或期刊上发表过相关领域的论文；对近两年学术界/工业界相关前沿技术的学习与研究心得；游戏体验经历及由此产生的技术好奇心。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMyJ0ZgoialmVQbcSj66KtD2YL0c7L0ysy6EaW68mfnhs1mWIFqb9gItmC6J5CMjvCr3icnOicbCl7syhNhV8zmgbIib9w00QicgIvs/640?wx_fmt=jpeg)\n\n简历筛选通过后，将在活动前1-3天发送沙龙专属邀请邮件。\n\n四城巡回：从杭州到北京，技术人才全覆盖\n\n沙龙排期如下：\n\n7月4日：杭州\n\n7月11日：深圳\n\n7月18日：上海\n\n7月25日：北京\n\n四座城市分别对应米哈游在国内的核心研发节点与人才聚集地——上海是总部，杭州、深圳、北京则是游戏引擎与AI技术人才的高密度城市。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFOTicm0oV2c8QfPmhy05wGKfQwVRA4sV7SdLFlPFnV4XngMeo5zqBDIPdVlib8OG1UeVtOoP2CfIDMnrWORqHTFkDWxt5A7y1z5Q/640?wx_fmt=jpeg)\n\n米哈游此前已在北京、上海、杭州、深圳、武汉、西安六大城市开设过线下面试专场，提供免笔试、免初试、业务官直面等绿色通道。本次沙龙在此基础上进一步聚焦引擎与AI方向，针对性更强。\n\n嘉宾阵容：四位技术大牛同台\n\n本次沙龙邀请四位米哈游技术骨干担任分享嘉宾，每场活动由其中两位出席：\n\n弋振中（毕业于北京航空航天大学）：现于米哈游预研项目《Varsapura》主导主机PC引擎、LPM、AI数据引擎等多模块工作，此前曾主导《原神》引擎建设。分享主题为《游戏引擎的AI探索》。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMoJfxaD1ObkYyh2aCyP4VuWRORshRquwoh39MibWoJ2YLO6JMWjNHcqbF8Ys9SiaEQ2TG6g7VE6nKFGAzRxLUcOf2Pzet1PY3dM/640?wx_fmt=jpeg)\n\n安柏霖（毕业于浙江大学竺可桢学院）：现于米哈游UE5写实射击预研项目主导技术开发。\n\n此前为腾讯互动娱乐北极光工作室群客户端技术总监/引擎组组长，拥有10多年开发经验，参与过主机、PC、移动等多平台开发，作为《天涯明月刀》引擎架构师带领引擎团队开发出业界领先的游戏引擎。分享主题为《进阶引擎开发》。\n\n仲唐（毕业于北京航空航天大学）：现于米哈游《崩坏：因缘精灵》负责引擎建设和AI技术研究与应用。曾任《原神》核心引擎开发，深度参与动画系统设计与工程化落地。分享主题为《AI时代的游戏引擎开发》。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFN9n751PMRVxFJS8ssUbIsNvdH6GoHYlEGTAoiatoZwxY3qrGD37q9I7FnSo3tk6hsLibMtVe2TTTlraTV7Za5ZQGXAs49CicAoPY/640?wx_fmt=jpeg)\n\n李睿（毕业于浙江大学竺可桢学院）：专注AI技术在游戏实时渲染中的创新应用，涵盖AI驱动的光照烘焙与动态光照计算、AI材质几何的表示与渲染、超分辨率与插帧技术、3DGS等方向的研究与工程实践，现于米哈游主导AInative引擎的渲染技术研究。分享主题为《AI与游戏实时渲染》。\n\n技术沙龙背后的信号：米哈游正在“技术军备”\n\n这场沙龙并非孤立事件。2026年5月15日，米哈游在北京举办了一场AI基础大模型技术分享会与顶尖校招生招募活动，联合创始人刘伟（大伟哥）亲自登台宣讲。\n\n他在会上公开表示：未来三年，最多投入1000亿元深耕AI大模型，“就算最终不成功，没做出来，也认了，就当放一场大烟花”。\n\n同期，米哈游8大预研项目同步推进，涵盖《崩坏：因缘精灵》《星布谷地》《Varsapura》等多款产品。多个项目均基于虚幻引擎5开发，并深度整合AI技术。\n\n从引擎到AI，从自研管线到下一代游戏架构，人才需求正在急剧膨胀，而引擎沙龙，正是这一轮扩张的前哨站。\n\n沙龙关键词与在研课题\n\n本次沙龙涉及的关键技术方向包括：AI渲染、超分插帧、帧数翻倍、AI几何材质光照、Harness Engineering（Agent友好的游戏引擎）、AIGC画布、3DGS、神经渲染、全平台全局光照算法、动作生成、RayTracedGBuffer、AI驱动生产管线、NeuralShading、风格后训练等。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOD3ib4OZFHDZfiaj8FQAM7jxv8vdJ2rCPZia11qib3H5h5TbnHIxMtDALT7VyBSoxtubRnlvb6iaGOVIR2pmp7aRzerjq6R7FShEh8/640?wx_fmt=jpeg)\n\n部分在研课题包括：\n\n面向下一代游戏的AI渲染方案：探索AI与实时渲染管线融合的关键技术与工程方案，包括基于离线学习的AI材质渲染、AI驱动的动态光照计算，以及3DGS等新型场景表示和渲染技术在游戏引擎中的落地应用。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFON8POH5IOHI3TzazzjzO2ibBiaq6DXBlh9ibbUGbgyTmnq6rlVXnu5oOiaOI9sHJfeN5ic6Zf4HNygMszXKzxVnl5FsOLiaXmGqyJ5g/640?wx_fmt=jpeg)\n\n超分辨率与插帧技术的持续演进：探索超分辨率与插帧技术和实时渲染管线的深度融合，使其能够与场景数据、时序信息以及渲染阶段产生更紧密的协同。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFP8Vsn8m46ILMQRehsqR3WYHsCwQzNTtVibtbUjuM3bLH6nMDoOb1m85erpeS2uIpsqyIzibBeLocSh4JxOqric1u4UIlJ7ib8BMgE/640?wx_fmt=jpeg)\n\nAgent友好的游戏引擎Harness：拓展引擎工具，提供更Agent友好的操作方法；改造引擎底层结构，增加确定性和自动化验证手段；构建更自动化的开发工作流。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOKLK9MXqoHBfXaOjPkNCnfg8NCSVWiaHIG0tyuIFc0kPibyJaywms0z6POaVy4vrpW3f3ibozplj9GOdiaTPG8M2XKZ94BYdu0pN8/640?wx_fmt=jpeg)\n\n面向下一代游戏的AI动画和AI仿真方案：涵盖AI布料模拟、ML角色形变、动作补间和AI角色动画生成等技术。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOR8wuS4ASg5tlZ1t4a1Zy53AZUJL8mG372httqKyiaMOSQZ4xRax9eRrb6GTOLVFP43a4XzuBUZibGhrnZqyBOicWEP6y47Jspfk/640?wx_fmt=jpeg)\n\n面向校招：岗位\n\n本次沙龙同时面向2027届应届毕业生（实习）及2028届及以后在校生，开放岗位包括游戏引擎开发、游戏渲染开发、AI渲染开发、图形学算法、AI Agent开发。\n\n写在最后\n\n从2025年首期引擎沙龙的小范围试水，到2026年四城巡回、议题全面升级，米哈游正在用一场场技术沙龙向行业传递一个清晰的信号：引擎和AI，是这家公司未来十年最核心的基建。\n\n对于在校生和应届毕业生来说，这不仅是了解米哈游技术底层的窗口，更是一张可能直通秋招的“早鸟票”。而对于行业观察者而言，这场沙龙的议题方向（AI渲染、AI动画、超分插帧、Agent引擎），或许正暗示着米哈游下一代产品的技术骨架。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOexr8W6Rn01h30mdlrkpicftByuiaB3r9T7Nw5bddCBiaqMHBZZ4BREI6AsBMuk9mzY6ldMnN7QZQq5mJ6XrIKC4JL7ez2N6JiaDk/640?wx_fmt=jpeg)\n\n7月4日，杭州首站，答案将逐步揭晓。\n\n（注：以上图片素材源自网络，如有侵权请联系删除！）\n\n* * *\n\n**推荐阅读：**\n\n**[构建下一代虚拟世界](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486120&idx=1&sn=91bdbad602b79fa9ac39c9b6302ea8c5&scene=21&lang=zh_CN#wechat_redirect)  ******|**** [创造AI独立自主的文明](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486057&idx=1&sn=92cfe3d2ba3ccb745495b27236a41187&scene=21#wechat_redirect)****\n\n****[原神蝉联榜首，米哈游在日本到底有多火？](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486612&idx=1&sn=e3652e121177fbe87e23b42a036ef32d&scene=21&lang=zh_CN#wechat_redirect)****\n\n******[米黑“番鼠”判赔50万并公开道歉](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486525&idx=1&sn=2a0dbfa8ccb8e071d712ed6f81538d4c&scene=21&lang=zh_CN#wechat_redirect)  ************| [米哈游与远景的“离谱”官司](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486525&idx=2&sn=6786422d984efc19456f16ee66b8b16a&scene=21&lang=zh_CN#wechat_redirect)******************"
+    }
+  },
+  "wechat-Vnandao-2247486723_1": {
+    "id": "wechat-Vnandao-2247486723_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "万粉星铁内鬼公开道歉：别让贪玩和贪心，换来一张法院传票",
+    "original_url": "https://mp.weixin.qq.com/s/m03vuWShuTHNc284kE3WTw",
+    "published_at": "2026-06-11T23:04:08+08:00",
+    "ingested_at": "2026-06-25T14:48:21+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMqVpDiaiatEicvQfp1jqHhAVf8CTCMR6qdEIFeibqQVXOQwHYpBorLRVjwKOfwtfOiadNb3LfpZWicEfjecC6Fb3NVPibAlKG47AHN08/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "星铁内鬼圈震动，万粉星铁内鬼“银狼LV999”近日正式发布道歉声明，并附上了一篇数千字的长文。",
+      "body": "星铁内鬼圈震动，万粉星铁内鬼“银狼LV999”近日正式发布道歉声明，并附上了一篇数千字的长文。在这份公开信中，他对社区广为流传的几个误区做了解释。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPtwA9nDrr9kQQ6fYfaervvEEDzJ29z2ldJiaxFUx1w8gcp1Mdf6RULGMpM2ojoJV3Ul2icvXvibaoeO0kcRZS5JkUnIe8eWbgCvM/640?wx_fmt=jpeg)\n\n误区一：没有盈利，就不会被追责\n\n很多人都以为，自己不靠内鬼内容赚钱，纯属分享，就不会有事。这是对内鬼行为法律性质最大的误解。\n\n从法律角度看，是否构成侵权跟是否盈利完全是两码事。只要未经授权公开传播未公开游戏内容（包括解包素材、内部版本、剧情资源等），就已经侵犯了信息网络传播权，需要承担停止侵害、赔礼道歉、赔偿损失等民事责任。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFN6641ho59RDSKzvYp9qtV1KP0mh3CNbic4d6ib1zZNUCujjBKsh4dMRMlLrAKqJBdVGAaUf1xFfakvVZ0EbR9HuSzpuYX5aicK2M/640?wx_fmt=png&from=appmsg)\n\n而一旦涉及流量收益、粉丝变现、引流接单、社群收费，哪怕只是间接的带货推广，都会被认定为以营利为目的，赔偿金额大幅加重。情节严重的直接进入刑事范畴，面临有期徒刑、罚金和终身违法记录。\n\n很多内鬼嘴上说“为爱发电”，但流量本身就是钱。平台的创作激励、广告分成，还有那些接私单、做付费社群的，法律不会因为你把收益叫“打赏”就放过你。\n\n误区二：换号、买号、用VPN或境外软件就能规避溯源\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNI3xEibARj0f2SxnicSZpoecNfOj1aDdUdbnGmibmnP6XOZQn3KicAH10PcRx4rnMHuiaMY7Nhmorf5GVibmn9Atd8bf7rNQ2ok0dGs/640?wx_fmt=jpeg)\n\n不少人以为只要换个账号，或者挂个境外代理，就能躲过去。这种想法在当前的溯源技术面前早已过时。\n\n现在的溯源技术锁定的早已不是前台账号，而是底层数据。设备指纹、硬件参数、网络链路、登录轨迹、IP属地变更记录、操作习惯、数据传输日志，每一次发布、上传、转发行为，都会留下不可逆、可公证的痕迹。\n\n无论换多少个号、是否使用代理或境外工具，企业级法务取证都可以精准锁定真实身份，不存在真正的匿名避风港。\n\n误区三：稿件被退回、限流、下架，只是运气不好\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFMN1CPD4bF9MKpKUfTFwDYianuI17iabB8s5n4TWo9aia5m196wR2wOVJ8ywL9QkeAuADBqDicLObMk9qaIibvJwYXDon1mETompXCg/640?wx_fmt=png&from=appmsg)\n\n有些内鬼在内容被平台拦截或下架后，不以为意，换个号再发就行。实际情况是，每次稿件被退回、限流或下架，都不是简单的删帖操作，而是触发了版权方的侵权风控机制。\n\n每一次处置记录都会同步固定账号信息、发布内容、时间、设备数据，形成完整的证据链。等到后续批量追责时，这些记录将成为判定“持续侵权、主观故意”的核心依据，不会因为内容最终没有成功发布而作废。\n\n误区四：官方追责是为了靠诉讼赚钱\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFPQkhD7c5s55wHoXttUZMoiaeNdF2NS3yLicbaF20JI1qpP0PGXWOyclyfPO5gWiaTokw3D1Qic088lrmyTUpiazWXibxjzibZiaBRCsVA/640?wx_fmt=png&from=appmsg)\n\n“米哈游告内鬼就是为了捞钱”，这个说法在圈内流传已久。\n\n事实恰恰相反。官方维权的核心目的是制止泄密、保护商业秘密和正常的宣发节奏，绝非靠索赔创收。比起投入到技术监测、法务取证和诉讼全流程中的人力物力成本，赔偿收益微乎其微。\n\n官方重点整治的对象很明确：屡教不改的、持续违规的、刻意散播的。如果立即彻底停止传播、主动公开致歉认错、全面删除账号内所有过往违规内容，这会成为极大的从轻考量依据。而顶风作案、拒不道歉、保留违规内容的，则是优先追责、从严处置的对象。\n\n误区五：搬运爆料是“热爱游戏”的表现\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFM9iaC2pZEhE1xCxSEx5Nc3dfvryCrCl3FsL1gdSYj0EN5rmtNYOrmK82ibZPDMPcxga4vyR63C8D26sF2giaKlia6uiaglE9Bofe8E/640?wx_fmt=png&from=appmsg)\n\n这是最需要被澄清的一条。有些内鬼和搬运者把自己包装成“为爱发电”，甚至觉得提前曝光内容是在帮游戏预热。\n\n真正的热爱，不是抢先窥探未公开内容、肆意传播商业秘密，而是守护研发团队的劳动成果，尊重官方的运营节奏。\n\n每一份未上线的版本、角色、剧情、机制都受法律保护。散播泄密内容会打乱研发与宣发的正常秩序，破坏所有玩家未来的游戏体验。真正的喜欢，是静待官宣、支持正版，而非靠灰色热度消费游戏。\n\n最终忠告：\n\n没有“吃瓜安全区”，没有“搬运无罪论”，没有“小众隐身圈层”。网络不是法外之地。一时的流量、热度、圈子优越感，远抵不过法律风险、高额赔偿、公开致歉、刑事处罚以及个人征信带来的长远影响。\n\n如果还在做这件事，请立即收手。也提醒身边同圈的人，别让贪玩或贪心，酿成无法挽回的后果。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPTibYVJSVnnpu6P2xqfM87MIOFdHbO0HHZAaia5zv38KjYzdq3FqFN90icmWp2bpgWbia7N5h6p1x4fY4rYQhWF6zzpm8icMz24gdE/640?wx_fmt=jpeg)\n\n（注：以上图片素材源自网络，如有侵权请联系删除！）\n\n* * *\n\n**推荐阅读：**\n\n**[构建下一代虚拟世界](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486120&idx=1&sn=91bdbad602b79fa9ac39c9b6302ea8c5&scene=21&lang=zh_CN#wechat_redirect)  ******|**** [创造AI独立自主的文明](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486057&idx=1&sn=92cfe3d2ba3ccb745495b27236a41187&scene=21#wechat_redirect)****\n\n****[原神蝉联榜首，米哈游在日本到底有多火？](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486612&idx=1&sn=e3652e121177fbe87e23b42a036ef32d&scene=21&lang=zh_CN#wechat_redirect)****\n\n******[米黑“番鼠”判赔50万并公开道歉](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486525&idx=1&sn=2a0dbfa8ccb8e071d712ed6f81538d4c&scene=21&lang=zh_CN#wechat_redirect)  ************| [米哈游与远景的“离谱”官司](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486525&idx=2&sn=6786422d984efc19456f16ee66b8b16a&scene=21&lang=zh_CN#wechat_redirect)******************"
+    }
+  },
+  "wechat-Vnandao-2247486547_1": {
+    "id": "wechat-Vnandao-2247486547_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "《原神》“月之七”两个反派对手戏，引爆一场二创狂欢，博士与富人CP热度破百万",
+    "original_url": "https://mp.weixin.qq.com/s/K3syLDjYX15FtHvPFnV4Kg",
+    "published_at": "2026-06-04T22:19:50+08:00",
+    "ingested_at": "2026-06-25T14:48:25+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFOUgve4ZAicArYFibjZlKGMBcyiaibzXoCyVInn0SWgVxicibY2YVzZBu2v5iaxlt53VnMyTpOr4rbJ6aYS8zNdtMqHO9ZlmGEgfQmV8s/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "版本上线后，博士与富人之间的角色关系迅速在二次创作社区引发关注。",
+      "body": "2026年5月20日，《原神》「月之七」版本「『空月之歌·行律』虚空劫灰往世书」上线。该版本开启了全新的魔神任务，旅行者重返须弥，与伙伴们共同应对“世界树”遭受污染的危机。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNdYbt9QemB9FSZ7ibz0HdWGKMYToYcZMfkuVQkzb4BEkpb4uzKyPJ8d8nZSPWo0HvzouPPYXM2OC5zZpSKr6QmT8OqZRoUmhfY/640?wx_fmt=jpeg)\n\n此次版本更新引入了多条剧情线，其中愚人众执行官之间的互动内容成为玩家社区讨论的热点之一。\n\n随着主线推进，玩家需要完成一系列主线任务，逐步揭示危机背后的真相。在这一过程中，愚人众第二席“博士”多托雷与第九席“富人”潘塔罗涅之间出现了较为密集的对手戏和对话场景。\n\n剧情设定中，二人因各自的目的在须弥实验室产生交集，既有利益上的相互算计，也有在特定情境下的彼此协助。\n\n版本上线后，博士与富人之间的角色关系迅速在二次创作社区引发关注。\n\n根据国内同人创作平台老福特（LOFTER）的公开数据，在近一周的热门CP榜单中，“博潘”（博士×富人）标签以超过100万的热度强势登顶热搜词。紧随其后的“潘博”（富人×博士）也拿下了45万+的热度，稳稳占据第二的位置。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFPWkGuOT2PxEb4FBRHyycMGbISxJXxia5lXp2OqHvibxeC9B5EzZQphkanqrp2rM82CSg9Vrmia4iaBv1hvbYcp0y65qfkjDILWuMU/640?wx_fmt=png&from=appmsg)\n\n更令人意外的是，两个话题在互动量、讨论度和新增作品数量上分布较为均衡。在同人社区中，CP的不同顺序标签通常会出现明显的热度差距，而这一次，两边的热度较为接近。\n\n具体情节方面，剧情文本中提及博士曾为富人进行肺部治疗（包括换肺手术），而富人在术后仍保持吸烟习惯，多名内容创作者将这一情节作为角色关系的典型案例进行引用。\n\n在世界树被焚毁的关键场景中，二人共同出现在剧情的最后段落。博士在这一过程中收到了富人的告别，并被其以“赞迪克”称呼。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFNue9fVN1U6F1jl5rL9EKdxLqEibYjySolo4ZtOWSqzwLZ6YYOqXTRHpBLlgYsdYJzN06sl7n7egYmp8PibicJEzFtr1Iw4S3ahBo/640?wx_fmt=png&from=appmsg)\n\n这些剧情细节被玩家在社交媒体、论坛和视频平台中广泛引用。部分内容创作者将这些片段剪辑成短视频或制作成图文分析，进一步扩大了传播范围。\n\n受剧情推动，B站、微博、米游社等平台涌现出大量以博士和富人为主题的二创作品，涵盖手书、配音剪辑、剧情解析、同人音乐等多个类别。\n\n在相关讨论中，部分玩家用“烂人真心”一词概括二人既互相利用又在特定情况下表现出特殊关联的剧情设定，另有玩家引用“低山臭水遇知音，穷山恶水双子星”来形容角色间的互动氛围。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFNW4mZkcj0CJwWkGp4S5gaQjFsHlFPjFibyV29n0Se74Faf0tatymDY4EH7JSr3ydztNkIoLuCbPRnbx0E1iaNK5Ka0icrWMZwfc0/640?wx_fmt=png&from=appmsg)\n\n总体来看，2026年5月上线的“月之七”版本通过引入博士与富人之间的剧情互动，推动了相关话题在二次创作平台的热度上升。相关数据反映了玩家对游戏角色关系和剧情细节的关注程度，也是《原神》长线运营过程中社区文化活跃度的一个体现。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOrIWUI6v1owEKciaYEn2FFSFSa4sV5Q02DI64cOQD8UBOZR1752EU9S7aCo4IZLqBeRia2Ig4qVtlJhnzibx07jeErDqGGXicrUxk/640?wx_fmt=jpeg)\n\n进入第六年的《原神》，主线剧情仍在推进，此次火烧「世界树」的伏笔最早可追溯至2022年官方公布的幕间PV《冬夜愚戏》，玩家社区对此期待已久。而真正让玩家持续留存的，往往是这些角色之间被精心编织的张力与羁绊。\n\n（注：以上图片素材源自网络，如有侵权请联系删除！）\n\n* * *\n\n**推荐阅读：**\n\n**[从至冬开始原神进化加速](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247485164&idx=1&sn=d93e188dcc075da9b3ae4f6145c946f2&scene=21#wechat_redirect) ******| [让我们哭得最厉害的场景](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247485006&idx=1&sn=987c61029396d2a669ad01a735f696f7&scene=21#wechat_redirect) | [原神优化有多强？](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247484981&idx=2&sn=d0ec2584c555ce01c087e6335789d4de&scene=21&lang=zh_CN#wechat_redirect)********\n\n******[“冒用我的名义，就永远不会超过我”](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247485643&idx=1&sn=20d1e6a749bd6179ca092463ce070442&scene=21#wechat_redirect) ****| [木偶立绘裙子引起社区争议](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486204&idx=1&sn=fe0a4e53061125239b75c575b529ba0d&scene=21&lang=zh_CN#wechat_redirect)**********\n\n******[霓虹社畜上班摸鱼玩《原神》被通报](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486324&idx=1&sn=3e0fef50cdc4367b37902040138e4ee8&scene=21&lang=zh_CN#wechat_redirect)[《原神》成为2020游戏年度代表](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486362&idx=1&sn=83bd31509408403ee41169acb9e2087b&scene=21#wechat_redirect)******"
+    }
+  },
+  "wechat-Vnandao-2247486525_1": {
+    "id": "wechat-Vnandao-2247486525_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "米哈游法务终审胜诉，知名米黑“番鼠”判赔50万并公开道歉，但这份道歉有多少诚意？",
+    "original_url": "https://mp.weixin.qq.com/s/JSLu57FT7HAmhvtC5klmVA",
+    "published_at": "2026-06-04T16:23:33+08:00",
+    "ingested_at": "2026-06-25T14:48:25+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFMuVYpTUwQHB13zg4xamyUxUB4O3D5ypSB12yhpviaud97P04XaYC5zK7CdXG2WFg7DY28pVjLNvKC3RckGRKNKLRkhwC7cVVJI/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "米哈游法务部用一年半的时间，完成了一次对头部“米黑”博主的全链条法律追责。",
+      "body": "米哈游与知名“米黑”主播“番鼠鉴赏家”的拉锯战，终于迎来了大结局。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPNo1DExic9Yc3tF1AHCUNV27QLxqRXW0wtAqGjib73PibSribKXw6UZ7boWUCibOyE5QpA6QEXyTUsZuVodJRJA3LbXY1FicFfoO2zg/640?wx_fmt=jpeg&from=appmsg)\n\n根据米哈游法务部2026年6月4日发布的通报，米哈游诉网络博主黎某（网名“番鼠鉴赏家”）侵害名誉权一案迎来终审判决。\n\n终审法院维持一审原判，认定“番鼠鉴赏家”账号持有人黎某对米哈游构成名誉侵权，判决其赔偿经济损失及合理开支共计50万元（全额支持原告请求），并须在其B站、抖音、快手、小红书等全网主要平台账号上公开发表声明，向米哈游赔礼道歉、消除影响。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFPgwGWWHabPVRCS68x4RtdjYQT5n6j4oe4hRRGVZDBDsRPrW7MuCWPXohBqREIPTwhRSYhZuaUVrPnLpgTU8wY6HGb8NrzG5Pc/640?wx_fmt=png&from=appmsg)\n\n法院在一审判决中明确认定：黎某创作并发布视频的目的“不是为了公共利益实施舆论监督”，其行为背后具有“明显的营利性”，以不合理的标准评价游戏并引导玩家“退游”，已经超过游戏评价的合理界限。\n\n从警方行政处罚到民事一审、二审终审，米哈游法务部用一套完整的法律组合拳，为这场持续一年多的维权行动画上了句号。\n\n“黑流量”变现的代价\n\n这个案件的核心争议点是，黎某长期以“内鬼”爆料和极端拉踩博取黑流量。\n\n米哈游法务部在通报中指控，黎某长期在多平台实施侵权违法行为：大量使用极端侮辱性词语辱骂米哈游及玩家，以片面、不合理的标准发布所谓“评测”误导舆论。更关键的是，他接取第三方商业订单，通过侮辱诋毁博取眼球牟利。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFP1U3bicHrCoMwboqmia8t1WZCL29BYDfM33K9yZH8JYcl6b7KJ4oSdP2yWu6UtH8PpcJn2xWu1jzpHpyCXaJXsUXwlzZcG1r5Pg/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFMoUJloW5mg6YhQXiatuWibdT1qldN0hnQW6T0UQddToQibnmG7EjibdwfloqkRFw8trAOWhO3iccXDa3viasfwqNlr7Aj6Fibg8b3AyM/640?wx_fmt=png&from=appmsg)\n\n法院据此认定，其行为具有“明显的营利性”，目的是“为了商业利益带节奏”，而非公共利益上的舆论监督。\n\n其实，米哈游与“番鼠”之间的对决远不止这张50万罚单。\n\n早在2025年8月，米哈游影铁公司就以名誉权纠纷为由起诉相关主体。与此同时，在米哈游向公安机关报案后，警方也已依法认定该账号持有人存在歪曲事实、散布谣言、扰乱社会秩序的违法行为，并对其处以治安行政处罚。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/Z6dVtSurQFNKaVZzBtibNIUsFvJaibbuT7MUkQRaXT0nBAicqAjM9HUibp8gZrwoJCgFiad3Crbb6gcVgoUVSLCpbibTiaqicwvWbYQg3hPfO3OBEia8/640?wx_fmt=png&from=appmsg)\n\n这一串重拳，直接让“番鼠”的账号被平台永久封禁，关上了它吃黑流量的门。\n\n道歉信里的“猫腻”\n\n判决生效后，黎某按要求在B站、抖音、快手等平台发布了道歉声明。声明中写道，其“怀着无比沉重的心情”向米哈游道歉，承认此前发布的部分视频存在歪曲事实、误导公众的内容。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFO1VVib2wiaDvG3lRDN2A7M7DGtZC5tbpHfOmDNxJP1YQTyweOg5e3mZ8ia2UoEwBFpx1Xnqe7zoQtEoudNiauViaqEHh6mOlN2ZSmc/640?wx_fmt=png&from=appmsg)\n\n然而，这份道歉却遭到了大量网友的质疑。\n\n米哈游法务部早在2026年1月就发布通报，公开点名“番鼠鉴赏家”账号持有人黎某已被警方处以行政处罚，同时已提起民事诉讼追究其法律责任，但黎某却拖到6月终审判决后才发布道歉声明。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/Z6dVtSurQFPL7zgBcjwz4YVL3sTlQNaH2BnEH4DEnibXZHg4YGxqBK579hMx3W5o0RjDPgCxNQNT5E4PxQUDhIGX08gaLibCYMBYdlXNoCXG8/640?wx_fmt=png&from=appmsg)\n\n从1月到6月，将近5个月的时间。期间，黎某的账号并未停止更新，甚至一度直播“融号”博取流量。直到二审判决已定、再无翻盘可能时，道歉才姗姗来迟。\n\n网络维权不只是法院宣判的那一瞬间，侵权者公开认错的过程，同样是法理和公序良俗的重要体现。拖到终审判决已定的最后一刻才“被迫”道歉，到底是对法律的尊重，还是对法律执行的避重就轻？答案或许不言而喻。\n\n社区往事：融号、骗打赏、凑赔款？\n\n随着终审判决落地，更多关于黎某此前的行为也被网友重新翻了出来。\n\n据社区讨论，在2025年12月（即行政处罚之后、民事诉讼二审之前），“番鼠鉴赏家”曾进行直播，当场融掉了自己的《原神》账号，并以此为噱头吸引粉丝打赏。不少玩家当时就猜测，此举是为了“在彻底凉凉之前再捞最后一波”。\n\n![TapTap](https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFMxUIoWAN8NIeQL9GCuboGR4XibrNfchia4TdKLJpKvhgKonia5bOz6G0hT9wiczCpo7svQsZPkt0elzD64YWGC1XmToRHuyyfRloo/640?wx_fmt=jpeg&from=appmsg)\n\n米哈游法务部1月通报发布后，该博主仍在平台放出录播视频继续“吃黑流量”，甚至扬言后续要融掉《崩坏：星穹铁道》的账号以示“挑衅”。\n\n在相关评论区，有网友嘲讽其“直播融号骗米黑打赏，就是为了给米哈游凑赔款”。\n\n道歉之后，侵权内容删干净了吗？\n\n判决书明确要求“消除影响”，即删除所有侵权内容。但从社区反馈来看，截至目前，部分涉嫌侵权的视频似乎尚未完全下架。\n\n如果侵权内容仍在传播，所谓的“消除影响”又从何谈起？\n\n有法律界人士指出，名誉权案件判决的履行通常包含“停止侵害”这一义务。若当事人拒不配合删除侵权内容，米哈游完全有权向法院申请强制执行。\n\n这意味着，道歉信的发文只是一个开始，侵权内容的彻底清理仍在进行中。\n\n解气之后\n\n从2024年取证，到2025年行政处罚、民事一审，再到2026年6月终审判赔50万并强制道歉，米哈游法务部用一年半的时间，完成了一次对头部“米黑”博主的全链条法律追责。\n\n50万元的赔偿额度，在同类名誉权案件中属于较高水平，对于靠“黑流量”牟利的网络博主来说，无疑是一次沉重的经济打击。\n\n然而，这份迟到的、被网友普遍质疑“缺乏诚意”的道歉声明也提醒我们：法律的判决可以强制一个人道歉，但无法强制一个人真心悔过。\n\n至于那些涉嫌侵权的视频是否会被彻底删除？黎某在风波过后是否会换个马甲卷土重来？这些都还是未知数。\n\n但至少在今天，这场持续了一年多的维权拉锯战，迎来了一个阶段性的、解气的结局。\n\n（注：以上图片素材源自网络，如有侵权请联系删除！）\n\n* * *\n\n**推荐阅读：**\n\n**[4月二游流水排行落定](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247485847&idx=1&sn=d32ddfee1c1c018dcfcd819822c83b02&scene=21#wechat_redirect) ********| [《原神》入选游戏编年史，成为2020全球游戏年度代表](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486362&idx=1&sn=83bd31509408403ee41169acb9e2087b&scene=21#wechat_redirect)**********\n\n********[米哈游正在构建下一代虚拟世界](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ%3D%3D&mid=2247486120&idx=1&sn=91bdbad602b79fa9ac39c9b6302ea8c5&scene=21&lang=zh_CN#wechat_redirect)  ****|**** [三年千亿，创造AI独立自主的文明](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486057&idx=1&sn=92cfe3d2ba3ccb745495b27236a41187&scene=21#wechat_redirect)********\n\n******[618再次霸榜！米哈游旗舰店登顶，原神旗舰店进前三](https://mp.weixin.qq.com/s?__biz=MzI3MTcxNjU2NQ==&mid=2247486312&idx=1&sn=2363ac5a525bd349efa4d21a4667e65f&scene=21#wechat_redirect)******"
+    }
+  },
+  "wechat-GameLook_News-2657321090_3": {
+    "id": "wechat-GameLook_News-2657321090_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "又一款女性向手游月收入破亿！“财富密码”都是它？",
+    "original_url": "https://mp.weixin.qq.com/s/Dc2icR89mvbCiwKNXlOgnQ",
+    "published_at": "2026-04-12T23:52:44+08:00",
+    "ingested_at": "2026-06-25T15:00:06+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4RVxyaHqxEydSe29MZ3AKEIr9MS22YU0MmPrwXh9YrQwz8NI1q98hLtDfcxT2fyJ7xjqEQ7icoECsibWx9dz9HgCibrfrHyDDGN1I/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": "又一款女性向手游月收入破亿！“财富密码”都是它？\n 原创\n GameLook\n GameLook\n GameLook \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 「 点击上方\"GameLook\"↑↑↑，订阅微信 」最近两年，在国内游戏市场整体越来卷的大环境下，如果说还有哪个赛道属于一眼望过去就潜力巨大的话，那么一定是女性向游戏。GameLook此前曾撰文分析过，女性向游戏从2024年开始大爆发，并且在行业整体增幅缓慢的情况下，女性向游戏反倒连年狂飙。根据游工委报告，2024年国内女性向游戏市场规模达到80亿元，同比增幅高达124.1%，远超游戏行业大盘增速。但过去一两年时间内，国内女性向市场属于“有意愿和能力跟进的厂商不多，头部厂商大赢特赢”的状态。这主要是指叠纸《恋与深空》《无限暖暖》、网易《世界之外》、灵犀《如鸢》等近两年发布产品的成功，以及腾讯《光与夜之恋》、祖龙《以闪亮之名》等更老一点产品的持续坚挺。从去年下半年开始，事情有了一些转变。除了原生App手游市场的旗舰级大作以外，一些小游戏长相的女性向产品也逐渐露头，就比如厦门厂商麟贝互娱的《我的花园世界》，在春节期间登顶微信小游戏畅销榜，目前也经常挤进iOS畅销榜Top 10。恰好GameLook最近又关注到一款女性向产品，深圳市爱的番茄科技有限公司的《时尚百货城》，这款游戏大概在2月初开始大推，目前上升速度很快，微信小游戏畅销榜与iOS畅销榜双榜都冲到了Top 20左右，根据三方数据显示、仅游戏的iOS端3月份的预估收入超6000万元，全平台月流水稳稳破亿！竖屏休闲画风+模拟经营换装关于《时尚百货城》这款游戏，简单来说这就是一款比较常规的模拟经营游戏，如果从底层玩法框架来看，数值系统与游戏整体循环设计思路与三七的时光系列差不多，但不同的是《时尚百货城》融入了非常多女性玩家喜好的元素。包括时尚、换装等等。就比如游戏中的潮玩店铺，就与现实中的泡泡玛特十分相似，不仅是店铺外观还是产品设计细节，还原度就较高，让玩家能够在游戏内能够快速联想到现实中的相关元素。再比如游戏核心玩法是模拟经营，只不过题材上选择了商城题材，比较符合女性用户购物逛街的生活场景，再加上换装、抽盲盒扭蛋等玩法，进一步降低了女性玩家的上手门槛。值得一提的是，《时尚百货城》的数值系统其实相当成熟，游戏内也包含了PVP冲榜和数值付费，与此同时还提供了一些女性玩家更愿意接受的、偏软性的外观付费。最终游戏在iOS畅销榜和微信小游戏畅销榜都取得了不错的成绩，也说明女性用户并非“数值付费绝缘体”。当然关于这一点，还需要看《时尚百货城》能否像《我的花园世界》那样保持一定的收入稳定性。小游戏成为女性向赛道的第二极？GameLook认为，当前国内女性向游戏赛道也和其它主流赛道一样，进入了“两极分化”的阶段，未来女性向游戏市场结构也很可能会变成哑铃型结构。这主要是指头部厂商们依然在女性向游戏上持续加注，不断提升游戏内容品质。最典型的例子就是女性向赛道龙头叠纸。叠纸在旗下恋与IP、暖暖IP两条产品线上，都选择了产品品质迭代升级的进化路线。叠纸也在带动着国产女性向游戏整体的品质升级，比如《恋与深空》是首款全3D乙女游戏，而《无限暖暖》则是首个融入开放世界的女性向游戏，并且还选择了全球跨端同步发行。而祖龙则是在不久前发布的财报中表示，将开发《以闪亮之名》的VVANNA工作室升级为独立事业部，进一步在女性向赛道加注资源，同时他们还计划在2027年推出UE5全平台女性向大作“项目K”。说完了这头部厂商代表的第一极，另一极自然就是以厦门麟贝互娱、深圳市爱的番茄为代表的小游戏厂商。它们精准踩中了休闲轻量化领域，在玩法类型上选择经过市场验证的成熟玩法，题材上则贴合女性用户更感兴趣的题材，比如《我的花园世界》的种植养花，《时尚百货城》的时尚换装。这些女性向小游戏还有一个共性是在买量素材设计上，往往会向短剧靠拢，选择一些简短套路但情绪反馈直给强烈的剧情。常见的包括爱人背叛、捉奸、离职等等，基本都是较为常见的女频复仇大女主文元素。一些游戏甚至会将这些元素直接放到游戏开头作为新手引导，完美承接买量素材，起到吸量与快速转化的作用。《我的花园世界》开局“捉奸复仇”《时尚百货城》开局被辞退而如果去分析这些女性向小游戏在游戏具体玩法类型上的选取，就会发现模拟经营题材是最大热门。事实上这一点哪怕在原生App手游市场也能看出端倪，过去几年手游市场上一些生活模拟类产品比如《心动小镇》，其女性用户占比也较高。模拟经营游戏的休闲玩法与轻度社交是吸引女玩家们的主要原因之一。而在商业模型上，整体上而言女性向小游戏在数值付费上会更加克制，外观付费或者说社交驱动的付费模式更容易被女玩家接受。当然由于许多小游戏产品本身带有比较强的买量型产品特征，所以我们也能看到《时尚百货城》这样的产品出现。后续随着越来越多女性向小游戏产品出现，女性向产品的商业模型设计也会更加成熟。总而言之，无论是从女性向赛道本身的进一步发展壮大，还是从小游戏生态长久保持健康的角度，越来越多的女性向产品登陆小游戏赛道都是一件好事。一方面是头部厂商在卷的高品质女性向产品，如果持续在内容层面卷下去，迟早会遇到当前二游赛道的问题，即厂商成本不断走高的同时，玩家还可能陷入审美疲劳，小游戏相当于给众多想要下场女性向游戏的厂商提供了更多选择。另一方面，越来越多女性向小游戏产品出现，也给小游戏市场注入了新的活力，对于本就面向泛用户和下沉市场的小游戏而言，这能更好地满足用户的多元化需求，让小游戏生态持续蓬勃发展。····· End ·····招聘游戏内容编辑，欢迎有兴趣的同学投递简历GameLook每日游戏产业报道全球视野 / 深度有料爆料 / 交流 / 合作：请加主编微信 igamelook广告投放 : 请加 微信：Amyly588简历投递邮箱 : [邮箱已隐去]      长按下方图片，\"识别二维码\" 订阅微信公众号····· 更多内容请访问 www.gamelook.com.cn ·····Copyright © GameLook® since 2009        觉得好看，请点这里 ↓↓↓"
+    }
+  },
+  "wechat-GameLook_News-2657319890_4": {
+    "id": "wechat-GameLook_News-2657319890_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“有的玩”的就不错了？武侠独游《龙胤立志传》在Steam越战越勇！",
+    "original_url": "https://mp.weixin.qq.com/s/YrS_5iBSvT_MVf1o0E3GoA",
+    "published_at": "2026-03-23T23:46:10+08:00",
+    "ingested_at": "2026-06-25T15:00:11+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4Sz6qzaic7jSF8kYlicJEynZvRJUEOI6PLZpiaFr0UTOJLlFibuKmuJCd1OJ14O03yZRRFTsg4Ay3IAEzaJHjBoAjGwZgQfjIfjeMc/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": "“有的玩”的就不错了？武侠独游《龙胤立志传》在Steam越战越勇！\n 原创\n GameLook\n GameLook\n GameLook \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 「 点击上方\"GameLook\"↑↑↑，订阅微信 」这段时间，国产单机游戏圈子里的气氛多少有点“青黄不接”。放眼全球市场，最近大伙儿的目光都被《杀戮尖塔2》、《生化危机9》几个重磅炸弹吸走了。国内虽然时不时有些小动静，但能真正掀起全民讨论、让玩家熬夜排队的“现象级”新作，却迟迟没见着影儿。就在这段略显尴尬的“空窗期”里，《龙胤立志传》悄没声地端了上来。借着上一波试玩Demo攒下的人气，这款游戏在正式发售后，销量走出了一条“微弱但持续”的上扬曲线。没有那种爆发式的增长，SteamDB上的游玩人数却像温火炖汤一样一直增长，目前巅峰在线人数已经到达3.3万人，销量也稳稳地突破了10万套大关，迈过了千万元流水门槛。Steam商店的好评率则是保持在74%。根据VG Insights和Gamalytic两家数据机构的测算，游戏的最终销量大概率会落在17-20万套左右。数字背后，也藏着一个更值得玩味的行业现象：国产武侠游戏，似乎已经率先在Steam上搞起了“年货化”。最近每年都会有会有几款武侠题材的游戏上线，但也不是每个都能爆火，更多的都是一些小团队作品。这种每年几款的“小步快跑”，距离玩家心心念念的像《影之刃零》那样能真正代表工业水准的3A级武侠大作，中间还隔着一条巨大的鸿沟，但他们的数量和出现频率也确实在近几年趋于稳定。《龙胤立志传》现已发售！所以，今天GameLook想聊聊：在古风武侠题材日益内卷、互动影游又陷入同质化泥潭的当下，《龙胤立志传》这样一个中小体量的作品，是怎么在夹缝里给自己挣出一块生存空间的？自由江湖背后的“成长的烦恼”先说让人惊喜的地方。游戏的核心循环搭建得相当扎实：从一名默默无闻的门派小弟子起步，攒功勋、学武功、搞人脉，一步步攀爬至掌门之位。这种“养成感”是许多玩家梦寐以求的。地图探索自由度颇高，随机事件层出不穷，更重要的是，这里的NPC不再是只会发布任务的工具人，他们性格鲜明，互动中透着浓浓的江湖味儿。当你看着自己一手经营的小门派逐渐壮大，那种成就感是实实在在的。对于喜欢《太阁立志传》或是热衷武侠养成的玩家来说，这套框架无疑具有致命的吸引力。美术风格也颇为讨喜，朴素中见真章，很好地烘托了江湖氛围。但游戏也在角色创建阶段就展现了它的“不友好”。没有无脑的数值推荐，虽然有预设模板，但一旦你选择了非主流路线，比如GameLook尝试的“刀客”流派，前期体验可谓举步维艰。新手村提供的多是剑法秘籍，想练刀？只能靠自己去“淘”。这种设计强迫玩家去思考：如果门派教不了我，我该怎么办？这就引出了游戏最核心的魅力，极高的自由度与随之而来的代价。在试玩过程中，GameLook试图走一条“邪道”。既然门派里没有高阶刀法，那就去抢。于是，便带着师兄去劫道，结果师兄只负责动手打人，一到“搜刮财物”这种犯法的环节，立刻甩手不干，留主角一人面对赶来的“路见不平”者。这种细节设计令人忍俊不禁，却又无比真实：江湖兄弟可以陪你打架，但不一定愿意陪你背黑锅。游戏最让人啼笑皆非的，莫过于“负重”系统。有玩家调侃：“马匹不增加负重也就算了，怎么还扣我负重？难道我是背着马在移动？”这种反直觉的设计，瞬间让人出戏，破坏了沉浸感。此外，战斗系统也显得有些繁琐，尤其是在群体混战时，镜头焦点难以锁定，场面一度混乱，节奏偏慢，缺乏那种刀光剑影的爽利感。更深层的问题在于世界的“活性”。虽然开局足够引人入胜，但一旦玩家破局，确立了江湖地位后，世界仿佛就静止了。NPC的态度和反应并不会随着你的声望、武学水平发生可感知的转变。你已是长老，副掌门了，但是对话还是之前那一套师兄师弟，这种割裂感让后期的游玩动力大打折扣。正如评论区玩家所言：“框架是正确的，但搭建出的世界是死的。”不过，值得欣慰的是，开发团队似乎并未止步于此。从社区反馈来看，工作室一直在根据玩家意见进行高频次的调整与更新，态度颇为良心。无论是优化角色养成体验，还是计划补上门派经营的大战略玩法，都让人看到了这款游戏的未来潜力。TPP Studio：在夹缝中求生存。（工作室前作《归家异途》）开发团队TPP Studio并非游戏行业的新面孔。早在2016年，这款由“夫妻档”朱晨（Zpp）与同伴创立的工作室，就凭借《归家异途》一鸣惊人。那款讲述战乱中父亲寻找女儿的生存冒险游戏，以独特的玩法与真挚的情感，获得了全球玩家的认可，三个月销量接近十万份，成为国产独立游戏的代表作之一。此后，他们又推出了续作《归家异途2》，将故事背景拉回到十年前的斯卡利亚大陆，围绕游击队的战斗与成长展开。虽然作品依旧保持了高水准，但团队并未满足于“生存模拟”的标签，而是将目光投向了更宏大的题材：武侠。在多次采访中，制作人Zpp提到，《归家异途》系列的成功离不开玩家的包容与厚爱，但团队始终对第一代作品抱有遗憾。他们希望在新作中，能够实现更自由的表达与更完整的世界构建。《龙胤立志传》正是这种理念的产物。团队怀着“对武侠的一腔热忱”，试图打造一款“自由的开放世界江湖模拟器”。他们坦言，游戏“剑胚初成，虽未至吹毛断发之境，却已蕴三分侠气”。这种谦逊与坦诚，也体现在他们对测试的态度上“正因不完美，才需要听取各位大侠的真知灼见”。“我们不想教玩家怎么当大侠，我们只想提供一个江湖，至于你是成为一代宗师还是过街老鼠，那是你的选择。”这是主策划在采访中的一句原话。这种设计理念在《龙胤立志传》中得到了贯彻，这种低成本、高自由的模式提供了一种独特的“中国式玩法”：在规则边缘试探、在人情世故中周旋。国产“年货游戏”的困局与突围近年来，国产武侠游戏在Steam上呈现出一种奇特的“年货化”趋势。每年都有数款新作上线，题材涵盖动作、角色扮演、策略等多种类型。就光过去三年就有《逸剑风云决》、《觅长生》、《墨境》、《活侠传》、《再见断刀》、《捉刀》等众多作品。然而，数量虽多，质量却参差不齐。大部分作品停留在“换皮”与“微创新”的层面，缺乏真正的突破。《龙胤立志传》的出现，某种程度上也是对这种“年货化”的回应。它没有追求华丽的画面与夸张的宣传，而是回归玩法本身，试图在“门派经营”与“开放世界”之间找到平衡点。这种务实的态度，值得肯定。尽管国产游戏在近年来取得了长足进步，《黑神话：悟空》的成功更是点燃了玩家的“3A梦”，但在武侠领域，真正的3A大作仍未落地。备受期待的《影之刃零》虽已定档，但2026年9月9日这个发售时间距离玩家真正上手体验仍有距离。《龙胤立志传》显然不是一款3A游戏，它的体量、预算与技术实力都无法与之相比。但它的意义在于，证明了“小团队”也能做出有特色、有温度的武侠作品。在3A之路尚未打通之前，这种“小而美”的尝试，或许是国产武侠的另一条出路。除了传统武侠游戏，古风、AVG（文字冒险）、互动影游等品类也是国内稳定产出的领域。尤其是互动影游，在2025年迎来了爆发式增长，《完蛋！我被美女包围了》系列的成功，让资本纷纷涌入这一赛道。然而，繁荣背后是严重的同质化。大量作品打着“恋爱模拟”的旗号，内容却千篇一律，甚至陷入“擦边”争议，去年仅有一部《盛世天下》凭借独特的后宫生存题材和本身过硬的质量破圈。武侠游戏则同样面临类似问题，套路化的剧情、脸谱化的角色、重复的玩法，让玩家逐渐失去兴趣。在这种背景下，《龙胤立志传》的“门派经营+开放世界”组合，显得尤为独特。它没有跟风“互动影游”的热点，也没有复制“动作武侠”的套路，而是选择了一条相对冷门的路径。这种勇气，值得鼓励。结语：江湖路远，愿侠气长存中国游戏产业的版图正在经历一场深刻的重构。当我们为《影之刃零》这样具备国际视野、技术顶尖的“满汉全席”欢呼时，切莫忘记，支撑起整个行业基座的，往往是像《龙胤立志传》这样脚踏实地的“家常菜”。前者代表了国产游戏向上突破的野心与高度，而后者则维系着玩家日常娱乐的温度与厚度。在3A大作尚显稀缺、开发成本高企的当下，中小团队的选择显得尤为关键。《龙胤立志传》所展现出的路径，或许正是现阶段国产单机小团队最务实的生存之道：不盲目追求工业规模的宏大叙事，而是深耕垂直品类，通过“年货化”的稳定迭代与内容输出，确保持续的生命力。这种“小而美”、“小而稳”的模式，看似不够惊艳，却能在漫长的开发周期中，不断回应玩家的反馈，修补漏洞，丰富细节。对于玩家而言，优质的大作固然是可遇不可求的工业奇迹，但“有的玩”，却是他们最朴素、最持久的愿望。一个活跃、稳定且不断进化的游戏生态，需要的不仅仅是偶尔爆发的烟花，更需要细水长流的陪伴。····· End ·····招聘游戏内容编辑，欢迎有兴趣的同学投递简历GameLook每日游戏产业报道全球视野 / 深度有料爆料 / 交流 / 合作：请加主编微信 igamelook广告投放 : 请加 微信：Amyly588简历投递邮箱 : [邮箱已隐去]      长按下方图片，\"识别二维码\" 订阅微信公众号····· 更多内容请访问 www.gamelook.com.cn ·····Copyright © GameLook® since 2009        觉得好看，请点这里 ↓↓↓"
+    }
+  },
+  "wechat-GameLook_News-2657319450_4": {
+    "id": "wechat-GameLook_News-2657319450_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "MMO大佬已疯！NcSoft超20亿元收购4家休闲手游公司，CEO详解原因",
+    "original_url": "https://mp.weixin.qq.com/s/cJ59zW582gCXFBp-wSgXmw",
+    "published_at": "2026-03-16T23:56:05+08:00",
+    "ingested_at": "2026-06-25T15:00:11+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RoRR9zZkLzEsFJR47IzZawQzDH2ibF5wOqiaD4dhicCPdEOcAq04N8YyWUwwNRkxDJhNU5TjiaiaZ9ia5BYCKKxs4tiaCofqmd41CFqE/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": "MMO大佬已疯！NcSoft超20亿元收购4家休闲手游公司，CEO详解原因\n 原创\n GameLook\n GameLook\n GameLook \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 「 点击上方\"GameLook\"↑↑↑，订阅微信 」3月12日，NCsoft在京畿道盆唐区的NCsoft 1中心召开经营战略会议，正式公布未来的三大核心成长战略，并设定了一个颇具野心的目标——到2030年实现年销售额5万亿韩元。围绕这一目标，公司提出三条核心路径：经典IP高度化、新IP储备，以及移动休闲游戏业务的扩张。其中，最引人关注的无疑是第三条——移动休闲游戏。对于一家靠重度MMO起家的厂商而言，这样的转向多少显得有些“反差”。但当我们把NCsoft近年来的处境与全球游戏市场的变化放在一起看，这个决定其实并不意外。在战略发布会上，NCsoft联席代表朴炳武坦率地谈到了公司过去几年的困境。在他看来，NCsoft曾长期陷入几个结构性问题：过度依赖少数核心IP、开发周期冗长、市场区域集中，以及过度依赖内部研发体系。这种模式在MMO黄金时代或许行之有效，但在今天的市场环境中，却越来越难以支撑稳定增长。事实上，这并不是NCsoft一家的焦虑，而是整个MMO赛道的共同困境。一款AAA级MMO往往需要3至5年的开发周期，研发投入动辄数十亿韩元，而且成功率并不稳定。一旦产品未能达到市场预期，带来的不仅是项目失败，还可能直接影响公司财报。与此同时，MMO用户结构也在逐渐固化。重度MMO核心用户多集中在高年龄段男性玩家群体，新用户增长空间有限。再加上NCsoft销售收入中约70%仍来自韩国和中国台湾地区，这种区域依赖也让公司的抗风险能力受到限制。于是，一个更现实的问题摆在了NCsoft面前：如果某一天，《天堂》不再像今天这样稳定地产生现金流，公司还有什么新的增长来源？目前，《天堂》IP每年依然能为NCsoft贡献约1.5万亿韩元的稳定收入，但管理层显然不希望未来仍把全部希望押在这一条赛道上。于是，“第二增长曲线”的寻找变得势在必行。而与MMO的“举步维艰”形成鲜明对比的，是移动休闲游戏市场的“高歌猛进”。根据NCsoft发布的数据，目前全球移动休闲游戏市场规模已达570亿美元，且增长势头未减，占据整个移动游戏市场的60%。更关键的是，休闲游戏的特性完美契合当下游戏市场的发展趋势：单款游戏下载量可轻松突破1亿次，软启动仅需4至8周，开发周期短、试错成本低，且用户覆盖全年龄段、全性别，能够有效打破NCsoft的用户圈层局限。更具吸引力的是休闲游戏的获客成本优势。数据显示，休闲游戏的CPI（单安装成本）低至1.2元，远低于重度SLG游戏833-4000元的付费用户获客成本，这对于亟需优化成本、实现扭亏为盈的NCsoft而言，无疑是极具诱惑力的赛道选择。可以说，NCsoft押注休闲手游，本质上是一场“弃重就轻”的战略突围,摆脱对MMO赛道的单一依赖，寻找可预测、可持续的新增长动力，这也是其提出“到2030年实现5万亿韩元销售额”目标的核心底气。四连并购的深意不同于其他厂商“单点突破”的休闲化尝试，NCsoft的布局显得更为激进且长远——过去两年，公司对全球20多家移动休闲游戏公司进行评估，最终收购了Justplay、Lihuhu、Springcomes和MovingAI四家企业。构建起覆盖全球的休闲游戏生态集群。而这四家公司的选择，每一步都暗藏NCsoft的战略考量，绝非盲目并购。欧洲的Justplay是NCsoft布局休闲赛道的“关键棋子”，这家主打奖励型游戏分发的移动平台，在北美市场拥有庞大用户基础，这是一家成立于2020年、由前AppLovin高管创立的基于广告技术的移动休闲平台，运营着超过40款休闲游戏 。真正让NCsoft心动的，不是某一款游戏，而是其背后的流量变现能力和数据模型。NCsoft以2.05亿美元（合人民币14.1亿元）收购其70%股权，不仅能快速站稳欧洲市场，更能借助其平台优势，实现“内容+分发”的协同效应，摆脱单纯的内容提供者身份，向平台型运营者转型。Ncsoft斥资1.04亿美元（当时合人民币7.42亿元）收购越南的Lihuhu（NC持有其母公司Indygo集团母公司），则是NCsoft填补东南亚产能空缺的重要落子。这家专注于移动休闲游戏研发的工作室，代表作《Match Triple 3D》累计下载量超2000万次，具备稳定的内容输出能力和全球市场适配能力。不同于MMO的“高风险、高投入”，Lihuhu采用“持续更新产品池”的模式，不依赖单款爆款，能够为NCsoft提供稳定的现金流，这正是当下NCsoft最需要的确定性。韩国的Springcomes和斯洛文尼亚的MovingAI，则分别承担着本土市场深耕和运营模式验证的角色。其中，MovingAI虽规模不大，但被NCsoft视为“运营理论验证的完美样本”，计划年底将其规模扩大2-3倍，将验证成功的数据和经验复制到其他工作室。这四家公司并非孤立存在，而是全部接入NCsoft总部的OptiFlow数据平台，通过统一的综合平台管理，实现数据共享、技术协同，形成“全球集群+数据驱动”的休闲生态。正如朴炳武所言，NCsoft的最终目标不是打造一款休闲爆款游戏，而是建立一个“可持续、可再生的休闲生态系统”。这种生态化布局，既规避了休闲游戏“生命周期短”的短板，又能通过多工作室、多产品的协同，降低单一产品失败的风险，实现长期稳定的增长——这正是NCsoft从MMO运营中沉淀的核心经验，也是其区别于其他休闲游戏厂商的差异化优势。MMO遗产能否撑起休闲“野心”？在NCsoft的休闲化战略中，“MMO遗产”被视为最核心的竞争力。朴炳武和移动休闲中心长安赫尔·切曼多次强调，NCsoft过去30年积累的Live Service运营能力、数据分析技术、AI研发实力，都将成为其进军休闲赛道的“护城河”。这种自信，并非空穴来风。MMO与休闲游戏看似“泾渭分明”，但核心运营逻辑存在共通之处,实时运营就是其中的“共同分母”。NCsoft在MMO运营中积累的“持续更新内容、优化用户体验、提升长期留存”的经验，正在被迁移到休闲游戏中：通过快速原型制作、真实用户A/B测试、数据分析优化，NCsoft能够快速判断项目可行性，要么大规模获客，要么及时终止，大幅提升休闲游戏的成功率；同时，NCsoft计划将MMO中使用的工具优化后，提供给旗下休闲工作室，进一步提升研发效率。AI技术的应用则进一步放大了这种优势。安赫尔·切曼表示，在休闲游戏领域，AI正在被用于制作大量广告创意素材、优化Live Ops时机，长期目标是将原型制作时间从几天缩短到几小时。而NCsoft自身的NCAI技术，在多模态领域具备优势，同时积极引入外部AI模型，这种开放的技术态度，能够快速补齐休闲游戏研发中的效率短板。此外，NCsoft的IP优势也有望成为休闲赛道的“加分项”。朴炳武透露，公司计划发行基于大型IP的移动休闲游戏，借助现有IP的用户基础，快速实现破圈，这也是其他中小休闲厂商难以企及的优势。同时，NCsoft明确拒绝休闲游戏市场常见的虚假广告手法，坚持“长期视角、高质量内容”，这种理念虽然可能牺牲短期流量，却能提升用户长期留存，与其中长期生态布局高度契合。但机遇背后，NCsoft的休闲化转型也暗藏隐忧。最大的挑战，莫过于“重度思维”与“休闲逻辑”的适配难题.MMO追求“深度沉浸、长期付费”，而休闲游戏追求“轻量化、碎片化、低门槛”，两者的研发、运营、营销逻辑存在本质差异，如何打破固有的MMO思维定式，避免“用运营MMO的方式做休闲游戏”，成为NCsoft亟待解决的问题。盈利压力也是不可忽视的考验。休闲游戏的UA（用户获取）成本居高不下，尽管CFO洪元俊表示，流通手续费呈下降趋势，且公司正在引入自主支付，保守预计能实现15%左右的营业利润率，但相较于MMO游戏的高利润率，休闲游戏的盈利效率仍有差距。如何在“规模扩张”与“盈利平衡”之间找到平衡点，将直接影响其2030年目标的实现。同时，全球休闲游戏市场的竞争早已白热化，既有King、Zynga等老牌巨头，也有无数中小工作室凭借单一爆款突围，NCsoft作为“后来者”，即便拥有资金、技术、生态优势，也需要时间积累用户认知和市场口碑，短期内难以实现弯道超车。结语NCsoft的休闲化转型，不仅是自身的战略突围，更可能成为全球MMO巨头转型的样本，改写整个休闲手游赛道的竞争格局。长期以来，休闲游戏市场多以中小厂商为主，缺乏具备资金、技术、生态整合能力的巨头玩家，而NCsoft的入局，将带来“降维打击”。其资金实力能够支撑大规模的并购与研发投入，技术优势能够提升休闲游戏的研发与运营效率，这些都将倒逼中小休闲厂商加速升级，要么聚焦细分赛道，要么寻求合作，行业集中度有望进一步提升。更值得关注的是，NCsoft的转型，本质上是游戏行业“去重度化”“多元化”趋势的缩影。随着玩家注意力日益分散，碎片化娱乐需求崛起，重度游戏的增长空间逐渐收紧，而休闲游戏凭借其低门槛、广覆盖的特性，成为全球游戏市场的新增长极。越来越多的MMO巨头，正在逐步摆脱对单一品类的依赖，向休闲、二次元、FPS等赛道扩张，NCsoft只是其中的先行者。朴炳武承诺，今明两年将通过AI提效、全球市场扩张、吸引新用户等方式，展现一个“与两年前截然不同的NCsoft”，而休闲业务，正是这场变革的核心载体。当然，这场转型注定不会一帆风顺，MMO思维的惯性、市场竞争的压力、盈利模式的适配，都将成为NCsoft需要跨越的障碍。····· End ·····招聘游戏内容编辑，欢迎有兴趣的同学投递简历GameLook每日游戏产业报道全球视野 / 深度有料爆料 / 交流 / 合作：请加主编微信 igamelook广告投放 : 请加 微信：Amyly588简历投递邮箱 : [邮箱已隐去]      长按下方图片，\"识别二维码\" 订阅微信公众号····· 更多内容请访问 www.gamelook.com.cn ·····Copyright © GameLook® since 2009        觉得好看，请点这里 ↓↓↓"
+    }
+  },
+  "wechat-Vnandao-2247486008_1": {
+    "id": "wechat-Vnandao-2247486008_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "绯英日服登顶，外网玩家吐槽“日式角色在日本受欢迎真是意外”",
+    "original_url": "https://mp.weixin.qq.com/s/UTm2seYJwfgcQs2KCz81hQ",
+    "published_at": "2026-05-14T16:02:22+08:00",
+    "ingested_at": "2026-06-25T15:01:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPjiciclozaUNZQ4DzTTAq2X8pYhVQ5sRtnXQGogE4Xh6eRlQlk9jAZp9tkGk9eXzC1IkNlSHzfSYpIHFHgJ1vpYLchTJoovYMrs/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "5月13日，《崩坏：星穹铁道》周年庆下半卡池上线，新五星角色绯英正式实装。卡池首波便冲上日服畅销榜第一位，国服则最高位居总榜第八名。",
+      "body": "绯英日服登顶，外网玩家吐槽“日式角色在日本受欢迎真是意外”\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 5月13日，《崩坏：星穹铁道》周年庆下半卡池上线，新五星角色绯英（物理·欢愉）正式实装。很快，第三方数据平台的流水统计结果出炉。绯英卡池首波便冲上日服畅销榜第一位，国服则最高位居总榜第八名。有外网玩家感慨：“绯英作为欢愉体系的下半角色，原型与定位都高度日式，能在日本市场取得好成绩并不意外。”英语社区对此的反应颇为一致。一条“日本玩家最喜欢的绯英，硬是被压到4.2下半”的评论被截图到Reddit后，英语玩家集体捧哏：“日本角色在日本很受欢迎……嗯，真是太让人吃惊了。”引来大量点赞。在他们看来，绯英身上“参加同人展的女高中生”这一亲和设定，精准契合了日本二次元文化的审美偏好。登顶日本市场本就在意料之中，这不是需要分析的现象，只是某些厂商一直忽视的常识。更让英语社区乐此不疲的是，绯英的PV制作、资源投放和宣发力度，在玩家看来“远低于周年庆主推规格”。但日服还是登顶了。绯英这个角色早在卡池上线前就被贴上了“弃子”“非主推”的标签。论坛有玩家直言：“哪怕明牌弃子我都想加金，不敢想做成主推什么样。”结果，一个被社区提前宣判了“流水死刑”的角色，硬是靠人设本身的魅力在日本市场炸了一把。有博主总结得很精准：“周年庆下半debuff有这个成绩可以了。”在主推角色银狼LV.999已经吸干大部分玩家钱包的情况下，非主推角色还能日服登顶，靠的已经不是强度，而是角色和IP的双重溢价了。正如外网行业分析师所言，《原神》受益于巨大的先发优势和五年LiveOps复利，这是新入场者根本无法复制的。如今星铁正在复刻同一条路径，当玩家对一家公司的品牌产生信任，哪怕是一个“非主推”角色，也能在核心市场炸出主推级别的流水。对星铁来说，日服登顶再次证明了一件事：日本市场对高品质“日式角色”的消费力依然强劲。哪怕宣发资源被外界质疑“不够周年庆规格”，核心受众依然会为“真正打动人的角色”买单。英文社区的调侃既是对这种市场偏好的认可，也反映了海外玩家对米家角色设计的长期信任，已经稳固到不需要靠排期来定义了。 (注：以上图片素材源自网络，如有侵权请联系删除！)推荐阅读：世博展览馆挤爆了，官媒点赞 | 初音翻唱《天生鬼才》 | “将军请喝茶”喝瘫全国门店？玩家哼起“HoYoHoYo” | 上百号人，一个多月，一场盛大音乐会 | 白厄废案首次曝光点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247485930_2": {
+    "id": "wechat-Vnandao-2247485930_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "原神月之七前瞻炸裂；星铁音乐会幕后曝光，上百人极限赶工51分……蒸汽鸟报（5.4—5.10）",
+    "original_url": "https://mp.weixin.qq.com/s/gZWmO8Rmx8nUF39H6lXupA",
+    "published_at": "2026-05-11T01:12:02+08:00",
+    "ingested_at": "2026-06-25T15:01:30+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFN5NA50ibWNbthxWAa0ibEbkTEs2YvKxqhgprv5BaeZsl6yibIqQNyDxoFXEFMVEsAsYIib3W3I3Tl97TbH68JecA3UJfjUNXLtYm8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "原神月之七前瞻炸裂；星铁音乐会幕后曝光，上百人极限赶工51分钟……本周米哈游资讯速览，一文看完。",
+      "body": "原神月之七前瞻炸裂；星铁音乐会幕后曝光，上百人极限赶工51分……蒸汽鸟报（5.4—5.10）\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 原神月之七前瞻炸裂；星铁音乐会幕后曝光，上百人极限赶工51分钟……本周米哈游资讯速览，一文看完。这里是蒸汽鸟报，欢迎收看本期（5月4日—5月10日）米哈游热点资讯。一、游戏产品动态《原神》月之七前瞻博士烧树，婕德利露帕尔双双回归5月8日晚8点，原神月之七前瞻「空月之歌·行律·虚空劫灰往世书」正式开播。多条话题迅速冲上日本推特趋势，“焼けました”（烧起来了）直接点明了这次“烧树”行动带给全球玩家的强烈震撼。六年伏笔一朝清算：婕德、利露帕尔、流浪者联手复仇，博士烧树终成现实版本信息与卡池月之七定档5月20日上线。版本名称“虚空劫灰往世书”正是2020年《足迹》PV中埋下的须弥主线标题，在沉寂近六年后被正式回收。前瞻明确预告了博士周本首次登场，新周本名称为「左道的胜义尊」。新角色方面，五星角色尼可（火法）、洛恩（冰枪），以及四星角色布伦妮（风法）正式实装。新怪物「左道的胜义尊」作为博士周本同步上线。《崩坏星穹铁道》“星铁奇妙夜”线上音乐会幕后曝光5月3日晚，“星铁奇妙夜”线上音乐会在全球同步直播，并在此期间上线了官方录播完整版。然而就在音乐会结束后，观众反响不一，“好听，但是太短了”刷屏各社区。很快，幕后制作信息浮出水面。该项目4月初才正式开工，到5月3日播出，满打满算不到一个月。与星铁合作三年的导演发帖证实：“最大的遗憾是时长太短，上百号兄弟连轴转，硬肝出来51分钟。”消息传出后，玩家态度从“求加时长”转向“理解万岁”。星穹铁道 | 星铁奇妙夜幕后：上百号人，一个多月，一场盛大音乐会《绝区零》2.8版本5月6日上线，第二季终章开启5月6日，《绝区零》2.8版本「新·艾利都日落时」正式上线。作为第二季终章，新S级代理人普罗米娅（冰异常）与星光·比利（物理击破，比利的SP形态）同步登场。星见雅新时装同步上架。主线第二季终章同步收官，为衔接3.0版本铺平道路。二、公司动态米哈游成五一文旅最大引擎“五一期间上海文旅消费统计中，米哈游《崩坏：星穹铁道》嘉年华‘星铁LAND’不仅贡献了188元门票秒空的线上热度，还直接带动了数万名外地玩家产生住宿、餐饮、零售等叠加消费，成为此番文旅融合最具可持续性的标杆案例。”5月9日，澎湃新闻发布了关于中国游戏IP五一期间在上海强劲表现的深度报道，文中显示上海已被公认为头部厂商大型线下活动的首发首选地。从米哈游到鹰角等同行企业，共同推动上海加速形成“文商旅体展融合发展”的产业生态。法务：造谣“角色皮套”者公开道歉《新民晚报》第5版刊登了一则道歉声明。道歉人承认“恶意编造并大肆传播虚假信息”，杜撰“米哈游游戏角色是现实中的特定群体的皮套”，哗众取宠，构成商业诋毁。米哈游法务部持续维权，将造谣者送上公开道歉席。蔡浩宇Anuttacon全面转向“超级智能体”据媒体报道，米哈游创始人蔡浩宇的AI公司Anuttacon经历多轮战略转向：从最初“像人”的AI交互系统、推出实验游戏《星之低语》，到放弃人格模型转向预训练，再到受Claude Code启发认定“Agent才是未来”，全面押注“超级智能体”。算力向大语言模型倾斜（9:1），北美团队收缩，研发重心回流国内。前B站副总裁王宇阳已转回米哈游体系，负责《Varsapura》全球发行。《原神》之后，蔡浩宇在赌什么？一个“超级智能体”的诞生（完）以上就是本周值得关注的信息，让我们下周再见。推荐阅读：“星铁LAND”、三周年专访、米哈游新游……（4.27—5.3）至冬官宣、初音联动、茶百道排队爆单……（4.20-4.26）大伟哥“小镇做题家”出身、联动首周游客翻倍……（4.13-4.19）点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247485039_2": {
+    "id": "wechat-Vnandao-2247485039_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "星穹铁道 | 银狼LV.999杀疯了！中日韩三服登顶，美服创历史第八",
+    "original_url": "https://mp.weixin.qq.com/s/lxQl0deYJKZfAWQEmB5z8Q",
+    "published_at": "2026-04-23T15:02:22+08:00",
+    "ingested_at": "2026-06-25T15:01:40+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNVBhFWqt03KqxGhaIJOOx4L08OYx1GMPUW0C77JBpay2BKK8ZdFDjCSeIpePLIuS7Jc3Ziar7z2nvxXP9EnkmZfQtibHoK5mGGY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "「银狼LV.999」卡池首日上线仅一波便强势登顶国服iOS畅销总榜第一，这一势头在次日（4月23日）依然不减，全球多地畅销榜继续走高，堪称年度最强卡池。",
+      "body": "星穹铁道 | 银狼LV.999杀疯了！中日韩三服登顶，美服创历史第八\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 4月22日，《崩坏：星穹铁道》4.2周年庆版本上线，作为周年庆核心角色的「银狼LV.999」卡池同步开启。首日上线仅一波便强势登顶国服iOS畅销总榜第一，这一势头在次日（4月23日）依然不减，全球多地畅销榜继续走高，堪称年度最强卡池。在iOS国服，银狼LV.999登顶总榜第一长达9小时，峰值出现在4月22日晚间9点左右。截至4月23日，游戏已实现中日韩三服全部登顶。其中，日服方面，PS端一波直接登顶，iOS也冲上了总榜第一，星铁在日本主机市场的号召力一如既往。在北美市场，银狼LV.999同样交出了亮眼成绩单。美国iOS游戏畅销榜中，《崩坏：星穹铁道》一度冲至第八名，创下了游戏在美服畅销榜的历史最高排名。（此前遐蝶卡池排名13，白厄卡池排名10）这一成绩对于一款以亚洲为核心市场的二游来说尤为难得，也侧面印证了欧美玩家对“狼尊”的超高热情。首日流水方面，综合国服iOS、日服iOS、日服PS和美服iOS的数据，银狼LV.999的首日流水超越了此前的周年庆版本角色。在Sensor Tower的实时营收简报中，星穹铁道凭借银狼卡池稳居二游第一，以断层优势领先。社区中“满命满精，直接毕业”成了不少开拓者的共识，还有玩家调侃：“初音未来联动还没落地，光靠银狼自己就杀疯了。”与动画短片里那个被螺丝咕姆踢下线的“受气包”不同，游戏中的狼尊用实打实的流水数据证明了自己是周年庆真正的排面。4月23日18点，银狼×初音未来联动专属MV将全球同步发布，预计还将为这波热度再添一把火。(注：以上图片素材源自网络，如有侵权请联系删除！)推荐阅读：星穹铁道 | 初音未来！银狼LV.999联动MV今晚首播星穹铁道 | 银狼LV.999卡池登顶国服、日服总榜星穹铁道 | 银狼动画上线，螺丝咕姆却成了最大赢家星穹铁道 | 银狼LV.999明日上线，外网玩家：等不及了！点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247484743_1": {
+    "id": "wechat-Vnandao-2247484743_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "蒸汽鸟报｜大伟哥自曝“小镇做题家”出身，原神联动首周游客翻倍……（2026.4.13-4.19）",
+    "original_url": "https://mp.weixin.qq.com/s/vszk_hkTE88r340F_DzikQ",
+    "published_at": "2026-04-19T22:10:32+08:00",
+    "ingested_at": "2026-06-25T15:01:46+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNx22W81qia6cPiaWiaicQ9WibtTxlfI1iaNzxLKIGMycswQsibUEF0iaCuNJr8iaRcicbQBHOsyQxVibAnqdl4xeKzCibbaADJa5lKpmNWpH4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "专注米哈游，每周一报这里是蒸汽鸟报，欢迎收看本期米哈游资讯周报：大伟哥自曝“小镇做题家”出身，原神联动首周游客翻倍……",
+      "body": "蒸汽鸟报｜大伟哥自曝“小镇做题家”出身，原神联动首周游客翻倍……（2026.4.13-4.19）\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 大伟哥交大万字演讲刷屏，原神脉动联名斩获三项大奖，这周米哈游还干了什么？这里是蒸汽鸟报，欢迎收看本期米哈游热点资讯。一、游戏产品动态《原神》6.6版本新角色官宣：4月13日与14日，官方分别公布了6.6版本两位新角色——尼可（五星·火·弓箭）与洛恩（五星·冰·长柄武器）。尼可为沉默寡言但内心世界丰富的“天使”角色，洛恩为西风骑士团弓箭连队副队长，习惯近战突击。北京环球影城联动成效显著：4月17日，新闻报道北京环球影城“环球无限春日”活动中，《原神》蒙德城互动区与《长安三万里》《航海王》同台，活动首周专程到访游客量较去年春日同期翻倍，满意度达92%，主题餐饮与限定周边带动二次消费明显增长。月之六版本持续运行，“空之神殿”获外网好评：6.5版本「月之六」持续运行中，蒙德新区域“空之神殿”及其世界任务《山中好长日》在海外玩家社区收获大量好评，被玩家称为“美术与技术的巅峰”。原神 | “空之神殿”外网爆火，玩家盛赞：美术与技术的巅峰！本期深境螺旋12层主要考验岩盾破除与灰血机制应对能力。幽境危战BOSS包括蕴光月守宫、深邃摹结株及霜夜巡天灵主。“原神×脉动联动”斩获2026中国数字媒体大奖三项大奖：4月16日，脉动+电解质 × 原神联名营销战役获得2026中国数字媒体大奖三项大奖：非酒精饮料类金奖、最佳社交媒体营销铜奖与最佳电子商务银奖。联名产品以温变瓶身、运动人设和“脉动回来”梗引爆Z世代，预售首小时销售额破千万。原神 | 斩获2026中国数字媒体大奖三项大奖，教科书级案例再添荣誉《崩坏星穹铁道》星铁×茶百道二次联动详细信息已公布：《崩坏：星穹铁道》与茶百道第二次联动“将军请喝茶”定档4月25日10:00正式上线。联名角色为景元和爻光，饮品备货约400万杯，周边超460万件。全国设1家旗舰店及36家主题门店，5月2日起上海、成都开启双城快闪。星穹铁道 | 将军请喝茶，五杯就能把景元和爻光全带回家二、公司动态刘伟交大演讲4月17日，米哈游联合创始人刘伟回到母校上海交通大学发表演讲，自述“小镇做题家”出身，坦言“如果没有遇到蔡浩宇，我可能就是另一个普通的交大毕业生”。他还透露，蔡浩宇在ChatGPT出现后“义无反顾把所有东西抛在身后”，从零开始学习AI大模型，每天只睡五六个小时。大伟哥交大最新演讲万字实录：人生没有白走的路，每一步都算数基础大模型技术分享暨顶尖校招启动4月中下旬，米哈游召开AI基础大模型技术分享会，并启动顶尖校招。大伟哥亲临现场，重点招募AIGC应用、深度学习、大模型推理等十余种AI岗位。招聘面向2026届应届生及2027届实习生，可通过校招官网投递。米哈游基础大模型技术分享暨顶尖校招启动亮相消博会上海展区4月13日至18日，第六届中国国际消费品博览会在海南海口举行。上海展区以“爱购上海”为主题，汇聚55家代表性企业，米哈游与老凤祥、龙凤旗袍等中华老字号同台亮相，成为“文化IP周边产品”板块的核心展商。这是米哈游连续第二年参展，标志着游戏IP从“消费内容”向“消费资产”升级，成为“上海定制”城市IP的新名片。米哈游｜亮相消博会上海展区，游戏IP成“上海定制”新名片推荐阅读：六年沉淀的集大成之作：《山中好长日》为何被称为“原神支线天花板”原神 | 原神PS4停服，氪金没少反增，继续登顶榜首？外网热议原神 | 斩获2026中国数字媒体大奖三项大奖，教科书级案例再添荣誉画中山水，终落指尖：米哈游在数字世界里造了一座可以逛的中式园林点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247484567_1": {
+    "id": "wechat-Vnandao-2247484567_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "六年沉淀的集大成之作：《山中好长日》为何被称为“原神支线天花板”",
+    "original_url": "https://mp.weixin.qq.com/s/CLvkjO60N-9IX3lNMTTcsg",
+    "published_at": "2026-04-17T14:06:33+08:00",
+    "ingested_at": "2026-06-25T15:01:46+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNSa7pcGcPiaR3AECbaBPjoEqtcaqLgdbkGhGekNfxWfiaInxhADIoULeFXib13KVqHXRSEqxhQbupWqHFM5dgrIBVanZsbibGgtWU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "“足以淹没世界好多次的悲伤，只要一勺就可以盖住平凡如我的人生。",
+      "body": "六年沉淀的集大成之作：《山中好长日》为何被称为“原神支线天花板”\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n “足以淹没世界好多次的悲伤，只要一勺就可以盖住平凡如我的人生。”法国作家加缪在《西西弗神话》开篇写下那句著名的话：“真正严肃的哲学问题只有一个，那就是——自杀。判断生活是否值得经历，这本身就是在回答哲学的根本问题。”《西西弗神话》讲的是古希腊神话里的一个故事：西西弗触怒众神，被罚每天推一块巨石上山。每当他推到山顶，石头就会滚落回山脚。他只能走下山，重新开始——日复一日，永无止境。加缪借这个神话来比喻人生：世界本身没有预设的意义，人日复一日地生活，就像西西弗推石头。这句话出现在《原神》“月之六”版本的世界任务《山中好长日》中，由一个叫做伊斯托利亚的角色郑重地说出来，然后用接下来好几个小时的剧情，试图给出一个不傲慢的回答。如果你还没玩过这个任务，我尽量不剧透太多。这次剧情中，旅行者在蒙德北部的荆夫港附近，遇到一个叫彩特琳德的女孩。她独自站在废弃疗养院的墓地前，像是在跟谁告别。随后，几人一同被卷入一座飘浮于蒙德上空的“空之神殿”，那是一座脱离了时间控制、收藏着各时代文明切片的永恒之所。这里有一位陷入疯狂的守望者，有一个关于“献出记忆才能前进”的规则，还有一个女孩准备结束自己生命的决心。有意思的是，任务名《山中好长日》取自元代诗人陆仁的诗句“山中好长日，流景丽蓬瀛”，原诗写的是山中悠闲漫长、风景秀美。但在任务里，这句话被改写了另一种体验：天变得很长，很难熬，活着这件事，变得越来越沉。01 同一座山里，困着三种人任务的叙事结构，采用了《原神》世界任务中常见的“以小见大”与“以大见小”相结合的手法，就是将一个宏大的历史背景与一个普通人的微小故事精妙地交织在一起。深入剧情会发现，任务里其实有三组人物，分别代表了面对虚无的不同困境。彩特琳德姐妹，代表的是“被生活耗尽的人”。姐妹俩性格截然相反，姐姐希尔妲外向开朗，妹妹彩特琳德内敛沉稳。但两人最终陷入了同样的忧郁。姐姐的画被批评为“平庸之作”，妹妹觉得自己“什么都做不好”。当姐姐离开后，妹妹也陷得更深。彩特琳德说：“足以淹没世界好多次的悲伤之沙，仅一杯便能淹没平凡如我的人生。”她们面对的问题很朴素：当活着的每一天都像完成任务一样，为什么还要继续？伊斯托利亚，代表的是“最懂道理却最无力的人”。这个角色的名字“伊斯托利亚”源自古希腊语的“历史”。他活过了不知多少千年，拥有纵贯古今的学识，被人们称为“人类中的瑰宝”。他知道抑郁症的发病机制，能和任何人谈论任何事，甚至引经据典地说出了加缪的哲学论断。但面对彩特琳德的痛苦，他只能反复叹息，说自己“连寻死都没有勇气的胆小鬼”。这个最懂道理的人，在真实的痛苦面前同样束手无策。梅兰塔，代表的是“困在规则里的守望者”。空之神殿原本有两位管理者。神明阿斯莫代离去后，另一位守望者尼西里塔选择“堕天”摆脱虚无，而梅兰塔则陷入了忧郁，逐渐疯狂。他恪守“保存”的准绳，对一切革新与进化施以严惩，把人们“押进书、封入画、化为沙”。他消失前的遗言是：“我嫉妒他们，嫉妒变化，嫉妒自由，嫉妒生命。”一个守望者，最终羡慕的是那些被他惩罚的人。有玩家总结得很准确：“忧郁的梅兰塔嫉妒着生命的变化。虚无的尼西里塔堕入凡尘，却找来旅者救下那些困在地狱间的人。终于，少女也放下了一切，拯救了世界也拯救了自己。”三组人，三种困境，指向同一个问题：当支撑意义的“神”不存在了，人靠什么活下去？02 “拯救自己就是拯救世界”任务的转折点，是彩特琳德决定献出记忆、面见梅兰塔的那一刻。在此之前，她的心态已经悄悄发生了变化。她认识了旅行者和派蒙，认识了空之神殿里那些被困的人，从赤王时代的建筑工人，到雷穆利亚的灵露石头人，再到璃月的书画家。这些本该被时间隔开几百年的人，在神殿里成为了朋友。彩特琳德后来说了一句让人印象深刻的话：“拯救自己就是拯救世界。”这里的“世界”，并不是指脚下的土地或头顶的天空，而是人与人之间的连接。在帮助他人的过程中，她重新建立了和世界的联系。任务的结局处理得很巧妙。彩特琳德失去了所有记忆，但旅行者和派蒙告诉她：“你叫彩特琳德。我们是你的好朋友。”她站在疗养院遗址的门前，脑海中出现了一个声音：“我明白的。这世界其实就是如此美丽呀。”然后她说：“我也不知道，但是我好像是几天没吃饭一样饿。”从“活着没意义”到“我好饿”，这就是整个任务给出的答案。既不是宏大叙事，也没有英雄史诗，只是一个普通人重新感受到饥饿的那个瞬间。有玩家说得透彻：“老人救助动物的时候，常会试图喂点东西。在他们看来，能吃就能活。对人也是一样，食欲是人类最基础的欲望。想吃东西，就说明想活下去。”不管你经历了多么惊险的冒险，休息的时候，总得吃点东西。作为人类，感受到饿，就是真正感受到活着。03 地图、文化与彩蛋：六年的沉淀说完剧情，必须提一下承载这个故事的地图。“空之神殿”被许多玩家评价为《原神》六年来地图设计的集大成者。“6个国家，7个地区的地图主题，加上游戏世界观的历史，让空之神殿整个设计变得浑然天成。”神殿本身被设定为包罗万象的“历史切片”收容所，这让长久以来跟随游戏进程的玩家在探索时，能从各个角落发现自己旅途中的熟悉元素。而三大主题区域麓阳书院（代表绘画）、沙上楼阁（代表建筑）、大方广之间（代表书籍），本质上都是人类想象力与创造力的结晶。任务中的文化彩蛋也值得一说。任务序章标题“魔山”，直接致敬了德国作家托马斯·曼的同名小说。在小说中，大学生汉斯前往高山疗养院探望亲人，却意外被诊断患病，被迫在疗养院度过了七年。疗养院与世隔绝，大雪封山后几乎无法下山，这是空间上的封闭，是所有规训系统建立的前提。《原神》的任务同样从一座废弃疗养院开始，同样探讨疾病与规训，同样是一个人重新认识自我的过程。而在任务结束后，疗养院的“失踪者”被交代为500年前下山参加坎瑞亚战争的战士，原来他们并非失踪，而是成了英雄，和《魔山》的结局一样。彩特琳德姐姐留下的画作叫《生命万岁》，致敬墨西哥女画家弗里达·卡罗的同名遗作。弗里达一生饱受伤痛，18岁时一场车祸严重损坏了她的身体。生命最后时刻，她在一幅西瓜静物画上写下“Viva la Vida”，八天后离世。西瓜在墨西哥是亡灵节的祭品，象征生死轮回。任务中，这既是对彩特琳德姐妹命运的呼应，也是对故事主题的点题。分支任务名称“狮子奋迅”来自佛教典故，意为如狮子般勇猛破除烦恼。尼采在《查拉图斯特拉如是说》中也用“狮子”来象征打破旧价值、追求自由的精神。正是在这个任务节点之后，彩特琳德整个人都变了，不再唯唯诺诺，而是要勇敢地抛弃过去，重新开始。彩特琳德献出记忆前念的独白，出自博尔赫斯的诗歌《我用什么才能留住你》：“我给你瘦落的街道、绝望的落日、荒郊的月亮……”这些意象不是神殿的咒语，而是一个普通人对这个世界的告白。这些细节可以体现出制作组对“为娱乐内容创造厚重价值”这件事的认真态度。04 明天，和明天之后的明天一个有趣的细节：加缪在《西西弗神话》的结尾写道，“应该认为西西弗是幸福的。”为什么？因为当西西弗转身走下山，看着那块巨石重新滚落，他意识到这是他自己的命运，是他自己创造的。他知道这一切没有终极意义，但他依然选择走下去。彩特琳德失去记忆后说“我好饿”，这大概就是加缪说的那种“幸福”。人在抑郁的时候，连饥饿都感觉不到。当彩特琳德重新感到饿，她就重新感到了活着。所以这个任务给出的答案不是宏大的叙事，而是最原始的生命欲望。就像那个经典的命题：码头的海鸥不会思考明天要飞向何方，它们只会去整点薯条。而这个任务让我觉得最“神”的地方在于，它没有说教。无论是加缪的《西西弗神话》，还是尼采的“上帝已死”，这些哲学命题在任务中都被认真对待，但从未被用来“教育”玩家。相反，任务反复展示的是：大道理在痛苦面前，往往是苍白的。伊斯托利亚是最懂道理的人，但他救不了彩特琳德的姐姐。而彩特琳德在任务后期对梅兰塔说了一句略带讽刺的话，大意是“如果你感受到了不可遏制的忧郁，那是生理病变，早点就医，积极配合治疗”，这句话由一个普通人说出来，反而比所有哲学辩论都更有力。这或许就是制作组真正想表达的：面对忧郁，任何大道理都是次要的。真正重要的，是陪伴，是连接，是有人记得你的名字。彩特琳德的墓志铭是“未完待续”，姐姐希尔妲的墓志铭是“只活一次不算数”。两句话，一个意思。她们走出魔山的时候，已经不记得自己是谁了。但她们会知道的。因为旅行者会告诉她“你叫彩特琳德”，派蒙会告诉她“我们是你最好的朋友”。有玩家在完成全流程后写道：“做到最后时，看着希尔妲的诗句，绝美的音乐，和一幕幕提瓦特的风景，我的眼眶没有湿润，但我真的很感动。”《山中好长日》，山中长日不变的光阴真的好吗？或许答案就藏在彩特琳德走出疗养院的那一刻。山中好长日，但明天总是会到来的。如果你也正在经历一段“山中好长日”，希望你能记得：饿的时候就吃饭，明天总会来的。愿每一个在山中徘徊的人，都能听到那句诗——“我明白的，我明白的。这世界其实就是如此美丽啊。”(注：以上图片素材源自网络，如有侵权请联系删除！)推荐阅读：画中山水，终落指尖：米哈游在数字世界里造了一座可以逛的中式园林连续两年送240万册画册，为什么只有米哈游这么做？大伟哥交大最新演讲万字实录：人生没有白走的路，每一步都算数LPM 1.0背后：米哈游用十年时间，从“让角色动起来”走到“让角色活起来”点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247484446_1": {
+    "id": "wechat-Vnandao-2247484446_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "原神 | 鹰角坦言“后原神时代”抽卡RPG难突围，外网热评",
+    "original_url": "https://mp.weixin.qq.com/s/-9ISKGYkz7tE6ryAkd3-sg",
+    "published_at": "2026-04-16T09:26:27+08:00",
+    "ingested_at": "2026-06-25T15:01:46+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOqWvH5lbsibgB9NWhWF1aVl1UicGS3YZVCuvFP6CKKscb6zjTog98gk4F8Y08KFQMGicUCyA6EVtuYTiaicXkEmcic18orLUicicbPjz4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "在《原神》已经奠定市场格局的“后原神时代”，推出一款全新的抽卡RPG难度极高。近日，鹰角网络首席游戏设计师Ryan，在接受外媒GamesRadar+采访时，直言了当前抽卡RPG市场的尴尬现状。",
+      "body": "原神 | 鹰角坦言“后原神时代”抽卡RPG难突围，外网热评\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 在《原神》已经奠定市场格局的“后原神时代”，推出一款全新的抽卡RPG难度极高。近日，鹰角网络首席游戏设计师Ryan，在接受外媒GamesRadar+采访时，直言了当前抽卡RPG市场的尴尬现状。Ryan指出，当前市场上的开放世界抽卡RPG同质化问题严重。“有太多相似的游戏了，玩家玩上一小时，基本就能预判接下来二十小时的内容。”在他看来，玩家期待的是“新的东西”，而非重复的套路。怎么破局？Ryan给出的答案是：让玩家能真正“改造”世界。《明日方舟：终末地》最核心的差异化标签，是一套工厂建造与自动化系统。Ryan解释，许多开放世界“更偏向美学”，玩家只是看风景，无法对世界产生实质影响。而工厂建造引入了沙盒体验，玩家能通过建设资源生产线来轻度改造环境，而非仅仅把它当背景。这一独特设计带来了远超预期的用户粘性，数据反馈显示，核心玩家在该系统上投入了“数十个小时”，平均游玩时长远超预期。抽卡方面，团队也降低了角色组队成本，并计划在新版本中增加免费资源投放。不过争议同样存在。Ryan坦言，游戏复杂的货币体系和不透明的保底机制受到广泛批评，甚至让熟悉抽卡玩法的亚洲玩家也感到困惑。团队计划增加货币投放、前期加入“自选角色券”、合并部分币种以降低复杂度，但这些改动仍处于讨论阶段，尚无具体时间表。他强调，好的抽卡系统“不应该影响玩家享受游戏的权利”。外网对Ryan的发言反应不一。认可差异化尝试的声音也不少。Push Square发文称，PS5玩家想要的不只是“原神复制品”，《终末地》的自动化要素确实带来了“独特之处”。有玩家评价道：“在一个可预测性占主导的市场中，原创性和精妙的设计依然能脱颖而出。”但也有观望和质疑。Polygon评论认为，工厂建造虽为游戏增添了独特元素，但仍不足以让《终末地》在拥挤的抽卡赛道中脱颖而出。Noisy Pixel则指出，在“后原神时代”，这款游戏试图与《原神》等作品直接竞争，能否真正站稳脚跟仍有待观察。有玩家担忧，官方长期“保持轻量化”的定位，可能会让深度玩家失去持续投入的动力。不过无论如何，鹰角都在用《终末地》证明一件事：后原神时代的抽卡RPG，雷同才是最大的敌人。点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247484303_1": {
+    "id": "wechat-Vnandao-2247484303_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "米哈游资讯周报（2026.4.6-4.12）",
+    "original_url": "https://mp.weixin.qq.com/s/doTAjKAhC1XYIHnxLMESIw",
+    "published_at": "2026-04-12T22:46:49+08:00",
+    "ingested_at": "2026-06-25T15:01:46+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFMZojBXD7Fx7KWwfZZ3L5SVWEA3Qhomr9icUTXDa4rEt7EecHalsmpKmDxJoJBhJEDm2Nk9MpwE6D4hZSwWd55TumRNTB2OZyAk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "专注米哈游，每周一报 。这里是蒸汽鸟报，欢迎收看本期米哈游资讯周报。",
+      "body": "米哈游资讯周报（2026.4.6-4.12）\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 专注米哈游，每周一报 。这里是蒸汽鸟报，欢迎收看本期米哈游资讯周报。一、游戏产品动态《原神》月之六版本上线：4月8日，“月之六”版本“逢归的谶羽”上线，推出五星岩系弓箭角色“莉奈娅”，开放蒙德新区域风息山和空之神殿，同步上线五星武器“霜结的誓金枝”。PS4版停服：4月8日6:00起，《原神》PS4版正式终止服务，玩家无法再通过该平台登录游戏。官方建议玩家转移至PS5、PC、手机或Xbox Series X|S平台继续体验。《崩坏：星穹铁道》4.2版本前瞻：4月10日晚播出前瞻节目“如是，众生欢笑不已”。崩坏：星穹铁道4.2版本「如是，众生欢笑不已」前瞻总结。茶百道二次联动：4月10日官宣与茶百道第二次联动，4月25日正式上线，联动角色为景元和爻光。茶百道六刷米哈游，星铁二次联动正式官宣。联手MAPPA推原创动画：4月10日，《崩坏：星穹铁道》4.2版本前瞻直播压轴宣布，将与日本知名动画公司MAPPA合作推出原创动画，并同步公开概念PV“午后之死”。星铁动画化正式官宣！MAPPA操刀，米哈游的“动画宇宙”再落一子三周年再送240万册纪念画册：三周年之际将再次免费送出240万册纪念画册，画册由上海音乐出版社承制，收录2.4至3.8版本角色设计图、原画稿、分镜图及节日贺图，新增随机角色透卡书签。首批画册预计7月15日起陆续发货。三星联动：将与三星再度联动，于4月24日在韩国推出Galaxy S26 Ultra“昔涟”配件礼盒。星穹铁道×三星联动|昔涟限定配件礼盒4月24日限量开售《未定事件簿》联动定档：4月10日官宣，与LAVAZZA拉瓦萨咖啡及暹罗猫小豆泥的联动将于4月24日开启。二、公司动态创始团队获交大表彰4月6日，米哈游总裁刘伟代表创始团队蔡浩宇、罗宇皓，获颁上海交通大学“杰出校友思源贡献功勋奖”。三人共同向母校捐资，助力设立“AI未来基石”基金，支持AI人才培养和交叉学科研究。实至名归！米哈游三巨头获交大最高校友荣誉刘伟谈“游戏沪十条”刘伟近日就上海市“游戏沪十条”产业政策公开发声，表示该政策从产业生态、科技创新、“游戏+”赋能、人才培养等多个维度，构建了系统且可落地的政策体系，每一条都对应企业真实痛点。“我们不止是内容供应商”：董事长刘伟谈游戏沪十条，米哈游的东方美学如何走向世界？蔡浩宇AI公司发布LPM 1.04月10日，蔡浩宇旗下AI公司Anuttacon发布视频角色表演生成模型LPM 1.0，可根据一张角色图生成具有稳定身份特征的实时表演视频。目前模型仅作学术展示，不开源、不提供API。LPM 1.0背后：米哈游用十年时间，从“让角色动起来”走到“让角色活起来”联合警方打击账号黑产4月10日，米哈游联合上海徐汇警方捣毁一游戏账号非法租售犯罪团伙，抓获10名嫌疑人，涉案金额超200万元。该团伙通过非法渠道获取万余条公民信息，批量注册《原神》《星穹铁道》《绝区零》等游戏账号后出售牟利。上海警方捣毁一游戏黑产团伙，涉及《原神》等三款产品，涉案金额超200万元点击下方名片，关注公众号，第一时间接收米哈游相关资讯！"
+    }
+  },
+  "wechat-Vnandao-2247484105_1": {
+    "id": "wechat-Vnandao-2247484105_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "“雨神”萧敬腾献唱星铁三周年主题曲",
+    "original_url": "https://mp.weixin.qq.com/s/HN5PWXSX8mGtGfsGxemUhQ",
+    "published_at": "2026-04-08T22:32:59+08:00",
+    "ingested_at": "2026-06-25T15:01:51+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNNuszf6NHg7FAA6tiaicZmYLRCBgQ4micABETiaWCYv9ZaNCvPicfwsrdJS5Zjn7icsc11Za8QHfDsr6SdAcEjbaiccogc3wVRy3D98I/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "《崩坏：星穹铁道》三周年主题曲《天生鬼才 SideQuest King》正式官宣，特邀萧敬腾演唱，将于4月11日0点上线各大音乐平台。\n众所周知，萧敬腾因多次演唱会与暴雨“同框”而被戏称为“雨神”，大胆预测一下：从4月11日凌晨开始，各地天气预报可能都要集体“失灵”一波。别问为什么，问就是“雨神发动技能”。\n另外，4月10日19:30将播出4.2版本前瞻特别节目，届时预计发放300星琼兑换码。三周年版本将于4月22日更新，新角色银狼LV.999、绯英登场，首充双倍重置。\n4月11日，准备好一起听雨了吗？\n最后，友情提醒各位开拓者——记得提前预约，还有，出门别忘带伞。",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247483993_3": {
+    "id": "wechat-Vnandao-2247483993_3",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "绝区零 | 实体收藏版已开启预购",
+    "original_url": "https://mp.weixin.qq.com/s/0iSrF5Ox7pb6Vvyj2tkjrw",
+    "published_at": "2026-04-07T12:49:21+08:00",
+    "ingested_at": "2026-06-25T15:01:51+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFNMrKVl3mIXl3c8f5nRibkCicUA1yYsLBxhHiaSMKricseN5mEcL6rzhjowNEsy7w5XTHj371ukWCKQFG0wmXqce4BPLgoxCVROLV8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "楠道呀",
+      "excerpt": "米哈游HoYoverse宣布，《绝区零》PS5与Xbox Series X实体收藏版已开启预购",
+      "body": "绝区零 | 实体收藏版已开启预购\n 原创\n 蒸汽鸟报\n 蒸汽鸟报\n 蒸汽鸟报 \n 在小说阅读器读本章\n 去阅读\n 在小说阅读器中沉浸阅读\n 米哈游HoYoverse宣布，《绝区零》PS5与Xbox Series X实体收藏版将于2026年9月17日正式发售，售价59.99美元，现已在亚马逊等平台开启预购。首发面向北美地区，后续将拓展至全球发售。套装内容相当丰富：包含游戏光盘、一个内置NFC传感器的安比亚克力立牌（具体作用暂未公布）、一张主机独占的收藏版明信片、七张角色照片卡、一枚角色徽章、一张“绳匠”亚克力头像卡，以及一个游戏内独占道具兑换码。有玩家调侃道：“59.99美元的价格看着像标准3A定价，但拆开包装你会发现那张游戏光盘反而成了赠品。”这已是米哈游第二次推出主机实体收藏版，此前曾于2025年3月推出《崩坏：星穹铁道》“开拓者版”，但当时为PS5独占且周边较少，此次同步登陆Xbox Series X是一次明显的拓展升级。有需要的绳匠不要错过哦！如果有遗漏的最新情报，请后台私信蒸汽鸟报，非常感谢您的支持！整理不易，点击下面的名片，关注支持一下吧～拜托了，这对我真的很重要！"
+    }
+  },
+  "news-fami-79709": {
+    "id": "news-fami-79709",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『センチメンタルグラフティ』リメイクの制作が発表。1998年にセガサターン用ソフトとして発売された恋愛シミュレーションが令和に蘇る",
+    "original_url": "https://www.famitsu.com/article/202606/79709",
+    "published_at": "2026-06-28T18:56:00+08:00",
+    "ingested_at": "2026-06-29T09:01:10+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/79709/thumbnail_uwQd.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "1998年にセガサターン用ソフトとして発売された『センチメンタルグラフィティ』リメイク版の制作が発表された。発売日や対応機種などは未定。",
+    "payload": {
+      "excerpt": "1998年にセガサターン用ソフトとして発売された『センチメンタルグラフィティ』リメイク版の制作が発表された。発売日や対応機種などは未定。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "trademark-79176048": {
+    "id": "trademark-79176048",
+    "source_type": "trademark",
+    "source_name": "天眼查",
+    "title": "星布谷地",
+    "original_url": "",
+    "cover_image": null,
+    "published_at": "2024-06-12T00:00:00+08:00",
+    "tags": [
+      "商标已注册",
+      "34-烟草烟具"
+    ],
+    "entities": {
+      "works": [],
+      "companies": [
+        "上海米哈游璃月科技有限公司"
+      ]
+    },
+    "ingested_at": "2026-06-29T16:40:39+08:00",
+    "deep_summary": "",
+    "payload": {
+      "applicant": "上海米哈游璃月科技有限公司",
+      "reg_no": "79176048",
+      "int_cls": "34-烟草烟具",
+      "tm_class": "34",
+      "status": "商标已注册",
+      "app_date": "2024-06-12",
+      "latest_event": "商标注册申请---注册证发文",
+      "latest_event_date": "2024-06-12 00:00:00",
+      "group_key": "mihoyo",
+      "source_fetched_at": "2026-06-29T16:40:39+08:00"
+    }
+  },
+  "trademark-79168128": {
+    "id": "trademark-79168128",
+    "source_type": "trademark",
+    "source_name": "天眼查",
+    "title": "星布谷地",
+    "original_url": "",
+    "cover_image": null,
+    "published_at": "2024-06-12T00:00:00+08:00",
+    "tags": [
+      "商标已注册",
+      "39-运输贮藏"
+    ],
+    "entities": {
+      "works": [],
+      "companies": [
+        "上海米哈游璃月科技有限公司"
+      ]
+    },
+    "ingested_at": "2026-06-29T16:40:39+08:00",
+    "deep_summary": "",
+    "payload": {
+      "applicant": "上海米哈游璃月科技有限公司",
+      "reg_no": "79168128",
+      "int_cls": "39-运输贮藏",
+      "tm_class": "39",
+      "status": "商标已注册",
+      "app_date": "2024-06-12",
+      "latest_event": "商标注册申请---注册证发文",
+      "latest_event_date": "2024-06-12 00:00:00",
+      "group_key": "mihoyo",
+      "source_fetched_at": "2026-06-29T16:40:39+08:00"
+    }
+  },
+  "recruitment-dd7fb33e8238": {
+    "id": "recruitment-dd7fb33e8238",
+    "source_type": "recruitment",
+    "source_name": "天眼查",
+    "title": "法务（知产维权）",
+    "original_url": "https://www.lagou.com/jobs/5529158.html?utm_source=m_cf_bd_tianyancha_zhw",
+    "cover_image": null,
+    "published_at": "2019-04-15T00:00:00+08:00",
+    "tags": [
+      "本科",
+      "3-5年"
+    ],
+    "entities": {
+      "works": [],
+      "companies": [
+        "上海米哈游网络科技股份有限公司"
+      ]
+    },
+    "ingested_at": "2026-06-29T16:46:22+08:00",
+    "deep_summary": "",
+    "payload": {
+      "company": "上海米哈游网络科技股份有限公司",
+      "position_title": "法务（知产维权）",
+      "origin": "拉勾网",
+      "education": "本科",
+      "experience": "3-5年",
+      "salary": "10000-20000元/月",
+      "publish_date": "2019-04-15",
+      "url": "https://www.lagou.com/jobs/5529158.html?utm_source=m_cf_bd_tianyancha_zhw",
+      "group_key": "mihoyo",
+      "snapshot_fetched_at": "2026-06-29T16:46:22+08:00"
+    }
+  },
+  "news-igncn-61070": {
+    "id": "news-igncn-61070",
+    "source_type": "news",
+    "source_name": "IGN中国",
+    "title": "《上古卷轴4：湮灭 复刻版》Switch 2实体版确认非钥匙卡",
+    "original_url": "https://www.ign.com.cn/the-elder-scrolls-iv-oblivion-remaster/61070/shang-gu-juan-zhou-4yin-mie-fu-ke-ban-switch-2shi-ti-ban-que-ren-fei-yao-chi-qia",
+    "published_at": "2026-07-01T11:28:56+08:00",
+    "ingested_at": "2026-07-01T18:00:06+08:00",
+    "cover_image": "https://www.ign.com.cn/sm/ign_cn/screenshot/default/6_yr7e.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "但不少玩家并不买账",
+    "payload": {
+      "excerpt": "但不少玩家并不买账",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-igncn-61092": {
+    "id": "news-igncn-61092",
+    "source_type": "news",
+    "source_name": "IGN中国",
+    "title": "《节奏天国 奇迹之星》23分钟实机演示",
+    "original_url": "https://www.ign.com.cn/rhythm-heaven-groove/61092/jie-zou-tian-guo-qi-ji-zhi-xing-23fen-zhong-shi-ji-yan-shi",
+    "published_at": "2026-07-02T11:23:13+08:00",
+    "ingested_at": "2026-07-02T18:00:56+08:00",
+    "cover_image": "https://www.ign.com.cn/sm/ign_cn/screenshot/default/jie-zou-tian-guo-shi-ji_2edu.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "配合音乐节拍，节奏感UP 配合音乐节拍，节奏感UP，只要配合音乐按下按键的简单操作节奏游戏！跟着节奏进行跳跃、敲击空罐、制作料理等等。请尽情享受各式各样节奏游戏的乐趣。《节奏天国 奇迹之星》现已登陆Switch、Switch 2。",
+    "payload": {
+      "excerpt": "配合音乐节拍，节奏感UP 配合音乐节拍，节奏感UP，只要配合音乐按下按键的简单操作节奏游戏！跟着节奏进行跳跃、敲击空罐、制作料理等等。请尽情享受各式各样节奏游戏的乐趣。《节奏天国 奇迹之星》现已登陆Switch、Switch 2。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80116": {
+    "id": "news-fami-80116",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "キーボード食べたい欲を治療する謎ホラータイピングゲーム『KEYKRUNCHER』Steamストアページ公開。タイピングの練習にはならなそう",
+    "original_url": "https://www.famitsu.com/article/202607/80116",
+    "published_at": "2026-07-02T10:34:00+08:00",
+    "ingested_at": "2026-07-02T18:01:01+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80116/thumbnail_Gzfw.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "『KEYKRUNCHER』のSteamストアページが公開された。キーキャップに記された文字通りにキーボード入力して、キーを食べていくだけのシンプルシステム。ただし画面内にあるキーボードは配列がめちゃくちゃで混乱しそう。",
+    "payload": {
+      "excerpt": "『KEYKRUNCHER』のSteamストアページが公開された。キーキャップに記された文字通りにキーボード入力して、キーを食べていくだけのシンプルシステム。ただし画面内にあるキーボードは配列がめちゃくちゃで混乱しそう。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "wechat-GameLook_News-2657326680_1": {
+    "id": "wechat-GameLook_News-2657326680_1",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "当“不服周”的武汉，遇上“不设限”的《三角洲行动》，会发生什么？",
+    "original_url": "https://mp.weixin.qq.com/s/FCiwxCLK7cy9ebrqpvwWYg",
+    "published_at": "2026-06-29T23:53:07+08:00",
+    "ingested_at": "2026-07-02T21:58:42+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4TfKFUWMsloibpoE8xImyvZibFhnrHr6n2FRkHRz3pwQSTqTdVDj5cNoSMdI8FXafY7eIWu0zEnlnfApwKcv4VVHqUUN0ulat1yk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648889116_1": {
+    "id": "wechat-greatpurple_share-2648889116_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "齐城的游戏行业周报：Meta向元宇宙挥刀、Supercell内部复盘过往失败、韩国CEO认为不用AI无法抗衡中国游戏",
+    "original_url": "https://mp.weixin.qq.com/s/pcCt2QU4tkrlb8N6XnNReQ",
+    "published_at": "2026-01-25T22:57:35+08:00",
+    "ingested_at": "2026-07-03T10:10:38+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/mRJPAD8Nu8vqopw10vHAq4f90ib7hkxOrjDhon8GuI2OGe4XBj7YWu34YMt3gSnIdmFOIv9vCCzicsIy6UrIySww/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "齐城",
+      "excerpt": "AI分身已接入满血版DeepSeek，关注公众号后可通过菜单栏调用。",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648889017_1": {
+    "id": "wechat-greatpurple_share-2648889017_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "影之刃零15天愿望单破百万、心动收购《火炬之光》、GOG平台出售、《疾速追杀》3A游戏开发中…",
+    "original_url": "https://mp.weixin.qq.com/s/6PbXlb804m0ItZh8lzhMSA",
+    "published_at": "2026-01-05T23:46:10+08:00",
+    "ingested_at": "2026-07-03T10:10:38+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/mRJPAD8Nu8uUzup5SMHtYbmq0mGBic0PBl3FdJURDfbTGss9ib1gViaNNd0ibaeY0UEMCq6vmVSCQozN2MnELgqgFA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "齐城",
+      "excerpt": "AI分身已接入满血版DeepSeek，关注公众号后可通过菜单栏调用。",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888786_1": {
+    "id": "wechat-greatpurple_share-2648888786_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "动画影片YouTube频道众筹资金做游戏、两大游戏引擎宣布合作、多款国产PC大作发布实机视频……齐城的周一晨报11月第4期",
+    "original_url": "https://mp.weixin.qq.com/s/b_MpNBx-Ey6vNDXucDtEdg",
+    "published_at": "2025-11-24T12:17:33+08:00",
+    "ingested_at": "2026-07-03T10:10:43+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/mRJPAD8Nu8sicX1JZVI0MQq5Niboj5ibFzrsy4GXOMt5BnVw42Q7KdjfsCGQIVSsI9Yptr48DddHA9a7TQjUM8uWg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "齐城",
+      "excerpt": "⬆️点击上方蓝色链接，将公众号设为星标。每周一早晨第一时间收取晨报！Yarnhub转型进入游戏领域，获得股权众",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888687_1": {
+    "id": "wechat-greatpurple_share-2648888687_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "AI和游戏如何共同构建新的体验",
+    "original_url": "https://mp.weixin.qq.com/s/Icdm6VO19zoMruebzNclbg",
+    "published_at": "2025-10-22T12:00:30+08:00",
+    "ingested_at": "2026-07-03T10:10:48+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/md2DPtaPPic81zwqDIic6ibnUkeQEvD0hiapJ6K8dMeV9Y84s9ZibYMw3qkWrFkRQb4ibKa427tJcvY9sMvRgTp6JfzA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "Steven Woo",
+      "excerpt": "构建「游戏模型」(Large Gameplay Model, LGM) 是通往 AGI 的一条可能路径.",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888544_1": {
+    "id": "wechat-greatpurple_share-2648888544_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "一口气看完58条游戏行业新闻！25年8月第4周",
+    "original_url": "https://mp.weixin.qq.com/s/8_GIgz5TNEjchCYUyqlY-Q",
+    "published_at": "2025-09-13T13:41:21+08:00",
+    "ingested_at": "2026-07-03T10:10:54+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/mRJPAD8Nu8sRoA1qriczf4DRia2vcRwUJrzkaQDWo6xbg1aLX0Mzzrl0iaz4fcJrqMJd1V1kzhXZwHtE10q41c36A/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "齐城",
+      "excerpt": "北京时间每周一的早晨，我会发布一篇周报，总结全球游戏行业在过去一周的重要新闻。",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888500_1": {
+    "id": "wechat-greatpurple_share-2648888500_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "游戏行业投资创业避坑指南4",
+    "original_url": "https://mp.weixin.qq.com/s/E1gWutZZPHlzLN1PK-ww9A",
+    "published_at": "2025-07-27T22:06:20+08:00",
+    "ingested_at": "2026-07-03T10:10:54+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0AC6Cf34qfibLC0cibUJHANHJzVSiauicGTOYET0iaNuFlsHO5vwL3HXLSdSsY0a5BQpvvv3dd4nWsNDGA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "VC重金投入的光环创始人做的项目，为什么会败得这么惨？总结几个VC投资游戏项目容易踩的坑",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888489_1": {
+    "id": "wechat-greatpurple_share-2648888489_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "梁宁老师的“浓缩理论”用在游戏立项上简直神了！",
+    "original_url": "https://mp.weixin.qq.com/s/_JWsM-RuAAxqSTDCVzmAJQ",
+    "published_at": "2025-07-06T22:46:34+08:00",
+    "ingested_at": "2026-07-03T10:10:54+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0BDkvILHZIZZ0TEUw5ejdgASZaTJzvbKocY6fIicTgcqzpvtAzqgI4d5icKDWPjPxAnnoBINt6lRp7w/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "这段时间用梁宁老师的“浓缩”理论认真思考和观察，发现很多游戏立项的时候如果能用上这个理论，真的有机会做的更好玩！",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888302_1": {
+    "id": "wechat-greatpurple_share-2648888302_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "AI辅助游戏设计的初创公司案例",
+    "original_url": "https://mp.weixin.qq.com/s/90hPUBnkn1F9gXSWINrnAg",
+    "published_at": "2025-03-14T14:33:37+08:00",
+    "ingested_at": "2026-07-03T10:11:03+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0AgeroU5lJ5tBB1HQ6PUib8ezUMXIltMzmxDdXOhgMHpRAlCJJcCibI1PCjtcw5CzqnFtKuK8swCWNg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "介绍一个AI辅助游戏设计的初创公司案例\r\nCosmic Lounge这家公司的定位是我比较认可的，值得参考",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888269_1": {
+    "id": "wechat-greatpurple_share-2648888269_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "游戏行业的平台机会还有吗？",
+    "original_url": "https://mp.weixin.qq.com/s/PemRrqkytlBB-05masFbXQ",
+    "published_at": "2025-02-23T12:09:01+08:00",
+    "ingested_at": "2026-07-03T10:11:03+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0DHXYYHle24dCTfhiauD9oOmwKF4rqxFhEypRVpfb3hS9iaW540ry9rzmohibuQ6oPAvrb2ibibxPyx2UA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "游戏行业的平台机会还有吗？",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888247_1": {
+    "id": "wechat-greatpurple_share-2648888247_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "读Jason的好书《Play Nice 暴雪沉浮录》16",
+    "original_url": "https://mp.weixin.qq.com/s/hf5KLoVUWLGIg3XaryVzmA",
+    "published_at": "2025-02-11T23:21:47+08:00",
+    "ingested_at": "2026-07-03T10:11:08+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0AGJt41qRCSoeS2DfYpqkCcDU3KvXGjUjZmSvepibRDnu68sV4LFYZTc7oxZdVMeSdoTjt7CxsWKfQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888225_1": {
+    "id": "wechat-greatpurple_share-2648888225_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "读Jason的好书《Play Nice 暴雪沉浮录》3",
+    "original_url": "https://mp.weixin.qq.com/s/NnwIMCIM5ym9wznwJfu2gA",
+    "published_at": "2025-02-11T23:10:10+08:00",
+    "ingested_at": "2026-07-03T10:11:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0AGJt41qRCSoeS2DfYpqkCcDU3KvXGjUjZmSvepibRDnu68sV4LFYZTc7oxZdVMeSdoTjt7CxsWKfQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888049_1": {
+    "id": "wechat-greatpurple_share-2648888049_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "《知行小酒馆》播客聊天记录",
+    "original_url": "https://mp.weixin.qq.com/s/XnMgL6r8wSD5zK7yvsikHA",
+    "published_at": "2024-09-27T13:48:50+08:00",
+    "ingested_at": "2026-07-03T10:11:13+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0BqAvDtwbpQIdLicd9mGRWA1bRaBXnkOjGvsYeYsY6QRcq1KHWSFKMC94dopaQfH3H5ibEuEZgcMUOQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "做客《知情小酒馆》播客栏目的聊天记录",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648888005_1": {
+    "id": "wechat-greatpurple_share-2648888005_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "基于AI赋能的中国动漫游戏产业全球化探索",
+    "original_url": "https://mp.weixin.qq.com/s/RtD6_eq7K1xf9DoTpWJvJQ",
+    "published_at": "2023-08-04T17:19:29+08:00",
+    "ingested_at": "2026-07-03T10:11:19+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/mDXZkZ41m0CsTlpnwUiaU0xL57j9UOziaI2ZiakYtSq4MiapL2ggq3gJC0wnzob6GpAAfRbibTBftfWsS7LibtkF652w/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "前几天在ChinaJoy上做了个演讲，题目是《基于AI赋能的中国动漫游戏产业全球化探索》。演讲给的时",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648887950_1": {
+    "id": "wechat-greatpurple_share-2648887950_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "关于云游戏的思考",
+    "original_url": "https://mp.weixin.qq.com/s/ACCn_whbE6d1UnXQZmzErQ",
+    "published_at": "2019-04-07T00:59:08+08:00",
+    "ingested_at": "2026-07-03T10:11:19+08:00",
+    "cover_image": "https://mmbiz.qlogo.cn/mmbiz_jpg/mDXZkZ41m0AxFcELdV80lL6tx3Gk5kvCdb4Kaa7432NgAd3aLs1I9VaajIdicRvicHZpa6Q8VIQr1289gUTsdAGA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "最近很多人都在谈云游戏 分享下我个人的一些观点",
+      "body": ""
+    }
+  },
+  "news-fami-80259": {
+    "id": "news-fami-80259",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『Rust』Steam版が4600円→2300円の半額セール。敵対勢力と争うも、静かな場所でのんびり暮らすも自由なサバイバルクラフト",
+    "original_url": "https://www.famitsu.com/article/202607/80259",
+    "published_at": "2026-07-03T13:50:00+08:00",
+    "ingested_at": "2026-07-03T17:29:16+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80259/thumbnail_TYck.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "Steamにて、『Rust』が50%オフの2300円で購入できるセールが開催中。セール期間は2026年7月10日まで。『Rust』+DLCバンドルは50%オフの4441円、Facepunch Completeバンドルは50%オフの5800円となっている。",
+    "payload": {
+      "excerpt": "Steamにて、『Rust』が50%オフの2300円で購入できるセールが開催中。セール期間は2026年7月10日まで。『Rust』+DLCバンドルは50%オフの4441円、Facepunch Completeバンドルは50%オフの5800円となっている。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80512": {
+    "id": "news-fami-80512",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『ATLYSS』理想の獣人を作成・冒険できるアクションRPGが“50%オフ”の600円に。種族選択はもちろん、パーツごとのサイズ変更などもできる",
+    "original_url": "https://www.famitsu.com/article/202607/80512",
+    "published_at": "2026-07-06T15:40:00+08:00",
+    "ingested_at": "2026-07-06T18:01:20+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80512/thumbnail_PvjW.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "Steamにて、操作する獣人を自由にカスタマイズしてプレイできるアクションRPG『ATLYSS』が2026年7月10日ま50%オフの600円[税込]で購入可能。ネズミ系、ドラゴン系、鳥系といった種族選択だけでなく、腕やお腹などは個々にサイズ変更が可能。",
+    "payload": {
+      "excerpt": "Steamにて、操作する獣人を自由にカスタマイズしてプレイできるアクションRPG『ATLYSS』が2026年7月10日ま50%オフの600円[税込]で購入可能。ネズミ系、ドラゴン系、鳥系といった種族選択だけでなく、腕やお腹などは個々にサイズ変更が可能。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80314": {
+    "id": "news-fami-80314",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "【漫画の裏側を語る！】『チェイサーゲーム』原作コラム 『デバッグルーム』シーズン2 外伝 おばあちゃんの弁当箱編",
+    "original_url": "https://www.famitsu.com/article/202607/80314",
+    "published_at": "2026-07-06T10:05:00+08:00",
+    "ingested_at": "2026-07-06T18:01:20+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80314/thumbnail_unUo.png",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "サイバーコネクトツー松山社長が『チェイサーゲーム』の短期連載期間中、ゲーム業界のウラ秘話を赤裸々に解説する『デバッグルーム』のシーズン2 第69話の原作コラムを掲載。",
+    "payload": {
+      "excerpt": "サイバーコネクトツー松山社長が『チェイサーゲーム』の短期連載期間中、ゲーム業界のウラ秘話を赤裸々に解説する『デバッグルーム』のシーズン2 第69話の原作コラムを掲載。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80578": {
+    "id": "news-fami-80578",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "【FGO】第2部アワード投票受付中。もっとも活躍したキャラや印象的なNPCなどを募集。結果は8月6日発売の週刊ファミ通で発表",
+    "original_url": "https://www.famitsu.com/article/202607/80578",
+    "published_at": "2026-07-07T10:30:00+08:00",
+    "ingested_at": "2026-07-08T09:00:10+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/None/thumbnail_sUwm.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "週刊ファミ通 2026年8月20・27日合併号（No.1959／2026年8月6日発売）では、サービス開始11周年を迎えるスマートフォン向けFate RPG『Fate/Grand Order』（FGO）を大特集。マスターたちの声をお届けするアンケートと、第2部完結記念アワードの結果を掲載予定です。",
+    "payload": {
+      "excerpt": "週刊ファミ通 2026年8月20・27日合併号（No.1959／2026年8月6日発売）では、サービス開始11周年を迎えるスマートフォン向けFate RPG『Fate/Grand Order』（FGO）を大特集。マスターたちの声をお届けするアンケートと、第2部完結記念アワードの結果を掲載予定です。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-igncn-61191": {
+    "id": "news-igncn-61191",
+    "source_type": "news",
+    "source_name": "IGN中国",
+    "title": "微软承认XBOX Game Pass订阅量远低预期",
+    "original_url": "https://www.ign.com.cn/xbox/61191/wei-ruan-cheng-ren-xbox-game-passding-yue-liang-yuan-di-yu-qi",
+    "published_at": "2026-07-08T09:32:45+08:00",
+    "ingested_at": "2026-07-08T18:08:52+08:00",
+    "cover_image": "https://www.ign.com.cn/sm/ign_cn/screenshot/default/game-pass-deal-ign-prime-day-2-2023-new-october-169703753096_hkfd.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "战略已经失败XBOX CEO Asha Sharma承认，Game Pass没有像微软预期那样增长。报道称，它距离此前目标还差数千万订阅用户。《华尔街日报》报道称，微软曾预计Game Pass今年会达到7700万订阅用户。但目前它只有3000万订阅用户。围绕微软收购动视暴雪的FTC审判此前披露，微软一度希望Game Pass在2030年前达到1亿订阅用户。本周，微软宣布对游戏业务进行大规模裁员，1600名员工立即离职，另外1600名员工将在本财年内陆续离职。微软已经剥离了四家在菲尔·斯宾塞时代加入公司的工作室。当时微软正在收购团队，以强化Game Pass阵容。另有一家工作室正在就未来去向进行磋商。在发给员工的内部邮件中，Sharma承认微软的游戏战略已经失败，而Game Pass正是这一战略的关键部分。据《华尔街日报》报道，Sharma写道：「业务并不健康。我们的利润率比竞争对手低3到10倍。第九世代主机的装机量更小，成本却更高。我们押注Game Pass、跨平台和更广泛的内容，但它没有按预期增长，我们的核心业务也被削弱。我们增加了团队、投入和时间，但现在面临硬件危机。我们需要重置XBOX。」Game Pass让订阅用户可以游玩不断扩充的游戏库，并获得首发入库作品。为了填充这个游戏库，微软投入了巨额资金，其中包括以690亿美元(约合人民币4692亿元)收购动视暴雪。菲尔·斯宾塞曾希望《使命召唤》首发加入Game Pass能够推动订阅增长，但增长陷入停滞，XBOX主机销量也撞上了天花板。斯宾塞去年10月将Game Pass价格上调了50%。分析师Matthew Ball称，该服务随后几个月流失了数百万订阅用户。Game Pass在2026年初的具体订阅用户数仍不清楚。微软曾表示，Game Pass在2024年2月拥有至少3400万订阅用户，并称到2025年7月，其年收入已接近50亿美元(约合人民币340亿元)。Sharma随后下调了价格，并将《使命召唤》从Game Pass首发阵容中移出。彭博社援引她的话称，在经历8个月下滑后，该服务已经完成重置，并重新回到增长和留存状态。随着Double Fine、Compulsion Games、Ninja Theory和Undead Labs离开微软，它们未来的游戏将不再有义务登陆Game Pass首发阵容。这意味着玩家未必还能看到《腐烂国度3》、《地狱之刃：塞娜》，以及Double Fine和Compulsion未来项目在发售首日加入该服务。现在的问题是，微软接下来要如何推动Game Pass增长。如果《使命召唤》都无法带来明显变化，还有什么能做到？微软会不会把更多游戏移出首发阵容？《上古卷轴6》还会首发加入吗？《光环》呢？还是说Game Pass会变得更像PlayStation Plus？在[IGN中国]搜索XBOX「不健康」，但开除这些人才不是良药XBOX裁员后Double Fine和Compulsion工作室转为独立运营据报Project Helix将不配备光驱，微软探索实体盘数字化",
+    "payload": {
+      "excerpt": "战略已经失败XBOX CEO Asha Sharma承认，Game Pass没有像微软预期那样增长。报道称，它距离此前目标还差数千万订阅用户。《华尔街日报》报道称，微软曾预计Game Pass今年会达到7700万订阅用户。但目前它只有3000万订阅用户。围绕微软收购动视暴雪的FTC审判此前披露，微软一度希望Game Pass在2030年前达到1亿订阅用户。本周，微软宣布对游戏业务进行大规模裁员，1600名员工立即离职，另外1600名员工将在本财年内陆续离职。微软已经剥离了四家在菲尔·斯宾塞时代加入公司的工作室。当时微软正在收购团队，以强化Game Pass阵容。另有一家工作室正在就未来去向进行磋商。在发给员工的内部邮件中，Sharma承认微软的游戏战略已经失败，而Game Pass正是这一战略的关键部分。据《华尔街日报》报道，Sharma写道：「业务并不健康。我们的利润率比竞争对手低3到10倍。第九世代主机的装机量更小，成本却更高。我们押注Game Pass、跨平台和更广泛的内容，但它没有按预期增长，我们的核心业务也被削弱。我们增加了团队、投入和时间，但现在面临硬件危机。我们需要重置XBOX。」Game Pass让订阅用户可以游玩不断扩充的游戏库，并获得首发入库作品。为了填充这个游戏库，微软投入了巨额资金，其中包括以690亿美元(约合人民币4692亿元)收购动视暴雪。菲尔·斯宾塞曾希望《使命召唤》首发加入Game Pass能够推动订阅增长，但增长陷入停滞，XBOX主机销量也撞上了天花板。斯宾塞去年10月将Game Pass价格上调了50%。分析师Matthew Ball称，该服务随后几个月流失了数百万订阅用户。Game Pass在2026年初的具体订阅用户数仍不清楚。微软曾表示，Game Pass在2024年2月拥有至少3400万订阅用户，并称到2025年7月，其年收入已接近50亿美元(约合人民币340亿元)。Sharma随后下调了价格，并将《使命召唤》从Game Pass首发阵容中移出。彭博社援引她的话称，在经历8个月下滑后，该服务已经完成重置，并重新回到增长和留存状态。随着Double Fine、Compulsion Games、Ninja Theory和Undead Labs离开微软，它们未来的游戏将不再有义务登陆Game Pass首发阵容。这意味着玩家未必还能看到《腐烂国度3》、《地狱之刃：塞娜》，以及Double Fine和Compulsion未来项目在发售首日加入该服务。现在的问题是，微软接下来要如何推动Game Pass增长。如果《使命召唤》都无法带来明显变化，还有什么能做到？微软会不会把更多游戏移出首发阵容？《上古卷轴6》还会首发加入吗？《光环》呢？还是说Game Pass会变得更像PlayStation Plus？在[IGN中国]搜索XBOX「不健康」，但开除这些人才不是良药XBOX裁员后Double Fine和Compulsion工作室转为独立运营据报Project Helix将不配备光驱，微软探索实体盘数字化",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80754": {
+    "id": "news-fami-80754",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "【ガンダム】「坊やだからさ」でシャアが着けていたサングラスが商品化。レンズにギレンが映ったバージョンも、視界を犠牲に再現度アップ",
+    "original_url": "https://www.famitsu.com/article/202607/80754",
+    "published_at": "2026-07-08T14:00:00+08:00",
+    "ingested_at": "2026-07-08T18:08:56+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80754/thumbnail_rWGN.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "プレミアムバンダイが『シャア・アズナブルのサングラス』の注文受付を開始。アニメ第12話にて、「坊やだからさ」の名言を放った際にシャアが着用していたサングラスを再現したもの。ギレン・ザビの姿がレンズにプリントされたバージョンも。",
+    "payload": {
+      "excerpt": "プレミアムバンダイが『シャア・アズナブルのサングラス』の注文受付を開始。アニメ第12話にて、「坊やだからさ」の名言を放った際にシャアが着用していたサングラスを再現したもの。ギレン・ザビの姿がレンズにプリントされたバージョンも。",
+      "body": "",
+      "extracted_terms": []
+    }
+  },
+  "news-fami-80776": {
+    "id": "news-fami-80776",
+    "source_type": "news",
+    "source_name": "FAMI通",
+    "title": "『日本事故物件監視協会』Switch版が7月16日発売決定。ゲーム配信で話題を呼んだ異変探しホラー。事故物件を監視し異常を見つけて報告せよ",
+    "original_url": "https://www.famitsu.com/article/202607/80776",
+    "published_at": "2026-07-08T23:00:00+08:00",
+    "ingested_at": "2026-07-09T09:00:07+08:00",
+    "cover_image": "https://cimg.kgl-systems.io/camion/files/80776/thumbnail_jUIl.jpg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "『日本事故物件監視協会 -Japan Stigmatized Property-』Switch版が7月16日（木）に発売。“日本事故物件監視協会”の監視員となり、物件内に設置された監視カメラを操作して異常がないかを監視する異変探しホラー。",
+    "payload": {
+      "excerpt": "『日本事故物件監視協会 -Japan Stigmatized Property-』Switch版が7月16日（木）に発売。“日本事故物件監視協会”の監視員となり、物件内に設置された監視カメラを操作して異常がないかを監視する異変探しホラー。",
+      "body": "",
+      "extracted_terms": []
+    }
+  }
+}
