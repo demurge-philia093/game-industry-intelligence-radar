@@ -8,7 +8,7 @@
 
 将分散的游戏行业信号统一成可检索、可比较、可扩展的情报流。项目重点展示从多源数据建模、产品信息架构到静态站点交付的完整链路。
 
-> **Live Demo** — 待首次 GitHub Pages 部署后补充。预计地址：`https://demurge-philia093.github.io/game-industry-intelligence-radar/`
+> **Live Demo** — [打开全球游戏行业战略雷达](https://demurge-philia093.github.io/game-industry-intelligence-radar/)
 
 ## 界面预览 / Preview
 
