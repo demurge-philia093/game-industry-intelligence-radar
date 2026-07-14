@@ -3418,5 +3418,68 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327927_6": {
+    "id": "wechat-GameLook_News-2657327927_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "《幻兽帕鲁》上线1.0版本，在线人数突破85万，亲自验证高管发言",
+    "original_url": "https://mp.weixin.qq.com/s/YCnEEZEHP1Ne-KKUaT8loQ",
+    "published_at": "2026-07-13T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4QmwVXSkOK6WFqZ7jnrxoS6XdJianQCdJCNBbpNcibZ9737kIYQibicBQcyic8IDAGTsd3vZlvSUFQ6WP5nd9Yd9AibUeq6C0fDj7mDo/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487272_1": {
+    "id": "wechat-Vnandao-2247487272_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "“侦探推理女王”阿加莎联动未定事件簿，阿加莎曾外孙亲自出面洽谈？",
+    "original_url": "https://mp.weixin.qq.com/s/EBMGPdsBOsINCE8D8vRMcw",
+    "published_at": "2026-07-13T21:49:23+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPA2ic9OO07rcicK3ZVxyWZiaMqsuSgiaruLb3GJKZlyzWXRa85mzdcicqWkE35SviaVvibSsicGxiaxc6icdAvKsMLnbMyOxN9JQuT9IQK4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "未定事件簿×阿加莎·克里斯蒂联动「何人生还」7月15日上线",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650011914_1": {
+    "id": "wechat-youxiputao-2650011914_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "腾讯今年最野的游戏空降Top 1：一切都太特么失控了……",
+    "original_url": "https://mp.weixin.qq.com/s/88r9wyuDAupZsO2WeBpgnQ",
+    "published_at": "2026-07-09T18:44:10+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasYjMjnEhCtZy7iaNB19EaTG2luX4qSYrxFx1NXCuMJlO8SfjeCGDrPiagKNVBLAZe48PU9zZUdgrJfGiaVcHibweZfsafF8lzP4xt4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "你就说野不野吧。",
+      "body": ""
+    }
   }
 }

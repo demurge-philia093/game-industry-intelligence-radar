@@ -1226,5 +1226,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_2": {
+    "id": "wechat-GameLook_News-2657327783_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "四年豪赌10亿！《诡秘之主》火速定档8月发布，生死玩家说了算",
+    "original_url": "https://mp.weixin.qq.com/s/MX7QHkS4P1RL107YYco72g",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RdcDFgzfQQKkicia4m1DJFGtyTibsOcQgRUkVHlzFXMic60icKZbHUIKNPzrH6wBfr1KMgsibuzpuEvJaDuT0sAdziaZP3aaFibLLrbUU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327540_3": {
+    "id": "wechat-GameLook_News-2657327540_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "网易两家日本工作室大结局：前《赛马娘》主创团队获Scopely投资，名越工作室解散",
+    "original_url": "https://mp.weixin.qq.com/s/kdq5Aaz43KyPD2c5AGY1OA",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4Q3m2J8daVopY6vENmF5IfusYiaAc1QIFnmzjhvPX7wzywtsdkFWZz8oY1afdT5cTHsmqhknIHEJnMiaRxZD4ibUwrdiaH9kWFsbZY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

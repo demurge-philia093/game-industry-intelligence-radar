@@ -3864,5 +3864,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-youxiputao-2650012257_2": {
+    "id": "wechat-youxiputao-2650012257_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "6月PC榜：一款只卖四块八的游戏，抢跑暑期档？",
+    "original_url": "https://mp.weixin.qq.com/s/wH1lYSd7v4_2TLt8EHxRXQ",
+    "published_at": "2026-07-10T22:50:19+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasbKrQicnq0hLtB1nu5eiaibialcbuo2AtSiamyB3meb4PMKL652icSSUp5wPYDaEUL0KagXRMc4gWwlVd0ZHYCg56tKARBKrNpWnfTdA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "暑期档要来了。",
+      "body": ""
+    }
   }
 }

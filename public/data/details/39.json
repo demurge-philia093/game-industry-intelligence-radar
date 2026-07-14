@@ -4044,5 +4044,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487165_1": {
+    "id": "wechat-Vnandao-2247487165_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "法院判决书全文公开！职业米黑“番鼠鉴赏家”接单实锤，终审判赔50万",
+    "original_url": "https://mp.weixin.qq.com/s/-nLG7JFWEVSkwzqckMXI1A",
+    "published_at": "2026-07-08T22:25:35+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFOiafYrNyCpHicPjmCrqtTiaia3YB09YD2LIt1XhUic9aOYx18hRDGggaafoWpl8JAMTWfkgUk8qickrFPLk7B4gOnqFjyKFaibL8BPbA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "法院认定：黎某贬低《原神》、宣传《鸣某》是因为有《鸣某》的商单。",
+      "body": ""
+    }
   }
 }

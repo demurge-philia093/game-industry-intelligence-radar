@@ -1751,5 +1751,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-kpACGN-2247497309_1": {
+    "id": "wechat-kpACGN-2247497309_1",
+    "source_type": "wechat",
+    "source_name": "靠谱二次元",
+    "title": "我们需要更多的BW和BML，去想起「爱比恨更重要」",
+    "original_url": "https://mp.weixin.qq.com/s/q5oDiAsk8dXDJLY7-BQ3Yg",
+    "published_at": "2026-07-13T17:39:57+08:00",
+    "ingested_at": "2026-07-14T09:06:00+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/yRxjlJZHRtvUPwafiaHlRJicvtJ4gVaVhEu2cQcYzW79BetgoR0dt1OAogpBriaknSic6l97hXmWDFJxgNMB0H0z9BBic5OfOBEvSYcOmWW4EdZ8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "靠谱ACG编辑部",
+      "excerpt": "让全世界的风吹向你",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650011948_1": {
+    "id": "wechat-youxiputao-2650011948_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "国内前无古人的500万销量爆款，对话制作人：没有捷径可走",
+    "original_url": "https://mp.weixin.qq.com/s/H8A_1eJcOW8qTKGqIP5o2Q",
+    "published_at": "2026-07-09T21:31:27+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasYZn9yorB9THJjsPqm9gYFpbMxicmjK2Dq2dFWUjyOB3pqODzO9EdyaFfu7wrsRNeboEb52aaq4GwVAJgGlV5DbDribPoicPzOdA8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "摸着石头过河。",
+      "body": ""
+    }
   }
 }

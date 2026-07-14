@@ -1929,5 +1929,89 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_5": {
+    "id": "wechat-GameLook_News-2657327783_5",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "玩家惋惜！拳头《云顶之弈》游戏总监Mortdog离职、《金铲铲之战》情绪稳定",
+    "original_url": "https://mp.weixin.qq.com/s/3hUw_Ny6kNeODKxRklnHAQ",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4T7ROdmZ4N8eCXF6GG6vkZFhyWfhkULswpXicLyp91phibroxJGd4tOCNiadFTgzOUcmoY7lB3qePibsfZT0wK6KeygsN8QSzOAEeo/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327540_6": {
+    "id": "wechat-GameLook_News-2657327540_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "《超自然行动组》立大功：巨人网络上半年预增157%+，净利润20-22亿元",
+    "original_url": "https://mp.weixin.qq.com/s/6sNhbQFtNZCeYML4Ys2qYQ",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RmOUNic6QyoPURiaJ40ceG4SNIvnawGKpGdroa3PLGa13JbDf2wLGHF81QYSmQGyljKyaYCwsE6FMuBXxlCCia5qQKB2thkKhvBY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327400_3": {
+    "id": "wechat-GameLook_News-2657327400_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "CDPR总监致谢库洛：称赞“《鸣潮》联动引大流”，助攻《2077》破4000万套",
+    "original_url": "https://mp.weixin.qq.com/s/goCUNhXN-DZgChAiKHq34g",
+    "published_at": "2026-07-07T23:59:44+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4TibV2ah3qJxia95UhUKRSNIGQEnEyiaSJZTicvl9wbNorr7vCic6z9UYzogGK7VZh9rGJxEEM92zEqNTibaCkzgb98qHDDJme6CaQLs/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650012220_1": {
+    "id": "wechat-youxiputao-2650012220_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "一分钟生成开放世界，实时交互仅1秒延迟：国产开源世界模型全球爆火",
+    "original_url": "https://mp.weixin.qq.com/s/J5ZENGdBSxUNTZ36xJopJg",
+    "published_at": "2026-07-10T14:43:40+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZOFufBFweBcqqbyVMDlqJonibzKxHzYbpJKoibiaKwfql1vDbibnaiby2khT9otRNzk4Wz5MMfW92ZGoZTnqbf5yFQU98kddScuhmA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "一句话做游戏的时代？",
+      "body": ""
+    }
   }
 }

@@ -1,6 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { Bot, ThumbsUp, Star } from 'lucide-react'
+import { ThumbsUp, Star } from 'lucide-react'
+import characterRear from '../assets/mihoyo-reference/char1.png'
+import characterFront from '../assets/mihoyo-reference/char2.png'
+import characterSide from '../assets/mihoyo-reference/char3.png'
 import { useFeed } from '../hooks/useFeed'
 import { sourceRecent, sourceByName, sourceGroup, listSourcesOfType } from '../lib/daily'
 import {
@@ -21,9 +24,6 @@ import { TodayAdded, type TodayAddedRenderGroup } from '../components/home/Today
 
 const BLUE = '#3778E5'
 const INK = '#16213E'
-/** 左上立绘占位图——替换为 AI 简笔立绘时填此 url。 */
-const CHARACTER_IMAGE = ''
-
 type ChannelScope = 'all' | 'filtered'
 type PodcastScopeByName = Record<string, ChannelScope>
 type ContentFilterItems = Record<string, { is_relevant?: boolean }>
@@ -282,10 +282,11 @@ export function HomePage() {
           <span style={{ fontSize: 18, fontWeight: 800, color: INK, letterSpacing: '0.02em' }}>战略雷达</span>
           <span style={publicSnapshotBadge}>PUBLIC SNAPSHOT</span>
         </span>
-        <span style={{ marginLeft: 'auto', display: 'inline-flex', alignItems: 'center', gap: 18 }}>
+        <span className="radar-nav-actions">
           <span className="radar-readonly" style={readOnlyLabel}>只读展示</span>
-          <span style={{ fontSize: 12, color: '#999', letterSpacing: '0.1em' }}>
-            <span style={{ color: INK, fontWeight: 600 }}>CH</span> / EN
+          <span className="radar-lang-select" aria-label="语言：中文 / English">
+            <span className="radar-lang-select__item radar-lang-select__item--active" aria-hidden="true">CH</span>
+            <span className="radar-lang-select__item radar-lang-select__item--en" aria-hidden="true">EN</span>
           </span>
         </span>
       </nav>
@@ -296,14 +297,38 @@ export function HomePage() {
       </div>
 
       {/* 主体：左立绘 + 右内容 */}
-      <main className="radar-main" style={mainStyle}>
-        <div className="radar-portrait" style={portrait}>
-          {!CHARACTER_IMAGE && (
-            <div style={{ textAlign: 'center', color: '#AEB4BC' }}>
-              <Bot size={40} style={{ color: '#9FB4DA' }} />
-              <p style={{ margin: '10px 0 0', fontSize: 12 }}>AI 立绘 · 占位</p>
-            </div>
-          )}
+      <main className="radar-main">
+        <div className="radar-character-stage" aria-hidden="true">
+          <div className="radar-character-backdrop" />
+          <div className="radar-character-cluster">
+            <img
+              className="radar-character-layer radar-character-layer--rear"
+              src={characterRear}
+              alt=""
+              aria-hidden="true"
+              decoding="async"
+              fetchPriority="low"
+              onError={(event) => { event.currentTarget.hidden = true }}
+            />
+            <img
+              className="radar-character-layer radar-character-layer--side"
+              src={characterSide}
+              alt=""
+              aria-hidden="true"
+              decoding="async"
+              fetchPriority="low"
+              onError={(event) => { event.currentTarget.hidden = true }}
+            />
+            <img
+              className="radar-character-layer radar-character-layer--front"
+              src={characterFront}
+              alt=""
+              aria-hidden="true"
+              decoding="async"
+              fetchPriority="low"
+              onError={(event) => { event.currentTarget.hidden = true }}
+            />
+          </div>
         </div>
 
         {/* 内容区：第一 tab=默认新增视图；否则=该大类(全部) 或 该信源 清单。切换时平滑入场。 */}
@@ -435,7 +460,7 @@ const navStyle: CSSProperties = {
   alignItems: 'center',
   gap: 28,
   padding: '12px 40px 2px',
-  maxWidth: 1200,
+  maxWidth: 1440,
   width: '100%',
   margin: '0 auto',
 }
@@ -445,39 +470,10 @@ const segBar: CSSProperties = {
   zIndex: 2,
   flex: 'none',
   width: '100%',
-  maxWidth: 1200,
+  maxWidth: 1440,
   margin: '0 auto',
   padding: '6px 40px 0',
   minHeight: 8,
-}
-
-const mainStyle: CSSProperties = {
-  position: 'relative',
-  zIndex: 1,
-  flex: 1,
-  minHeight: 0,
-  width: '100%',
-  maxWidth: 1200,
-  margin: '0 auto',
-  padding: '10px 40px 6px',
-  display: 'grid',
-  gridTemplateColumns: 'minmax(140px, 1fr) minmax(0, 4fr)',
-  gap: 28,
-  alignItems: 'stretch',
-}
-
-const portrait: CSSProperties = {
-  aspectRatio: '3 / 5',
-  alignSelf: 'start',
-  maxHeight: '100%',
-  minHeight: 0,
-  borderRadius: 16,
-  border: '1px dashed #D7DBE4',
-  background: CHARACTER_IMAGE
-    ? `center/cover no-repeat url(${CHARACTER_IMAGE})`
-    : 'linear-gradient(180deg, #F3F6FC 0%, #EAF0FB 100%)',
-  display: 'grid',
-  placeItems: 'center',
 }
 
 const contentSection: CSSProperties = {

@@ -16523,5 +16523,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327927_3": {
+    "id": "wechat-GameLook_News-2657327927_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "为何二合比三消更赚钱？《浪漫餐厅》对比《Royal Match》，变现不是一个物种",
+    "original_url": "https://mp.weixin.qq.com/s/l-tv5bTtGQj-xN1oShtnaw",
+    "published_at": "2026-07-13T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SIEBaA0jXSkISxZjv8l5aQXC4MjAC9icQPXZ74VodPiaZ9hxTKvmecNLd6Ucnod4diaCXSMOoGE5IUNC9gUJvJeB4fMsDVzibtVlc/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327308_6": {
+    "id": "wechat-GameLook_News-2657327308_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“AI让游戏公司日子更苦”？iOS新手游数量狂增118%，降本增效却更卷了",
+    "original_url": "https://mp.weixin.qq.com/s/nbH9FP0JyE5U0nuUFC4USw",
+    "published_at": "2026-07-06T23:30:21+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SdhmlG4SAa4W0saGQPFq5Fn2SM5snwM3yIAql8z1I0LHHqZGR8DpE3NTmhRvXAicDzhwlRG4d6o2yp0ek0UMiaxN2g20ncFevEk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

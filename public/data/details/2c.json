@@ -13568,5 +13568,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-youxiputao-2650012311_1": {
+    "id": "wechat-youxiputao-2650012311_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "网易2026最新旗舰大作，太难了？",
+    "original_url": "https://mp.weixin.qq.com/s/zltcwnENw0-trAm8bYkEeQ",
+    "published_at": "2026-07-11T15:46:54+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasajyO8MaprVJ1FwwPhutQr2DNpHxMojxib4FRtiaYlgK5FDzLkY1RibfAHy7a6hvk2oaFyiaD89Z22n1YhSlSbjU2vAzeAWoCkQbys/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "承压之后，仍有野心。",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650011068_1": {
+    "id": "wechat-youxiputao-2650011068_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "米哈游手把手教你怎么投简历",
+    "original_url": "https://mp.weixin.qq.com/s/RM-I6aRniCzZqXkN37PZbw",
+    "published_at": "2026-07-06T15:03:45+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZPsBC89VUx6A2aB7cyEfuBVb8dI0U26xLicNXRZt3eibYNpf66iaicrI21CH2BwN6pceucqAePKRnFPTibicjREu1FhFp3zYnG1wHfY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "",
+      "excerpt": "最掏心掏肺的一集。",
+      "body": ""
+    }
   }
 }

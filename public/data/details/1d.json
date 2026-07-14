@@ -3705,5 +3705,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487257_1": {
+    "id": "wechat-Vnandao-2247487257_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "玩《原神》能拿1.5万美元奖学金？美国一大学将《原神》等游戏成就纳入奖学金评定体系",
+    "original_url": "https://mp.weixin.qq.com/s/afE7herxkp2ca0n8SP1scg",
+    "published_at": "2026-07-12T20:49:23+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNut3aObB26k2c9f8picIlVBGC4k0icfks6XwiaVI1zJpP7fKuMF5W52BRZa97UVTDWsAPx2Hicq0UibwyO0VxWPs0dsB4hGg0OcIgc/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "玩《原神》能拿1.5万美元奖学金？美国大学这项政策引热议",
+      "body": ""
+    }
+  },
+  "wechat-greatpurple_share-2648889298_1": {
+    "id": "wechat-greatpurple_share-2648889298_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "用fable一句话20min做出来一个蒸汽俄罗斯方块",
+    "original_url": "https://mp.weixin.qq.com/s/pGsK8IU0mrfgsVSQDMToNg",
+    "published_at": "2026-07-06T10:47:58+08:00",
+    "ingested_at": "2026-07-14T09:07:07+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/hiaKiaHyKoJKVbmtVgpBnVPqJuXsFjIccxzV0bUm1xiat7Gta8eicTPTrKVCV9n9V5E3bhSOHlpvmPRdaugjWmvK6OsrqQCMSiaQSS6ic6Oc6ToF8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

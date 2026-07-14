@@ -4072,5 +4072,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327927_2": {
+    "id": "wechat-GameLook_News-2657327927_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "BW和BML圆满收官，国际范儿、成就上海新名片！",
+    "original_url": "https://mp.weixin.qq.com/s/oTZHktPOoNhdDhNYBJM6CQ",
+    "published_at": "2026-07-13T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4Rn04ksJficDvViaPZZ4rxP2Wj8aDM8BxWRTq3SSvYk8rzDsVpziaDVhDVNj2aDaVMURUQTOvHejnl8prwvASyaTicKXfJ4sRLLSXU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327308_5": {
+    "id": "wechat-GameLook_News-2657327308_5",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "玩家痛惜！索尼“300人光盘工厂转行”：原每天生产60万张光盘、累计264亿张",
+    "original_url": "https://mp.weixin.qq.com/s/8nRC8f4xMGkEqXF6SUJiYg",
+    "published_at": "2026-07-06T23:30:21+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4QvhS3je2IUJMBZgzNBd7RufM5IRxjCGWJjLdrChnYzxD5YqK6ypqdicE8jwYhP4X51QqpDWcXt7icZicc7AkOCYQ3PemMibPTyNibE/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

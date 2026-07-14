@@ -2426,5 +2426,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487257_2": {
+    "id": "wechat-Vnandao-2247487257_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "连云港西双湖景区惊现巨型派蒙花海图，卫星地图清晰可见，景区全天免费开放",
+    "original_url": "https://mp.weixin.qq.com/s/KBvUdvk7KkKbLHxq1nMXag",
+    "published_at": "2026-07-12T20:49:23+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFN8AVOj6BiaroNLpqjQfEZjG64KcwK2EuGSeQIhWJKaJCvTR1XhGgacGg2TKUjgaW0Ksq99NsoZlemrfIkicgUibrx1oCV99zKbS4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "近期，有网友在查看卫星地图时发现，连云港市东海县西双湖景区的地貌轮廓中，出现了由花卉组成的巨型图案。经辨认，分别为《原神》角色派蒙与《黑神话：悟空》中的孙悟空造型。",
+      "body": ""
+    }
   }
 }

@@ -1041,5 +1041,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487117_1": {
+    "id": "wechat-Vnandao-2247487117_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "原神桑多涅卡池流水出炉：日服涨价、官方分流，木偶依然登顶日服PS、冲进iOS前二",
+    "original_url": "https://mp.weixin.qq.com/s/dNKDPi78I6YOCMvlMR-reg",
+    "published_at": "2026-07-05T20:08:27+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMf85D942Hh1sYkFg1M7Ir3kUJ1cibLbSqCFM8J1cd4y7FgyNmwjnbBEtM0ibrZaoCpR0Uhmo0z9d3vvzQ5BzaENziabDmmoznkvM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "7月1日，《原神》6.7版本上线，“木偶”桑多涅在PS日服的表现堪称统治级，卡池上线后强势登顶PS畅销榜。",
+      "body": ""
+    }
   }
 }

@@ -1489,5 +1489,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-greatpurple_share-2648889293_1": {
+    "id": "wechat-greatpurple_share-2648889293_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "深挖近期游戏节的游戏预告3",
+    "original_url": "https://mp.weixin.qq.com/s/4T5EythsP27u1140mVgWHw",
+    "published_at": "2026-07-05T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:07:07+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/hiaKiaHyKoJKUJ1JRKHgxNE2cfMcQV2wDa8iaveL5fGFMln5fbRgXvThRAezX5llGpa7fOjW0NDiajjmPhpNKXhb3CEV9FkK90hhhVUbfhJvoBE/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "大家好，咱们今天这期聊韩国，其实今年游戏节上爆出来的韩国游戏并不多，但往前看10年，韩国游戏在欧美主流游戏节上几乎是完全缺席的。本期咱们就借机把韩国游戏几个话题发散开讲一讲。",
+      "body": ""
+    }
   }
 }

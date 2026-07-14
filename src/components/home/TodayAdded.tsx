@@ -42,21 +42,16 @@ export function TodayAdded({
           <p style={emptyMeta}>{latestText}</p>
         </div>
       ) : (
-        <div className="src-scroll" style={groupsList}>
+        <div
+          className={`src-scroll today-added-groups${groups.length === 1 ? ' today-added-groups--single' : ''}`}
+          style={groupsList}
+        >
           {groups.map((group) => (
-            <section key={group.key} style={groupBlock}>
+            <section className="today-added-group" key={group.key}>
               <SourceFeed
                 label={`${group.label} ${group.items.length + (group.folded?.items.length ?? 0)} 条`}
                 items={group.items}
-                folded={
-                  group.folded
-                    ? {
-                        ...group.folded,
-                        label: '条补充条目',
-                        badgeLabel: '补充',
-                      }
-                    : undefined
-                }
+                folded={group.folded}
                 hideRecencyBadge
               />
             </section>
@@ -72,6 +67,7 @@ const panel: CSSProperties = {
   flexDirection: 'column',
   height: '100%',
   minHeight: 0,
+  minWidth: 0,
 }
 
 const overview: CSSProperties = {
@@ -86,6 +82,7 @@ const overview: CSSProperties = {
 const groupsList: CSSProperties = {
   flex: 1,
   minHeight: 0,
+  minWidth: 0,
   overflowY: 'auto',
   overflowX: 'hidden',
   display: 'flex',
@@ -94,16 +91,6 @@ const groupsList: CSSProperties = {
   marginTop: 12,
   paddingRight: 8,
   paddingBottom: 8,
-}
-
-const groupBlock: CSSProperties = {
-  flex: '0 0 auto',
-  height: 'min(34vh, 340px)',
-  minHeight: 250,
-  display: 'flex',
-  flexDirection: 'column',
-  paddingTop: 14,
-  borderTop: '1px solid var(--border)',
 }
 
 const emptyState: CSSProperties = {

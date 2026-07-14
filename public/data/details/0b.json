@@ -2733,5 +2733,110 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_7": {
+    "id": "wechat-GameLook_News-2657327783_7",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "MiniMax“解禁日”暴跌，米哈游阿里表态“长期持有”也没托住",
+    "original_url": "https://mp.weixin.qq.com/s/zpGELcuTb4EMBzW9dsX3Hg",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4Syq5oW9ZOTVOs2AGVIWPM4530XvUxRUzp7iaIwJo0KogandlZTY85OQHOoF01loZYLIGdkQicgmibiajujvDblwxiaciavM4RNFT5Eg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327646_1": {
+    "id": "wechat-GameLook_News-2657327646_1",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "暑期档开启，腾讯这款自带光环的年度爆款首日打出王炸！",
+    "original_url": "https://mp.weixin.qq.com/s/tQi7iZquOXfJ2duPLSElWQ",
+    "published_at": "2026-07-09T23:58:07+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4Su6S6ichiaSoMYAcEuBQicfGcW3SACibPhBIibUeHOlU1icb5cLdwftJiaMqMuL37LN31eZib2Bzibyh7Uibt84WFWnsoD363y7LUibNjWQM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327400_5": {
+    "id": "wechat-GameLook_News-2657327400_5",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "独游戏开发者吐槽：“我的游戏有5.5万玩家退款”！玩家不服：退款是玩家权利",
+    "original_url": "https://mp.weixin.qq.com/s/Yn0fe_jGxwZt9iKAjhBOQQ",
+    "published_at": "2026-07-07T23:59:44+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4S9sjqKO7gsNibUTCYsPM8EwKYic7p9lWGrcCjPOu4gJiblZHB9BymQmxW3oCVSbpFh1TfEe58jicI0puPePiamBFlTCUoYannwUv3w/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650012320_2": {
+    "id": "wechat-youxiputao-2650012320_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "「停止杀死游戏」在美未通过立法；三七打击私服，涉案数百万 | 一周说「法」",
+    "original_url": "https://mp.weixin.qq.com/s/O2m2wpnmX5sBzQe2-ZoI6Q",
+    "published_at": "2026-07-12T12:45:58+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasYsbNDPicVHo3YGAV7c3Bmf7fKmSvsk0I5NClRAO4mRU10ZBYs0lvnWosFlIjaNRFJGBaGRLibrAGnJ8ydNdtSCfjENicliajn9lks/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650011595_1": {
+    "id": "wechat-youxiputao-2650011595_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "从不被看好到一票难求，腾讯这款旗舰游戏在线下太夯了",
+    "original_url": "https://mp.weixin.qq.com/s/sD4ze-8w9SggT5fmB_Lf0Q",
+    "published_at": "2026-07-07T22:59:47+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasb7sEyDEuNBYw8GuCwuD7LSvliam4rENH9Po3gqt7SmLGnjKMj7Q7iaVIWo3RSP7tvMyTia0FPDog6fy7uVHGoicsByj1Zia7ml5zHk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "又双叒刷新我的印象。",
+      "body": ""
+    }
   }
 }

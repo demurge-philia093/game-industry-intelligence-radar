@@ -1356,5 +1356,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_1": {
+    "id": "wechat-GameLook_News-2657327783_1",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "《七日世界》主机版定档8月26日，中国游戏出海挺入最后的“圈地战争”",
+    "original_url": "https://mp.weixin.qq.com/s/BISFVPseLC7JDmf6qDIIUg",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SrXLohQD9icNp1hLwTicN9YEEc8Iwd0JjTn5JjFvbIcSVYl5Y2glAFdWNyCcoZvZXb8dUxTo3u4RqQp2AZ31vO2L34geoHklNC8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327540_2": {
+    "id": "wechat-GameLook_News-2657327540_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“太对味了” ！《诡影藏锋》实机首曝直接炸场，“中式志怪搜打撤”这么灵？",
+    "original_url": "https://mp.weixin.qq.com/s/QzKdqrxask51CYNTIwjRPw",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4TmjibSfrC0FhUcjWgPua1CfXYGyhKGjLwoeXvsXYC0BG5VWZEJKgLib3g6zTBiceorKBTpXqaIjQhnAAV3LND3dGHeYxGib7MNucM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

@@ -4898,5 +4898,26 @@
       "excerpt": "",
       "body": ""
     }
+  },
+  "wechat-youxiputao-2650011846_2": {
+    "id": "wechat-youxiputao-2650011846_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "曾连续两月流水破亿，这款二游今日官宣停更",
+    "original_url": "https://mp.weixin.qq.com/s/w24rRdrXmyTtWtBqLG8CNQ",
+    "published_at": "2026-07-09T14:21:20+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZmic4wasxqrXPPBzc91btXtiaJqR8IIx2FvJWhKcI0iaCY9MoiaeyqXy7Oia0ickz2KN5IfJB8LF0cuuHaWTJiczfia330F2V8GKGVLt8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "下一代产品在哪？",
+      "body": ""
+    }
   }
 }

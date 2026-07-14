@@ -2234,5 +2234,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327927_5": {
+    "id": "wechat-GameLook_News-2657327927_5",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "独游开发者分享：“因玩家作弊怒删排行榜”，同行鼓掌：做得太对了！",
+    "original_url": "https://mp.weixin.qq.com/s/TttgPyYRiNKsqa5DPi0NoQ",
+    "published_at": "2026-07-13T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4Slkzqxnnpd0ibUeEeicf5fMgdqKV5cQrGlSIeVPFp54NYlkfpkCe9tUeOsicAsKnWW5B0DoUfr9qLy2odPib2HanV1Io6UV1t3lWM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

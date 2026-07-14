@@ -2361,5 +2361,68 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327646_5": {
+    "id": "wechat-GameLook_News-2657327646_5",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "二游《深空之眼》宣布停更！“曾经的优等生”生不逢时？",
+    "original_url": "https://mp.weixin.qq.com/s/EVqu-yVqpidcHe2Dz4ruMw",
+    "published_at": "2026-07-09T23:58:07+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SMEcpu9IjicnlWHcGljLK4eCl5mJC1uCrcwus0kk4ic6tTKYWn8iaOlWS7GDD5cFnh5D13iaxECibIUC7iaHvCphIHZoAXcX4LMecQs/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327308_2": {
+    "id": "wechat-GameLook_News-2657327308_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "二合休闲又来大佬？莉莉丝入局，“重生流”新游《Totally Mall》海外开测",
+    "original_url": "https://mp.weixin.qq.com/s/tYwCcmuvIVfUGzR0f21qlw",
+    "published_at": "2026-07-06T23:30:21+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RHC6dxVh28OGwYSuicrUThnLrRpTKS3VBb5nIpatficsGxv6e2mjgk6adEsQ0zBAQia2BELg4VZbib0JHXxeoQ0vtjaOkfE0bSP6w/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650012226_1": {
+    "id": "wechat-youxiputao-2650012226_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "《鸣潮》最冒险的一次",
+    "original_url": "https://mp.weixin.qq.com/s/PUJwZeUqnq9NujJWGKte_Q",
+    "published_at": "2026-07-10T16:53:17+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZibib2TAbSzRP7a8CPEITs240AtpaEj7m3t2OLT9t1QqX56LXfBibYvHj19224uVq9kibSKzzIMffmXkD69ibIO2RPjZgOHahMtM4o/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "新起点，新路线。",
+      "body": ""
+    }
   }
 }

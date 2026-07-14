@@ -7008,5 +7008,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327927_4": {
+    "id": "wechat-GameLook_News-2657327927_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "又一个3A灾难？《极品飞车》系列难以为继，开发团队转向战地",
+    "original_url": "https://mp.weixin.qq.com/s/uWBY-JCnjKoHK0e0S8RzDA",
+    "published_at": "2026-07-13T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4THv8LAynlraJvPKKrWAE5CRWWO645rmZHY7YxQr4Ky7ibqTQXYDKNlUUvpRxz8B44K3RGt0NGUOb9SqZjw4CUarIbMwvFFdiaYM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327308_7": {
+    "id": "wechat-GameLook_News-2657327308_7",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“1元抢一万原石”案大结局！米哈游终审胜诉、拼多多赔偿100万元",
+    "original_url": "https://mp.weixin.qq.com/s/v4AHRMHB7nR-k6_G02kSiw",
+    "published_at": "2026-07-06T23:30:21+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4QHfl93poFH7LiaxGUP4oa6xicGZnclOUTdTcVUR0ekp6kyP50icGrAqOZDQuibibmvHYUFl6icqvAVfvVuYCxUj1351dPhDRHCZfNTs/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

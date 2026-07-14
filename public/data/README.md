@@ -4,7 +4,7 @@ This directory contains the real, read-only data snapshot used by the public Git
 
 ## Snapshot scope
 
-- `feed.json`: a lightweight index of all 5,115 collected records through 2026-07-09.
+- `feed.json`: a lightweight index of all 5,202 collected records exported on 2026-07-14.
 - `details/00.json` … `details/3f.json`: 64 deterministic detail shards containing the corresponding real record bodies and type-specific payloads.
 - `podcast_channels.json`: the three-channel production grouping used by the dashboard.
 - `content_filter.json`: the production relevance snapshot used for grouping and low-relevance folding.
@@ -13,7 +13,7 @@ The feed covers all eight registered source types:
 
 | Source type | Records |
 | --- | ---: |
-| `wechat` | 4,015 |
+| `wechat` | 4,102 |
 | `news` | 856 |
 | `podcast` | 83 |
 | `banhao` | 41 |

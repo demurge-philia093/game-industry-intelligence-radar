@@ -1,22 +1,169 @@
+import { useId, type CSSProperties, type ReactNode } from 'react'
 import { Link } from 'react-router-dom'
-import { useState, type CSSProperties, type ReactNode } from 'react'
 import type { FeedItem } from '../../types/envelope'
 import { ModuleTitle } from './Digest'
 
-const BLUE = '#3778E5'
-const INK = '#16213E'
+type UnknownRecord = Record<string, unknown>
+type DetailFact = { label: string; value: string }
 
-function hm(iso: string): string {
-  // 2026-06-22T15:27:00+08:00 → 06-22 15:27
-  const m = /(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/.exec(iso)
-  return m ? `${m[2]}-${m[3]} ${m[4]}:${m[5]}` : ''
+const RAW_TEXT_LIMIT = 2_048
+
+function asRecord(value: unknown): UnknownRecord | null {
+  return typeof value === 'object' && value !== null && !Array.isArray(value)
+    ? (value as UnknownRecord)
+    : null
 }
 
-/** 取该条的摘要片段（真实数据：payload.excerpt 优先，回退 deep_summary），用作卡片副点。 */
-function snippet(it: FeedItem): string {
-  const ex = (it.payload as { excerpt?: string })?.excerpt || it.deep_summary || ''
-  const s = ex.replace(/\s+/g, ' ').trim()
-  return s.length > 64 ? s.slice(0, 64) + '…' : s
+function cleanText(value: unknown, limit: number): string {
+  if (typeof value !== 'string') return ''
+  // 先限制输入规模，再清理标签与空白，避免异常长正文拖慢列表渲染。
+  const bounded = value.slice(0, RAW_TEXT_LIMIT)
+  const cleaned = bounded.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim()
+  return cleaned.length > limit ? `${cleaned.slice(0, limit)}…` : cleaned
+}
+
+function firstCleanText(values: unknown[], limit: number): string {
+  for (const value of values) {
+    const text = cleanText(value, limit)
+    if (text) return text
+  }
+  return ''
+}
+
+function stringList(value: unknown, limit = 32): string[] {
+  if (!Array.isArray(value)) return []
+  return value
+    .slice(0, 32)
+    .map((entry) => cleanText(entry, limit))
+    .filter(Boolean)
+}
+
+function isValidCalendarDate(year: number, month: number, day: number): boolean {
+  const date = new Date(Date.UTC(year, month - 1, day))
+  return date.getUTCFullYear() === year && date.getUTCMonth() === month - 1 && date.getUTCDate() === day
+}
+
+function validDateValue(value: unknown): string {
+  const text = typeof value === 'string' ? value.slice(0, 40).trim() : ''
+  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(text)
+  if (!match || Number.isNaN(Date.parse(text))) return ''
+  const [, year, month, day] = match
+  return isValidCalendarDate(Number(year), Number(month), Number(day)) ? text : ''
+}
+
+function hm(value: unknown): string {
+  if (typeof value !== 'string') return ''
+  const text = value.slice(0, 64).trim()
+  const match = /^(\d{4})-(\d{2})-(\d{2})T([01]\d|2[0-3]):([0-5]\d)(?::[0-5]\d(?:\.\d{1,3})?)?(?:Z|[+-](?:0\d|1[0-4]):[0-5]\d)$/.exec(text)
+  if (!match || Number.isNaN(Date.parse(text))) return ''
+  const [, year, month, day, hour, minute] = match
+  if (!isValidCalendarDate(Number(year), Number(month), Number(day))) return ''
+  return `${month}-${day} ${hour}:${minute}`
+}
+
+function fact(label: string, value: unknown, limit = 48): DetailFact | null {
+  const text = cleanText(value, limit)
+  return text ? { label, value: text } : null
+}
+
+function numberValue(value: unknown): string {
+  return typeof value === 'number' && Number.isFinite(value) && value >= 0 ? String(value) : ''
+}
+
+function typedFacts(item: FeedItem, payload: UnknownRecord | null): DetailFact[] {
+  if (!payload) return []
+  const facts: DetailFact[] = []
+  const add = (entry: DetailFact | null) => {
+    if (entry) facts.push(entry)
+  }
+
+  switch (item.source_type) {
+    case 'entity':
+      add(fact('状态', payload.status))
+      add(fact('法定代表人', payload.legal_rep))
+      add(fact('注册资本', payload.reg_capital))
+      add(fact('成立', validDateValue(payload.establish_date)))
+      break
+    case 'entity_change':
+      add(fact('变更前', payload.before))
+      add(fact('变更后', payload.after))
+      add(fact('日期', validDateValue(payload.change_date)))
+      break
+    case 'trademark':
+      add(fact('状态', payload.status))
+      add(fact('类别', payload.int_cls))
+      add(fact('申请人', payload.applicant))
+      add(fact('最新事件', payload.latest_event))
+      break
+    case 'recruitment':
+      add(fact('薪资', payload.salary))
+      add(fact('学历', payload.education))
+      add(fact('经验', payload.experience))
+      add(fact('来源', payload.origin))
+      break
+    case 'banhao': {
+      add(fact('审批', payload.approval_type))
+      const total = numberValue(payload.total)
+      add(fact('数量', total ? `${total} 款` : ''))
+      const groups = Array.isArray(payload.by_company)
+        ? payload.by_company
+            .slice(0, 3)
+            .map(asRecord)
+            .filter((group): group is UnknownRecord => Boolean(group))
+            .map((group) => {
+              const name = cleanText(group.group, 22)
+              const count = numberValue(group.count)
+              return name && count ? `${name} ${count}` : name
+            })
+            .filter(Boolean)
+        : []
+      add(fact('集团', groups.join(' / '), 72))
+      break
+    }
+    default:
+      break
+  }
+
+  return facts.slice(0, 4)
+}
+
+function detailFields(item: FeedItem) {
+  const payload = asRecord(item.payload)
+  const entities = asRecord(item.entities)
+  const title = cleanText(item.title, 240)
+  const sourceName = cleanText(item.source_name, 80)
+  const summary = firstCleanText(
+    [payload?.excerpt, payload?.background, item.deep_summary, payload?.body],
+    220,
+  )
+  const facts = typedFacts(item, payload)
+  const factValues = new Set(facts.map((entry) => entry.value))
+  const topics = [
+    ...stringList(item.matched_keywords),
+    ...stringList(item.tags),
+    ...stringList(entities?.works),
+    ...stringList(entities?.companies),
+  ]
+    .filter((value, index, values) => values.indexOf(value) === index)
+    .filter((value) => value !== title && value !== sourceName && !factValues.has(value))
+    .slice(0, 4)
+
+  return {
+    title,
+    sourceName,
+    summary,
+    facts,
+    topics,
+    published: hm(item.published_at),
+  }
+}
+
+function detailDescription(summary: string, facts: DetailFact[], topics: string[]): string {
+  const parts: string[] = []
+  if (summary) parts.push(`摘要：${summary}`)
+  if (facts.length > 0) parts.push(facts.map(({ label, value }) => `${label}：${value}`).join('；'))
+  if (topics.length > 0) parts.push(`主题：${topics.join('、')}`)
+  return parts.join('；')
 }
 
 /**
@@ -24,17 +171,7 @@ function snippet(it: FeedItem): string {
  * 锁定一屏：根为 flex 列，卡片列 flex:1 内部滚动（src-scroll 冷灰细条），
  * 顶栏/底盘始终在屏，仅卡片列在框内滚动——长清单（可能 ~90 条）不顶破整页。
  */
-const PAGE_SIZE = 60 // 控 DOM：按 60 条渐进加载，避免一次渲染数千张卡片
-
-export interface SourceFeedFolded {
-  items: FeedItem[]
-  open: boolean
-  onToggle: () => void
-  /** 数量后的语义标签；默认用于普通播客的“集低相关单集”。 */
-  label?: string
-  /** 展开条目上的短徽标；默认“低相关”。 */
-  badgeLabel?: string
-}
+const RENDER_CAP = 60 // 控 DOM：最多渲染 60 张（如 wechat 数千条），其余在列表内滚动也不堆 DOM
 
 export function SourceFeed({
   label,
@@ -44,25 +181,20 @@ export function SourceFeed({
 }: {
   label: string
   items: FeedItem[]
-  folded?: SourceFeedFolded
+  folded?: { items: FeedItem[]; open: boolean; onToggle: () => void }
   hideRecencyBadge?: boolean
 }) {
   const foldedItems = folded?.items ?? []
   const totalCount = items.length + foldedItems.length
-  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
-  const [visibleFoldedCount, setVisibleFoldedCount] = useState(PAGE_SIZE)
-
-  const shown = items.slice(0, visibleCount)
-  const foldedShown = folded?.open ? foldedItems.slice(0, visibleFoldedCount) : []
+  const shown = items.slice(0, RENDER_CAP)
+  const foldedShown = folded?.open ? foldedItems.slice(0, RENDER_CAP) : []
   const renderedCount = shown.length + foldedShown.length
-  const foldedLabel = folded?.label ?? '集低相关单集'
-  const foldedBadgeLabel = folded?.badgeLabel ?? '低相关'
   const foldedText =
     folded?.open && foldedShown.length < foldedItems.length
-      ? `已展开 ${foldedShown.length}/${foldedItems.length} ${foldedLabel}`
-      : `已${folded?.open ? '展开' : '折叠'} ${foldedItems.length} ${foldedLabel}`
+      ? `已展开 ${foldedShown.length}/${foldedItems.length} 集低相关单集`
+      : `已${folded?.open ? '展开' : '折叠'} ${foldedItems.length} 集低相关单集`
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0, minWidth: 0 }}>
       <ModuleTitle
         cn={hideRecencyBadge ? label : `${label}·最近`}
         en={hideRecencyBadge ? '' : 'RECENT'}
@@ -82,6 +214,7 @@ export function SourceFeed({
             paddingBottom: 8,
             flex: 1,
             minHeight: 0,
+            minWidth: 0,
             overflowY: 'auto',
             overflowX: 'hidden',
             display: 'flex',
@@ -89,18 +222,9 @@ export function SourceFeed({
             gap: 10,
           }}
         >
-          {shown.map((it, i) => renderItem(it, i, null))}
-          {shown.length < items.length && (
-            <li>
-              <button
-                type="button"
-                onClick={() => setVisibleCount((count) => Math.min(count + PAGE_SIZE, items.length))}
-                style={loadMoreButton}
-              >
-                加载更多 · 已显示 {shown.length}/{items.length}
-              </button>
-            </li>
-          )}
+          {shown.map((item, index) => (
+            <SourceFeedItem item={item} index={index} badge={null} key={item.id} />
+          ))}
           {foldedItems.length > 0 && folded && (
             <li>
               <button type="button" onClick={folded.onToggle} style={foldToggle}>
@@ -108,125 +232,89 @@ export function SourceFeed({
               </button>
             </li>
           )}
-          {foldedShown.map((it, i) =>
-            renderItem(it, shown.length + i, <span style={foldedBadge}>{foldedBadgeLabel}</span>),
-          )}
-          {folded?.open && foldedShown.length < foldedItems.length && (
-            <li>
-              <button
-                type="button"
-                onClick={() =>
-                  setVisibleFoldedCount((count) => Math.min(count + PAGE_SIZE, foldedItems.length))
-                }
-                style={loadMoreButton}
-              >
-                加载更多补充条目 · 已显示 {foldedShown.length}/{foldedItems.length}
-              </button>
-            </li>
-          )}
+          {foldedShown.map((item, index) => (
+            <SourceFeedItem
+              item={item}
+              index={shown.length + index}
+              badge={<span style={lowBadge}>低相关</span>}
+              key={item.id}
+            />
+          ))}
         </ul>
       )}
     </div>
   )
 }
 
-function renderItem(it: FeedItem, i: number, badge: ReactNode) {
-  const sub = snippet(it)
+function SourceFeedItem({ item, index, badge }: { item: FeedItem; index: number; badge: ReactNode }) {
+  const details = detailFields(item)
+  const descriptionId = useId()
+  const hasBriefMeta = Boolean(details.sourceName || details.published)
+  const hasMeaningfulDetail = Boolean(details.summary || details.facts.length || details.topics.length)
+  const description = hasMeaningfulDetail
+    ? detailDescription(details.summary, details.facts, details.topics)
+    : ''
+  const touchLine =
+    details.summary ||
+    details.facts.map(({ label, value }) => `${label}：${value}`).join(' · ') ||
+    details.topics.join(' · ')
+
   return (
-    <li key={it.id}>
-      <Link to={`/item/${it.id}`} style={cardStyle} className="rd-card">
-        {/* 右侧大号编号水印 */}
-        <span aria-hidden style={numWatermark}>
-          <span style={{ color: '#E4E8F0', fontWeight: 800 }}>&gt;&gt;&gt;</span>
-          <span style={{ color: '#EDEFF4', fontWeight: 800 }}>
-            {String(i + 1).padStart(2, '0')}
-          </span>
+    <li>
+      <Link
+        to={`/item/${item.id}`}
+        className={`rd-card${hasMeaningfulDetail ? ' rd-card--has-detail' : ''}`}
+        aria-label={details.title}
+        aria-describedby={hasMeaningfulDetail ? descriptionId : undefined}
+      >
+        <span className="rd-card__number" aria-hidden="true">
+          <span className="rd-card__chevrons">&gt;&gt;&gt;</span>
+          <span>{String(index + 1).padStart(2, '0')}</span>
         </span>
 
-        {/* 左竖条 */}
-        <span style={{ width: 4, alignSelf: 'stretch', minHeight: 36, background: BLUE, borderRadius: 3, flex: 'none' }} />
+        <span className="rd-card__line" aria-hidden="true" />
 
-        <div style={{ minWidth: 0, flex: 1, paddingRight: 56 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
+        <div className="rd-card__brief" aria-hidden="true">
+          <div className="rd-card__title-row">
             {badge}
-            <h3 style={titleStyle}>{it.title}</h3>
+            {details.title && <h3 className="rd-card__title">{details.title}</h3>}
           </div>
-
-          {sub && <p style={subStyle}>{sub}</p>}
-
-          <div style={metaRow}>
-            <span>{it.source_name}</span>
-            <span style={{ color: '#D2D7E0' }}>·</span>
-            <span style={{ fontVariantNumeric: 'tabular-nums' }}>{hm(it.published_at)}</span>
-          </div>
+          {hasBriefMeta && (
+            <div className="rd-card__meta">
+              {details.sourceName && <span>{details.sourceName}</span>}
+              {details.sourceName && details.published && <span>·</span>}
+              {details.published && <span>{details.published}</span>}
+            </div>
+          )}
+          {hasMeaningfulDetail && touchLine && <p className="rd-card__touch-summary">{touchLine}</p>}
         </div>
+
+        {hasMeaningfulDetail && (
+          <div className="rd-card__detail" aria-hidden="true">
+            {details.summary && <p className="rd-card__summary">{details.summary}</p>}
+            {(details.facts.length > 0 || details.topics.length > 0) && (
+              <div className="rd-card__signals">
+                {details.facts.map(({ label, value }) => (
+                  <span className="rd-card__fact" key={`${label}-${value}`}>
+                    <strong>{label}</strong>
+                    <span>{value}</span>
+                  </span>
+                ))}
+                {details.topics.map((topic) => (
+                  <span className="rd-card__topic" key={topic}>{topic}</span>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
+        {hasMeaningfulDetail && <span className="sr-only" id={descriptionId}>{description}</span>}
       </Link>
     </li>
   )
 }
 
-const cardStyle: CSSProperties = {
-  position: 'relative',
-  display: 'flex',
-  gap: 12,
-  padding: '11px 18px',
-  background: '#fff',
-  border: '1px solid #ECEEF3',
-  borderRadius: 12,
-  boxShadow: '0 1px 2px rgba(22,33,62,0.04)',
-  textDecoration: 'none',
-  color: 'inherit',
-  overflow: 'hidden',
-}
-
-const numWatermark: CSSProperties = {
-  position: 'absolute',
-  right: 14,
-  top: '50%',
-  transform: 'translateY(-50%)',
-  display: 'inline-flex',
-  alignItems: 'baseline',
-  gap: 4,
-  fontSize: 34,
-  letterSpacing: '0.02em',
-  lineHeight: 1,
-  userSelect: 'none',
-  pointerEvents: 'none',
-}
-
-const titleStyle: CSSProperties = {
-  margin: 0,
-  fontSize: 15,
-  fontWeight: 700,
-  color: INK,
-  lineHeight: 1.3,
-  overflow: 'hidden',
-  textOverflow: 'ellipsis',
-  display: '-webkit-box',
-  WebkitLineClamp: 2,
-  WebkitBoxOrient: 'vertical',
-}
-
-const subStyle: CSSProperties = {
-  margin: '4px 0 0',
-  fontSize: 12.5,
-  color: '#8A92A0',
-  lineHeight: 1.4,
-  overflow: 'hidden',
-  textOverflow: 'ellipsis',
-  whiteSpace: 'nowrap',
-}
-
-const metaRow: CSSProperties = {
-  display: 'flex',
-  alignItems: 'center',
-  gap: 7,
-  marginTop: 6,
-  fontSize: 12,
-  color: '#AEB4BC',
-}
-
-const foldedBadge: CSSProperties = {
+const lowBadge: CSSProperties = {
   display: 'inline-flex',
   alignItems: 'center',
   fontSize: 10.5,
@@ -237,18 +325,6 @@ const foldedBadge: CSSProperties = {
   padding: '2px 6px',
   borderRadius: 5,
   flex: 'none',
-}
-
-const loadMoreButton: CSSProperties = {
-  width: '100%',
-  padding: '10px 14px',
-  border: '1px solid #D9E3F4',
-  borderRadius: 10,
-  background: '#F6F9FE',
-  color: BLUE,
-  fontSize: 12,
-  fontWeight: 700,
-  cursor: 'pointer',
 }
 
 const foldToggle: CSSProperties = {

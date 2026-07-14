@@ -2724,5 +2724,89 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327927_7": {
+    "id": "wechat-GameLook_News-2657327927_7",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "Steam再破收入记录！上半年收入111亿美元，中国玩家疯狂涌入是主因",
+    "original_url": "https://mp.weixin.qq.com/s/V90QafKndzdqC4XANYFdiw",
+    "published_at": "2026-07-13T23:59:31+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4TTzvr8LrKfK5muQr22lZJh0X7nvUTXZklFd6fPbUHJG3rLV38OYiaBEBXIaTGGPG8pBHJ0ibUBib8IG8hG2pbwwers9cr9xl5Shw/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487272_2": {
+    "id": "wechat-Vnandao-2247487272_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "米哈游B站官号集体开启七日评论限制，美国大学将原神纳入奖学金评定……蒸汽鸟报（7.6—7.13）",
+    "original_url": "https://mp.weixin.qq.com/s/4QeQ4nQ2GbGmTqP8n9Q2Qg",
+    "published_at": "2026-07-13T21:49:23+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFOoZQMkZo1za74uUtgxtpjHCfxmOds4PODIrrgMvT6Pg67M1aPlMO8u1O6TkUoZwEU2M7K5OklibBWtjA5JZwJ5EdVuOsRoYwuc/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "番鼠鉴赏家终审判决书全文公开，B站官号集体开启七日评论限制，美国硅谷大学将原神等游戏纳入奖学金评定……本周米哈游资讯速览，一文看完。",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487174_1": {
+    "id": "wechat-Vnandao-2247487174_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "原神、星铁、绝区零等米哈游官方账号同步开启7天评论限制，近期社区事件梳理",
+    "original_url": "https://mp.weixin.qq.com/s/P5L-cEWRPtWftyNrVaZEDQ",
+    "published_at": "2026-07-09T19:55:02+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFP1mHeFGMAbAuUPRcml3j6gWWBibzibKpQmmiag3A0kzerrtAswxVdCROnaUdcJ0sqWEyBpsqDt7uuHlVt8PWVOicVJTj1WallWjIY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "米哈游采取了前所未有的统一行动，旗下全部在运营游戏的B站官号，同步开启了“关注7天以上才可评论”的限制，并禁用评论区发图功能。",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650011914_2": {
+    "id": "wechat-youxiputao-2650011914_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "招聘｜游戏葡萄低调了五年的业务，开始招人了",
+    "original_url": "https://mp.weixin.qq.com/s/aNb-09PLK5mf7Q4aaGrjUg",
+    "published_at": "2026-07-09T18:44:10+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasbONk1ND5wy0SSAm7ZLBdJzDRTKjzUpryr5hGlXZ6Fb87umRiaxK5lAQVMA8myuvWibQVAXk3siabmWqQtTghbj5ibHiczqezCZryrk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "做更有意思的内容。",
+      "body": ""
+    }
   }
 }

@@ -2710,5 +2710,89 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327846_2": {
+    "id": "wechat-GameLook_News-2657327846_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "BW现场不看coser，扎堆NVIDIA展台看DLSS 4.5如何撑腰国产二游",
+    "original_url": "https://mp.weixin.qq.com/s/Az4pCp2qeaPcraBVRrSJbQ",
+    "published_at": "2026-07-11T21:12:42+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4ROQHQ7LtAXUjAJOicgv6icv89Gn9ibVJduJw22fFRIibqiciaftat7xDo0GL2IA4Vtfb751UQdh3SR4dxtPt6WxEAdF64cKEzUibAdy8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327646_4": {
+    "id": "wechat-GameLook_News-2657327646_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "独立游戏重大喜讯！“买断制手游”数量大增77%，过去5年收入已翻倍",
+    "original_url": "https://mp.weixin.qq.com/s/iVIKIJQetz0ER4FLumL9lg",
+    "published_at": "2026-07-09T23:58:07+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SKAsOWPTLqlBeCReAwuRZJgyf6lqbjf8ib8S3iaPEfjnwfERtpaFZDvvS9VvGUxtTo3BtO0sB74gEHs08mRPu3pZ08OkUy143CY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327308_1": {
+    "id": "wechat-GameLook_News-2657327308_1",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "都在聊长青游戏方法论，网易直接满分交卷了？",
+    "original_url": "https://mp.weixin.qq.com/s/CNhLu6XzqVNZSM2gYt1rrw",
+    "published_at": "2026-07-06T23:30:21+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SDK81Rce173u48f8T9aR0j0j7TV2ic1PL7NrvZW4HESuBL9icjbZUdjRdNPwUs8ibw3w0dH0TzQxmd9ticSdJUglmOVmmsWkZzQ3g/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "真诚和情感永远是必杀技。",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650012443_3": {
+    "id": "wechat-youxiputao-2650012443_3",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "巨型显卡现身BW，NVIDIA正在解决国产二游的PC端技术焦虑",
+    "original_url": "https://mp.weixin.qq.com/s/o7BaH7NrKrK6G2FqFIhRTg",
+    "published_at": "2026-07-13T21:15:59+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZmiaapjfibicI4ANA24XkKyuaLUx1Lu21YwQl71316CZnQ4NBFsRW6MMAZ4SXwf7aoNaR9jFlnH0zJNA1TTbAjK9PCEuicnCqibLjM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "真·巨型GPU",
+      "body": ""
+    }
   }
 }

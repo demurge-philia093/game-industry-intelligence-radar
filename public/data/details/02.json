@@ -1148,5 +1148,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-greatpurple_share-2648889303_1": {
+    "id": "wechat-greatpurple_share-2648889303_1",
+    "source_type": "wechat",
+    "source_name": "许怡然个人分享",
+    "title": "深挖近期游戏节的游戏预告4",
+    "original_url": "https://mp.weixin.qq.com/s/lRYsJGJGAwRY_wEcioz3KQ",
+    "published_at": "2026-07-12T21:11:23+08:00",
+    "ingested_at": "2026-07-14T09:07:07+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/hiaKiaHyKoJKVVzibXhH85MayK2SALXic2jM0icicCdjtYAP4eDVibZE7iblWbFbGz0h6iaNj3tkaR9L2AgibnScicMLYoibeOCGqC0agicRiawN7MXdiaXEYw/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "许怡然",
+      "excerpt": "大家好，这期咱们聊欧美。先重点讲一下索尼微软两家平台大厂，他们各自都有自己的独立游戏播片会。",
+      "body": ""
+    }
   }
 }

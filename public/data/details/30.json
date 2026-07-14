@@ -2948,5 +2948,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-youxiputao-2650011665_2": {
+    "id": "wechat-youxiputao-2650011665_2",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "在好莱坞和3A大厂工作近30年后，他加入腾讯游戏，想帮IP找灵魂",
+    "original_url": "https://mp.weixin.qq.com/s/7W8bHcyX8HMJSDS0PYjkjA",
+    "published_at": "2026-07-08T12:23:04+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasYIlSUTsgyE46E79VdbibooSDHJHoO5HPNFRR0QJX2q1ziciaUh6Bxd54wHsTicLicNdEqoibiakpKDL9sdxDkdnmL495TicaRK9WviaEJo/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "体验至上。",
+      "body": ""
+    }
   }
 }

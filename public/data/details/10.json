@@ -4276,5 +4276,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327646_6": {
+    "id": "wechat-GameLook_News-2657327646_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“全村希望”遭背刺！育碧《刺客信条：黑旗》重制版，发售前两天遭破解",
+    "original_url": "https://mp.weixin.qq.com/s/t86hSwFPvh1m64PekvcT1g",
+    "published_at": "2026-07-09T23:58:07+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RjQiaqibQVW67Zp2ugquQIR8icWhia5Fy920QMeoxQ1Tm3vBfL5xUmiad8cd0UlxicpTtIJCc4eNibyz8qbjSzeZZ1ic9xTVMf8relpJ0/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327308_3": {
+    "id": "wechat-GameLook_News-2657327308_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "4399贪玩巨人排队打钱！Tripo 3D母公司VAST融资10亿，AI生成8K资产通关3A游戏",
+    "original_url": "https://mp.weixin.qq.com/s/Uvh7YyPYDUiEiycmBXgo-A",
+    "published_at": "2026-07-06T23:30:21+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4RRxHup2U2CTcuvTUvs1Pcqj0LHE44hRtF6dIUrOU3NUtcMTbWt8pGtv7WUsNfcFLa0P0j7QmPuGuNVvje9woo9zFNCjg9pr9Y/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

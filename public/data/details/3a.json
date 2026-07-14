@@ -2731,5 +2731,68 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487243_1": {
+    "id": "wechat-Vnandao-2247487243_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "秒没！崩铁芬达联动开售1小时销售额近千万？全网断货",
+    "original_url": "https://mp.weixin.qq.com/s/GxxGT0_1HVR5LZD1YEupEA",
+    "published_at": "2026-07-11T13:51:39+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFNTLuuiajYayWLtUErAWIOac2NialdufLxu5Ns56cPTZnBhQj1uc90BTa3Pic5EG4zhvgYD9a9zXyvfeMTg3Df9p1WygKexkAf8Bo/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "7月10日上午10点，《崩坏：星穹铁道》与芬达的跨界联名活动正式上线。开售后不久，“秒没”“抢不到”“卖断货”便迅速成为玩家社区的高频词。",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487165_2": {
+    "id": "wechat-Vnandao-2247487165_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "声优本多真梨子靠直播《原神》逆袭：订阅暴涨20倍，同接破万",
+    "original_url": "https://mp.weixin.qq.com/s/IbOY-933GBKp8XJwvT6g_A",
+    "published_at": "2026-07-08T22:25:35+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFNSuiaJa4iab6xo9abG617OCEyR9I6sJDUABPCBfn2GLWicwGmt0FPwyvG4P1LgpYGCYfU7sricHf3KZ5q4jiaQJTsdt9mvOlyvGWFU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "桑多涅日配本多真梨子靠播原神实现惊天逆转",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487144_1": {
+    "id": "wechat-Vnandao-2247487144_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "绝区零日服PS稳压SE大作登顶，原神上半年稳居前十",
+    "original_url": "https://mp.weixin.qq.com/s/Ai_7AZJJrUvyaold8mE1Qw",
+    "published_at": "2026-07-06T21:54:19+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFOnmN8LDuXSVpe4wQkXDl0DR8LeRZlAbgmvia7lL2V7hjPWGb5OZqBmbZNCicYa0YENkXa4ic6TWjHxHdVqBmcWj3WBKWwbGOq9icg/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "绝区零仅凭版本更新压过SE正统单机新作登顶PS日服，原神上半年稳居前十",
+      "body": ""
+    }
   }
 }

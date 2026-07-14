@@ -2434,5 +2434,89 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_6": {
+    "id": "wechat-GameLook_News-2657327783_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "育碧看到希望！《刺客信条：黑旗》Steam首日在线近10万，中外评价两极分化",
+    "original_url": "https://mp.weixin.qq.com/s/b_JNzl0-HQag5pEfDad8VA",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4QmBrZOR5RXNiaL6ltsaG5bW9d8aicYNzc9dVQDhQUibQibIXWkOTD7sn4Zhmqu8JD7SWzavoNKcJ0Rh11AyL69R4U7j6JJavdjAqQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327540_7": {
+    "id": "wechat-GameLook_News-2657327540_7",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“哪些小说最该做游戏”？高赞答案“碟形世界,饥饿游戏,地闹爬行者”你听说过么？",
+    "original_url": "https://mp.weixin.qq.com/s/P9OAFJ4o9SsNT4w3zKk15Q",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4T1lnrzN51GYJz55Tag3xb1GfNflQttJTC4eROf3m7DAckH3giaurxD8RfNdmHQ6djj6pp10KpYibpxRWIGhUYZAT6n1mrAbAGicQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327400_4": {
+    "id": "wechat-GameLook_News-2657327400_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "传奇IP并购案背后：娱美德老板质押65%股权、Wemix血亏，“真的太差钱了”！",
+    "original_url": "https://mp.weixin.qq.com/s/cYw-XOVT8Z_T-3LQK_fPSQ",
+    "published_at": "2026-07-07T23:59:44+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4T0l784g1clKdX2MEskKpylJ2IUpMaZGAYnFVaiaRlgzq2wuicvhdPNu8y8fJmXvgzdLOxjgXvKicwlGib4VlGZuDd41hdtWGwONUQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650012320_1": {
+    "id": "wechat-youxiputao-2650012320_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "网易最懂逆袭的项目：一年半，从题材已死到「全球第一」",
+    "original_url": "https://mp.weixin.qq.com/s/Vs__jSMABJ2VuSfJqlNnJg",
+    "published_at": "2026-07-12T12:45:58+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasbOyYroWKVtheOVUIXKibJQHZdytWWQ96SgWnGS4QkAKgKj4CibrF7EwQyiaQJRD2owfZ3zha5tBPM84eG4pgLh52icD9EibYJR615c/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "一次又一次，颠覆质疑。",
+      "body": ""
+    }
   }
 }

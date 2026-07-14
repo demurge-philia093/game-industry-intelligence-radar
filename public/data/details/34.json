@@ -2122,5 +2122,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-youxiputao-2650011846_1": {
+    "id": "wechat-youxiputao-2650011846_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "米哈游新作二测大变样：终于想明白了？",
+    "original_url": "https://mp.weixin.qq.com/s/PxsMRO5XOPCvn2nkJuPvjg",
+    "published_at": "2026-07-09T14:21:20+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZtw89FHqTVkBZjYfBEognuuibG8KhU0VvnCfaZJIHribZCGma0HO0WtibgfuWTH1ESiaNKsibWT5AOSic8ulfjCicEkKmFJsZajQHFEU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "保下限、争上限。",
+      "body": ""
+    }
   }
 }

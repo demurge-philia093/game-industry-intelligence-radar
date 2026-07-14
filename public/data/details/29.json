@@ -1720,5 +1720,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-youxiputao-2650011560_1": {
+    "id": "wechat-youxiputao-2650011560_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "上周末，网易游戏大举入驻成都",
+    "original_url": "https://mp.weixin.qq.com/s/Dvyo9bKc2Y8uH7yiMp0SYw",
+    "published_at": "2026-07-06T21:26:01+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasYWtFEVVJYN7mXickdx8UMxFXLecXmavGcdH4SClWQUzaBBF3SZlwc5YzTwC9q77V4ULT3D8SwbpjVwXyGwap2GFhUTaj1wAwvQ/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "「欢迎回家。」",
+      "body": ""
+    }
   }
 }

@@ -1727,5 +1727,68 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_4": {
+    "id": "wechat-GameLook_News-2657327783_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“风雨同舟、驰援广西”！多家游戏公司捐款捐物助力灾区",
+    "original_url": "https://mp.weixin.qq.com/s/7Nzt9Fl3qNUMGZPxJ7Rllg",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SvMR0oPZ2cgg1PYvNPUQtlBxRSibOtUKGMNot3BlPNYOAI4nLUVj0ZenbX4GZmMcq8G2n0AFOpXLN2JFVsm3LT0hfoRZgbicwmM/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327540_5": {
+    "id": "wechat-GameLook_News-2657327540_5",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "腾讯要当活雷锋？Supercell要投资非洲游戏！最高白送20万美元、不要股权",
+    "original_url": "https://mp.weixin.qq.com/s/tPLCCTI8CEuBoeSE2qz6IA",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4SWvF9rEUSLXPe4nDFHcYibBz87FqHjGzc96ZZPoWic8rowtYtsU3yZWXpaE4goiap4E6laOnt4tceqsDiaYvvtIJriaJlAAmNiauNOE/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327400_2": {
+    "id": "wechat-GameLook_News-2657327400_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "全球震惊！微软XBOX游戏裁员3200人，欧美游戏圈“天塌了”",
+    "original_url": "https://mp.weixin.qq.com/s/UfAEyzGhyQg-tXPbBd8h_Q",
+    "published_at": "2026-07-07T23:59:44+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RS5LbBqJo1xbsyU4DUvvXiaOlLeiaRNGlxSQB7nIPdhwSrIsY9DKHqXLzgVJ6ZZyLdX7Zk9n0nKF4z7gl4ASDo9BicMic7Ox5Dgog/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

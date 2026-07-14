@@ -1192,5 +1192,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487217_1": {
+    "id": "wechat-Vnandao-2247487217_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "原神千灵节活动评价两极分化？有人说“最好”，有人说“枯燥”",
+    "original_url": "https://mp.weixin.qq.com/s/qfGMz-MDoyjoHF_WJsKTLw",
+    "published_at": "2026-07-10T22:40:00+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFOibWvdicy2picFF32moFGEVAs0INfAsoicpWcYOYdZmHC0sAq7WfkdxrT1MEYXPRmiaN4YMRuo69oD6FTcRZFWEvNErX0Z4ViaZA3do/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "《原神》6.7版本「月之八」正式上线后，其中的核心活动“千灵节”在海内外玩家社区引发了广泛的讨论，评价呈现出明显的两极分化。",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487117_2": {
+    "id": "wechat-Vnandao-2247487117_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "担心阿斯顿马丁玩家买不起，绝区零转头联动了雅迪",
+    "original_url": "https://mp.weixin.qq.com/s/t3vdsL7-iH8FUKHBHmErjg",
+    "published_at": "2026-07-05T20:08:27+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMgzBB9k63PTvapibeGyib2fgf3SkF1SUaoe8jbHFfqpcTIFsV8smibjekfF9u1INdu8ALNYZoUxuBXMQJswIly6Y57gHtebLcoyA/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "7月4日，《绝区零》和雅迪电动车官宣联动，雅迪预计会推出《绝区零》主题的联名电动车。首位联动核心角色，来自维多利亚家政的鲨鱼娘艾莲。",
+      "body": ""
+    }
   }
 }

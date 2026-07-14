@@ -1372,5 +1372,68 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327783_3": {
+    "id": "wechat-GameLook_News-2657327783_3",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "《崩坏：因缘精灵》二测大变样，米哈游上演“拿手好戏”？",
+    "original_url": "https://mp.weixin.qq.com/s/07_VPfow_R5CsTlOVwdrOg",
+    "published_at": "2026-07-10T23:43:34+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RryxRlK78mdBZWSp7DzWLruicqe0Iag5uICpRrmMXzGDflic3xNkZmfbLNVbAYcbYvFfJ8dxcXQ7iaaickmy2ibVq73W9gaMEbu7lc/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327540_4": {
+    "id": "wechat-GameLook_News-2657327540_4",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "“资本杀死游戏开发软件”？开发者吐槽：“FaceFX撤销永久授权，年费23万天价”！",
+    "original_url": "https://mp.weixin.qq.com/s/ju297PAR1ItsQIg7Onw8Xg",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4TF8s4XwNMRMSrVzbXicvs8UnHGp2j0K3SA84CMm2tVwoR3RUyibeQEnZdBibBVSB1vHxM5AWVTlAb9DM2xrwLzAHBfEeBCEQLJ8w/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327400_1": {
+    "id": "wechat-GameLook_News-2657327400_1",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "腾讯米哈游加入豪赌？“鬼才横行”共笔创作浪潮，让“怪谈微恐”游戏大爆发",
+    "original_url": "https://mp.weixin.qq.com/s/ZYOBzuOHdt6ot8xoJekgLw",
+    "published_at": "2026-07-07T23:59:44+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4Ta2ANMLkZicm5mv9bSovuCaOZdNTTzor7ze9xiclH38O7I5JVmNibkgyariaS0Ts4SQzIibwD9xAVUbdrh0MAYDG2fRTJ16slh71r4/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
   }
 }

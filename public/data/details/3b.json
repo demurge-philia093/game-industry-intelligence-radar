@@ -3480,5 +3480,47 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487243_2": {
+    "id": "wechat-Vnandao-2247487243_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "七七使用率超过丝柯克？退坑老玩家直呼“不可能，绝对不可能！”",
+    "original_url": "https://mp.weixin.qq.com/s/sxZ0a96UdrAHoSH65yA8ag",
+    "published_at": "2026-07-11T13:51:39+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFMKoxQuOk8V7NS8dfThHQRB3aJCxsLFZq7HGPA6KfvKeYygJFuzfVVKia0evMt376aVssGV9zNk3gyuJ6rEcxpQqCVrPAlawJia8/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "丝柯克首次缺席幽境危战赋光之人名单，七七以40.8%选取率取而代之",
+      "body": ""
+    }
+  },
+  "wechat-Vnandao-2247487144_2": {
+    "id": "wechat-Vnandao-2247487144_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "拼多多虚假宣传案终审判赔100万，雨之城开启首轮保密测试……蒸汽鸟报（6.29—7.5）",
+    "original_url": "https://mp.weixin.qq.com/s/-JqCIQFDG3P_FvgHlibCMw",
+    "published_at": "2026-07-06T21:54:19+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z6dVtSurQFPUibY91icoIfN6aOykibibJX7HRib8ziag6dDHncpjDrA2Jib9QhKcj5yuBSNH2of3fbJFgxnbLaREOHoqbPTgFiaC6icxCy156W8icAicfw/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "泳装SP砂金引爆日推，雨之城开启首轮保密测试，星布谷地确认登陆Switch 2，拼多多虚假宣传案终审判赔100万……本周米哈游资讯速览，一文看完。",
+      "body": ""
+    }
   }
 }

@@ -1434,5 +1434,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487217_2": {
+    "id": "wechat-Vnandao-2247487217_2",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "Pixiv上半年千夏R18率逼近40%，女性玩家占比亮眼",
+    "original_url": "https://mp.weixin.qq.com/s/ph2VXMG82X5hLvMJ37rUAg",
+    "published_at": "2026-07-10T22:40:00+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFPC7hqdIBdwdZqbzWjtKej3LHHfcCcj6GJ3rC0DicC3V6VoiadpYHnA6NuiaHtvs0LwN2OG30Bc7G58D07AFG6nH0msjw1PSAIsTI/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "根据社区整理的数据，《绝区零》角色千夏的R18率已逼近40%，在同期排名前30的角色中位居前列。",
+      "body": ""
+    }
   }
 }

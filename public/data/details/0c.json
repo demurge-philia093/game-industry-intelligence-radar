@@ -4133,5 +4133,89 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327646_2": {
+    "id": "wechat-GameLook_News-2657327646_2",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "不去日本！中国游戏大厂“集体缺席”今年东京电玩展",
+    "original_url": "https://mp.weixin.qq.com/s/9QurAxRsG80b-ce_T0vO3g",
+    "published_at": "2026-07-09T23:58:07+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/gsW8iazK5P4Tn0LQ7tgcdY5dFSXp0JrlNe1XCIXVr1Udoh8VnvpkfKerfqYnY7FiaAU7M87TkDdH6k3jFxbKb7JoOYl2cUU4VKZDkeareiajiaU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-GameLook_News-2657327400_6": {
+    "id": "wechat-GameLook_News-2657327400_6",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "Google Play总经理谈“分成比调整”：30%抽成落幕，三方支付不影响“游戏推荐”",
+    "original_url": "https://mp.weixin.qq.com/s/s841BgL4pZZ8R1a24-HoRw",
+    "published_at": "2026-07-07T23:59:44+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RcJrKIs7GxgCaglw0DiadnS4NjX2AHVSIwqSJ0htibsdzRpJrffJPnjNL9rGmsqvoLJwyOiahPt1F4ovZ37ic3tiabrMNqfcdv3rPY/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "",
+      "body": ""
+    }
+  },
+  "wechat-youxiputao-2650012443_1": {
+    "id": "wechat-youxiputao-2650012443_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "米哈游的Steam新作不好玩，但这可能不重要",
+    "original_url": "https://mp.weixin.qq.com/s/BYoRDKEApCRdj-Ylq4Aasw",
+    "published_at": "2026-07-13T21:15:59+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasZLpNcA3bbtYPUm4NOpEick0tIMDOOSVZfUxU7KiaKyhDRadkjKMbmpFQjZrBqoUdELNS4PHuZd9icprUG7ZiazlBKIKlWrJ8ZLcmU/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "不是那种「美女钢琴」啦。",
+      "body": "![](https://mmbiz.qpic.cn/mmbiz_png/GYfBeCic3ftdL2HnQHI9iaZktWKiawWWgrCK2vJSKW2G9Yuf9plsyTl34mY2X0xSxP75JYkAGQQPHic0kPc6xNWyWw/640?wx_fmt=png&from=appmsg)\n\n不是那种「美女钢琴」啦。\n\n文/王丹\n\n01\n\n并非AI恋人\n\n今天，米哈游的新作《BSide: Olivia Lin》（下称《BSide》）在Steam开启了测试。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasa87npwicU9dICLLa03F7OEhQqZyVthq4UDGGPjgrAbNGGyfEaOcYHDs66sWlmBF7HrQmApEhN6OMcXVI1Dxz0BMdb79tn8rrAg/640?wx_fmt=png&from=appmsg)\n\n这次米哈游推出的，不是什么二次元大作。甚至在我看来，可能连游戏都谈不上。因为《BSide》的体验相当简洁，硬要说的话，大抵可以分为两层：\n\n第一层是分享生活。\n\n运行《BSide》后，主角林离（Olivia Lin）会在屏幕的另一端，开启自己的生活。\n\n她会在展示架前踱步，看看自己收藏的唱片；\n\n![](https://mmbiz.qpic.cn/mmbiz_gif/jV8YHDicAiasbGsiag2SIia4Mm60icjoeUK7j4jNmBPueYib1fUw972ET0ictvASNt9okMEGAqA0a75jBNt4E2KraJKvNZ66OibTC4ibaia4lY0iax5adM/640?wx_fmt=gif&from=appmsg)\n\n会来到笔记本前，处理自己的事务；\n\n![](https://mmbiz.qpic.cn/mmbiz_gif/jV8YHDicAiasa8jkBUlUgj9xwNahKOKX0BUpPicHWg6loib3IC8Sb4tPTs7HRHv3tSQukZicZyzIlX7KyuC3e79JticWKiaoWf3Ofrz1CLRkJDJUSw/640?wx_fmt=gif&from=appmsg)\n\n有时也会坐在沙发前，透过显示器看向“你”。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_gif/jV8YHDicAiasY0hPOW3dnic8Xhib4NLAAE4OIQLsERrpEf0IyacicVdbcLdSPIw85awdIRE2nlkcUhCah6f6ZO1t7p8jtp8ZdEhbRicwqB3CaFgs0/640?wx_fmt=gif&from=appmsg)\n\n用户不能与林离实时互动。比如，你不能像和AI虚拟角色那样，和她你一句我一句地聊天；林离对于鼠标的点击、移动等操作，也没有反应。\n\n不过，用户可以与她书信来往（每天上限为三封信）。林离回应的速度很快，大概间隔几分钟就会回信。她不仅会文字回信，偶尔也会给用户发视频。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasYibLQ0lCRfT1KJMDKTyicux78nFGlIZk2572qhmjk9PS5bO6zEyV15ibuo51Mv7ft3aOyX0zPLIefbNMJmJPXk2VjZjJkvhGpWDA/640?wx_fmt=png&from=appmsg)\n\n我的寄信\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZOcsUXmib5nbDnMxAqiaYhTH21uv853ibky1IMd3Fx6G2pN7pMMWgTpGAwzdV0qGkto6ScDczphIIe4BkLeYOHsMjIwRIicwfBwKs/640?wx_fmt=png&from=appmsg)\n\n林离的回信\n\n当然，林离与用户的交互，并不仅限于分享。这也关乎《BSide》的第二层体验：音乐。\n\n在软件运行过程中，《BSide》会自动播放舒缓的背景音乐。\n\n如果你想，也可以点歌。而主修钢琴、辅修心理学的音乐学院在读生林离，便会来到钢琴前，为你演奏或弹唱一曲。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasan6wSds75zR5zDtkL0nUyicWvk6AVK42eAR3txxhibNN9l9x0gcakc3CZxVAxj7b9dpDMQjTFsUoz0FD9hFQrmTE6pQuL1kTV9I/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasaRs2NfrmxNWfhHibFk19DUOWtZPOBx2TX4d7JbkicudKJkpyIzzzjNCEuRF3YEE0JMfD7JGDtTFeNPBibyF0icvzm5FlnsiaMOicicag/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZayAKHDrfK2wxORVxxia1FHktPicIvSgP8ScPM3BIb0IdJWnHibfQcGsEcibpicxolxqPMKkMkOXpujrO1guMTKMc83ck3xbXvn8SA/640?wx_fmt=png&from=appmsg)\n\n林离可直接演奏的曲库，分古典、ACG、轻音乐三类\n\n可点击查看大图\n\n林离弹唱《小兔子乖乖》片段\n\n此外，用户还可以上传自己的MIDI钢琴音乐素材。林离则会以素材为基础，合奏出一段专属于她与“你”的定制音乐。\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasYHbqe7noXY7ajtppYQ1923cpgNOoVbHl0rTfKS1QCQGCsRHx3FdDhe0EaxGZbzara8EgQ0NLBA64AFSKztrBIhUjNcX7oKk9Y/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasbZ9lqeGKIHOju4M3wImgIIc4xQwWnUJ5SgEKEaKice5mj1McKotL1W7dJwUzYYxeMMsuQfJGRdsGCuwjOaiahwqYVQ7jFrT0weU/640?wx_fmt=png&from=appmsg)\n\n本葡萄君不会弹钢琴，素材源迷笛网\n\n林离合奏后的音乐\n\n显然，林离并不是被用户养在屏幕里的电子女友。\n\n在《BSide》开测前，我有刷到一些网友讨论，猜测米哈游怕不是要做当下火热的AI恋人。但今天实际体验后，我倒觉得「适宜的分寸感」，可能更适合描述林离与用户的关系。\n\n而如前文所示，林离不会一直围着用户转圈。林离有自己的生活，只是她的生活，以及她对音乐、心理学的热爱，通过《BSide》与用户的生活产生了交集。\n\n02\n\n不好玩？那不重要\n\n看到这儿，有人可能会问：就这些？\n\n是的，前文介绍的，已经是目前《BSide》测试版的所有功能。在上手几分钟时，我也和其他葡萄君吐槽了句“功能好少。”\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZ2iba9PNa84bYV1Sic8qbze5gIO8ibcsfuuS5wO3OSGEPflx9xLjnufr9XxE5MZIKlbelkIHxNjoOzhNz4G0vVgU6vMVtOY2ibXjA/640?wx_fmt=png&from=appmsg)\n\n但回头来看，一方面，《BSide》才开首次测试，还在早期阶段，本就不算完整产品。功能BUG、性能优化等问题尚未解决，就苛求功能齐全？那有点太远了。\n\n![](https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasZY9UeH4H8YSMML8j0Hyib8afjYft9Yx6jEQZuolUqBKyMQbUaddaibF0mkDneHC5gooZKV2FBdc8ic2egfgdJ8JElF5b4RYnic4J8/640?wx_fmt=jpeg&from=appmsg)\n\n《BSide》参展BW\n\n另一方面，当林离在桌面的另一端，陪我度过几小时后，我觉得可能从一开始，自己就不该先入为主，把《BSide》作为「米哈游的新游戏」来看待——在那样的预想下，拿游戏标准来评判《BSide》这样的应用，肯定有偏差。\n\n所以，《BSide》究竟想测试什么？\n\n跳出游戏视角来看，《BSide》其实很大程度上，测出了米哈游在技术力、细节把控上的提升。简单说，米哈游在「把角色做活，把世界做活」这件事上，更精进了。\n\n我印象较深的是，林离有相当多的微表情和小动作。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_gif/jV8YHDicAiasbBXN5z0DwvApjRs9PYCTt3wXpE2adzueHdYSccTib2nN84Xic1DleeWbmX5lYCp9e7fnfMknGn0LZz1R4goNQ9o2oMEO5MNXLl8/640?wx_fmt=gif&from=appmsg)\n\n比如在演奏时，她的身体，会跟着手动——从高音滑向低音，她的身子会跟着向钢琴左侧倾斜；需要用力重按琴键时，你能看出她的肩膀和胳膊在使劲；她时而后仰，时而摆动……这些动作细节，加深了林离的活人感，也能让用户更加沉浸地体会到「有人在专门为自己演奏音乐」的感觉，而不单单是把《BSide》当成一个音乐播放器。\n\n![](https://mmbiz.qpic.cn/mmbiz_gif/jV8YHDicAiasbsCOwM6icSx5NoV5h4C0d1S9eM3Z91cic9fmHMXAHAS5ccETAH6nxxY7UMEpGgE2vVHMLygOcVib8CW7A4IbpJRtMEKF3k9w3alo/640?wx_fmt=gif&from=appmsg)\n\n同样，《BSide》的物理细节，也让林离更显真实。比如她在家里走动时，大落地窗上会有她的倒影；她走向沙发时，沙发会先被她的影子覆盖，随后林离才会出现在画面中。\n\n窗外的世界，还会根据用户的现实时间发生变化——我把电脑时间调成早上7点，林离那边天大亮，阳光有些刺眼；下午6点，外面有了落日般的余晖；凌晨2点，则能欣赏夜景……林离坐在钢琴前时，我还能隐约看到外面马路上的汽车。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasb3icvxTx6PVKw3byospHAw1rQbkAJGP9AK9MB4ee69rGPhx3oHMqszcbaCVgZZdCv1zficPlH2DtTSl2XribudvHiaooE6RxnzHOA/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasbAOgdoFV42upZSRnicBx8ian6r9DLZVzenPZu81sYtTEYoV7LYCQvXibEHuFSY6WoyCrnOGIvL7UHhrg7KLlWlTo4IWSPouqYBFg/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasZiaGhL47ajFEnS1gMriaMxDUibcyvSeiacfQTiaW3jfzF5kUwF3WvwPhq7ascSOyFHiaZmpjcyWbMv640dxFXiaBhBMOhicib8X3pqj7mM/640?wx_fmt=png&from=appmsg)\n\n左右滑动查看\n\n说白了，现阶段的《BSide》，压根不是来验证什么游戏性、商业模式的。它能验证，也最能凸显的，就是技术本身。\n\n之前聊到《BSide》在Steam开放商店页面时，葡萄君和大家提过，米哈游一贯的思路是先用体验来收获用户反馈，验证想法的可行性，而后再落实到具体设计。\n\n而就目前《BSide》在Steam上的评测来看，尽管有不少用户指出其功能少、优化差、BUG等问题，但绝大多数用户依然对《BSide》的技术实现表示认可，并期待未来和林离的更多交互。\n\n能测出这样的结果，于《BSide》而言，或许就已经足够了。\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasZDD9deoe8uu4mtmh9jjquiaHPuBXjibVH4ZBKrIgYOiacVHwtALo26DCrniafuxOVdjdu5iabmM1mcCV9FVAW0cvB95S9hgEcKv9HE/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_png/jV8YHDicAiasYaDe17SXwyajphQqIicU3261tGQPdM0FTCofP9YClB9k9Yiarmr5vXFOgsKfmGHdnKYOaZ6HGnibXRclicSAQxR16HfMhPuQXyFgA/640?wx_fmt=png&from=appmsg)\n\n![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasaLV5jgHROO6FFPyPxj1RGZ4nkf3ib0Tdpzemic4CAEovCSjr1DMXWzG6iazAY9Y5OXysqwKgRQgBo80xnnC5radsOFIibNfw7zOpI/640?wx_fmt=jpeg&from=appmsg)\n\n游戏葡萄招聘内容编辑，\n\n点击「阅读原文」可了解详情\n\n推荐阅读\n\n![](https://mmbiz.qpic.cn/mmbiz_png/jV8YHDicAiasYZy0vLKteiczicYVe79CHnhMcPCJbzGPcHxzJLtrRicrqxOc1fO02mrNhLdaiaJZJicSp2NcI5nWDaZWyGUj8rckKzhAALXJcxCvtY/640?wx_fmt=png&from=appmsg)\n\n点击下方名片，关注公众号\n\n（星标可第一时间收到推送和完整封面）"
+    }
+  },
+  "wechat-youxiputao-2650012366_1": {
+    "id": "wechat-youxiputao-2650012366_1",
+    "source_type": "wechat",
+    "source_name": "游戏葡萄",
+    "title": "我在上海这个世界二次元的中心哭了一夜",
+    "original_url": "https://mp.weixin.qq.com/s/WbA8oJb6g7LRNu1Wz11ppA",
+    "published_at": "2026-07-12T23:32:55+08:00",
+    "ingested_at": "2026-07-14T09:06:50+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/jV8YHDicAiasbCMysiaIVk5YJvdYlKE0PAYNNn1zdjMp2NibG4ecz6ZQP8qGUGEBNZGDjK7Og1VXKiaXhH1Bs2S1qguyz4g5qcHcPjNTT2M00hibE/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "游戏葡萄君",
+      "excerpt": "我们能保卫自己的生活。",
+      "body": ""
+    }
   }
 }

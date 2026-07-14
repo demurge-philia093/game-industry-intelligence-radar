@@ -1055,5 +1055,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-GameLook_News-2657327540_1": {
+    "id": "wechat-GameLook_News-2657327540_1",
+    "source_type": "wechat",
+    "source_name": "GameLook",
+    "title": "《On My Way》响起的那一刻，记忆中的那个夏天回来了",
+    "original_url": "https://mp.weixin.qq.com/s/v3rtlx_NAB1uZWg1W1ve3w",
+    "published_at": "2026-07-08T23:30:09+08:00",
+    "ingested_at": "2026-07-14T09:05:26+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gsW8iazK5P4RB9oaQR1ljqyua2JarpsHdEPQjADjPIfRFowXxKur7O9UDC8sawspD7Tjcjq8cZRqs71Uian5coM1GoSLicUYKdoh8P6NCxhwzk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "GameLook",
+      "excerpt": "用音乐构建一条时光隧道。",
+      "body": ""
+    }
   }
 }

@@ -1101,5 +1101,26 @@
       "body": "",
       "extracted_terms": []
     }
+  },
+  "wechat-Vnandao-2247487128_1": {
+    "id": "wechat-Vnandao-2247487128_1",
+    "source_type": "wechat",
+    "source_name": "蒸汽鸟报",
+    "title": "有玩家收到米哈游新游《Varsapura》测试邀请报名",
+    "original_url": "https://mp.weixin.qq.com/s/BM9qmg7BKaSsIgF9wprs1Q",
+    "published_at": "2026-07-05T22:00:01+08:00",
+    "ingested_at": "2026-07-14T09:06:33+08:00",
+    "cover_image": "https://mmbiz.qpic.cn/mmbiz_jpg/Z6dVtSurQFM5cNsNXxhvuUFoJmZFD1xqbUg5MNmBLKmPBB76zYGRfKs8uauYicHObmlTicSwiancCbB8wDDzicuxsV1Av9ZYoRDsvicTiaY22Azlk/0?wx_fmt=jpeg",
+    "tags": [],
+    "entities": {
+      "works": [],
+      "companies": []
+    },
+    "deep_summary": "",
+    "payload": {
+      "author": "蒸汽鸟报",
+      "excerpt": "目前《Varsapura》已有海内外玩家成功收到测试邀请报名，但收到邮件并不代表获得测试资格，预计后期还需经过筛选。",
+      "body": ""
+    }
   }
 }

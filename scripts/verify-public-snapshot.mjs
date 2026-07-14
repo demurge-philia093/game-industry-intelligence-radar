@@ -28,7 +28,7 @@ function collectStrings(value, output) {
 }
 
 const index = JSON.parse(await readFile(new URL('feed.json', dataDirectory), 'utf8'))
-if (!Array.isArray(index) || index.length !== 5115) fail(`expected 5115 index records, got ${index.length}`)
+if (!Array.isArray(index) || index.length !== 5202) fail(`expected 5202 index records, got ${index.length}`)
 const indexIds = new Set(index.map((item) => item.id))
 if (indexIds.size !== index.length) fail(`expected ${index.length} unique index ids, got ${indexIds.size}`)
 
