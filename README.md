@@ -134,10 +134,6 @@ npm run export:public-snapshot -- \
 - `src/assets/mihoyo-reference/` 中的三张角色图来自米哈游公开网页，仅用于记录本非商业作品集的源码参考实现；本项目不主张图片权利，任何商业使用或再分发前必须替换为原创/授权素材。
 - 本项目是个人作品集项目，与所提及的游戏公司、媒体或数据平台无隶属或背书关系。
 
-## English overview
-
-This portfolio project demonstrates a typed, registry-driven frontend for monitoring eight categories of game-industry signals. It publishes a read-only snapshot of 5,202 real collected records exported on 2026-07-14, with source attribution links where available. Internal paths, private monitoring terms, task state and credentials are excluded. The snapshot requires no backend and is deployed reproducibly through GitHub Pages.
-
 ## License
 
 开源许可证尚未选定（license to be selected）。在正式添加 `LICENSE` 前，请不要将“代码可公开查看”理解为已授予复制、修改或再分发权。
